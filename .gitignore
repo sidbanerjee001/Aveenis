@@ -38,4 +38,6 @@ next-env.d.ts
 # virtual environments
 venv/
 .venv/
-ablegen/
+
+# python cache
+.pyc
