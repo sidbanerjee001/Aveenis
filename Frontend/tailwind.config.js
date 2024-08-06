@@ -22,7 +22,7 @@ export default {
       'purple': '#7e5bef',
       'pink': '#ff49db',
       'orange': '#ff7849',
-      'green': '#3a5a40',
+      'green': '#5f9669',
       'green-hover': '#588157',
       'yellow': '#ffc82c',
       'gray-dark': '#474060',
