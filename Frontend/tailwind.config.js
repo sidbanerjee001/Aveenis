@@ -18,16 +18,8 @@ export default {
     colors: {
       'white': '#ffffff',
       'black': '#000000',
-      'blue': '#1fb6ff',
-      'purple': '#7e5bef',
-      'pink': '#ff49db',
-      'orange': '#ff7849',
       'green': '#5f9669',
-      'green-hover': '#588157',
-      'yellow': '#ffc82c',
-      'gray-dark': '#474060',
-      'gray': '#8492a6',
-      'gray-light': '#d3dce6',
+      'green-hover': '#588157'
     },
     fontFamily: {
       sans: ["var(--font-sora)", ...fontFamily.sans],
