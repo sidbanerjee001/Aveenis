@@ -19,7 +19,7 @@ export default {
       'white': '#ffffff',
       'black': '#000000',
       'green': '#5f9669',
-      'green-hover': '#588157'
+      'green-hover': '#69b877'
     },
     fontFamily: {
       sans: ["var(--font-sora)", ...fontFamily.sans],
