@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useRef } from 'react'
 import { Dialog, DialogPanel } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 
@@ -9,7 +9,18 @@ const navigation = [
   { name: 'Contact', href: '#' }
 ]
 
+const tableEntries = [
+  {tickerName: 'av1', stat1: '4,569', stat2: '340', stat3: '90.53%'},
+  {tickerName: 'av2', stat1: '2,167', stat2: '124', stat3: '14.29%'},
+  {tickerName: 'av3', stat1: '8,513', stat2: '234', stat3: '13.53%'},
+  {tickerName: 'av4', stat1: '5,564', stat2: '523', stat3: '21.31%'},
+  {tickerName: 'av5', stat1: '4,262', stat2: '534', stat3: '67.53%'},
+  {tickerName: 'av6', stat1: '2,540', stat2: '879', stat3: '42.61%'},
+  {tickerName: 'av7', stat1: '1,265', stat2: '965', stat3: '21.72%'},
+]
+
 export default function Landing() {
+  const tableRef = useRef(null);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
   return (
@@ -76,7 +87,7 @@ export default function Landing() {
         </Dialog>
       </header>
 
-      <div className="relative isolate px-6 pt-14 lg:px-8">
+      <div className="relative isolate px-6 pt-14 lg:px-8 h-screen w-screen">
         <div
           aria-hidden="true"
           className="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
@@ -100,12 +111,10 @@ export default function Landing() {
             commodo vehicula magna. 
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
-              <a
-                href="#"
-                className="transition ease-in-out rounded-md bg-green px-3.5 py-2.5 text-sm text-white shadow-sm hover:bg-green-hover focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-green"
-              >
-                Get Started
-              </a>
+              <button onClick={() => tableRef.current?.scrollIntoView()} className="cursor-pointer transition ease-in-out select-none pt-[10px] pb-[10px] pl-[20px] pr-[20px] text-white text-sm rounded 
+              shadow-black bg-green translate-y-0 hover:bg-green-hover hover:translate-y-[-2px] hover:shadow-2xl">
+              Get Started
+              </button>
               <a href="#" className="transition ease-in-out text-sm font-semibold leading-6 text-black hover:text-green-hover">
                 Learn more <span aria-hidden="true">→</span>
               </a>
@@ -123,6 +132,61 @@ export default function Landing() {
             }}
             className="relative left-[calc(50%+3rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 bg-gradient-to-tr from-green to-[#34a0a4] opacity-30 sm:left-[calc(50%+36rem)] sm:w-[72.1875rem]"
           />
+        </div>
+      </div>
+      <div ref={tableRef} class="w-3/4 mx-auto">
+        <div class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded">
+          <div class="rounded-t mb-0 px-4 py-3 border-0">
+            <div class="flex flex-wrap items-center">
+              <div class="relative w-full px-2 max-w-full flex-grow flex-1">
+                <h3 class="font-semibold text-base text-black">Popularity Metrics</h3>
+              </div>
+              <div class="relative w-full px-4 max-w-full flex-grow flex-1 text-right">
+                <button class="bg-indigo-500 text-white active:bg-indigo-600 text-xs font-bold uppercase px-3 py-1 rounded outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button">See all</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="block w-full overflow-x-auto">
+            <table class="items-center bg-transparent w-full border-collapse ">
+              <thead>
+                <tr>
+                  <th className="table-header">
+                    Ticker
+                  </th>
+                  <th className="table-header">
+                    Stat1
+                  </th>
+                  <th className="table-header">
+                    Stat2
+                  </th>
+                  <th className="table-header">
+                    Stat3
+                  </th>
+                </tr>
+              </thead>
+
+              <tbody>
+                {tableEntries.map((tableItem) => (
+                <tr>
+                  <th className="table-entry text-left text-black">
+                    {tableItem.tickerName}
+                  </th>
+                  <td className="table-entry">
+                    {tableItem.stat1}
+                  </td>
+                  <td className="table-entry">
+                    {tableItem.stat2}
+                  </td>
+                  <td className="table-entry">
+                    {tableItem.stat3}
+                  </td>
+                </tr>
+                ))}
+              </tbody>
+
+            </table>
+          </div>
         </div>
       </div>
     </div>

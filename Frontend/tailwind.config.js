@@ -23,10 +23,10 @@ export default {
       'pink': '#ff49db',
       'orange': '#ff7849',
       'green': '#5f9669',
-      'green-hover': '#588157',
+      'green-hover': '#6DAB78',
       'yellow': '#ffc82c',
-      'gray-dark': '#474060',
-      'gray': '#8492a6',
+      'gray-dark': '#f1f5f9',
+      'gray': '#f8fafc',
       'gray-light': '#d3dce6',
     },
     fontFamily: {
@@ -43,5 +43,24 @@ export default {
         '4xl': '2rem',
       }
     }
-  }
+  },
+  plugins: [
+    plugin(function ({ addUtilities }) {
+      addUtilities({
+        '.scrollbar-hide': {
+          /* IE and Edge */
+          '-ms-overflow-style': 'none',
+
+          /* Firefox */
+          'scrollbar-width': 'none',
+
+          /* Safari and Chrome */
+          '&::-webkit-scrollbar': {
+            display: 'none'
+          }
+        }
+      }
+      )
+    })
+  ],
 };
