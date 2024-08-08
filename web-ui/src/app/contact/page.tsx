@@ -2,6 +2,7 @@
 
 import { useState, useRef } from 'react'
 import { ArrowLeftIcon } from '@heroicons/react/24/solid'
+import { motion } from "framer-motion"
 
 import NavBar from '@/components/NavBar'
 
@@ -33,22 +34,41 @@ export default async function Contact() {
         </div>
         <div className="ml-[40px] max-w-2xl py-28 sm:py-28 lg:py-28">
           <div className="mb-28">
-            <a className="inline-block" href="/"><ArrowLeftIcon className="transition ease-in-out w-6 h-6 text-black hover:text-green cursor-pointer"></ArrowLeftIcon></a>
+            <motion.div
+                initial={{ x: 75, opacity: 0 }}
+                animate={{ x: 0, opacity: 1 }}
+                transition={{
+                  duration: 1.5,
+                  ease: [0, 0.71, 0.2, 1.01]
+                }}
+              >
+                <a className="inline-block" href="/"><ArrowLeftIcon className="transition ease-in-out w-6 h-6 text-black hover:text-green cursor-pointer"></ArrowLeftIcon></a>
+              </motion.div>
           </div>
           <div className="text-left">
-            <h1 className="text-4xl font-bold tracking-tight text-black sm:text-6xl">
-              Contact
-            </h1>
-            <p className="mt-6 text-lg leading-8 text-gray-600">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dictum, sapien sit amet pharetra pulvinar, 
-            ipsum elit pretium lacus, id tincidunt sem urna ac ipsum. Quisque urna orci, sollicitudin in nisl nec, 
-            commodo vehicula magna. 
-            <br/>
-            <br/>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dictum, sapien sit amet pharetra pulvinar, 
-            ipsum elit pretium lacus, id tincidunt sem urna ac ipsum. Quisque urna orci, sollicitudin in nisl nec, 
-            commodo vehicula magna. 
-            </p>
+            <motion.div
+              initial={{ x: 75, opacity: 0 }}
+              animate={{ x: 0, opacity: 1 }}
+              transition={{
+                duration: 1.2,
+                delay: 0.25,
+                ease: [0, 0.71, 0.2, 1.01]
+              }}
+            >
+              <h1 className="text-4xl font-bold tracking-tight text-black sm:text-6xl">
+                Contact
+              </h1>
+              <p className="mt-6 text-lg leading-8 text-gray-600">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dictum, sapien sit amet pharetra pulvinar, 
+              ipsum elit pretium lacus, id tincidunt sem urna ac ipsum. Quisque urna orci, sollicitudin in nisl nec, 
+              commodo vehicula magna. 
+              <br/>
+              <br/>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dictum, sapien sit amet pharetra pulvinar, 
+              ipsum elit pretium lacus, id tincidunt sem urna ac ipsum. Quisque urna orci, sollicitudin in nisl nec, 
+              commodo vehicula magna. 
+              </p>
+            </motion.div>
           </div>
         </div>
       </div>
