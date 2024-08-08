@@ -1,6 +1,6 @@
 ## FRONTEND
 
-1. Enter "aveenis" within Frontend & install NPM packages (if you're using pnpm, replace `npm` with `pnpm` in all the commands below):
+1. Enter `web-ui` & install NPM packages (if you're using pnpm, replace `npm` with `pnpm` in all the commands below):
 
   ```bash
   npm i
@@ -16,7 +16,7 @@
 3. You can now run the Next.js local development server:
 
   ```bash
-  npm start
+  npm run dev
   ```
 
 ## BACKEND
