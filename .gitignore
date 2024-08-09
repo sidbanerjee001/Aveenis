@@ -27,6 +27,7 @@ yarn-error.log*
 
 # local env files
 .env*.local
+.env
 
 # vercel
 .vercel
@@ -41,3 +42,6 @@ venv/
 
 # python cache
 .pyc
+
+# local development settings
+.vscode

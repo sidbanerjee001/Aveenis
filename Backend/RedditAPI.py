@@ -68,6 +68,7 @@ def get_data(subreddit_name):
                 'timestamp': convert_to_iso8601(post.created_utc)
             }
 
+<<<<<<< HEAD
             print(post_data)
 
 
@@ -98,6 +99,26 @@ def get_data(subreddit_name):
     #             # Insert or update comment data in Supabase
     #             response = supabase.table('comments').upsert(comment_data).execute()
     #             logger.info(f"Supabase response for comment: {response}")
+=======
+            # Insert or update post data in Supabase
+            response = supabase.table('posts').upsert(post_data).execute()
+            logger.info(f"Supabase response for post: {response}")
+
+            # Fetch and store comments
+            post.comments.replace_more(limit=None)
+            for comment in post.comments.list():
+                comment_data = {
+                    'id': comment.id,
+                    'post_id': post.id,
+                    'body': comment.body,
+                    'author': comment.author.name if comment.author else None,
+                    'created_utc': convert_to_iso8601(comment.created_utc)
+                }
+    
+                # Insert or update comment data in Supabase
+                response = supabase.table('comments').upsert(comment_data).execute()
+                logger.info(f"Supabase response for comment: {response}")
+>>>>>>> 1c87a9499448240567c63fe4e3a86f3b8b397a1b
 
     except Exception as e:
         logger.error(f"Error fetching or storing data: {e}")
@@ -107,4 +128,8 @@ def main():
     get_data(subreddit_name)
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     main()
+=======
+    main()
+>>>>>>> 1c87a9499448240567c63fe4e3a86f3b8b397a1b
