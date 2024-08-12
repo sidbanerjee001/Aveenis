@@ -1,16 +1,21 @@
-import { BeakerIcon } from "@heroicons/react/24/outline"
+import { useEffect, useState } from 'react';
+import { useReactTable } from '@tanstack/react-table'
+import { TableData } from './Data/tabledata';
 
 const tableEntries = [
-    {tickerName: 'av1', stat1: '4,569', stat2: '340', stat3: '90.53%'},
-    {tickerName: 'av2', stat1: '2,167', stat2: '124', stat3: '14.29%'},
-    {tickerName: 'av3', stat1: '8,513', stat2: '234', stat3: '13.53%'},
-    {tickerName: 'av4', stat1: '5,564', stat2: '523', stat3: '21.31%'},
-    {tickerName: 'av5', stat1: '4,262', stat2: '534', stat3: '67.53%'},
-    {tickerName: 'av6', stat1: '2,540', stat2: '879', stat3: '42.61%'},
-    {tickerName: 'av7', stat1: '1,265', stat2: '965', stat3: '21.72%'},
+    {tickerName: 'av1', stat1: 4569, stat2: 340, stat3: 90.53},
+    {tickerName: 'av2', stat1: 2167, stat2: 124, stat3: 14.29},
+    {tickerName: 'av3', stat1: 8513, stat2: 234, stat3: 13.53},
+    {tickerName: 'av4', stat1: 5564, stat2: 523, stat3: 21.31},
+    {tickerName: 'av5', stat1: 4262, stat2: 534, stat3: 67.53},
+    {tickerName: 'av6', stat1: 2540, stat2: 879, stat3: 42.61},
+    {tickerName: 'av7', stat1: 1265, stat2: 965, stat3: 21.72},
   ]
 
 export default async function DataTable() {
+
+    const [data, setData] = useState<TableData[]>([]);
+
     return (
         <div className="w-3/4 mx-auto">
         <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded">
@@ -18,6 +23,7 @@ export default async function DataTable() {
             <div className="flex flex-row items-center">
               <div className="px-2">
                 <h3 className="font-semibold text-base text-black">Popularity Metrics</h3>
+                <button>sort</button>
               </div>
             </div>
           </div>
