@@ -62,7 +62,7 @@ export default async function Home() {
         </div>
       </div>
 
-        <div ref={tableRef}><DataTable/></div>
+      <div ref={tableRef}><DataTable/></div>
       
 
       <Footer/>
