@@ -7,7 +7,7 @@ const navigation = [
     { name: 'Contact', href: 'contact' }
   ]
 
-export default async function NavBar() {
+export default function NavBar() {
     const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
     
     return (

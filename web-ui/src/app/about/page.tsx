@@ -12,7 +12,7 @@ const navigation = [
   { name: 'Contact', href: 'contact' }
 ]
 
-export default async function About() {
+export default function About() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
   return (

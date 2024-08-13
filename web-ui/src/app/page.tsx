@@ -6,7 +6,7 @@ import NavBar from '@/components/NavBar'
 import DataTable from '@/components/DataTable'
 import Footer from '@/components/footer'
 
-export default async function Home() {
+export default function Home() {
   const tableRef = useRef<HTMLDivElement | null>(null);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
