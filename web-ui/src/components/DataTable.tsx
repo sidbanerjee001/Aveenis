@@ -4,39 +4,44 @@ import {
     SortingState, useReactTable 
 } from '@tanstack/react-table'
 import { ArrowRightCircleIcon, ChevronUpIcon, ChevronDownIcon } from '@heroicons/react/24/outline';
-import { reportWebVitals } from 'next/dist/build/templates/pages';
+import { createClient } from '@supabase/supabase-js'
 
-export type Data = {
-    tickerName: string;
-    stat1: string;
-    stat2: string;
-    stat3: string;
+const supabase = createClient(
+    process.env.NEXT_PUBLIC_SUPABASE_URL!,
+    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
+  );
+
+export type DataPoint = {
+    Ticker: string;
+    PopularityInText: string;
+    Popularity: string;
+    Date: string;
 }
 
-const columnHelper = createColumnHelper<Data>();
+const columnHelper = createColumnHelper<DataPoint>();
 
 // Sorting Functions are inverted for brevity... may need to write out functions!
 
 const columns = [
-    columnHelper.accessor('tickerName', {
+    columnHelper.accessor('Ticker', {
         header: () => 'Ticker Name',
         cell: (info) => info.getValue(),
         sortingFn: 'text',
     }),
-    columnHelper.accessor('stat1', {
-        header: () => 'Stat 1',
+    columnHelper.accessor('PopularityInText', {
+        header: () => 'Popularity In Text',
         cell: (info) => info.getValue(),
         sortingFn: 'alphanumeric',
         invertSorting: true
     }),
-    columnHelper.accessor('stat2', {
-        header: () => 'Stat 2',
+    columnHelper.accessor('Popularity', {
+        header: () => 'Popularity',
         cell: (info) => info.getValue(),
         sortingFn: (rowA, rowB, columnId) => {
             return parseFloat(rowB.getValue(columnId)) - parseFloat(rowA.getValue(columnId));
         },
-    }),columnHelper.accessor('stat3', {
-        header: () => 'Stat 3',
+    }),columnHelper.accessor('Date', {
+        header: () => 'Date',
         cell: (info) => info.getValue(),
         sortingFn: 'alphanumeric',
         invertSorting: true
@@ -45,15 +50,16 @@ const columns = [
 
 export default function DataTable() {
 
-    const [data, setData] = useState([
-        {tickerName: 'av1', stat1: '4,569', stat2: '-3.42', stat3: '90.53%'},
-        {tickerName: 'av2', stat1: '2,167', stat2: '+1.24', stat3: '14.29%'},
-        {tickerName: 'av3', stat1: '8,513', stat2: '+2.34', stat3: '13.53%'},
-        {tickerName: 'av4', stat1: '5,564', stat2: '+5.23', stat3: '21.31%'},
-        {tickerName: 'av5', stat1: '4,262', stat2: '-5.34', stat3: '67.53%'},
-        {tickerName: 'av6', stat1: '2,540', stat2: '+8.79', stat3: '42.61%'},
-        {tickerName: 'av7', stat1: '1,265', stat2: '-9.65', stat3: '21.72%'},
-    ]);
+    // {tickerName: 'av1', stat1: '4,569', stat2: '-3.42', stat3: '90.53%'},
+    // {tickerName: 'av2', stat1: '2,167', stat2: '+1.24', stat3: '14.29%'},
+    // {tickerName: 'av3', stat1: '8,513', stat2: '+2.34', stat3: '13.53%'},
+    // {tickerName: 'av4', stat1: '5,564', stat2: '+5.23', stat3: '21.31%'},
+    // {tickerName: 'av5', stat1: '4,262', stat2: '-5.34', stat3: '67.53%'},
+    // {tickerName: 'av6', stat1: '2,540', stat2: '+8.79', stat3: '42.61%'},
+    // {tickerName: 'av7', stat1: '1,265', stat2: '-9.65', stat3: '21.72%'},
+    
+
+    const [data, setData] = useState<DataPoint[]>([]);
     const [columnFilters, setColumnFilters] = useState('');
     const [searchString, setSearchString] = useState('');
     const [sorting, setSorting] = useState<SortingState>([]);
@@ -84,6 +90,31 @@ export default function DataTable() {
             setColumnFilters('');
         }
     }, [searchString]);
+
+    useEffect(() => {
+        async function getData() {
+            const { data, error } = await supabase
+                .from('RawData')
+                .select('Ticker, Popularity_In_Text, Popularity, Date');
+    
+            if(error) {
+                console.log(error.message)
+                // TODO: Implement toast notification
+                return [];
+            }
+    
+            let data_formatted = data.map((item: any) => ({
+                Ticker: item["Ticker"].toString(),
+                PopularityInText: item['Popularity_In_Text'].toString(),
+                Popularity: item["Popularity"].toString(),
+                Date: new Date(item["Date"].toString()).toLocaleDateString("en-US"),
+            }));
+
+            setData(data_formatted);
+        }
+
+        getData();
+    }, []);
 
     const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
         if (e.key === 'Enter') {
