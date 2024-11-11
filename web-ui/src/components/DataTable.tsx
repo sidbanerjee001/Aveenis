@@ -12,10 +12,14 @@ const supabase = createClient(
   );
 
 export type DataPoint = {
-    Ticker: string;
-    PopularityInText: string;
-    Popularity: string;
-    Date: string;
+    ticker: string;
+    stock_price: string;
+    iv: string;
+    pop_change: string;
+    accel: string;
+    pop_change_three: string;
+    accel_three: string;
+    raw_mentions: string;
 }
 
 const columnHelper = createColumnHelper<DataPoint>();
@@ -23,25 +27,46 @@ const columnHelper = createColumnHelper<DataPoint>();
 // Sorting Functions are inverted for brevity... may need to write out functions!
 
 const columns = [
-    columnHelper.accessor('Ticker', {
+    columnHelper.accessor('ticker', {
         header: () => 'Ticker Name',
         cell: (info) => info.getValue(),
         sortingFn: 'text',
     }),
-    columnHelper.accessor('PopularityInText', {
-        header: () => 'Popularity In Text',
+    columnHelper.accessor('stock_price', {
+        header: () => 'Stock Price',
         cell: (info) => info.getValue(),
         sortingFn: 'alphanumeric',
         invertSorting: true
     }),
-    columnHelper.accessor('Popularity', {
-        header: () => 'Popularity',
+    columnHelper.accessor('iv', {
+        header: () => 'IV',
         cell: (info) => info.getValue(),
-        sortingFn: (rowA, rowB, columnId) => {
-            return parseFloat(rowB.getValue(columnId)) - parseFloat(rowA.getValue(columnId));
-        },
-    }),columnHelper.accessor('Date', {
-        header: () => 'Date',
+        sortingFn: 'alphanumeric',
+        // sortingFn: (rowA, rowB, columnId) => {
+        //     return parseFloat(rowB.getValue(columnId)) - parseFloat(rowA.getValue(columnId));
+        // },
+    }),columnHelper.accessor('pop_change', {
+        header: () => 'Popularity Change (1D)',
+        cell: (info) => info.getValue(),
+        sortingFn: 'alphanumeric',
+        invertSorting: true
+    }),columnHelper.accessor('accel', {
+        header: () => 'Acceleration (1D)',
+        cell: (info) => info.getValue(),
+        sortingFn: 'alphanumeric',
+        invertSorting: true
+    }),columnHelper.accessor('pop_change_three', {
+        header: () => 'Popularity Change (3D)',
+        cell: (info) => info.getValue(),
+        sortingFn: 'alphanumeric',
+        invertSorting: true
+    }),columnHelper.accessor('accel_three', {
+        header: () => 'Acceleration (3D)',
+        cell: (info) => info.getValue(),
+        sortingFn: 'alphanumeric',
+        invertSorting: true
+    }),columnHelper.accessor('raw_mentions', {
+        header: () => 'Raw Score (Mentions)',
         cell: (info) => info.getValue(),
         sortingFn: 'alphanumeric',
         invertSorting: true
@@ -94,8 +119,8 @@ export default function DataTable() {
     useEffect(() => {
         async function getData() {
             const { data, error } = await supabase
-                .from('RawData')
-                .select('Ticker, Popularity_In_Text, Popularity, Date');
+                .from('FrontendData')
+                .select('ticker, stock_price, iv, pop_change, accel, pop_change_three, accel_three, raw_mentions');
     
             if(error) {
                 console.log(error.message)
@@ -104,10 +129,14 @@ export default function DataTable() {
             }
     
             let data_formatted = data.map((item: any) => ({
-                Ticker: item["Ticker"].toString(),
-                PopularityInText: item['Popularity_In_Text'].toString(),
-                Popularity: item["Popularity"].toString(),
-                Date: new Date(item["Date"].toString()).toLocaleDateString("en-US"),
+                ticker: item["ticker"].toString(),
+                stock_price: item['stock_price'].toString(),
+                iv: item["iv"].toString(),
+                pop_change: item["pop_change"].toString(),
+                accel: item["accel"].toString(), 
+                pop_change_three: item["pop_change_three"].toString(), 
+                accel_three: item["accel_three"].toString(), 
+                raw_mentions: item["raw_mentions"].toString(), 
             }));
 
             setData(data_formatted);
@@ -122,8 +151,48 @@ export default function DataTable() {
         }
     };
 
+    function getDataValueColor(id: string, val: string) {
+        if (id.includes("Ticker") || id.includes("Date")){
+            return "";
+        }
+
+        if (val.includes("-")) {
+            return "text-red";
+        } else if (val.includes("+")) {
+            return "text-green-hover"
+        } else if (val.includes("%")) {
+            try {
+                const percentage = parseFloat(val.replace(/[^0-9a-z]/gi, ''));
+                if (percentage <= 50) {
+                    return "text-yellow"
+                } else {
+                    return "text-green-hover"
+                }
+            } catch (e) {
+                console.log(e);
+            }
+        } else {
+            return "";
+        }
+    }
+
+    // broken
+    function chevron(id: string, val: string, columns: [string]) {
+        columns.forEach(element => {
+            if (id.includes(element as string)) {
+                if (val.includes("-")) {
+                    return <ChevronDownIcon className={"w-[14px] h-[14px] font-bold stroke-2 text-red"}/>                
+                } else {
+                    console.log(val)
+                    return <ChevronUpIcon className={"w-[12px] h-[12px] font-bold stroke-2 text-green-hover"}/>
+                }
+            }
+        });
+        return <></>
+    }
+
     return (
-        <div className="w-3/4 mx-auto">
+        <div className="w-11/12 mx-auto">
         <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded">
           <div className="rounded-t mb-0 px-4 py-3 border-0">
             <div className="px-2 flex flex-row items-center">
@@ -153,7 +222,7 @@ export default function DataTable() {
                                     {...{
                                     className: (header.column.getCanSort()
                                         ? "cursor-pointer select-none"
-                                        : "") + " inline-block",
+                                        : "") + " inline-block my-1 text-pretty text-left",
                                     onClick: header.column.getToggleSortingHandler(),
                                     }}
                                 >
@@ -176,18 +245,14 @@ export default function DataTable() {
                 {table.getRowModel().rows.map((row) => (
                     <tr key={row.id}>
                         {row.getVisibleCells().map((cell) => (
-                            <th key={cell.id} className={"table-entry text-left " + (cell.id.includes("tickerName") ? "font-bold" : "")}>
-                                <div className={"flex flex-row items-center gap-x-1 " + ((cell.id as string).includes("stat2") ? ((cell.getValue() as string).includes("-") ? "text-red" : "text-green-hover") : "")}>
+                            <th key={cell.id} className={"table-entry text-left " + (cell.id.includes("ticker") ? "font-bold" : "")}>
+                                <div className={"flex flex-row items-center gap-x-1 " + getDataValueColor(cell.id as string, cell.getValue() as string)}>
+                                    {((cell.id as string).includes("stock_price") ? "$" : "")}
                                     {flexRender(
                                         cell.column.columnDef.cell,
                                         cell.getContext())
                                     }
-                                    {(cell.id as string).includes("stat2") ? (
-                                        <>
-                                            <ChevronDownIcon className={"w-[14px] h-[14px] font-bold stroke-2 text-red " + ((cell.getValue() as string).includes("-") ? "" : "hidden")}/>
-                                            <ChevronUpIcon className={"w-[12px] h-[12px] font-bold stroke-2 text-green-hover " + ((cell.getValue() as string).includes("-") ? "hidden" : "")}/>
-                                        </>
-                                    ) : (<></>)}
+                                    {chevron(cell.id as string, cell.getValue() as string, ["pop_change"])}
                                 </div>
                             </th>
                         ))}

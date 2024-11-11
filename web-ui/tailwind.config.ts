@@ -23,6 +23,7 @@ export default {
       'gray-dark': '#f1f5f9',
       'gray': '#f8fafc',
       'red': '#d16d6d',
+      'yellow': '#EED91B',
     },
     fontFamily: {
       sans: ["var(--font-sora)", ...fontFamily.sans],
