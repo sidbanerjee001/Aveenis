@@ -197,9 +197,10 @@ export default function DataTable() {
         if (cell.id.includes("ticker")) {
             const tickerName = cell.getValue() as string;
             return (
-                <th key={cell.id} className={"table-entry text-left font-bold"}>
+                <th key={cell.id} className={"table-entry text-center font-semibold"}>
                     <div className={"flex flex-row items-center gap-x-1 " + getDataValueColor(cell.id as string, cell.getValue() as string)}>
-                        <a href={"graph/" + tickerName} className={"inline transition ease-in-out hover:text-green-hover"}>
+                    <a href={"graph/" + tickerName} className={"inline transition ease-in-out shadow-black bg-green translate-y-0 hover:bg-green-hover hover:translate-y-[-2px] hover:shadow-2xl w-20 py-2 rounded-md text-white"}>
+                        
                         {flexRender(
                             cell.column.columnDef.cell,
                             cell.getContext())
