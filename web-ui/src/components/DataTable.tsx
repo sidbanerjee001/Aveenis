@@ -173,7 +173,7 @@ export default function DataTable() {
                 console.log(e);
             }
         } else {
-            return "";
+            return "text-black dark:text-white";
         }
     }
 
@@ -184,7 +184,6 @@ export default function DataTable() {
                 if (val.includes("-")) {
                     return <ChevronDownIcon className={"w-[14px] h-[14px] font-bold stroke-2 text-red"}/>                
                 } else {
-                    console.log(val)
                     return <ChevronUpIcon className={"w-[12px] h-[12px] font-bold stroke-2 text-green-hover"}/>
                 }
             }
@@ -197,9 +196,9 @@ export default function DataTable() {
         if (cell.id.includes("ticker")) {
             const tickerName = cell.getValue() as string;
             return (
-                <th key={cell.id} className={"table-entry text-left font-bold"}>
+                <th key={cell.id} className={"table-entry text-center text-white"}>
                     <div className={"flex flex-row items-center gap-x-1 " + getDataValueColor(cell.id as string, cell.getValue() as string)}>
-                        <a href={"graph/" + tickerName} className={"inline transition ease-in-out hover:text-green-hover"}>
+                        <a href={"graph/" + tickerName} className={"inline transition ease-in-out shadow-black bg-green translate-y-0 hover:bg-green-hover hover:translate-y-[-2px] hover:shadow-2xl w-20 py-2 rounded-md text-white dark:bg-green-techno dark:shadow-green-techno/80"}>
                         {flexRender(
                             cell.column.columnDef.cell,
                             cell.getContext())
@@ -228,10 +227,10 @@ export default function DataTable() {
 
     return (
         <div className="w-11/12 mx-auto">
-        <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded">
+        <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded dark:bg-gray-deep">
           <div className="rounded-t mb-0 px-4 py-3 border-0">
             <div className="px-2 flex flex-row items-center">
-                <h3 className="font-semibold text-base text-black">Popularity Metrics</h3>
+                <h3 className="font-semibold text-base text-black dark:text-white">Popularity Metrics</h3>
                 <input
                     id="price"
                     name="price"
@@ -246,13 +245,13 @@ export default function DataTable() {
               </div>
           </div>
 
-          <div className="block w-full overflow-x-auto">
-            <table className="items-center bg-transparent w-full border-collapse table-fixed">
-              <thead>
+          <div className="block w-full overflow-x-auto dark:shadow-green-techno/50 shadow-2xl">
+            <table className="items-center bg-transparent w-full border-collapse table-fixed dark:bg-gray-deep">
+              <thead className="dark:bg-gray-deep-2">
                   {table.getHeaderGroups().map((headerGroup) => (
                     <tr key={headerGroup.id}>
                         {headerGroup.headers.map((header) => (
-                            <th key={header.id} className="table-header">
+                            <th key={header.id} className="table-header text-black dark:border-0 dark:bg-gray-deep-2 dark:text-white">
                                 <div
                                     {...{
                                     className: (header.column.getCanSort()

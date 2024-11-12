@@ -3,6 +3,7 @@ import { fontFamily } from "tailwindcss/defaultTheme";
 import plugin from "tailwindcss/plugin";
 
 export default {
+  darkMode: 'class',
   content: [
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
@@ -20,7 +21,10 @@ export default {
       'black': '#000000',
       'green': '#5f9669',
       'green-hover': '#69b877',
+      'green-techno': '#10b981',
       'gray-dark': '#f1f5f9',
+      'gray-deep': '#212228',
+      'gray-deep-2': '#2f3038',
       'gray': '#f8fafc',
       'red': '#d16d6d',
       'yellow': '#EED91B',

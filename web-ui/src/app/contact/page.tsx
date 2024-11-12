@@ -12,11 +12,11 @@ const navigation = [
   { name: 'Contact', href: 'contact' }
 ]
 
-export default async function Contact() {
+export default function About() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
   return (
-    <div className="bg-white">
+    <div className="bg-white dark:bg-black">
       <NavBar/>
 
       <div className="relative isolate px-6 pt-14 lg:px-8 h-screen w-screen">
@@ -34,7 +34,7 @@ export default async function Contact() {
         </div>
         <div className="ml-[40px] max-w-2xl py-28 sm:py-28 lg:py-28">
           <div className="mb-28">
-            <motion.div
+              <motion.div
                 initial={{ x: 75, opacity: 0 }}
                 animate={{ x: 0, opacity: 1 }}
                 transition={{
@@ -42,9 +42,9 @@ export default async function Contact() {
                   ease: [0, 0.71, 0.2, 1.01]
                 }}
               >
-                <a className="inline-block" href="/"><ArrowLeftIcon className="transition ease-in-out w-6 h-6 text-black hover:text-green cursor-pointer"></ArrowLeftIcon></a>
+                <a className="inline-block" href="/"><ArrowLeftIcon className="transition ease-in-out w-6 h-6 text-black hover:text-green dark:text-white dark:hover:text-green-techno cursor-pointer"></ArrowLeftIcon></a>
               </motion.div>
-          </div>
+            </div>
           <div className="text-left">
             <motion.div
               initial={{ x: 75, opacity: 0 }}
@@ -55,10 +55,10 @@ export default async function Contact() {
                 ease: [0, 0.71, 0.2, 1.01]
               }}
             >
-              <h1 className="text-4xl font-bold tracking-tight text-black sm:text-6xl">
+              <h1 className="text-4xl font-bold tracking-tight text-black dark:text-white sm:text-6xl">
                 Contact
               </h1>
-              <p className="mt-6 text-lg leading-8 text-gray-600">
+              <p className="mt-6 text-lg leading-8 text-gray-600 dark:text-white">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dictum, sapien sit amet pharetra pulvinar, 
               ipsum elit pretium lacus, id tincidunt sem urna ac ipsum. Quisque urna orci, sollicitudin in nisl nec, 
               commodo vehicula magna. 

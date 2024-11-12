@@ -39,3 +39,11 @@
 .no-scrollbar {
   -ms-overflow-style: none;  /* IE and Edge */
 }
+
+/* DARK MODE STYLES */
+
+.dark .glow-text {
+  /* Glow effect in dark mode */
+  color: #10b981; /* Tailwind's green-400 */
+  text-shadow: 0 0 1px #10b981, 0 0 1px #10b981, 0 0 10px #10b981;
+}

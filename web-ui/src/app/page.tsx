@@ -1,19 +1,28 @@
 'use client'
 
-import { useState, useRef } from 'react'
+import { useState, useRef, useEffect } from 'react'
+import { Slide, ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+import Cookies from 'js-cookie';
 
 import NavBar from '@/components/NavBar'
 import DataTable from '@/components/DataTable'
 import Footer from '@/components/footer'
-import Chart from '@/components/Chart'
 
 export default function Home() {
   const tableRef = useRef<HTMLDivElement | null>(null);
   const chartRef = useRef<HTMLDivElement | null>(null);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
+  useEffect(() => {
+    if (!Cookies.get('visited')) {
+      toast.info("Click a Ticker Name to see timeseries data.");
+      Cookies.set('visited', 'true', { expires: 7 });
+  }
+  }, [])
+
   return (
-    <div className="bg-white">
+    <div className="bg-white dark:bg-black transition-colors duration-300 transition ease-in-out">
       <NavBar/>
 
       <div className="relative isolate px-6 pt-14 lg:px-8 h-screen w-screen">
@@ -31,20 +40,20 @@ export default function Home() {
         </div>
         <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
           <div className="text-center">
-            <h1 className="text-4xl font-bold tracking-tight text-black sm:text-6xl">
-              Exploring the Excellence of <span className="text-green">Aveenis</span>
+            <h1 className="text-4xl font-bold tracking-tight text-black sm:text-6xl dark:text-white">
+              Exploring the Excellence of <span className="text-green dark:text-green-400 glow-text dark:glow-text">Aveenis</span>
             </h1>
-            <p className="mt-6 text-lg leading-8 text-gray-600">
+            <p className="mt-6 text-lg leading-8 text-gray-600 dark:text-white">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dictum, sapien sit amet pharetra pulvinar, 
             ipsum elit pretium lacus, id tincidunt sem urna ac ipsum. Quisque urna orci, sollicitudin in nisl nec, 
             commodo vehicula magna. 
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <button onClick={() => tableRef.current?.scrollIntoView()} className="cursor-pointer transition ease-in-out select-none pt-[10px] pb-[10px] pl-[20px] pr-[20px] text-white text-sm rounded 
-              shadow-black bg-green translate-y-0 hover:bg-green-hover hover:translate-y-[-2px] hover:shadow-2xl">
+              shadow-black bg-green translate-y-0 hover:bg-green-hover hover:translate-y-[-2px] hover:shadow-2xl dark:shadow-green-techno/80 dark:bg-green-techno">
               View Data
               </button>
-              <a href="about" className="transition ease-in-out text-sm font-semibold leading-6 text-black hover:text-green-hover">
+              <a href="about" className="transition ease-in-out text-sm font-semibold leading-6 text-black hover:text-green-hover dark:text-white dark:hover:text-green-techno">
                 Learn more <span aria-hidden="true">→</span>
               </a>
             </div>
@@ -66,6 +75,19 @@ export default function Home() {
 
       <div ref={tableRef}><DataTable/></div>
       <Footer/>
+      <ToastContainer
+        position="bottom-right"
+        autoClose={5000}
+        hideProgressBar={false}
+        newestOnTop={false}
+        closeOnClick
+        rtl={false}
+        pauseOnFocusLoss
+        draggable
+        pauseOnHover
+        theme="light"
+        transition={Slide}
+      />
     </div>
   )
 }

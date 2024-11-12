@@ -4,37 +4,37 @@ import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, Responsi
 
 const dummy_data = [
     {
-      name: '11/11',
+      name: '11/05',
       PopularityChange: -78.25,
       Acceleration: 23.2,
     },
     {
-      name: '11/10',
+      name: '11/06',
       PopularityChange: -58.34,
       Acceleration: 24,
     },
     {
-      name: '11/10',
+      name: '11/07',
       PopularityChange: -20.4,
       Acceleration: 29,
     },
     {
-      name: '11/9',
+      name: '11/08',
       PopularityChange: -40.4,
       Acceleration: 40,
     },
     {
-      name: '11/8',
+      name: '11/09',
       PopularityChange: -80.4,
       Acceleration: 10,
     },
     {
-      name: '11/7',
+      name: '11/10',
       PopularityChange: -99.2,
       Acceleration: 2,
     },
     {
-      name: '11/6',
+      name: '11/11',
       PopularityChange: -99.4,
       Acceleration: 34,
     },
