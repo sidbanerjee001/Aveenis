@@ -3,6 +3,7 @@
 import { useState, useRef } from 'react'
 import { ArrowLeftIcon } from '@heroicons/react/24/solid'
 import { motion } from "framer-motion"
+import { useRouter } from "next/navigation";
 
 import NavBar from '@/components/NavBar'
 import Chart from '@/components/Chart'
@@ -14,6 +15,8 @@ export default async function GraphPage({params} :
         }
     }
     ){
+
+  const router = useRouter()
         
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const { graphID } = await params;
@@ -45,7 +48,7 @@ export default async function GraphPage({params} :
                   ease: [0, 0.71, 0.2, 1.01]
                 }}
               >
-                <a className="inline-block" href="/"><ArrowLeftIcon className="transition ease-in-out w-6 h-6 text-black hover:text-green cursor-pointer"></ArrowLeftIcon></a>
+                <button onClick={() => router.back()}><ArrowLeftIcon className="transition ease-in-out w-6 h-6 text-black hover:text-green cursor-pointer"></ArrowLeftIcon></button>
               </motion.div>
             </div>
           <div className="text-left">

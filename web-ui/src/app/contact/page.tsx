@@ -5,6 +5,7 @@ import { ArrowLeftIcon } from '@heroicons/react/24/solid'
 import { motion } from "framer-motion"
 
 import NavBar from '@/components/NavBar'
+import { useRouter } from 'next/navigation'
 
 const navigation = [
   { name: 'Home', href: '/' },
@@ -14,6 +15,7 @@ const navigation = [
 
 export default async function Contact() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
+  const router = useRouter()
 
   return (
     <div className="bg-white">
@@ -42,7 +44,7 @@ export default async function Contact() {
                   ease: [0, 0.71, 0.2, 1.01]
                 }}
               >
-                <a className="inline-block" href="/"><ArrowLeftIcon className="transition ease-in-out w-6 h-6 text-black hover:text-green cursor-pointer"></ArrowLeftIcon></a>
+                <button onClick={() => router.back()}><ArrowLeftIcon className="transition ease-in-out w-6 h-6 text-black hover:text-green cursor-pointer"></ArrowLeftIcon></button>
               </motion.div>
           </div>
           <div className="text-left">
