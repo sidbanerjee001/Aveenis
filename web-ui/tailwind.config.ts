@@ -19,6 +19,8 @@ export default {
       'white': '#ffffff',
       'black': '#000000',
       'green': '#5f9669',
+      'green-select': '#adedb9',
+      'green-select-text': '#1b8c30',
       'green-hover': '#69b877',
       'gray-dark': '#f1f5f9',
       'gray': '#f8fafc',

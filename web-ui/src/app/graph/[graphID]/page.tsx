@@ -25,7 +25,7 @@ export default async function GraphPage({params} :
     <div className="bg-white">
       <NavBar/>
 
-      <div className="relative isolate px-6 pt-14 lg:px-8 h-screen w-2/3 m-auto">
+      <div className="relative isolate px-6 pt-8 lg:px-8 h-screen w-2/3 m-auto">
         <div
           aria-hidden="true"
           className="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
@@ -64,7 +64,7 @@ export default async function GraphPage({params} :
               <h1 className="text-2xl font-bold tracking-tight text-black sm:text-2xl text-center">
                 Timeseries data for <span className="text-green">{graphID}</span>
               </h1>
-              <div className="mt-20 w-2/3 m-auto"><Chart/></div>
+              <div className="mt-4 w-2/3 m-auto"><Chart/></div>
             </motion.div>
           </div>
         </div>
