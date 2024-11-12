@@ -5,9 +5,11 @@ import { useState, useRef } from 'react'
 import NavBar from '@/components/NavBar'
 import DataTable from '@/components/DataTable'
 import Footer from '@/components/footer'
+import Chart from '@/components/Chart'
 
 export default function Home() {
   const tableRef = useRef<HTMLDivElement | null>(null);
+  const chartRef = useRef<HTMLDivElement | null>(null);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
   return (
@@ -40,9 +42,9 @@ export default function Home() {
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <button onClick={() => tableRef.current?.scrollIntoView()} className="cursor-pointer transition ease-in-out select-none pt-[10px] pb-[10px] pl-[20px] pr-[20px] text-white text-sm rounded 
               shadow-black bg-green translate-y-0 hover:bg-green-hover hover:translate-y-[-2px] hover:shadow-2xl">
-              Get Started
+              View Data
               </button>
-              <a href="#" className="transition ease-in-out text-sm font-semibold leading-6 text-black hover:text-green-hover">
+              <a href="about" className="transition ease-in-out text-sm font-semibold leading-6 text-black hover:text-green-hover">
                 Learn more <span aria-hidden="true">→</span>
               </a>
             </div>
@@ -63,8 +65,6 @@ export default function Home() {
       </div>
 
       <div ref={tableRef}><DataTable/></div>
-      
-
       <Footer/>
     </div>
   )

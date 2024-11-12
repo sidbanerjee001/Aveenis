@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import { 
+    Cell,
     createColumnHelper, flexRender, getCoreRowModel, getFilteredRowModel, getSortedRowModel, 
     SortingState, useReactTable 
 } from '@tanstack/react-table'
@@ -191,6 +192,40 @@ export default function DataTable() {
         return <></>
     }
 
+    function generateTableRender(cell: Cell<DataPoint, unknown>) {
+
+        if (cell.id.includes("ticker")) {
+            const tickerName = cell.getValue() as string;
+            return (
+                <th key={cell.id} className={"table-entry text-left font-bold"}>
+                    <div className={"flex flex-row items-center gap-x-1 " + getDataValueColor(cell.id as string, cell.getValue() as string)}>
+                        <a href={"graph/" + tickerName} className={"inline transition ease-in-out hover:text-green-hover"}>
+                        {flexRender(
+                            cell.column.columnDef.cell,
+                            cell.getContext())
+                        }
+                        </a>
+                        {chevron(cell.id as string, cell.getValue() as string, ["pop_change"])} {/* chevron broken 11/11/2024 */}
+                    </div>
+                </th>
+            )
+        } else {
+            return (
+                <th key={cell.id} className={"table-entry text-left"}>
+                    <div className={"flex flex-row items-center gap-x-1 " + getDataValueColor(cell.id as string, cell.getValue() as string)}>
+                        {((cell.id as string).includes("stock_price") ? "$" : "")}
+                        {flexRender(
+                            cell.column.columnDef.cell,
+                            cell.getContext())
+                        }
+                        {chevron(cell.id as string, cell.getValue() as string, ["pop_change"])} {/* chevron broken 11/11/2024 */}
+                        
+                    </div>
+                </th>
+            )
+        }
+    }
+
     return (
         <div className="w-11/12 mx-auto">
         <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded">
@@ -245,16 +280,17 @@ export default function DataTable() {
                 {table.getRowModel().rows.map((row) => (
                     <tr key={row.id}>
                         {row.getVisibleCells().map((cell) => (
-                            <th key={cell.id} className={"table-entry text-left " + (cell.id.includes("ticker") ? "font-bold" : "")}>
-                                <div className={"flex flex-row items-center gap-x-1 " + getDataValueColor(cell.id as string, cell.getValue() as string)}>
-                                    {((cell.id as string).includes("stock_price") ? "$" : "")}
-                                    {flexRender(
-                                        cell.column.columnDef.cell,
-                                        cell.getContext())
-                                    }
-                                    {chevron(cell.id as string, cell.getValue() as string, ["pop_change"])}
-                                </div>
-                            </th>
+                            generateTableRender(cell)
+                            // <th key={cell.id} className={"table-entry text-left " + (cell.id.includes("ticker") ? "font-bold" : "")}>
+                            //     <div className={"flex flex-row items-center gap-x-1 " + getDataValueColor(cell.id as string, cell.getValue() as string)}>
+                            //         {((cell.id as string).includes("stock_price") ? "$" : "")}
+                            //         {flexRender(
+                            //             cell.column.columnDef.cell,
+                            //             cell.getContext())
+                            //         }
+                            //         {chevron(cell.id as string, cell.getValue() as string, ["pop_change"])}
+                            //     </div>
+                            // </th>
                         ))}
                     </tr>
                 ))}
