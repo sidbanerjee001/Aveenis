@@ -129,6 +129,7 @@ export default function DataTable() {
                 toast.info("Pulled from session storage!");
                 console.log(JSON.parse(cachedData));
                 setData(JSON.parse(cachedData));
+                return;
             }
             const { data, error } = await supabase
                 .from('FrontendData')
