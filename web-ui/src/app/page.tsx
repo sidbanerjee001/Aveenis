@@ -53,7 +53,7 @@ export default function Home() {
         </div>
         <div
           aria-hidden="true"
-          className="absolute inset-x-0 top-[calc(100%-13rem)] -z-10 transform-gpu overflow-hidden blur-3xl sm:top-[calc(100%-30rem)]"
+          className="absolute inset-x-1 top-[calc(100%-50rem)] -z-10 transform-gpu overflow-hidden blur-3xl sm:top-[calc(100%-50rem)]"
         >
           <div
             style={{
@@ -63,10 +63,10 @@ export default function Home() {
             className="relative left-[calc(50%+3rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 bg-gradient-to-tr from-green to-[#34a0a4] opacity-30 sm:left-[calc(50%+36rem)] sm:w-[72.1875rem]"
           />
         </div>
+        <Footer/>
       </div>
 
-      <div ref={tableRef}><DataTable/></div>
-      <Footer/>
+      {/* <div ref={tableRef}><DataTable/></div> */}
     </div>
   )
 }

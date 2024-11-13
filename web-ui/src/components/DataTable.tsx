@@ -6,6 +6,9 @@ import {
 } from '@tanstack/react-table'
 import { ArrowRightCircleIcon, ChevronUpIcon, ChevronDownIcon } from '@heroicons/react/24/outline';
 import { createClient } from '@supabase/supabase-js'
+import { useRouter } from 'next/navigation'
+import { Slide, ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const supabase = createClient(
     process.env.NEXT_PUBLIC_SUPABASE_URL!,
@@ -89,6 +92,7 @@ export default function DataTable() {
     const [columnFilters, setColumnFilters] = useState('');
     const [searchString, setSearchString] = useState('');
     const [sorting, setSorting] = useState<SortingState>([]);
+    const router = useRouter();
 
     const table = useReactTable({
         data: data,
@@ -119,13 +123,20 @@ export default function DataTable() {
 
     useEffect(() => {
         async function getData() {
+            const cachedData = sessionStorage.getItem("supabaseData");
+            
+            if (cachedData) {
+                toast.info("Pulled from session storage!");
+                console.log(JSON.parse(cachedData));
+                setData(JSON.parse(cachedData));
+            }
             const { data, error } = await supabase
                 .from('FrontendData')
                 .select('ticker, stock_price, iv, pop_change, accel, pop_change_three, accel_three, raw_mentions');
     
             if(error) {
                 console.log(error.message)
-                // TODO: Implement toast notification
+                toast.error("Error pulling stock data.");
                 return [];
             }
     
@@ -140,6 +151,7 @@ export default function DataTable() {
                 raw_mentions: item["raw_mentions"].toString(), 
             }));
 
+            sessionStorage.setItem("supabaseData", JSON.stringify(data_formatted));
             setData(data_formatted);
         }
 
@@ -276,21 +288,10 @@ export default function DataTable() {
               </thead>
 
               <tbody>
-
                 {table.getRowModel().rows.map((row) => (
-                    <tr key={row.id}>
+                    <tr key={row.id} onClick={() => router.push('/graph/'+(row.getVisibleCells().at(0)?.getValue()))} className="transition ease-in-out cursor-pointer bg-white hover:bg-gray-dark">
                         {row.getVisibleCells().map((cell) => (
                             generateTableRender(cell)
-                            // <th key={cell.id} className={"table-entry text-left " + (cell.id.includes("ticker") ? "font-bold" : "")}>
-                            //     <div className={"flex flex-row items-center gap-x-1 " + getDataValueColor(cell.id as string, cell.getValue() as string)}>
-                            //         {((cell.id as string).includes("stock_price") ? "$" : "")}
-                            //         {flexRender(
-                            //             cell.column.columnDef.cell,
-                            //             cell.getContext())
-                            //         }
-                            //         {chevron(cell.id as string, cell.getValue() as string, ["pop_change"])}
-                            //     </div>
-                            // </th>
                         ))}
                     </tr>
                 ))}
@@ -299,6 +300,19 @@ export default function DataTable() {
             </table>
           </div>
         </div>
+        <ToastContainer
+            position="bottom-right"
+            autoClose={5000}
+            hideProgressBar={false}
+            newestOnTop={false}
+            closeOnClick
+            rtl={false}
+            pauseOnFocusLoss
+            draggable
+            pauseOnHover
+            theme="light"
+            transition={Slide}
+            />
       </div>
     )
 }
