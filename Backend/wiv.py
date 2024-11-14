@@ -1,3 +1,6 @@
+# Single function that returns the weighted IV sum of a stock
+# parameter stock is a string.
+
 import yfinance as yf
 from datetime import datetime, timedelta
 import numpy as np
@@ -68,9 +71,3 @@ def calculate_iv_sum(stock):
             break
 
     return sum_weighted_avg_iv / total_oi
-
-stocks = ['GOOG']
-
-for stock in stocks:
-    iv_sum = calculate_iv_sum(stock)
-    print(f"Sum of weighted average IVs for {stock}: {iv_sum}")
