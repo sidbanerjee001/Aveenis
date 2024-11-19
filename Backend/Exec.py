@@ -21,9 +21,16 @@ def run():
     flattened.extend([(ticker, values) for ticker, values in map2.items()])
     combined = {}
 
+    lengths = set([])
+
     for e in flattened:
         ticker = e[0]
         values = e[1]
+        set.add(len(values))
         combined[ticker] = [sum(x) for x in zip(combined.get(ticker, [0 for _ in range(len(values))]), values)]
     
+    if len(lengths) > 1:
+        print("Malformed data; lengths of size", lengths, "exist in scraped data.")
+        return None
+
     return dict(map(lambda e: (e[0], calculate_function(e[1])), combined.items()))
