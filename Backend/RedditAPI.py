@@ -44,11 +44,7 @@ reddit = praw.Reddit(
 )
 
 
-
-
-
-
-
+# ===================================================================== Useful Shit ================================
 
 # Supabase client setup
 # supabase: Client = create_client(sb_url, sb_key)
@@ -57,30 +53,35 @@ def convert_to_iso8601(timestamp):
     dt = datetime.fromtimestamp(timestamp, tz=timezone.utc)
     return dt.isoformat()
 
-
-
+# Load tickers from file
+with open('/Users/hanj/Desktop/Aveenis/Backend/tickers.txt', 'r') as file:
+    tickers = file.read().splitlines()
 
 # Function to store post data
 def get_data(subreddit_name):
     logger.info(f"Fetching data for subreddit: {subreddit_name}")
+    
+    list_to_return = {ticker : [0, 0] for ticker in tickers} 
+
+
     try:
         subreddit = reddit.subreddit(subreddit_name)
         posts = subreddit.new(limit=10)
 
-        for post in posts:
-            post_data = {
-                'id': post.id,
-                'title': post.title,
-                'selftext': post.selftext,
-                'upvotes': post.ups,
-                'downvotes': post.downs,
-                'comment_count': post.num_comments,
-                'timestamp': convert_to_iso8601(post.created_utc)   
-            }
 
-            # Insert or update post data in Supabase
-            # response = supabase.table('posts').upsert(post_data).execute()
-            # logger.info(f"Supabase response for post: {response}")
+        for post in posts:
+            # post_data = {
+            #     'id': post.id,
+            #     'title': post.title,
+            #     'selftext': post.selftext,
+            #     'upvotes': post.ups,
+            #     'downvotes': post.downs,
+            #     'comment_count': post.num_comments,
+            #     'timestamp': convert_to_iso8601(post.created_utc)   
+            # }
+            post_text = post.selftext
+
+
 
             # Fetch and store comments
             post.comments.replace_more(limit=None)
@@ -92,10 +93,6 @@ def get_data(subreddit_name):
                     'author': comment.author.name if comment.author else None,
                     'created_utc': convert_to_iso8601(comment.created_utc)
                 }
-    
-                # Insert or update comment data in Supabase
-                # response = supabase.table('comments').upsert(comment_data).execute()
-                # logger.info(f"Supabase response for comment: {response}")
 
     except Exception as e:
         logger.error(f"Error fetching or storing data: {e}")
