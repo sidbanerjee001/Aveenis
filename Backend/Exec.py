@@ -24,6 +24,6 @@ def run():
     for e in flattened:
         ticker = e[0]
         values = e[1]
-        combined[ticker] = list(map(lambda a, b: a + b, combined.get(ticker, [0 for _ in range(len(values))]), values))
+        combined[ticker] = [sum(x) for x in zip(combined.get(ticker, [0 for _ in range(len(values))]), values)]
     
     return dict(map(lambda e: (e[0], calculate_function(e[1])), combined.items()))
