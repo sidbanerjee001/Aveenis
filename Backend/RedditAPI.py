@@ -43,12 +43,22 @@ reddit = praw.Reddit(
     user_agent=reddit_user_agent
 )
 
+
+
+
+
+
+
+
 # Supabase client setup
-supabase: Client = create_client(sb_url, sb_key)
+# supabase: Client = create_client(sb_url, sb_key)
 
 def convert_to_iso8601(timestamp):
     dt = datetime.fromtimestamp(timestamp, tz=timezone.utc)
     return dt.isoformat()
+
+
+
 
 # Function to store post data
 def get_data(subreddit_name):
@@ -65,12 +75,12 @@ def get_data(subreddit_name):
                 'upvotes': post.ups,
                 'downvotes': post.downs,
                 'comment_count': post.num_comments,
-                'timestamp': convert_to_iso8601(post.created_utc)
+                'timestamp': convert_to_iso8601(post.created_utc)   
             }
 
             # Insert or update post data in Supabase
-            response = supabase.table('posts').upsert(post_data).execute()
-            logger.info(f"Supabase response for post: {response}")
+            # response = supabase.table('posts').upsert(post_data).execute()
+            # logger.info(f"Supabase response for post: {response}")
 
             # Fetch and store comments
             post.comments.replace_more(limit=None)
@@ -84,8 +94,8 @@ def get_data(subreddit_name):
                 }
     
                 # Insert or update comment data in Supabase
-                response = supabase.table('comments').upsert(comment_data).execute()
-                logger.info(f"Supabase response for comment: {response}")
+                # response = supabase.table('comments').upsert(comment_data).execute()
+                # logger.info(f"Supabase response for comment: {response}")
 
     except Exception as e:
         logger.error(f"Error fetching or storing data: {e}")
@@ -96,3 +106,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
