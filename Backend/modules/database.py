@@ -20,8 +20,8 @@ class Data:
         Initialize a new Data object with the given type, id, and data.
 
         Args:
-            _type (str): The type of data to load (e.g. user, guild).
-            _id (int): The id of the data to load.
+            _type (str): The type of data to load (e.g. ticker).
+            _stock_ticker (str): The ticker for the stock entry. (e.g AAPL, GOOG)
             _data (str): The data to load as a JSON string. If None, the default
                 template for the given type will be used.
 
@@ -175,8 +175,8 @@ class Database:
         Create a new Data object with the given type and id.
 
         Args:
-            _table_name (str): The type of data to create (e.g. user, guild).
-            _id (int): The id of the data to create.
+            _table_name (str): The type of data to create (e.g. ticker).
+            _stock_ticker (str): The ticker of the stock entry. (e.g. AAPL, GOOG)
 
         Returns:
             Data: A new Data object with the given type and id.
@@ -230,19 +230,3 @@ class Database:
         self.__client.table(_data.get_value("type")).upsert(
             {"stock_ticker": _stock_ticker, "data": str(_data)}
         ).execute()
-
-    def update_data(self, _data: Data):
-        """
-        Update a row in the database with the given Data object.
-
-        If the row does not exist, it will not be inserted into the database.
-
-        Args:
-            _data (Data): The Data object to update in the database.
-
-        Raises:
-            NotImplementedError: This method should be removed in favor of upsert_data.
-        """
-        raise NotImplementedError(
-            "Use upsert_data(Data()) instead of update_data(Data())"
-        )
