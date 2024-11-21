@@ -4,15 +4,19 @@ from datetime import datetime, timedelta, timezone
 import os
 from dotenv import load_dotenv  
 
-# Define fthe logger at the modeule level so functions don't give errors when run alone
+# Define fthe logger and reddit at the modeule level so functions don't give errors when run alone
 logger = None
+reddit = None
 
+# Setup Functions
 def setup_logger():
+    """Set up the logger"""
     global logger
     logging.basicConfig(level=logging.INFO)
     logger = logging.getLogger(__name__)
 
 def load_env_vars():
+    """Load environment variables from .env file"""
     load_dotenv()
 
     required_vars = ['reddit_client_id', 'reddit_client_secret', 'reddit_user_agent']
@@ -26,14 +30,28 @@ def load_env_vars():
     return env_vars
 
 def setup_reddit(env_vars):
-    return praw.reddit(
+    """
+    Set up the Reddit instance
+    Args:
+        env_vars (dict): Dictionary of environment variables given by load_env_vars()
+    """
+    global reddit
+    reddit = praw.Reddit(
         client_id = env_vars['reddit_client_id'],
         client_secret = env_vars['reddit_client_secret'],
         user_agent = env_vars['reddit_user_agent']
     )
+    return reddit
+
 
 # Function to fetch data from a subreddit
-def get_data(subreddit_name):
+def get_data(subreddit_name, reddit):
+    """
+    Fetch data from a subreddit
+    Args:  
+        subreddit_name (str): Name of the subreddit to fetch data from
+        reddit (praw.Reddit): Reddit instance given by setup_reddit()
+    """
     logger.info(f"Fetching data for subreddit: {subreddit_name}")
     
     # Load tickers from file
@@ -72,13 +90,21 @@ def get_data(subreddit_name):
         return None
 
 
+# Driver Function
 def run(subreddit_name):
+    """
+    Runs all the necessary setup functions and fetches data from a subreddit
+    Args:
+        subreddit_name (str): Name of the subreddit to fetch data from
+    Returns:
+        data (dict): A dictionary with tickers as keys and a list of mentions and upvotes as values
+    """
     # Run setup fumctions
     setup_logger()
     setup_reddit(load_env_vars())
 
     # Get the damn data
-    data = get_data(subreddit_name)
+    data = get_data(subreddit_name, reddit)
 
     #Ensure data was fetched properly
     if data:
@@ -89,11 +115,7 @@ def run(subreddit_name):
     # data is a dictionary with tickers as keys and a list of mentions and upvotes as values
     return data
 
-
-
-# Main
 def main():
-    setup_logger()
     subreddit_name = 'chatgpt_promptDesign' 
     print(run(subreddit_name))
 
