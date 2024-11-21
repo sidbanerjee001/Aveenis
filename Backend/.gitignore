@@ -1,0 +1,6 @@
+.env
+test.py
+test_tickers.txt
+.pipreqsignore
+serverLogging.log
+scrapingStocktwits.log

@@ -1,6 +1,9 @@
 # This file is for data processing related queries. No backend/frontend integration, keep all API calls and whatever
 # out of this.
 
+from math import sqrt
+
+
 def update_ticker_data_today(score: int, data: list) -> list:
     # incomplete data case, on init or perhaps data flush
     if len(data) < 24:
@@ -32,11 +35,12 @@ def calculate_accel(data: list, interval: int) -> float:
     
     return calculate_interval_change(data, interval) - calculate_interval_change(data[:len(data)-interval], interval)
 
-def calculate_scores(data: list) -> float:
-    pass
+def calculate_function(data: list) -> float:
+    raw_score = sqrt(data[0] + data[1]) + data[2] + data[3]
+    return f"{raw_score:.3f}"
 
 # Test cases
-def tests_update_ticker():
+def tests():
 
     # format: each c in case is a tuple:
     # (Debugging output, function to call, list of tuples of test cases ((comma,separated,function,parameters), expected_output))

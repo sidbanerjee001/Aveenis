@@ -42,6 +42,7 @@ venv/
 
 # python cache
 .pyc
+*.pyc
 
 # local development settings
 .vscode
