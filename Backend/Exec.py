@@ -1,5 +1,6 @@
 # Executed file every <interval> hrs
 from DataProcessing import calculate_function
+from stocktwits_helper import perform_stocktwits_scrape
 
 def run():
     map1 = {
@@ -9,13 +10,14 @@ def run():
         "t4": [1,2,3,4],
         "t5": [1,2,3,4],
     } # replace with call to Reddit scrape
-    map2 = {
-        "t1": [1,2,3,4],
-        "t2": [1,1,1,1],
-        "t3": [1,2,3],
-        "t4": [1,2,3,4],
-        "t6": [1,2,3,4],
-    } # replace with call to Stocktwits scrape
+    # map2 = {
+    #     "t1": [1,2,3,4],
+    #     "t2": [1,1,1,1],
+    #     "t3": [1,2,3],
+    #     "t4": [1,2,3,4],
+    #     "t6": [1,2,3,4],
+    # } # replace with call to Stocktwits scrape
+    map2 = perform_stocktwits_scrape()
 
     flattened = [(ticker, values) for ticker, values in map1.items()]
     flattened.extend([(ticker, values) for ticker, values in map2.items()])

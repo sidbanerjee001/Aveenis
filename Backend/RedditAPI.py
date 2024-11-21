@@ -1,17 +1,12 @@
 import praw
 import logging
 from supabase import create_client, Client
-from apscheduler.schedulers.blocking import BlockingScheduler
 from datetime import datetime, timedelta, timezone
 import os
 from dotenv import load_dotenv
 
-
-
-
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
-
 
 # Load environment variables from .env file
 load_dotenv()
