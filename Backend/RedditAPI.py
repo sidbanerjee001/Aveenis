@@ -1,72 +1,51 @@
 import praw
 import logging
-# from supabase import create_client, Client
-# from apscheduler.schedulers.blocking import BlockingScheduler
 from datetime import datetime, timedelta, timezone
 import os
-# from dotenv import load_dotenv
+from dotenv import load_dotenv  
 
+# Define fthe logger at the modeule level so functions don't give errors when run alone
+logger = None
 
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+def setup_logger():
+    global logger
+    logging.basicConfig(level=logging.INFO)
+    logger = logging.getLogger(__name__)
 
+def load_env_vars():
+    load_dotenv()
 
-# Load environment variables from .env file
-# load_dotenv()
+    required_vars = ['reddit_client_id', 'reddit_client_secret', 'reddit_user_agent']
 
+    env_vars = {var : os.environ.get(var) for var in required_vars}
 
-# Access environment variables
-reddit_client_id = os.environ.get('reddit_client_id')
-reddit_client_secret = os.environ.get('reddit_client_secret')
-reddit_user_agent = os.environ.get('reddit_user_agent')
-sb_url = os.environ.get('sb_url')
-sb_key = os.environ.get('sb_key')
+    for var, value in env_vars.items():
+        if not value:
+            raise ValueError(f"Missing {value}. Check your .env file")
+    
+    return env_vars
 
-# Print out environment variables to check if they are loaded correctly
-print(f"Reddit Client ID: {reddit_client_id}")
-print(f"Supabase URL: {sb_url}")
+def setup_reddit(env_vars):
+    return praw.reddit(
+        client_id = env_vars['reddit_client_id'],
+        client_secret = env_vars['reddit_client_secret'],
+        user_agent = env_vars['reddit_user_agent']
+    )
 
-
-# Check if required environment variables are loaded
-if not reddit_client_id or not reddit_client_secret or not reddit_user_agent:
-    raise ValueError("Missing one or more Reddit API credentials")
-
-if not sb_url or not sb_key:
-    raise ValueError("Missing Supabase URL or Key")
-
-# Reddit API setup
-reddit = praw.Reddit(
-    client_id=reddit_client_id,
-    client_secret=reddit_client_secret,
-    user_agent=reddit_user_agent
-)
-
-
-# ===================================================================== Useful Shit ================================
-
-# Supabase client setup
-# supabase: Client = create_client(sb_url, sb_key)
-
-# def convert_to_iso8601(timestamp):
-#     dt = datetime.fromtimestamp(timestamp, tz=timezone.utc)
-#     return dt.isoformat()
-
-
-# Load tickers from file
-current_dir = os.path.dirname(__file__)
-ticker_filepath = os.path.join(current_dir, 'tickers.txt')
-
-with open(ticker_filepath, 'r') as file:
-    tickers = file.read().splitlines()
-
-
-# Function to store post data
+# Function to fetch data from a subreddit
 def get_data(subreddit_name):
     logger.info(f"Fetching data for subreddit: {subreddit_name}")
     
+    # Load tickers from file
+    current_dir = os.path.dirname(__file__)
+    ticker_filepath = os.path.join(current_dir, 'tickers.txt')
+    with open(ticker_filepath, 'r') as file:
+        tickers = file.read().splitlines()
+
+    # Create a dictionary to store the data
     list_to_return = {ticker : [0, 0] for ticker in tickers}
 
-
+    # Fetch data from the subreddit
     try:
         subreddit = reddit.subreddit(subreddit_name)
         posts = subreddit.new(limit=10)
@@ -79,24 +58,44 @@ def get_data(subreddit_name):
             comments_text = " ".join(comment.body for comment in post.comments.list())
             post_and_comments_text = post_text + " " + comments_text
 
+            # Count ticker mentions in the post and comments and add post upvotes to mentioned tickers
             for ticker in tickers:
                 raw_mentions = post_and_comments_text.count(ticker)
                 list_to_return[ticker][0] += raw_mentions
-                list_to_return[ticker][1] += post.ups
+                if (raw_mentions > 0):
+                    list_to_return[ticker][1] += post.ups
                 
         return list_to_return
 
     except Exception as e:
         logger.error(f"Error fetching or storing data: {e}")
+        return None
 
 
+def run(subreddit_name):
+    # Run setup fumctions
+    setup_logger()
+    setup_reddit(load_env_vars())
+
+    # Get the damn data
+    data = get_data(subreddit_name)
+
+    #Ensure data was fetched properly
+    if data:
+        logger.info(f"Data fetched successfully: {data}")
+    else:
+        logger.error("Error fetching data")
+
+    # data is a dictionary with tickers as keys and a list of mentions and upvotes as values
+    return data
 
 
 
 # Main
 def main():
+    setup_logger()
     subreddit_name = 'chatgpt_promptDesign' 
-    get_data(subreddit_name)
+    print(run(subreddit_name))
 
 if __name__ == "__main__":
     main()
