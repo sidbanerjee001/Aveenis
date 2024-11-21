@@ -1,36 +1,28 @@
 import praw
 import logging
-# from supabase import create_client, Client
-# from apscheduler.schedulers.blocking import BlockingScheduler
 from datetime import datetime, timedelta, timezone
 import os
-# from dotenv import load_dotenv
+from dotenv import load_dotenv
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Load environment variables from .env file
-# load_dotenv()
+load_dotenv()
 
 
 # Access environment variables
 reddit_client_id = os.environ.get('reddit_client_id')
 reddit_client_secret = os.environ.get('reddit_client_secret')
 reddit_user_agent = os.environ.get('reddit_user_agent')
-sb_url = os.environ.get('sb_url')
-sb_key = os.environ.get('sb_key')
 
 # Print out environment variables to check if they are loaded correctly
 print(f"Reddit Client ID: {reddit_client_id}")
-print(f"Supabase URL: {sb_url}")
 
 
 # Check if required environment variables are loaded
 if not reddit_client_id or not reddit_client_secret or not reddit_user_agent:
     raise ValueError("Missing one or more Reddit API credentials")
-
-if not sb_url or not sb_key:
-    raise ValueError("Missing Supabase URL or Key")
 
 # Reddit API setup
 reddit = praw.Reddit(
@@ -87,13 +79,9 @@ def get_data(subreddit_name):
     except Exception as e:
         logger.error(f"Error fetching or storing data: {e}")
 
-
-
-
-
 # Main
 def main():
-    subreddit_name = 'chatgpt_promptDesign' 
+    subreddit_name = 'wallstreetbets' 
     get_data(subreddit_name)
 
 if __name__ == "__main__":
