@@ -61,7 +61,7 @@ def get_data(subreddit_name, reddit):
         tickers = file.read().splitlines()
 
     # Create a dictionary to store the data
-    list_to_return = {ticker : [0, 0] for ticker in tickers}
+    dict_to_return = {ticker : [0, 0] for ticker in tickers}
 
     # Fetch data from the subreddit
     try:
@@ -79,11 +79,11 @@ def get_data(subreddit_name, reddit):
             # Count ticker mentions in the post and comments and add post upvotes to mentioned tickers
             for ticker in tickers:
                 raw_mentions = post_and_comments_text.count(ticker)
-                list_to_return[ticker][0] += raw_mentions
+                dict_to_return[ticker][0] += raw_mentions
                 if (raw_mentions > 0):
-                    list_to_return[ticker][1] += post.ups
+                    dict_to_return[ticker][1] += post.ups
                 
-        return list_to_return
+        return dict_to_return
 
     except Exception as e:
         logger.error(f"Error fetching or storing data: {e}")
@@ -91,9 +91,9 @@ def get_data(subreddit_name, reddit):
 
 
 # Driver Function
-def run(subreddit_name):
+def run(subreddit_names: list):
     """
-    Runs all the necessary setup functions and fetches data from a subreddit
+    Runs all the necessary setup functions and fetches data from all subreddits in passed subreddit_names list
     Args:
         subreddit_name (str): Name of the subreddit to fetch data from
     Returns:
@@ -103,8 +103,20 @@ def run(subreddit_name):
     setup_logger()
     setup_reddit(load_env_vars())
 
+    # Create a dictionary to store the data
+    data = {}
+
     # Get the damn data
-    data = get_data(subreddit_name, reddit)
+    for subreddit_name in subreddit_names:
+        subreddit_data = get_data(subreddit_name, reddit)
+        if subreddit_data:
+            for ticker, values in subreddit_data.items():
+                if ticker not in data:
+                    data[ticker] = values
+                else:
+                    data[ticker][0] += values[0]
+                    data[ticker][1] += values[1]
+
 
     #Ensure data was fetched properly
     if data:
@@ -115,9 +127,12 @@ def run(subreddit_name):
     # data is a dictionary with tickers as keys and a list of mentions and upvotes as values
     return data
 
+
+
 def main():
-    subreddit_name = 'chatgpt_promptDesign' 
-    print(run(subreddit_name))
+    # print("Aveenis!")
+    subreddit_names = ['wallstreetbets', 'stocks', 'investing']
+    print(run(subreddit_names))
 
 if __name__ == "__main__":
     main()
