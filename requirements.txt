@@ -2,3 +2,9 @@ supabase==2.10.0
 python-dotenv==1.0.1
 pytest==8.3.3
 DateTime==5.5
+praw==7.8.1
+prawcore==2.4.0
+logging==0.4.9.6
+pytz==2024.2
+undetected-chromedriver==3.5.5
+bs4==0.0.2
