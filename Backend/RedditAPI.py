@@ -66,7 +66,8 @@ def get_data(subreddit_name, reddit):
     # Fetch data from the subreddit
     try:
         subreddit = reddit.subreddit(subreddit_name)
-        posts = subreddit.new(limit=10)
+        # options for types of subreddits are hot, new, random, rising, top
+        posts = subreddit.new(limit=20)
 
         for post in posts:
             post_text = post.selftext
@@ -118,7 +119,7 @@ def run(subreddit_names: list):
                     data[ticker][1] += values[1]
 
 
-    #Ensure data was fetched properly
+    # Ensure data was fetched properly
     if data:
         logger.info(f"Data fetched successfully: {data}")
     else:
