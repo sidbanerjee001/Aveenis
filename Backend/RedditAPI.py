@@ -67,7 +67,7 @@ def get_data(subreddit_name, reddit):
     try:
         subreddit = reddit.subreddit(subreddit_name)
         # options for types of subreddits are hot, new, random, rising, top
-        posts = subreddit.new(limit=20)
+        posts = subreddit.new(limit=10)
 
         for post in posts:
             post_text = post.selftext
