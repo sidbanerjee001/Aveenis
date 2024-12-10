@@ -2,14 +2,20 @@
 from DataProcessing import calculate_function
 from stocktwits_helper import perform_stocktwits_scrape
 
+
 def run():
     map1 = {
-        "t1": [1,2,3,4],
-        "t2": [1,2,3,4],
-        "t3": [1,2,3,4],
-        "t4": [1,2,3,4],
-        "t5": [1,2,3,4],
-    } # replace with call to Reddit scrape
+        "AAPL": [22, 47],
+        "GOOG": [22, 23],
+        "AMZN": [0, 0],
+        "MSFT": [22, 47],
+        "TSLA": [22, 13],
+        "FB": [22, 19],
+        "BRK.B": [5, 3],
+        "NVDA": [23, 55],
+        "JPM": [11, 16],
+        "V": [6, 8],
+    }  # replace with call to Reddit scrape
     # map2 = {
     #     "t1": [1,2,3,4],
     #     "t2": [1,1,1,1],
@@ -29,8 +35,11 @@ def run():
         ticker = e[0]
         values = e[1]
         lengths.add(len(values))
-        combined[ticker] = [sum(x) for x in zip(combined.get(ticker, [0 for _ in range(len(values))]), values)]
-    
+        combined[ticker] = [
+            sum(x)
+            for x in zip(combined.get(ticker, [0 for _ in range(len(values))]), values)
+        ]
+
     if len(lengths) > 1:
         print("Malformed data; lengths of sizes", lengths, "exist in scraped data.")
         return None

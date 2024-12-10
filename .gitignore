@@ -46,3 +46,4 @@ venv/
 
 # local development settings
 .vscode
+chrome-mac-arm64/
