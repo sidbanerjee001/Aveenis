@@ -32,11 +32,11 @@ def get_tickers_that_are_words():
     
     tickers_that_are_words = [ticker for ticker in tickers if ticker.lower() in english_words]
 
-    print(tickers_that_are_words)
+    return tickers_that_are_words
 
 
 def main():
-    get_tickers_that_are_words()
+    print(get_tickers_that_are_words())
 
 
 if __name__ == '__main__':
