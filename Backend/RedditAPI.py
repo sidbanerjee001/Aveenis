@@ -128,7 +128,7 @@ def setup_trie(tickers):
         trie.insert(ticker)
 
 
-# Function to fetch data from a subreddit
+#======================================= Functions to fetch data from a subreddit =======================================
 def get_data(subreddit_name, reddit, tickers, data_dict):
     """
     Fetch data from a subreddit
@@ -152,7 +152,7 @@ def get_data(subreddit_name, reddit, tickers, data_dict):
             # Fetch comments
             post.comments.replace_more(limit=None)
             comments_text = " ".join(comment.body for comment in post.comments.list())
-            post_and_comments_text = post_text + " " + comments_text
+            post_and_comments_text = (post_text + " " + comments_text).lower()
 
             # Update data_dict with raw mentions and upvotes for mentioned tickers
             global trie
@@ -202,7 +202,10 @@ def run(subreddit_names: list):
 def main():
     # print("Aveenis!")
     subreddit_names = ['wallstreetbets', 'stocks', 'investing']
+    start = time.time()
     print(run(subreddit_names))
+    end = time.time()
+    print(f"Time taken: {end-start} seconds")
 
 
 if __name__ == "__main__":

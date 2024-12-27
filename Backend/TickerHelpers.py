@@ -13,9 +13,9 @@ def get_tickers_and_path():
 
 
 def clean_tickers():
-    """This function changes depending on what needs to happen to the ticker list. Ex: Removing whitespaces or adding whitespaces to single letter tickers"""
+    """Changes depending on what needs to happen to the ticker list. Ex: Removing whitespaces or adding whitespaces to single letter tickers"""
     tickers, ticker_filepath = get_tickers_and_path()
-    tickers = [ticker.strip() for ticker in tickers]
+    tickers = [ticker.lower() for ticker in tickers]
 
     with open(ticker_filepath, 'w') as file:
         file.write('\n'.join(tickers))
