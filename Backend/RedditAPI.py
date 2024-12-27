@@ -3,12 +3,11 @@ import logging
 from datetime import datetime, timedelta, timezone
 import os
 from dotenv import load_dotenv 
-import time 
+import time
+import config
 
-# Define fthe logger and reddit at the modeule level so functions don't give errors when run alone
+# Define fthe logger so functions don't give errors when run alone
 logger = None
-reddit = None
-trie = None
 
 # Trie class for tickers
 class TrieNode:
@@ -95,7 +94,6 @@ def setup_reddit(env_vars):
     Args:
         env_vars (dict): Dictionary of environment variables given by load_env_vars()
     """
-    global reddit
     reddit = praw.Reddit(
         client_id = env_vars['reddit_client_id'],
         client_secret = env_vars['reddit_client_secret'],
@@ -122,14 +120,14 @@ def setup_ticker_list():
     
 def setup_trie(tickers):
     """Set up the trie for tickers"""
-    global trie
     trie = Trie()
     for ticker in tickers:
         trie.insert(ticker)
+    return trie
 
 
 #======================================= Functions to fetch data from a subreddit =======================================
-def get_data(subreddit_name, reddit, tickers, data_dict):
+def get_data(subreddit_name, reddit, data_dict, trie):
     """
     Fetch data from a subreddit
     Args:  
@@ -143,8 +141,12 @@ def get_data(subreddit_name, reddit, tickers, data_dict):
     # Fetch data from the subreddit
     try:
         subreddit = reddit.subreddit(subreddit_name)
-        # options for types of subreddits are hot, new, random, rising, top
-        posts = subreddit.new(limit=10)
+        
+        if hasattr(subreddit, config.POST_TYPE):
+            posts = getattr(subreddit, config.POST_TYPE)(limit=config.POST_LIMIT)
+
+        else:
+            raise ValueError(f"Invalid post_type '{config.POST_TYPE}'. Must be 'hot', 'new', 'rising', etc.")
 
         for post in posts:
             post_text = post.selftext
@@ -155,17 +157,18 @@ def get_data(subreddit_name, reddit, tickers, data_dict):
             post_and_comments_text = (post_text + " " + comments_text).lower()
 
             # Update data_dict with raw mentions and upvotes for mentioned tickers
-            global trie
             mentioned_tickers = trie.search_and_count(post_and_comments_text, data_dict)
             for mentioned_ticker in mentioned_tickers:
                 data_dict[mentioned_ticker][1] += post.ups
 
+    except ValueError as ve:
+        logger.error(f"Configuration error: {ve}")
     except Exception as e:
-        logger.error(f"Error fetching or storing data: {e}")
+        logger.error(f"Unexpected error while fetching data from {subreddit_name}: {e}")
 
 
 # Driver Function
-def run(subreddit_names: list):
+def run():
     """
     Runs all the necessary setup functions and fetches data from all subreddits in passed subreddit_names list
     Args:
@@ -175,17 +178,18 @@ def run(subreddit_names: list):
     """
     # Run setup fumctions
     setup_logger()
-    setup_reddit(load_env_vars())
+    reddit = setup_reddit(load_env_vars())
     tickers = setup_ticker_list()
-    setup_trie(tickers)
+    trie = setup_trie(tickers)
 
 
     # Create a dictionary to store the data
     data_dict = {ticker : [0, 0] for ticker in tickers}
 
     # Get the damn data
+    subreddit_names = config.SUBREDDIT_NAMES
     for subreddit_name in subreddit_names:
-        subreddit_data = get_data(subreddit_name, reddit, tickers, data_dict)
+        get_data(subreddit_name, reddit, data_dict, trie)
 
 
 
@@ -200,10 +204,9 @@ def run(subreddit_names: list):
 
 
 def main():
-    # print("Aveenis!")
-    subreddit_names = ['wallstreetbets', 'stocks', 'investing']
+    # This function is just for testing!! NOT THE DRIVER FUNCTION
     start = time.time()
-    print(run(subreddit_names))
+    print(run())
     end = time.time()
     print(f"Time taken: {end-start} seconds")
 
