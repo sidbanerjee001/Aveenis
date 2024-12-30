@@ -1,4 +1,4 @@
-a
+$a
 aa
 aacg
 aact
@@ -640,7 +640,7 @@ azta
 aztr
 azul
 azz
-b
+$b
 ba
 baba
 bac
@@ -1076,7 +1076,7 @@ bzfd
 bzfdw
 bzh
 bzun
-c
+$c
 caap
 caas
 caba
@@ -1669,7 +1669,7 @@ czfs
 cznc
 czr
 czwi
-d
+$d
 dac
 dada
 daio
@@ -1882,7 +1882,7 @@ dy
 dyai
 dycq
 dyn
-e
+$e
 ea
 ead
 eaf
@@ -2180,7 +2180,7 @@ eypt
 ezfl
 ezgo
 ezpw
-f
+$f
 fa
 faas
 faasw
@@ -2444,7 +2444,7 @@ fwrd
 fwrg
 fxnc
 fybr
-g
+$g
 gab
 gabc
 gaia
@@ -2739,7 +2739,7 @@ gxai
 gxo
 gyre
 gyro
-h
+$h
 ha
 hae
 hafc
@@ -2972,7 +2972,7 @@ hyt
 hyzn
 hyznw
 hzo
-i
+$i
 iac
 iae
 iaf
@@ -3227,7 +3227,7 @@ ixaq
 ixhl
 izea
 izm
-j
+$j
 jack
 jagx
 jakk
@@ -3308,7 +3308,7 @@ jyd
 jynt
 jz
 jzxn
-k
+$k
 ka
 kacl
 kaclr
@@ -3439,7 +3439,7 @@ kyn
 kytx
 kzia
 kzr
-l
+$l
 laac
 lab
 lac
@@ -3679,7 +3679,7 @@ lyv
 lz
 lzb
 lzm
-m
+$m
 ma
 maa
 mac
@@ -4060,7 +4060,7 @@ myps
 myrg
 mysz
 myte
-n
+$n
 na
 naas
 nabl
@@ -4391,7 +4391,7 @@ nymtz
 nyt
 nyxh
 nzf
-o
+$o
 oabi
 oabiw
 oak
@@ -4575,7 +4575,7 @@ oxy
 oz
 ozk
 ozkap
-p
+$p
 paa
 paas
 pac
@@ -4948,7 +4948,7 @@ pyxs
 pzc
 pzg
 pzza
-q
+$q
 qbts
 qcom
 qcrh
@@ -4993,7 +4993,7 @@ qure
 qvcc
 qvcd
 qxo
-r
+$r
 ra
 race
 rail
@@ -5253,7 +5253,7 @@ rzc
 rzlt
 rzlv
 rzlvw
-s
+$s
 sa
 saba
 sabr
@@ -5778,7 +5778,7 @@ syt
 syta
 sytaw
 syy
-t
+$t
 tac
 tact
 tait
@@ -6088,7 +6088,7 @@ tygo
 tyl
 tyra
 tzoo
-u
+$u
 ua
 uaa
 ual
@@ -6200,7 +6200,7 @@ uxin
 uzd
 uze
 uzf
-v
+$v
 vabk
 vac
 vachu
@@ -6372,7 +6372,7 @@ vyne
 vyx
 vzio
 vzla
-w
+$w
 wab
 wabc
 wafd
@@ -6526,7 +6526,7 @@ www
 wy
 wynn
 wyy
-x
+$x
 xair
 xbio
 xbit
@@ -6576,7 +6576,7 @@ xxii
 xyf
 xyl
 xylo
-y
+$y
 yala
 ycbd
 yelp
@@ -6607,7 +6607,7 @@ yxt
 yy
 yyai
 yygh
-z
+$z
 zapp
 zappw
 zbao
