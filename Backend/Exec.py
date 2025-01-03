@@ -1,28 +1,11 @@
 # Executed file every <interval> hrs
 from DataProcessing import calculate_function
 from stocktwits_helper import perform_stocktwits_scrape
+from RedditAPI import run_reddit_scrape
 
 
 def run():
-    map1 = {
-        "AAPL": [22, 47],
-        "GOOG": [22, 23],
-        "AMZN": [0, 0],
-        "MSFT": [22, 47],
-        "TSLA": [22, 13],
-        "FB": [22, 19],
-        "BRK.B": [5, 3],
-        "NVDA": [23, 55],
-        "JPM": [11, 16],
-        "V": [6, 8],
-    }  # replace with call to Reddit scrape
-    # map2 = {
-    #     "t1": [1,2,3,4],
-    #     "t2": [1,1,1,1],
-    #     "t3": [1,2,3],
-    #     "t4": [1,2,3,4],
-    #     "t6": [1,2,3,4],
-    # } # replace with call to Stocktwits scrape
+    map1 = run_reddit_scrape()
     map2 = perform_stocktwits_scrape()
 
     flattened = [(ticker, values) for ticker, values in map1.items()]

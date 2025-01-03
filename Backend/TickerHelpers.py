@@ -13,12 +13,12 @@ def get_tickers_and_path():
 
 
 def clean_tickers():
-    """This function changes depending on what needs to happen to the ticker list. Ex: Removing whitespaces or adding whitespaces to single letter tickers"""
+    """Changes depending on what needs to happen to the ticker list. Ex: Removing whitespaces or adding whitespaces to single letter tickers"""
     tickers, ticker_filepath = get_tickers_and_path()
-    tickers = [ticker.strip() for ticker in tickers]
+    new_tickers = [f"${ticker}" if len(ticker) == 1 else ticker for ticker in tickers]
 
     with open(ticker_filepath, 'w') as file:
-        file.write('\n'.join(tickers))
+        file.write('\n'.join(new_tickers))
 
 
 def get_tickers_that_are_words():
@@ -37,6 +37,7 @@ def get_tickers_that_are_words():
 
 def main():
     print(get_tickers_that_are_words())
+    print(len(get_tickers_that_are_words()))
 
 
 if __name__ == '__main__':
