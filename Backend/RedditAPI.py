@@ -168,7 +168,7 @@ def get_data(subreddit_name, reddit, data_dict, trie):
 
 
 # Driver Function
-def run():
+def run_reddit_scrape():
     """
     Runs all the necessary setup functions and fetches data from all subreddits in passed subreddit_names list
     Args:
@@ -206,7 +206,7 @@ def run():
 def main():
     # This function is just for testing!! NOT THE DRIVER FUNCTION
     start = time.time()
-    print(run())
+    print(run_reddit_scrape())
     end = time.time()
     print(f"Time taken: {end-start} seconds")
 

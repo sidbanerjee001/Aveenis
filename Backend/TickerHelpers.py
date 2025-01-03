@@ -37,6 +37,7 @@ def get_tickers_that_are_words():
 
 def main():
     print(get_tickers_that_are_words())
+    print(len(get_tickers_that_are_words()))
 
 
 if __name__ == '__main__':
