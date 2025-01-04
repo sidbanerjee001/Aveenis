@@ -8,8 +8,8 @@ def run():
     map1 = run_reddit_scrape()
     map2 = perform_stocktwits_scrape()
 
-    flattened = [(ticker, values) for ticker, values in map1.items()]
-    flattened.extend([(ticker, values) for ticker, values in map2.items()])
+    flattened = [(ticker, calculate_function(values)) for ticker, values in map1.items()]
+    flattened.extend([(ticker, values[1]) for ticker, values in map2.items()])
     combined = {}
 
     lengths = set([])
@@ -27,4 +27,12 @@ def run():
         print("Malformed data; lengths of sizes", lengths, "exist in scraped data.")
         return None
 
-    return dict(map(lambda e: (e[0], calculate_function(e[1])), combined.items()))
+    # return dict(map(lambda e: (e[0], calculate_function(e[1])), combined.items()))
+
+    # save the dictionary "combined" into the supabase (append metrics)
+
+    # pull data to calculate relative metrics (accel, change, etc.)
+
+    # save relative metrics
+
+    return combined

@@ -27,7 +27,7 @@ def test_create_data(database):
 def test_upsert_data(database):
 
     data = Data(_type="ticker", _stock_ticker="AAPL")
-    data.set_value("mentions", [5, 10, 15])
+    data.set_value("score", 10)
     database.upsert_data("AAPL", data)
 
     # Retrieve data without get_data

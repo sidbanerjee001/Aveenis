@@ -224,7 +224,7 @@ class Database:
         """
 
         # Update the updated_at field
-        _data.set_value("updated_at", str(datetime.datetime.now(datetime.UTC)))
+        # _data.set_value("updated_at", str(datetime.datetime.now(datetime.UTC)))
 
         # Update the data in the database
         self.__client.table(_data.get_value("type")).upsert(
