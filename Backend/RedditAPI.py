@@ -5,6 +5,7 @@ import os
 from dotenv import load_dotenv 
 import time
 import config
+import csv
 
 # Define fthe logger so functions don't give errors when run alone
 logger = None
@@ -118,11 +119,33 @@ def setup_ticker_list():
         logger.error(f"Error loading tickers from {ticker_filepath}: {e}")
         return []
     
-def setup_trie(tickers):
+def setup_company_to_ticker():
+    """
+    Reads company-to-ticker mappings from a CSV file.
+
+    Returns:
+        dict: A dictionary mapping company names to tickers.
+    """
+    try:
+        current_dir = os.path.dirname(__file__)
+        file_path = os.path.join(current_dir, 'company_to_ticker.csv')
+        company_to_ticker = {}
+        with open(file_path, 'r') as file:
+            reader = csv.DictReader(file)
+            for row in reader:
+                company_to_ticker[row['Company Name']] = row['Ticker']
+        return company_to_ticker
+    except Exception as e:
+        logger.error(f"Error loading company-to-ticker mapping: {e}")
+        return {}
+   
+def setup_trie(tickers, companies):
     """Set up the trie for tickers"""
     trie = Trie()
     for ticker in tickers:
         trie.insert(ticker)
+    for company in companies:
+        trie.insert(company)
     return trie
 
 
@@ -180,7 +203,8 @@ def run_reddit_scrape():
     setup_logger()
     reddit = setup_reddit(load_env_vars())
     tickers = setup_ticker_list()
-    trie = setup_trie(tickers)
+    companies = setup_company_to_ticker().keys()
+    trie = setup_trie(tickers, companies)
 
 
     # Create a dictionary to store the data
