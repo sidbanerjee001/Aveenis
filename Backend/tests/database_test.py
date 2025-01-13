@@ -19,22 +19,23 @@ def database():
 
 # Test creating a Data object and verifying it can be saved to the database.
 def test_create_data(database):
-    data = database.create_data("ticker", "AAPL")
+    data = database.create_data("ticker", "AMZN")
     assert isinstance(data, Data)
 
 
 # Test upserting data into the database and validate its persistence.
 def test_upsert_data(database):
 
-    data = Data(_type="ticker", _stock_ticker="AAPL")
-    data.set_value("score", 10)
-    database.upsert_data("AAPL", data)
+    data = Data(_type="ticker", _stock_ticker="AMZN")
+    data.set_value("data_today", [10, 45, 34])
+    data.set_value("data_history", [20, 30, 40])
+    database.upsert_data("AMZN", data)
 
     # Retrieve data without get_data
     response = (
-        database._Database__client.table("ticker")
+        database._Database__client.table("final_db")
         .select("*")
-        .eq("stock_ticker", "AAPL")
+        .eq("stock_ticker", "AMZN")
         .execute()
     )
 
@@ -48,7 +49,7 @@ def test_upsert_data(database):
 def test_get_data(database):
 
     # Retrieve the data using the get_data method
-    retrieved_data = database.get_data("ticker", "AAPL")
+    retrieved_data = database.get_data("final_db", "AMZN")
 
     # Validate the retrieved Data object
     assert isinstance(retrieved_data, Data)
