@@ -206,7 +206,7 @@ class Database:
 
         return (
             Data(
-                _table_name,
+                "ticker",
                 response[0],
             )
             if response
@@ -227,6 +227,6 @@ class Database:
         # _data.set_value("updated_at", str(datetime.datetime.now(datetime.UTC)))
 
         # Update the data in the database
-        self.__client.table(_data.get_value("type")).upsert(
+        self.__client.table("final_db").upsert(
             {"stock_ticker": _stock_ticker, "data": str(_data)}
         ).execute()
