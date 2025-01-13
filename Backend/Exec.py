@@ -2,7 +2,7 @@
 from DataProcessing import calculate_function
 from stocktwits_helper import perform_stocktwits_scrape
 from RedditAPI import run_reddit_scrape
-
+from modules.database import Data, Database
 
 def run():
     map1 = run_reddit_scrape()
@@ -29,10 +29,14 @@ def run():
 
     # return dict(map(lambda e: (e[0], calculate_function(e[1])), combined.items()))
 
+    db = Database()
+
     # save the dictionary "combined" into the supabase (append metrics)
 
-    # pull data to calculate relative metrics (accel, change, etc.)
+    for ticker, score in combined.items():
+        data = db.get_data("final_db", ticker)
+        if data:
+            data.append_value("data_today", score)
+            db.upsert_data(ticker, data)
 
-    # save relative metrics
-
-    return combined
+    return 0
