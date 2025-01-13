@@ -1,10 +1,8 @@
 # tests/database_tests.py handles tests for database class
 
 import pytest
-from unittest.mock import MagicMock
 import os
 import json
-from datetime import datetime
 from modules.database import Database, Data
 import dotenv
 
