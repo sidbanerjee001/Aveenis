@@ -17,13 +17,9 @@ const supabase = createClient(
 
 export type DataPoint = {
     ticker: string;
-    stock_price: string;
-    iv: string;
-    pop_change: string;
-    accel: string;
-    pop_change_three: string;
-    accel_three: string;
-    raw_mentions: string;
+    dataToday: Array<any>;
+    dataHistory: Array<any>;
+    score: number;
 }
 
 const columnHelper = createColumnHelper<DataPoint>();
@@ -36,45 +32,45 @@ const columns = [
         cell: (info) => info.getValue(),
         sortingFn: 'text',
     }),
-    columnHelper.accessor('stock_price', {
-        header: () => 'Stock Price',
-        cell: (info) => info.getValue(),
-        sortingFn: 'alphanumeric',
-        invertSorting: true
-    }),
-    columnHelper.accessor('iv', {
-        header: () => 'IV',
-        cell: (info) => info.getValue(),
-        sortingFn: 'alphanumeric',
-        // sortingFn: (rowA, rowB, columnId) => {
-        //     return parseFloat(rowB.getValue(columnId)) - parseFloat(rowA.getValue(columnId));
-        // },
-    }),columnHelper.accessor('pop_change', {
-        header: () => 'Popularity Change (1D)',
-        cell: (info) => info.getValue(),
-        sortingFn: 'alphanumeric',
-        invertSorting: true
-    }),columnHelper.accessor('accel', {
-        header: () => 'Acceleration (1D)',
-        cell: (info) => info.getValue(),
-        sortingFn: 'alphanumeric',
-        invertSorting: true
-    }),columnHelper.accessor('pop_change_three', {
-        header: () => 'Popularity Change (3D)',
-        cell: (info) => info.getValue(),
-        sortingFn: 'alphanumeric',
-        invertSorting: true
-    }),columnHelper.accessor('accel_three', {
-        header: () => 'Acceleration (3D)',
-        cell: (info) => info.getValue(),
-        sortingFn: 'alphanumeric',
-        invertSorting: true
-    }),columnHelper.accessor('raw_mentions', {
-        header: () => 'Raw Score (Mentions)',
+    columnHelper.accessor('score', {
+        header: () => 'Score',
         cell: (info) => info.getValue(),
         sortingFn: 'alphanumeric',
         invertSorting: true
     })
+    // columnHelper.accessor('iv', {
+    //     header: () => 'IV',
+    //     cell: (info) => info.getValue(),
+    //     sortingFn: 'alphanumeric',
+    //     // sortingFn: (rowA, rowB, columnId) => {
+    //     //     return parseFloat(rowB.getValue(columnId)) - parseFloat(rowA.getValue(columnId));
+    //     // },
+    // }),columnHelper.accessor('pop_change', {
+    //     header: () => 'Popularity Change (1D)',
+    //     cell: (info) => info.getValue(),
+    //     sortingFn: 'alphanumeric',
+    //     invertSorting: true
+    // }),columnHelper.accessor('accel', {
+    //     header: () => 'Acceleration (1D)',
+    //     cell: (info) => info.getValue(),
+    //     sortingFn: 'alphanumeric',
+    //     invertSorting: true
+    // }),columnHelper.accessor('pop_change_three', {
+    //     header: () => 'Popularity Change (3D)',
+    //     cell: (info) => info.getValue(),
+    //     sortingFn: 'alphanumeric',
+    //     invertSorting: true
+    // }),columnHelper.accessor('accel_three', {
+    //     header: () => 'Acceleration (3D)',
+    //     cell: (info) => info.getValue(),
+    //     sortingFn: 'alphanumeric',
+    //     invertSorting: true
+    // }),columnHelper.accessor('raw_mentions', {
+    //     header: () => 'Raw Score (Mentions)',
+    //     cell: (info) => info.getValue(),
+    //     sortingFn: 'alphanumeric',
+    //     invertSorting: true
+    // })
 ]
 
 export default function DataTable() {
@@ -132,8 +128,8 @@ export default function DataTable() {
                 return;
             }
             const { data, error } = await supabase
-                .from('FrontendData')
-                .select('ticker, stock_price, iv, pop_change, accel, pop_change_three, accel_three, raw_mentions');
+                .from('final_db')
+                .select('stock_ticker, data');
     
             if(error) {
                 console.log(error.message)
@@ -141,19 +137,19 @@ export default function DataTable() {
                 return [];
             }
     
-            let data_formatted = data.map((item: any) => ({
-                ticker: item["ticker"].toString(),
-                stock_price: item['stock_price'].toString(),
-                iv: item["iv"].toString(),
-                pop_change: item["pop_change"].toString(),
-                accel: item["accel"].toString(), 
-                pop_change_three: item["pop_change_three"].toString(), 
-                accel_three: item["accel_three"].toString(), 
-                raw_mentions: item["raw_mentions"].toString(), 
-            }));
-
-            sessionStorage.setItem("supabaseData", JSON.stringify(data_formatted));
-            setData(data_formatted);
+            const dataFormatted: DataPoint[] = data.map(row => {
+                const parsedData = JSON.parse(row.data);
+                const dataTodayArray = parsedData.data_today;
+                return {
+                    ticker: row.stock_ticker,
+                    dataToday: dataTodayArray,
+                    dataHistory: parsedData.data_history,
+                    score: dataTodayArray[dataTodayArray.length - 1]
+                }
+            });
+            
+            sessionStorage.setItem("supabaseData", JSON.stringify(dataFormatted));
+            setData(dataFormatted);
         }
 
         getData();
@@ -190,49 +186,31 @@ export default function DataTable() {
         }
     }
 
-    // broken
-    function chevron(id: string, val: string, columns: [string]) {
-        columns.forEach(element => {
-            if (id.includes(element as string)) {
-                if (val.includes("-")) {
-                    return <ChevronDownIcon className={"w-[14px] h-[14px] font-bold stroke-2 text-red"}/>                
-                } else {
-                    console.log(val)
-                    return <ChevronUpIcon className={"w-[12px] h-[12px] font-bold stroke-2 text-green-hover"}/>
-                }
-            }
-        });
-        return <></>
-    }
-
     function generateTableRender(cell: Cell<DataPoint, unknown>) {
 
         if (cell.id.includes("ticker")) {
             const tickerName = cell.getValue() as string;
             return (
                 <th key={cell.id} className={"table-entry text-center font-semibold"}>
-                    <div className={"flex flex-row items-center gap-x-1 " + getDataValueColor(cell.id as string, cell.getValue() as string)}>
+                    <div className={"flex flex-row items-center gap-x-1"}>
                     <a href={"graph/" + tickerName} className={"inline transition ease-in-out bg-green-select text-green-select-text w-14 rounded-md py-1 hover:text-green-hover"}>
                         {flexRender(
                             cell.column.columnDef.cell,
                             cell.getContext())
                         }
                         </a>
-                        {chevron(cell.id as string, cell.getValue() as string, ["pop_change"])} {/* chevron broken 11/11/2024 */}
                     </div>
                 </th>
             )
         } else {
             return (
                 <th key={cell.id} className={"table-entry text-left"}>
-                    <div className={"flex flex-row items-center gap-x-1 " + getDataValueColor(cell.id as string, cell.getValue() as string)}>
+                    <div className={"flex flex-row items-center gap-x-1"}>
                         {((cell.id as string).includes("stock_price") ? "$" : "")}
                         {flexRender(
                             cell.column.columnDef.cell,
                             cell.getContext())
                         }
-                        {chevron(cell.id as string, cell.getValue() as string, ["pop_change"])} {/* chevron broken 11/11/2024 */}
-                        
                     </div>
                 </th>
             )
