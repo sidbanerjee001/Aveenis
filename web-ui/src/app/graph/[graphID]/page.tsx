@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useRef } from 'react'
+import { useState, useEffect } from 'react'
 import { ArrowLeftIcon } from '@heroicons/react/24/solid'
 import { motion } from "framer-motion"
 import { useRouter } from "next/navigation";
@@ -8,18 +8,18 @@ import { useRouter } from "next/navigation";
 import NavBar from '@/components/NavBar'
 import Chart from '@/components/Chart'
 
-export default async function GraphPage({params} : 
-    { params: 
-        {
-            graphID: string
-        }
-    }
-    ){
-
+export default function GraphPage({ params }: { params: { graphID: string } }) {
   const router = useRouter()
-        
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-  const { graphID } = await params;
+  const [graphID, setGraphID] = useState<string | null>(null);
+
+  useEffect(() => {
+    setGraphID(params.graphID);
+  }, [params.graphID]);
+
+  if (!graphID) {
+    return <div>Loading...</div>; // Or any loading indicator
+  }
 
   return (
     <div className="bg-white">
@@ -40,17 +40,17 @@ export default async function GraphPage({params} :
         </div>
         <div className="m-auto py-28 sm:py-28 lg:py-28">
           <div className="mb-28">
-              <motion.div
-                initial={{ x: 75, opacity: 0 }}
-                animate={{ x: 0, opacity: 1 }}
-                transition={{
-                  duration: 1.5,
-                  ease: [0, 0.71, 0.2, 1.01]
-                }}
-              >
-                <button onClick={() => router.back()}><ArrowLeftIcon className="transition ease-in-out w-6 h-6 text-black hover:text-green cursor-pointer"></ArrowLeftIcon></button>
-              </motion.div>
-            </div>
+            <motion.div
+              initial={{ x: 75, opacity: 0 }}
+              animate={{ x: 0, opacity: 1 }}
+              transition={{
+                duration: 1.5,
+                ease: [0, 0.71, 0.2, 1.01]
+              }}
+            >
+              <button onClick={() => router.back()}><ArrowLeftIcon className="transition ease-in-out w-6 h-6 text-black hover:text-green cursor-pointer"></ArrowLeftIcon></button>
+            </motion.div>
+          </div>
           <div className="text-left">
             <motion.div
               initial={{ x: 75, opacity: 0 }}
