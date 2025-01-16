@@ -64,7 +64,7 @@ export default function GraphPage({ params }: { params: { graphID: string } }) {
               <h1 className="text-2xl font-bold tracking-tight text-black sm:text-2xl text-center">
                 Timeseries data for <span className="text-green">{graphID}</span>
               </h1>
-              <div className="mt-4 w-2/3 m-auto"><Chart/></div>
+              <div className="mt-4 w-2/3 m-auto"><Chart ticker={graphID}/></div>
             </motion.div>
           </div>
         </div>

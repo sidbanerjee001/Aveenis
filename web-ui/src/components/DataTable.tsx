@@ -119,14 +119,14 @@ export default function DataTable() {
 
     useEffect(() => {
         async function getData() {
-            const cachedData = sessionStorage.getItem("supabaseData");
+            // const cachedData = sessionStorage.getItem("supabaseData");
             
-            if (cachedData) {
-                toast.info("Pulled from session storage!");
-                console.log(JSON.parse(cachedData));
-                setData(JSON.parse(cachedData));
-                return;
-            }
+            // if (cachedData) {
+            //     toast.info("Pulled from session storage!");
+            //     console.log(JSON.parse(cachedData));
+            //     setData(JSON.parse(cachedData));
+            //     return;
+            // }
             const { data, error } = await supabase
                 .from('final_db')
                 .select('stock_ticker, data');
