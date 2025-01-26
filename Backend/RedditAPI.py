@@ -148,7 +148,7 @@ def get_data(subreddit_name, reddit, data_dict, trie, company_to_ticker):
         subreddit = reddit.subreddit(subreddit_name)
         
         if hasattr(subreddit, config.POST_TYPE):
-            posts = getattr(subreddit, config.POST_TYPE)(config.POST_LIMIT)
+            posts = getattr(subreddit, config.POST_TYPE)(limit=config.POST_LIMIT)
 
         else:
             raise ValueError(f"Invalid post_type '{config.POST_TYPE}'. Must be 'hot', 'new', 'rising', etc.")
