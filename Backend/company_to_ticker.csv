@@ -1,15 +1,13 @@
-Ticker,Company Name
 V1,V2
 AAPL,Apple 
 NVDA,NVIDIA 
 MSFT,Microsoft 
-GOOG,Alphabet 
-GOOGL,Alphabet 
+GOOG,GOOGL
 AMZN,Amazon
 TSLA,Tesla  
 AVGO,Broadcom 
 NFLX,Netflix  
-ASML,ASML Holding N.V.
+ASML,ASML Holding NV
 TMUS,T-Mobile US  
 CSCO,Cisco Systems  
 ISRG,Intuitive Surgical  
@@ -59,16 +57,16 @@ PCAR,PACCAR Inc
 ROP,Roper Technologies  
 CHTR,Charter Communications  
 CPRT,Copart  
-NXPI,NXP Semiconductors N.V.
+NXPI,NXP Semiconductors NV
 PAYX,Paychex  
-JD,JD.com  
+JD,JD Inc
 AEP,American Electric Power   
 ROST,Ross Stores  
 MNST,Monster Beverage 
 DDOG,Datadog  
 BKR,Baker Hughes 
 NDAQ,Nasdaq  
-TCOM,Trip.com  
+TCOM,Trip  
 KDP,Keurig Dr Pepper 
 ODFL,Old Dominion Freight Line  
 ARGX,argenx SE
@@ -107,7 +105,7 @@ ZM,Zoom Communications
 EXE,Expand Energy 
 NTAP,NetApp 
 TPG,TPG 
-WBD,Warner Bros. Discovery 
+WBD,Warner Bros Discovery 
 EXPE,Expedia  
 GFS,GlobalFoundries 
 FWONK,Formula One 
@@ -115,7 +113,7 @@ NTRA,Natera
 FWONA,Formula One 
 WDC,Western Digital 
 PTC,PTC 
-FOXA,Fox 
+FOXA,Fox News
 CINF,Cincinnati Financial 
 TER,Teradyne 
 ILMN,Illumina 
@@ -138,7 +136,7 @@ CG,The Carlyle
 STLD,Steel Dynamics 
 ULTA,Ulta Beauty 
 DKNG,DraftKings 
-JBHT,J.B. Hunt Transport Services 
+JBHT,JB Hunt Transport Services 
 PODD,Insulet 
 DOCU,DocuSign 
 PFG,Principal Financial  
@@ -148,13 +146,13 @@ RPRX,Royalty Pharma
 MDB,MongoDB 
 TRMB,Trimble 
 NTNX,Nutanix 
-KSPI,Joint Stock  Kaspi.kz
+KSPI,Joint Stock  Kaspikz
 CYBR,CyberArk Software 
 ZG,Zillow  
 SOFI,SoFi Technologies 
 MANH,Manhattan Associates 
 ICLR,ICON Public  
-NWS,News 
+NWS,News Corp
 UTHR,United Therapeutics 
 ALGN,Align Technology 
 AZPN,Aspen Technology 
@@ -162,8 +160,8 @@ SYM,Symbotic
 NWSA,News 
 HOLX,Hologic 
 ENTG,Entegris 
-FFIV,F5 
-WMG,Warner Music  .
+FFIV,F5 Inc
+WMG,Warner Music  
 DLTR,Dollar Tree 
 LNT,Alliant Energy 
 SWKS,Skyworks Solutions 
@@ -172,40 +170,40 @@ BSY,Bentley Systems Inorated
 CASY,Casey's General Stores 
 NBIX,Neurocrine Biosciences 
 OKTA,Okta 
-DPZ,Domino's Pizza 
+DPZ,Dominos
 RIVN,Rivian Automotive 
 EVRG,Evergy 
 DUOL,Duolingo 
 SFM,Sprouts Farmers Market 
 INCY,Incyte 
 EWBC,East West Ban 
-PAA,Plains All American Pipeline L.P.
+PAA,Plains All American Pipeline LP
 AKAM,Akamai Technologies 
 VTRS,Viatris 
 MBLY,Mobileye Global 
-WIX,Wix.com 
+WIX,wix.com
 ITCI,Intra-Cellular Therapies 
 SMMT,Summit Therapeutics 
 MRNA,Moderna 
 GLPI,Gaming and Leisure Properties 
 ESLT,Elbit Systems 
 GMAB,Genmab A/S
-LOGI,Logitech International S.A.
+LOGI,Logitech International SA
 SAIA,Saia 
 CRDO,Credo Technology  Holding 
 INSM,Insmed Inorated
 JKHY,Jack Henry & Associates 
 RKLB,Rocket Lab USA 
 LAMR,Lamar Advertising 
-CHRW,C.H. Robinson Worldwide 
+CHRW,CH Robinson Worldwide 
 HST,Host Hotels & Resorts 
 NDSN,Nordson 
-GGAL,Grupo Financiero Galicia S.A.
+GGAL,Grupo Financiero Galicia SA
 TXRH,Texas Roadhouse 
 TECH,Bio-Techne 
 FTAI,FTAI Aviation 
 BMRN,BioMarin Pharmaceutical 
-MNDY,monday.com 
+MNDY,monday 
 MMYT,MakeMyTrip 
 CPB,The Campbell's 
 AUR,Aurora Innovation 
@@ -253,23 +251,23 @@ ENPH,Enphase Energy
 WTFC,Wintrust Financial 
 HSIC,Henry Schein 
 TTAN,ServiceTitan 
-DJT,Trump Media & Technology  .
+DJT,Trump Media & Technology  
 FYBR,Frontier Communications Parent 
 RGEN,Repligen 
 HQY,HealthEquity 
 BRKR,Bruker 
-NBIS,Nebius  N.V.
+NBIS,Nebius  NV
 VERX,Vertex 
 CBSH,Commerce Bancshares 
 PEGA,Pegasystems 
-AGNC,AGNC Investment .
+AGNC,AGNC Investment 
 MKTX,MarketAxess  
 FSV,FirstService 
 HLNE,Hamilton Lane Inorated
 ASND,Ascendis Pharma A/S
 ROIV,Roivant Sciences 
 MTCH,Match  
-FRHC,Freedom Holding .
+FRHC,Freedom Holding 
 LSCC,Lattice Semiconductor 
 CHRD,Chord Energy 
 ONB,Old National Ban
@@ -305,7 +303,7 @@ BBIO,BridgeBio Pharma
 CGNX,Cognex 
 LNTH,Lantheus  
 CELH,Celsius  
-XP,XP 
+XP,XP Inc
 CSWI,CSW Industrials 
 LLYVK,Liberty Live 
 LLYVA,Liberty Live 
@@ -316,7 +314,7 @@ ASTS,AST SpaceMobile
 GNTX,Gentex 
 AMKR,Amkor Technology 
 NXT,Nextracker 
-QXO,QXO 
+QXO,QXO Inc
 BZ,Kanzhun 
 LITE,Lumentum  
 CROX,Crocs 
@@ -329,7 +327,7 @@ OLLI,Ollie's Bargain Outlet
 MMSI,Merit Medical Systems 
 UMBF,UMB Financial 
 LEGN,Legend Biotech 
-GRFS,Grifols S.A.
+GRFS,Grifols SA
 CACC,Credit Acceptance 
 LFUS,Littelfuse 
 UPST,Upstart  
@@ -373,7 +371,7 @@ OPCH,Option Care Health
 RRR,Red Rock Resorts 
 TENB,Tenable  
 PECO,Phillips Edison &  
-PAGP,Plains GP  L.P.
+PAGP,Plains GP  LP
 ESGR,Enstar  
 NXST,Nexstar Media  
 COLM,Columbia Sportswear 
@@ -386,15 +384,15 @@ BWIN,The Baldwin Insurance
 GH,Guardant Health 
 LANC,Lancaster Colony 
 AVT,Avnet 
-TIGO,Millicom International Cellular S.A.
+TIGO,Millicom International Cellular SA
 RDNT,RadNet 
 AEIS,Advanced Energy Industries 
 AXSM,Axsome Therapeutics 
 BRZE,Braze 
-PLXS,Plexus .
-BGC,BGC  
+PLXS,Plexus 
+BGC,BGC Group
 SANM,Sanmina 
-FELE,Franklin Electric Co. 
+FELE,Franklin Electric Co 
 IDCC,InterDigital 
 SKYW,SkyWest 
 GLNG,Golar LNG 
@@ -411,7 +409,7 @@ KRYS,Krystal Biotech
 LBTYB,Liberty Global 
 LBTYA,Liberty Global 
 VCTR,Victory Capital  
-GDS,GDS  
+GDS,GDS Holdings
 NWL,Newell Brands 
 VRRM,Verra Mobility 
 SRRK,Scholar Rock Holding 
@@ -436,8 +434,8 @@ CVCO,Cavco Industries
 BLKB,Blackbaud 
 FULT,Fulton Financial 
 PAYO,Payoneer Global 
-OMAB,Grupo Aeroportuario del Centro Norte S.A.B. de C.V.
-IAC,IAC 
+OMAB,Grupo Aeroportuario del Centro Norte SAB de CV
+IAC,IAC Inc
 BL,BlackLine 
 AGYS,Agilysys 
 ACLX,Arcellx 
@@ -452,7 +450,7 @@ EBC,Eastern Bankshares
 ACVA,ACV Auctions 
 POWI,Power Integrations 
 SHC,Sotera Health 
-ARLP,Alliance Resource Partners L.P.
+ARLP,Alliance Resource Partners LP
 TFSL,TFS Financial 
 ALKT,Alkami Technology 
 ATAT,Atour Lifestyle  
@@ -497,14 +495,14 @@ RGTI,Rigetti Computing
 XENE,Xenon Pharmaceuticals 
 LFST,LifeStance Health  
 PATK,Patrick Industries 
-ALRM,Alarm.com  
+ALRM,Alarm.com
 AMED,Amedisys 
 POWL,Powell Industries 
 LIF,Life360 
 BHF,Brighthouse Financial 
 ACAD,ACADIA Pharmaceuticals 
 NMIH,NMI  
-CVBF,CVB Financial .
+CVBF,CVB Financial 
 MGRC,McGrath Rent
 LUNR,Intuitive Machines 
 NVCR,NovoCure 
@@ -515,29 +513,29 @@ PLMR,Palomar
 KYMR,Kymera Therapeutics 
 IOSP,Innospec 
 SFNC,Simmons First National 
-HUBG,Hub  
+HUBG,Hub Group
 HTLF,Heartland Financial USA 
 DIOD,Diodes Inorated
 FIVN,Five9 
-JJSF,J&J Snack Foods .
+JJSF,J&J Snack Foods 
 MLTX,MoonLake Immunotherapeutics
-INDB,Independent Bank .
+INDB,Independent Bank 
 CPRX,Catalyst Pharmaceuticals 
 OSIS,OSI Systems 
 PDCO,Patterson Companies 
 PRGS,Progress Software 
 TWST,Twist Bioscience 
 QDEL,QuidelOrtho 
-MRUS,Merus N.V.
+MRUS,Merus NV
 JBLU,JetBlue Airways 
 EWTX,Edgewise Therapeutics 
 GT,The Goodyear Tire & Rubber 
 ALHC,Alignment Healthcare 
 ZLAB,Zai Lab 
-FFBC,First Financial Ban.
-TBBK,The Ban 
+FFBC,First Financial Ban
+TBBK,Bancorp
 PSMT,PriceSmart 
-PLTK,Playtika Holding .
+PLTK,Playtika Holding 
 TTMI,TTM Technologies 
 WAFD,WaFd 
 STNE,StoneCo 
@@ -546,7 +544,7 @@ LIVN,LivaNova
 DRVN,Driven Brands  
 MRCY,Mercury Systems 
 PSNY,Polestar Automotive Holding UK 
-NAMS,NewAmsterdam Pharma  N.V.
+NAMS,NewAmsterdam Pharma  NV
 SGRY,Surgery Partners 
 AMRX,Amneal Pharmaceuticals 
 JANX,Janux Therapeutics 
@@ -574,7 +572,7 @@ ADUS,Addus HomeCare
 BATRA,Atlanta Braves  
 VC,Visteon 
 PPBI,Pacific Premier Ban 
-ROIC,Retail Opportunity Investments .
+ROIC,Retail Opportunity Investments 
 ACLS,Axcelis Technologies 
 STRA,Strategic Education 
 MLCO,Melco Resorts & Entertainment 
@@ -609,7 +607,7 @@ SUPN,Supernus Pharmaceuticals
 HRMY,Harmony Biosciences  
 SLNO,Soleno Therapeutics 
 AVDX,AvidXchange  
-CRTO,Criteo S.A.
+CRTO,Criteo SA
 LGND,Ligand Pharmaceuticals Inorated
 HURN,Huron Consulting  
 PINC,Premier 
@@ -624,11 +622,11 @@ IDYA,IDEAYA Biosciences
 CGON,CG Oncology 
 INTR,Inter & Co 
 TRUP,Trupanion 
-HLMN,Hillman Solutions .
+HLMN,Hillman Solutions 
 OMCL,Omnicell 
 OSW,OneSpaWorld  
-CLOV,Clover Health Investments .
-WGS,GeneDx  .
+CLOV,Clover Health Investments 
+WGS,GeneDx  
 UFPT,UFP Technologies 
 HSAI,Hesai 
 CERT,Certara 
@@ -648,7 +646,7 @@ RXRX,Recursion Pharmaceuticals
 CIFR,Cipher Mining 
 CMPR,Cimpress 
 GERN,Geron 
-JAMF,Jamf Holding .
+JAMF,Jamf Holding 
 SPT,Sprout Social 
 TXG,10x Genomics 
 ALGT,Allegiant Travel 
@@ -657,7 +655,7 @@ SKWD,Skyward Specialty Insurance
 ATRC,AtriCure 
 IOVA,Iovance Biotherapeutics 
 APLD,Applied Digital 
-SBLK,Star Bulk Carriers .
+SBLK,Star Bulk Carriers 
 PRDO,Perdoceo Education 
 PGNY,Progyny 
 GDYN,Grid Dynamics  
@@ -686,7 +684,7 @@ UCTT,Ultra Clean
 DVAX,Dynavax Technologies 
 ARQT,Arcutis Biotherapeutics 
 CLMT,Calumet 
-IAS,Integral Ad Science Holding .
+IAS,Integral Ad Science Holding 
 MTTR,Matterport 
 ATEC,Alphatec  
 UPBD,Upbound  
@@ -694,7 +692,7 @@ DSGR,Distribution Solutions
 FTRE,Fortrea  
 NTCT,NetScout Systems 
 OPRA,Opera 
-DMLP,Dorchester Minerals L.P.
+DMLP,Dorchester Minerals LP
 DYN,Dyne Therapeutics 
 ARHS,Arhaus 
 TVTX,Travere Therapeutics 
@@ -702,7 +700,7 @@ GLPG,Galapagos NV
 INFN,Infinera 
 VRNT,Verint Systems 
 AKRO,Akero Therapeutics 
-SJW,SJW 
+SJW,SJW Group
 DXPE,DXP Enterprises 
 HDL,Super Hi International Holding 
 AAOI,Applied Optoelectronics 
@@ -714,7 +712,7 @@ PLAB,Photronics
 VECO,Veeco Instruments 
 DNUT,Krispy Kreme 
 ANDE,The Andersons 
-PLYA,Playa Hotels & Resorts N.V.
+PLYA,Playa Hotels & Resorts NV
 CLDX,Celldex Therapeutics 
 BCRX,BioCryst Pharmaceuticals 
 SSRM,SSR Mining 
@@ -728,12 +726,12 @@ VBTX,Veritex
 HLIT,Harmonic 
 EVO,Evotec SE
 HELE,Helen of Troy 
-SPNS,Sapiens International  N.V.
+SPNS,Sapiens International  NV
 INDV,Indivior 
 VIR,Vir Biotechnology 
 HIMX,Himax Technologies 
 ATSG,Air Transport Services  
-ACDC,ProFrac Holding .
+ACDC,ProFrac Holding 
 CSGS,CSG Systems International 
 TCBK,TriCo Bancshares
 NRIX,Nurix Therapeutics 
@@ -747,7 +745,7 @@ SDGR,Schrödinger
 XNCR,Xencor 
 CMPO,CompoSecure 
 INMD,InMode 
-LZ,LegalZoom.com 
+LZ,LegalZoom 
 AMPL,Amplitude 
 WABC,Westamerica Ban
 GIII,G-III Apparel  
@@ -756,7 +754,7 @@ VRDN,Viridian Therapeutics
 NVAX,Novavax 
 WINA,Winmark 
 QCRH,QCR  
-AHCO,AdaptHealth .
+AHCO,AdaptHealth 
 KNSA,Kiniksa Pharmaceuticals International 
 BLBD,Blue Bird 
 SGML,Sigma Lithium 
@@ -769,7 +767,7 @@ MDXG,MiMedx
 MRTN,Marten Transport 
 LILAK,Liberty Latin America 
 DCBO,Docebo 
-CBRL,Cracker Barrel Old Country Store 
+CBRL,Cracker Barrel 
 OCUL,Ocular Therapeutix 
 CCB,Coastal Financial 
 SYRE,Spyre Therapeutics 
@@ -791,10 +789,10 @@ ARVN,Arvinas
 CDNA,CareDx Inc
 THRM,Gentherm Inorated
 IMKTA,Ingles Markets Inorated
-IMKT.A,Ingles Markets Inorated
+IMKTA,Ingles Markets Inorated
 BMBL,Bumble 
 AMWD,American Woodmark 
-TBLA,Taboola.com 
+TBLA,Taboola 
 PZZA,Papa John's International 
 APOG,Apogee Enterprises 
 MYGN,Myriad Genetics 
@@ -802,15 +800,15 @@ NMFC,New Mountain Finance
 SCSC,ScanSource 
 GABC,German American Ban 
 SAFT,Safety Insurance  
-MOMO,Hello  
+MOMO,Hello Group
 EVGO,EVgo 
 DSP,Viant Technology 
 NVEE,NV5 Global 
-FOXF,Fox Factory Holding .
+FOXF,Fox Factory Holding 
 KALU,Kaiser Aluminum 
 COMM,CommScope Holding  
 ULH,Universal Logistics  
-CNCK,Coincheck  N.V.
+CNCK,Coincheck  NV
 TIGR,UP Fintech Holding 
 MRVI,Maravai LifeSciences  
 PFBC,Preferred Bank
@@ -819,13 +817,13 @@ XRX,Xerox
 INVA,Innoviva 
 EOSE,Eos Energy Enterprises 
 COHU,Cohu 
-EMBC,Embecta .
+EMBC,Embecta 
 FWRG,First Watch Restaurant  
 ACMR,ACM Research 
 XPEL,XPEL 
 BBSI,Barrett Business Services 
 DGII,Digi International 
-CECO,CECO Environmental .
+CECO,CECO Environmental 
 ELVN,Enliven Therapeutics 
 AMSC,American Superconductor 
 TLRY,Tilray Brands 
@@ -833,13 +831,13 @@ ANIP,ANI Pharmaceuticals
 AUPH,Aurinia Pharmaceuticals 
 LQDT,Liquidity Services 
 PEBO,Peoples Ban 
-OCFC,OceanFirst Financial .
+OCFC,OceanFirst Financial 
 PLSE,Pulse Biosciences 
 SNDX,Syndax Pharmaceuticals 
 BELFA,Bel Fuse 
 IGIC,International General Insurance  
-AMAL,Amalgamated Financial .
-CCEC,Capital Clean Energy Carriers .
+AMAL,Amalgamated Financial 
+CCEC,Capital Clean Energy Carriers 
 FSUN,FirstSun Capital Ban
 STAA,STAAR Surgical 
 INOD,Innodata 
@@ -848,7 +846,7 @@ AOSL,Alpha and Omega Semiconductor
 PENG,Penguin Solutions 
 COLL,Collegium Pharmaceutical 
 CSWC,Capital Southwest 
-TH,Target Hospitality .
+TH,Target Hospitality 
 ADPT,Adaptive Biotechnologies 
 VMEO,Vimeo 
 PDFS,PDF Solutions 
@@ -861,12 +859,12 @@ ICHR,Ichor
 VSAT,Viasat 
 LQDA,Liquidia 
 CMCO,Columbus McKinnon 
-JBSS,John B. Sanfilippo & Son 
+JBSS,John B Sanfilippo & Son 
 BELFB,Bel Fuse 
 ARRY,Array Technologies 
 PCRX,Pacira BioSciences 
 BCYC,Bicycle Therapeutics 
-HEPS,D-Market Elektronik Hizmetler ve Ticaret A.S.
+HEPS,D-Market Elektronik
 BLMN,Bloomin' Brands 
 BFC,Bank First 
 SDA,SunCar Technology  
@@ -880,7 +878,7 @@ FWRD,Forward Air
 RDFN,Redfin 
 HSTM,HealthStream 
 MATW,Matthews International 
-AVXL,Anavex Life Sciences .
+AVXL,Anavex Life Sciences 
 TRS,TriMas 
 BZAI,Blaize  
 PNTG,The Pennant  
@@ -888,15 +886,15 @@ TRNS,Transcat
 HSII,Heidrick & Struggles International 
 DMRC,Digimarc 
 OCS,Oculis Holding AG
-BHRB,Burke & Herbert Financial Services .
+BHRB,Burke & Herbert Financial Services 
 BGM,BGM  
 CGBD,Carlyle Secured Lending 
-CVAC,CureVac N.V.
+CVAC,CureVac NV
 RDWR,Radware 
 ANGI,Angi 
-PFC,Premier Financial .
-PHVS,Pharvaris N.V.
-SLRC,SLR Investment .
+PFC,Premier Financial 
+PHVS,Pharvaris NV
+SLRC,SLR Investment 
 AVAH,Aveanna Healthcare  
 STKL,SunOpta 
 COGT,Cogent Biosciences 
@@ -921,7 +919,7 @@ CRSR,Corsair Gaming
 TRIN,Trinity Capital 
 HCSG,Healthcare Services  
 FUFU,BitFuFu 
-NESR,National Energy Services Reunited .
+NESR,National Energy Services Reunited 
 UXIN,Uxin 
 SNCY,Sun Country Airlines  
 FIP,FTAI Infrastructure 
@@ -945,7 +943,7 @@ MCBS,MetroCity Bankshares
 REPL,Replimune  
 FBYD,Falcon's Beyond Global 
 ADTN,ADTRAN  
-PPTA,Perpetua Resources .
+PPTA,Perpetua Resources 
 CEVA,CEVA 
 IIIV,i3 Verticals 
 CDMO,Avid Bioservices 
@@ -961,14 +959,14 @@ PLRX,Pliant Therapeutics
 ORIC,ORIC Pharmaceuticals 
 GSM,Ferroglobe 
 ADV,Advantage Solutions 
-ARKO,Arko .
+ARKO,Arko 
 NBBK,NB Ban 
 ASTE,Astec Industries 
 SHLS,Shoals Technologies  
 SEPN,Septerna 
 EGBN,Eagle Ban 
 CSIQ,Canadian Solar 
-SCWX,SecureWorks .
+SCWX,SecureWorks 
 BFST,Business First Bancshares 
 CRON,Cronos  
 ODP,The ODP 
@@ -976,7 +974,7 @@ FCBC,First Community Bankshares
 CFFN,Capitol Federal Financial 
 IRMD,IRADIMED 
 TIPT,Tiptree 
-TCPC,BlackRock TCP Capital .
+TCPC,BlackRock TCP Capital 
 CFB,CrossFirst Bankshares 
 ETNB,89bio 
 MLAB,Mesa Laboratories 
@@ -1005,9 +1003,9 @@ CGNT,Cognyte Software
 HBNC,Horizon Ban 
 PUBM,PubMatic 
 HAFC,Hanmi Financial 
-IMTX,Immatics N.V.
+IMTX,Immatics NV
 OFIX,Orthofix Medical 
-QURE,uniQure N.V.
+QURE,uniQure NV
 UFCS,United Fire  
 SFIX,Stitch Fix 
 MVST,Microvast  
@@ -1026,7 +1024,7 @@ FSBC,Five Star Ban
 AMRK,A-Mark Precious Metals 
 SVRA,Savara 
 WRLD,World Acceptance 
-PHAR,Pharming  N.V.
+PHAR,Pharming  NV
 UPB,Upstream Bio 
 CAC,Camden National 
 CNDT,Conduent Inorated
@@ -1034,8 +1032,8 @@ SHEN,Shenandoah Telecommunications
 RLAY,Relay Therapeutics 
 EOLS,Evolus 
 HNST,The Honest  
-CLNE,Clean Energy Fuels .
-CRML,Critical Metals .
+CLNE,Clean Energy Fuels 
+CRML,Critical Metals 
 INV,Innventure 
 BVS,Bioventus 
 IMNM,Immunome 
@@ -1045,14 +1043,14 @@ SMBC,Southern Missouri Ban
 VINP,Vinci Partners Investments 
 SSYS,Stratasys 
 GPRE,Green Plains 
-EU,enCore Energy .
+EU,enCore Energy 
 PRTH,Priority Technology  
 ABUS,Arbutus Biopharma 
 BYRN,Byrna Technologies 
 AUTL,Autolus Therapeutics 
 MGIC,Magic Software Enterprises 
 RMR,The RMR  
-DH,Definitive Healthcare .
+DH,Definitive Healthcare 
 TRST,TrustCo Bank  NY
 PLPC,Preformed Line Products 
 SPTN,SpartanNash 
@@ -1079,7 +1077,7 @@ CLMB,Climb Global Solutions
 ALTI,AlTi Global 
 NCMI,National CineMedia 
 CRNC,Cerence 
-ZJK,ZJK Industrial Co. 
+ZJK,ZJK Industrial Co 
 FRPH,FRP  
 SPFI,South Plains Financial 
 DOGZ,Dogness (International) 
@@ -1107,7 +1105,7 @@ TMCI,Treace Medical Concepts
 HIFS,Hingham Institution for Savings
 SRDX,Surmodics 
 MSBI,Midland States Ban 
-DDI,DoubleDown Interactive Co. 
+DDI,DoubleDown Interactive Co 
 SMLR,Semler Scientific 
 FLGT,Fulgent Genetics 
 ATEX,Anterix 
@@ -1116,18 +1114,17 @@ FFWM,First Foundation
 RZLV,Rezolve AI 
 RSVR,Reservoir Media 
 GEVO,Gevo 
-INNV,InnovAge Holding .
+INNV,InnovAge Holding 
 SENEB,Seneca Foods 
 KELYA,Kelly Services 
-FMNB,Farmers National Banc .
+FMNB,Farmers National Banc 
 SENEA,Seneca Foods 
 STOK,Stoke Therapeutics 
 DHC,Diversified Healthcare Trust
-PFIS,Peoples Financial Services .
+PFIS,Peoples Financial Services 
 NFBK,Northfield Ban
 KELYB,Kelly Services 
 METC,Ramaco Resources 
-METCB,Ramaco Resources 
 CCNE,CNB Financial 
 MNMD,Mind Medicine (MindMed) 
 NNDM,Nano Dimension 
@@ -1138,12 +1135,12 @@ ALRS,Alerus Financial
 MXCT,MaxCyte 
 ANGO,AngioDynamics 
 GLRE,Greenlight Capital Re 
-BCAL,California Ban.
+BCAL,California Ban
 EVLV,Evolv Technologies  
 MLYS,Mineralys Therapeutics 
 ORKA,Oruka Therapeutics 
 RAPP,Rapport Therapeutics 
-FLWS,1-800-FLOWERS.COM 
+FLWS,1800 Flowers
 RNAC,Cartesian Therapeutics 
 DGICB,Donegal  
 PRCH,Porch  
@@ -1169,11 +1166,11 @@ TRML,Tourmaline Bio
 KE,Kimball Electronics 
 AIP,Arteris 
 VERV,Verve Therapeutics 
-PROK,ProKidney .
+PROK,ProKidney 
 AROW,Arrow Financial 
 MITK,Mitek Systems 
 GCBC,Greene County Ban 
-KRNY,Kearny Financial .
+KRNY,Kearny Financial 
 ARCT,Arcturus Therapeutics  
 VALU,Value Line 
 SIGA,SIGA Technologies 
@@ -1191,15 +1188,15 @@ VBNK,VersaBank
 GHRS,GH Research 
 SVC,Service Properties Trust
 ATXS,Astria Therapeutics 
-BIOX,Bioceres Crop Solutions .
+BIOX,Bioceres Crop Solutions 
 URGN,UroGen Pharma 
 FFIC,Flushing Financial 
 ESPR,Esperion Therapeutics 
 TRDA,Entrada Therapeutics 
-GRVY,Gravity Co. 
-GRPN,on 
+GRVY,Gravity Co 
+GRPN,Groupon
 ITIC,Investors Title 
-BSVN,Bank7 .
+BSVN,Bank7 
 ZVRA,Zevra Therapeutics 
 QTRX,Quanterix 
 SHYF,The Shyft  
@@ -1207,7 +1204,7 @@ ACTG,Acacia Research
 NRIM,Northrim Ban 
 LMNR,Limoneira 
 DCGO,DocGo 
-RWAY,Runway Growth Finance .
+RWAY,Runway Growth Finance 
 PRTC,PureTech Health 
 TBPH,Theravance Biopharma 
 AKBA,Akebia Therapeutics 
@@ -1221,10 +1218,10 @@ CELC,Celcuity
 CLPT,ClearPoint Neuro 
 KMDA,Kamada 
 MFH,Mercurity Fintech Holding 
-CWCO,Consolidated Water Co. 
+CWCO,Consolidated Water Co 
 USAP,Universal Stainless & Alloy Products 
 HAIN,The Hain Celestial  
-NETD,Nabors Energy Transition . II
+NETD,Nabors Energy Transition  II
 CVRX,CVRx 
 DHIL,Diamond Hill Investment  
 LESL,Leslie's 
@@ -1234,7 +1231,7 @@ OFLX,Omega Flex
 LVRO,Lavoro 
 LE,Lands' End 
 DCTH,Delcath Systems 
-SOHU,Sohu.com 
+SOHU,Sohu 
 ORGO,Organogenesis  
 LSAK,Lesaka Technologies 
 ABVX,ABIVAX Société Anonyme
@@ -1251,7 +1248,7 @@ ALLO,Allogene Therapeutics
 OABI,OmniAb 
 DOYU,DouYu International  
 KALV,KalVista Pharmaceuticals 
-BRY,Berry 
+BRY,Berry Corporation
 AEHR,Aehr Test Systems 
 CCIX,Churchill Capital  IX
 NIPG,NIP  
@@ -1265,7 +1262,7 @@ ZIMV,ZimVie
 BMRC,Bank of Marin Ban
 LGTY,Logility Supply Chain Solutions 
 ASPI,ASP Isotopes 
-PAMT,Pamt .
+PAMT,Pamt 
 ILLR,Triller  
 PANL,Pangaea Logistics Solutions 
 FMAO,Farmers & Merchants Ban 
@@ -1277,14 +1274,14 @@ HRZN,Horizon Technology Finance
 API,Agora 
 PSNL,Personalis 
 APEI,American Public Education 
-GPAT,GP-Act III Acquisition .
+GPAT,GP-Act III Acquisition 
 PNRG,PrimeEnergy Resources 
 PRME,Prime Medicine 
 BWB,Bridgewater Bancshares 
 CYRX,Cryoport 
-MBAV,M3-Brigade Acquisition V .
+MBAV,M3-Brigade Acquisition V 
 WTBA,West Ban 
-NYXH,Nyxoah S.A.
+NYXH,Nyxoah SA
 USCB,USCB Financial  
 NPCE,NeuroPace 
 SNBR,Sleep Number 
@@ -1310,7 +1307,7 @@ ZBIO,Zenas BioPharma
 GDEV,GDEV 
 WEYS,Weyco  
 LWAY,Lifeway Foods 
-PKOH,Park-Ohio  .
+PKOH,Park-Ohio  
 QSI,Quantum-Si inorated
 CTNM,Contineum Therapeutics 
 TSHA,Taysha Gene Therapies 
@@ -1326,11 +1323,11 @@ VMD,Viemed Healthcare
 AUDC,AudioCodes 
 ASUR,Asure Software 
 CIVB,Civista Bancshares 
-CCIR,Cohen Circle Acquisition . I
+CCIR,Cohen Circle Acquisition  I
 NATH,Nathan's Famous 
 TBRG,TruBridge 
 OB,Outbrain 
-VACH,Voyager Acquisition .
+VACH,Voyager Acquisition 
 LNZA,LanzaTech Global 
 RIGL,Rigel Pharmaceuticals 
 CRVS,Corvus Pharmaceuticals 
@@ -1340,9 +1337,9 @@ BLZE,Backblaze
 CMRX,Chimerix 
 COFS,ChoiceOne Financial Services 
 BLDE,Blade Air Mobility 
-BEAG,Bold Eagle Acquisition .
+BEAG,Bold Eagle Acquisition 
 PBPB,Potbelly 
-NODK,NI  
+NODK,NI Holdings
 MCFT,MasterCraft Boat  
 ZUMZ,Zumiez 
 TTSH,Tile Shop  
@@ -1353,32 +1350,32 @@ INBK,First Internet Ban
 DENN,Denny's 
 EXFY,Expensify 
 REFI,Chicago Atlantic Real Estate Finance 
-UROY,Uranium Royalty .
+UROY,Uranium Royalty 
 PDLB,Ponce Financial  
 CZFS,Citizens Financial Services 
 ALDX,Aldeyra Therapeutics 
 LSEA,Landsea Homes 
-MLAC,Mountain Lake Acquisition .
+MLAC,Mountain Lake Acquisition 
 SFST,Southern First Bancshares 
 SLDP,Solid Power 
 ALDF,Aldel Financial II 
-FSTR,L.B. Foster 
+FSTR,LB Foster 
 BCML,BayCom 
 AQST,Aquestive Therapeutics 
 TNGX,Tango Therapeutics 
-VCIC,Vine Hill Capital Investment .
+VCIC,Vine Hill Capital Investment 
 OBT,Orange County Ban 
 TRVI,Trevi Therapeutics 
 CZNC,Citizens & Northern 
 FNLC,The First Ban 
 NECB,Northeast Community Ban 
 ATYR,aTyr Pharma 
-GSRT,GSR III Acquisition .
-HOND,HCM II Acquisition .
+GSRT,GSR III Acquisition 
+HOND,HCM II Acquisition 
 EHTH,eHealth 
 SMTI,Sanara MedTech 
 INVZ,Innoviz Technologies 
-LPBB,Launch Two Acquisition .
+LPBB,Launch Two Acquisition 
 YMAB,Y-mAbs Therapeutics 
 IMMP,Immutep 
 CCCC,C4 Therapeutics 
@@ -1388,7 +1385,7 @@ ITOS,iTeos Therapeutics
 PBFS,Pioneer Ban 
 VYGR,Voyager Therapeutics 
 GMGI,Golden Matrix  
-LPAA,Launch One Acquisition .
+LPAA,Launch One Acquisition 
 PCB,PCB Ban
 PCYO,Pure Cycle 
 RGP,Resources Connection 
@@ -1401,9 +1398,9 @@ RR,Richtech Robotics
 AENT,Alliance Entertainment Holding 
 ARBE,Arbe Robotics 
 TSSI,TSS 
-FRST,Primis Financial .
-PDYN,Palladyne AI .
-CDRO,Codere Online Luxembourg S.A.
+FRST,Primis Financial 
+PDYN,Palladyne AI 
+CDRO,Codere Online Luxembourg SA
 NGNE,Neurogene 
 PLBC,Plumas Ban
 HDSN,Hudson Technologies 
@@ -1419,9 +1416,9 @@ ZSPC,zSpace
 ACRS,Aclaris Therapeutics 
 AFRI,Forafric Global 
 FLXS,Flexsteel Industries 
-DRDB,Roman DBDR Acquisition . II
+DRDB,Roman DBDR Acquisition  II
 DOMO,Domo 
-ARQ,Arq 
+ARQ,Arq Inc
 ACIU,AC Immune SA
 NATR,Nature's Sunshine Products 
 LXRX,Lexicon Pharmaceuticals 
@@ -1434,7 +1431,7 @@ FDBC,Fidelity D & D Ban
 VNDA,Vanda Pharmaceuticals 
 INGN,Inogen 
 BYND,Beyond Meat 
-MVBF,MVB Financial .
+MVBF,MVB Financial 
 ONEW,OneWater Marine 
 ARQQ,Arqit Quantum 
 TDUP,ThredUp 
@@ -1445,7 +1442,7 @@ LWLG,Lightwave Logic
 SAMG,Silvercrest Asset Management  
 HITI,High Tide 
 ICG,Intchains  
-BACQ,Bleichroeder Acquisition . I
+BACQ,Bleichroeder Acquisition  I
 SLN,Silence Therapeutics 
 ZYXI,Zynex 
 BNTC,Benitec Biopharma 
@@ -1453,7 +1450,7 @@ INSE,Inspired Entertainment
 LAZR,Luminar Technologies 
 SBT,Sterling Ban  (Southfield MI)
 DSGN,Design Therapeutics 
-HLXB,Helix Acquisition . II
+HLXB,Helix Acquisition  II
 TZOO,Travelzoo
 NVX,NOVONIX 
 NAUT,Nautilus Biotechnology 
@@ -1461,7 +1458,7 @@ GENK,GEN Restaurant
 ESEA,Euroseas 
 ELDN,Eledon Pharmaceuticals 
 FHTX,Foghorn Therapeutics 
-ATAI,Atai Life Sciences N.V.
+ATAI,Atai Life Sciences NV
 AVNW,Aviat Networks 
 TLS,Telos 
 NTWO,Newbury Street II Acquisition 
@@ -1470,7 +1467,7 @@ TSBK,Timberland Ban
 WSBF,Waterstone Financial 
 BDMD,Baird Medical Investment  
 ILPT,Industrial Logistics Properties Trust
-PRQR,ProQR Therapeutics N.V.
+PRQR,ProQR Therapeutics NV
 VSTM,Verastem 
 CMPS,COMPASS Pathways 
 LFCR,Lifecore Biomedical 
@@ -1488,7 +1485,7 @@ BWFG,Bankwell Financial
 ALCO,Alico 
 ARAY,Accuray Inorated
 HRTX,Heron Therapeutics 
-OACC,Oaktree Acquisition . III Life Sciences
+OACC,Oaktree Acquisition  III Life Sciences
 ABEO,Abeona Therapeutics 
 OPBK,OP Ban
 DMAC,DiaMedica Therapeutics 
@@ -1509,18 +1506,18 @@ CDTX,Cidara Therapeutics
 SMID,Smith-Midland 
 CTRN,Citi Trends 
 FULC,Fulcrum Therapeutics 
-WILC,G. Willi-Food International 
+WILC,G Willi-Food International 
 OVLY,Oak Valley Ban
 TVGN,Tevogen Bio  
-MACI,Melar Acquisition . I
+MACI,Melar Acquisition  I
 GASS,StealthGas 
 LRMR,Larimar Therapeutics 
 ACB,Aurora Cannabis 
-BTMD,biote .
-NWFL,Norwood Financial .
+BTMD,biote 
+NWFL,Norwood Financial 
 TSAT,Telesat 
 FINW,FinWise Ban
-LCNB,LCNB .
+LCNB,LCNB 
 UTMD,Utah Medical Products 
 KVAC,Keen Vision Acquisition 
 FUNC,First United 
@@ -1528,9 +1525,9 @@ NWTN,NWTN
 OCGN,Ocugen 
 LFMD,LifeMD 
 DYNX,Dynamix 
-AVR,Anteris Technologies Global .
-MFIN,Medallion Financial .
-MBCN,Middlefield Banc .
+AVR,Anteris Technologies Global 
+MFIN,Medallion Financial 
+MBCN,Middlefield Banc 
 OBIO,Orchestra BioMed  
 GOSS,Gossamer Bio 
 ESOA,Energy Services of America 
@@ -1538,7 +1535,7 @@ AOUT,American Outdoor Brands
 MDWD,MediWound 
 ESCA,Escalade Inorated
 FXNC,First National 
-PLMK,Plum Acquisition . IV
+PLMK,Plum Acquisition  IV
 MKTW,MarketWise 
 RGCO,RGC Resources 
 MOLN,Molecular Partners AG
@@ -1557,16 +1554,16 @@ MGNX,MacroGenics
 FCEL,FuelCell Energy 
 APPS,Digital Turbine 
 HWBK,Hawthorn Bancshares 
-SSP,The E.W. Scripps 
+SSP,The EW Scripps 
 AEYE,AudioEye 
 HMST,HomeStreet 
 ISTR,Investar Holding 
 OGI,Organigram  
-PROC,Procaps  S.A.
+PROC,Procaps  SA
 VABK,Virginia National Bankshares 
 PHLT,Performant Healthcare 
 VSTA,Vasta Platform 
-IVA,Inventiva S.A.
+IVA,Inventiva SA
 PESI,Perma-Fix Environmental Services 
 INBX,Inhibrx Biosciences 
 BLFY,Blue Foundry Ban
@@ -1576,10 +1573,10 @@ BVFL,BV Financial
 RELL,Richardson Electronics 
 BWAY,BrainsWay 
 TTEC,TTEC  
-TDAC,Translational Development Acquisition .
+TDAC,Translational Development Acquisition 
 SEVN,Seven Hills Realty Trust
 BSII,Black Spade Acquisition II Co
-TRVG,trivago N.V.
+TRVG,trivago NV
 ONDS,Ondas  
 NKSH,National Bankshares 
 FTEL,Fitell 
@@ -1594,7 +1591,7 @@ EGAN,eGain
 FCCO,First Community 
 MRCC,Monroe Capital 
 LXEO,Lexeo Therapeutics 
-OXSQ,Oxford Square Capital .
+OXSQ,Oxford Square Capital 
 TCX,Tucows 
 KRMD,KORU Medical Systems 
 CGEN,Compugen 
@@ -1602,7 +1599,7 @@ YIBO,Planet Image International
 JUNS,Jupiter Neurosciences 
 BRLT,Brilliant Earth  
 NUTX,Nutex Health 
-BTOC,Armlogi Holding .
+BTOC,Armlogi Holding 
 JRVR,James River   
 TROO,TROOPS 
 DSY,Big Tree Cloud  
@@ -1616,24 +1613,24 @@ CLAR,Clarus
 LYEL,Lyell Immunopharma 
 SKGR,SK Growth Opportunities 
 FLL,Full House Resorts 
-INSG,Inseego .
+INSG,Inseego 
 MYFW,First Western Financial 
 ARTV,Artiva Biotherapeutics 
 STFS,Star Fashion Culture  
 ACRV,Acrivon Therapeutics 
 EML,The Eastern 
-GNFT,Genfit S.A.
+GNFT,Genfit SA
 FSFG,First Savings Financial  
 RMBL,RumbleOn 
 VOR,Vor Biopharma 
-CLLS,Cellectis S.A.
+CLLS,Cellectis SA
 UBFO,United Security Bancshares
 VXRT,Vaxart 
 CHRS,Coherus BioSciences 
 KEQU,Kewaunee Scientific 
 NKTR,Nektar Therapeutics
 BZUN,Baozun 
-AZ,A2Z Cust2Mate Solutions .
+AZ,A2Z Cust2Mate Solutions 
 MRBK,Meridian 
 NEGG,Newegg Commerce 
 VOXX,VOXX International 
@@ -1644,13 +1641,13 @@ PEBK,Peoples Ban of North Carolina
 GPRO,GoPro 
 GLSI,Greenwich LifeSciences 
 POWW,AMMO 
-VIRC,Virco Mfg. 
+VIRC,Virco Mfg 
 CRGO,Freightos 
 CKPT,Checkpoint Therapeutics 
-QMCO,Quantum 
+QMCO,Quantum Corp
 ADUR,Aduro Clean Technologies 
 BDSX,Biodesix 
-IBAC,IB Acquisition .
+IBAC,IB Acquisition 
 CZWI,Citizens Community Ban 
 SSTI,SoundThinking 
 III,Information Services  
@@ -1658,23 +1655,23 @@ STRT,Strattec Security
 STRS,Stratus Properties 
 ATLO,Ames National 
 NKTX,Nkarta 
-ESHA,ESH Acquisition .
+ESHA,ESH Acquisition 
 SGHT,Sight Sciences 
 FENC,Fennec Pharmaceuticals 
 ISSC,Innovative Solutions and Support 
 BAER,Bridger Aerospace   
 BROG,Brooge Energy 
-HCVI,Hennessy Capital Investment . VI
+HCVI,Hennessy Capital Investment  VI
 ADAP,Adaptimmune Therapeutics 
 HFFG,HF Foods  
 CSPI,CSP 
 RFAI,RF Acquisition  II
-JYNT,The Joint .
+JYNT,The Joint 
 QRTEB,Qurate Retail 
 RCMT,RCM Technologies 
-PHH,Park Ha Biological Technology Co. 
+PHH,Park Ha Biological Technology Co 
 ORGN,Origin Materials 
-IPHA,Innate Pharma S.A.
+IPHA,Innate Pharma SA
 BFIN,BankFinancial 
 CRBP,Corbus Pharmaceuticals  
 STRO,Sutro Biopharma 
@@ -1684,17 +1681,17 @@ CSTE,Caesarstone
 FTLF,FitLife Brands 
 PTMN,Portman Ridge Finance 
 PVLA,Palvella Therapeutics 
-WLAC,Willow Lane Acquisition .
-BLNK,Blink Charging Co.
-IFRX,InflaRx N.V.
+WLAC,Willow Lane Acquisition 
+BLNK,Blink Charging Co
+IFRX,InflaRx NV
 NCTY,The9 
 PDEX,Pro-Dex 
 BMEA,Biomea Fusion 
 NEOV,NeoVolta 
 TLSI,TriSalus Life Sciences 
 PLBY,PLBY  
-BANX,ArrowMark Financial .
-MMLP,Martin Midstream Partners L.P.
+BANX,ArrowMark Financial 
+MMLP,Martin Midstream Partners LP
 ZJYL,Jin Medical International 
 DXLG,Destination XL  
 ISRL,Israel Acquisitions 
@@ -1703,8 +1700,8 @@ CXDO,Crexendo
 CDLX,Cardlytics 
 BETR,Better Home & Finance Holding 
 CBFV,CB Financial Services 
-NBTX,Nanobiotix S.A.
-RILY,B. Riley Financial 
+NBTX,Nanobiotix SA
+RILY,B Riley Financial 
 TELO,Telomir Pharmaceuticals 
 MRAM,Everspin Technologies 
 CRBU,Caribou Biosciences 
@@ -1723,9 +1720,9 @@ VTYX,Ventyx Biosciences
 EUDA,EUDA Health  
 NIU,Niu Technologies
 LAES,SEALSQ 
-TAVI,Tavia Acquisition .
-SSSS,SuRo Capital .
-NNBR,NN 
+TAVI,Tavia Acquisition 
+SSSS,SuRo Capital 
+NNBR,NN Inc
 AKYA,Akoya Biosciences 
 SFBC,Sound Financial Ban 
 VEEA,Veea 
@@ -1744,10 +1741,10 @@ QRTEA,Qurate Retail
 MPAA,Motorcar Parts of America 
 CEP,Cantor Equity Partners 
 UEIC,Universal Electronics 
-QIPT,Quipt Home Medical .
+QIPT,Quipt Home Medical 
 ECBK,ECB Ban 
 XNET,Xunlei 
-SKYX,SKYX Platforms .
+SKYX,SKYX Platforms 
 ULBI,Ultralife 
 BRLS,Borealis Foods 
 GGR,Gogoro 
@@ -1758,7 +1755,7 @@ RMBI,Richmond Mutual Ban
 VGAS,Verde Clean Fuels 
 OPOF,Old Point Financial 
 ZURA,Zura Bio 
-LSE,Leishen Energy Holding Co. 
+LSE,Leishen Energy Holding Co 
 LCUT,Lifetime Brands 
 CSBR,Champions Oncology 
 YAAS,Youxin Technology 
@@ -1776,31 +1773,31 @@ DTI,Drilling Tools International
 LPSN,LivePerson 
 BSET,Bassett Furniture Industries Inorated
 CHSN,Chanson International Holding
-YXT,YXT.COM  Holding 
+YXT,YXT  Holding 
 RSSS,Research Solutions 
 WIMI,WiMi Hologram Cloud 
 GNSS,Genasys 
 BDTX,Black Diamond Therapeutics 
-MHLD,Maiden  
+MHLD,Maiden Holdings
 QH,Quhuo 
 MAMO,Massimo 
 EBMT,Eagle Ban Montana 
 IGMS,IGM Biosciences 
 CSLR,Complete Solaria 
-STHO,Star 
-PLMJ,Plum Acquisition . III
+STHO,Star Holdings
+PLMJ,Plum Acquisition  III
 CAAS,China Automotive Systems 
 RVSB,Riverview Ban 
 XBIT,XBiotech 
 FNWD,Finward Ban
 ALGS,Aligos Therapeutics 
-VBFC,Village Bank and Trust Financial .
+VBFC,Village Bank and Trust Financial 
 HTLM,HomesToLife 
-VOXR,Vox Royalty .
+VOXR,Vox Royalty 
 SLNG,Stabilis Solutions 
 TNYA,Tenaya Therapeutics 
 KVHI,KVH Industries 
-SIEB,Siebert Financial .
+SIEB,Siebert Financial 
 AFBI,Affinity Bancshares 
 PPIH,Perma-Pipe International  
 HURC,Hurco Companies 
@@ -1810,23 +1807,23 @@ ELUT,Elutia
 PCSC,Perceptive Capital Solutions 
 VCSA,Vacasa 
 ACHV,Achieve Life Sciences 
-ACNT,Ascent Industries Co.
+ACNT,Ascent Industries Co
 PHUN,Phunware 
-DLHC,DLH  .
-GECC,Great Elm Capital .
+DLHC,DLH  
+GECC,Great Elm Capital 
 BZFD,BuzzFeed 
-SVII,Spring Valley Acquisition . II
-IPXX,Inflection Point Acquisition . II
+SVII,Spring Valley Acquisition  II
+IPXX,Inflection Point Acquisition  II
 SRTS,Sensus Healthcare 
 NOTV,Inotiv 
 UPLD,Upland Software 
-PPYA,Papaya Growth Opportunity . I
+PPYA,Papaya Growth Opportunity  I
 LGO,Largo 
 LVO,LiveOne 
 JYD,Jayud Global Logistics 
 VERI,Veritone 
 ATOS,Atossa Therapeutics 
-ZEO,Zeo Energy .
+ZEO,Zeo Energy 
 CABA,Cabaletta Bio 
 VERU,Veru 
 OFS,OFS Capital 
@@ -1838,9 +1835,9 @@ RDZN,Roadzen
 DLTH,Duluth  
 MAXN,Maxeon Solar Technologies 
 TAYD,Taylor Devices 
-USGO,U.S. GoldMining 
-YSXT,YSX Tech. Co. 
-OVBC,Ohio Valley Banc .
+USGO,US GoldMining 
+YSXT,YSX Tech Co 
+OVBC,Ohio Valley Banc 
 STKS,The ONE  Hospitality 
 FBRX,Forte Biosciences 
 VRA,Vera Bradley 
@@ -1856,7 +1853,7 @@ SRBK,SR Ban
 FCAP,First Capital 
 ECOR,electroCore 
 CPHC,Canterbury Park Holding 
-SHMD,SCHMID  N.V.
+SHMD,SCHMID  NV
 WMPN,William Penn Ban
 ENTA,Enanta Pharmaceuticals 
 IZTC,Invizyne Technologies 
@@ -1869,14 +1866,14 @@ PRPL,Purple Innovation
 MSW,Ming Shing   
 PROV,Provident Financial  
 CURI,CuriosityStream 
-BSBK,Bogota Financial .
+BSBK,Bogota Financial 
 SIFY,Sify Technologies 
 HUHU,HUHUTECH International  
 PFX,PhenixFIN 
 AXTI,AXT 
 FONR,FONAR 
 KLXE,KLX Energy Services  
-AFJK,Aimei Health Technology Co. 
+AFJK,Aimei Health Technology Co 
 ADVM,Adverum Biotechnologies 
 ACOG,Alpha Cognition 
 SPHA,Shepherd Ave Capital Acquisition 
@@ -1884,7 +1881,7 @@ PBHC,Pathfinder Ban
 EVGR,Evergreen 
 GLAC,Global Lights Acquisition 
 RRGB,Red Robin Gourmet Burgers 
-IVCA,Invest AI Acquisition .
+IVCA,Invest AI Acquisition 
 QETA,Quetta Acquisition 
 SY,So-Young International 
 BTM,Bitcoin Depot 
@@ -1905,36 +1902,36 @@ XCH,XCHG
 ASMB,Assembly Biosciences 
 HLVX,HilleVax 
 HNNA,Hennessy Advisors 
-DBVT,DBV Technologies S.A.
+DBVT,DBV Technologies SA
 MNOV,MediciNova 
-IROH,Iron Horse Acquisitions .
+IROH,Iron Horse Acquisitions 
 QSG,QuantaSing  
 KNDI,Kandi Technologies  
 FATBB,FAT Brands 
 OPRX,OptimizeRx 
 IMUX,Immunic 
-GRWG,GrowGeneration .
+GRWG,GrowGeneration 
 CNTY,Century Casinos 
 ALOT,AstroNova 
 SCWO,374Water 
 FSHP,Flag Ship Acquisition 
 PAVS,Paranovus Entertainment Technology 
 DTSQ,DT Cloud Star Acquisition 
-FOSL,Fossil  
-HSPO,Horizon Space Acquisition I .
-PWUP,PowerUp Acquisition .
+FOSL,Fossil Group
+HSPO,Horizon Space Acquisition I 
+PWUP,PowerUp Acquisition 
 INVE,Identiv 
 IMAB,I-Mab
 INZY,Inozyme Pharma 
 BYNO,byNordic Acquisition 
 PYXS,Pyxis Oncology 
 JSPR,Jasper Therapeutics 
-USAU,U.S. Gold .
+USAU,US Gold 
 HBIO,Harvard Bioscience 
 ALXO,ALX Oncology  
 TLSA,Tiziana Life Sciences 
 MCHX,Marchex 
-VMCA,Valuence Merger . I
+VMCA,Valuence Merger  I
 OKUR,OnKure Therapeutics 
 SFWL,Shengfeng Development 
 PEPG,PepGen 
@@ -1944,19 +1941,19 @@ AITR,AI Transportation Acquisition
 ORKT,Orangekloud Technology 
 MGRM,Monogram Technologies 
 ENTX,Entera Bio 
-VIOT,Viomi Technology Co. 
+VIOT,Viomi Technology Co 
 RGLS,Regulus Therapeutics 
 VTGN,Vistagen Therapeutics 
-AIRE,reAlpha Tech .
+AIRE,reAlpha Tech 
 CTOR,Citius Oncology 
 CBAT,CBAK Energy Technology 
 AZI,Autozi Internet Technology (Global) 
-HSPT,Horizon Space Acquisition II .
+HSPT,Horizon Space Acquisition II 
 ADAG,Adagene 
 VFF,Village Farms International 
-JVSA,JVSPAC Acquisition .
+JVSA,JVSPAC Acquisition 
 CBUS,Cibus 
-ASPC,A SPAC III Acquisition .
+ASPC,A SPAC III Acquisition 
 GALT,Galectin Therapeutics 
 YHNA,YHN Acquisition I 
 KPTI,Karyopharm Therapeutics 
@@ -1976,7 +1973,7 @@ CHCI,Comstock Holding Companies
 EPIX,ESSA Pharma 
 GNLX,Genelux 
 ATMC,AlphaTime Acquisition 
-CMTL,Comtech Telecommunications .
+CMTL,Comtech Telecommunications 
 ALLK,Allakos 
 LSBK,Lake Shore Ban 
 QNCX,Quince Therapeutics 
@@ -1987,38 +1984,38 @@ VTSI,VirTra
 IROQ,IF Ban 
 APLT,Applied Therapeutics 
 ACET,Adicet Bio 
-EDAP,EDAP TMS S.A.
+EDAP,EDAP TMS SA
 BYFC,Broadway Financial 
-FVN,Future Vision II Acquisition .
+FVN,Future Vision II Acquisition 
 EURK,Eureka Acquisition 
 ATRA,Atara Biotherapeutics 
 MSSA,Metal Sky Star Acquisition 
 SPHL,Springview  
 PIII,P3 Health Partners 
-RDAC,Rising Dragon Acquisition .
+RDAC,Rising Dragon Acquisition 
 HGBL,Heritage Global 
 OPTX,Syntec Optics  
 ASYS,Amtech Systems 
 ANL,Adlai Nortye 
-GNTA,Genenta Science S.p.A.
-PRTS,CarParts.com 
+GNTA,Genenta Science SpA
+PRTS,CarParts 
 INLF,INLIF 
 AGEN,Agenus 
 ELTK,Eltek 
 SGA,Saga Communications 
-CSLM,CSLM Acquisition .
+CSLM,CSLM Acquisition 
 TETE,Technology & Telecommunication Acquisition 
 CNTX,Context Therapeutics 
 ANIX,Anixa Biosciences 
 UBCP,United Ban 
 FUSB,First US Bancshares 
-NOEM,CO2 Energy Transition .
+NOEM,CO2 Energy Transition 
 NCSM,NCS Multistage  
 PMVP,PMV Pharmaceuticals 
 YTRA,Yatra Online 
 IKNA,Ikena Oncology 
 CVGI,Commercial Vehicle  
-SNAL,Snail 
+SNAL,Snail Inc
 GSIT,GSI Technology 
 CLSD,Clearside Biomedical 
 AVTE,Aerovate Therapeutics 
@@ -2045,11 +2042,11 @@ SLS,SELLAS Life Sciences
 ABP,Abpro  
 RMTI,Rockwell Medical 
 ICCM,IceCure Medical 
-AIMAU,Aimfinity Investment . I
+AIMAU,Aimfinity Investment  I
 CTMX,CytomX Therapeutics 
 FNGR,FingerMotion 
 BNR,Burning Rock Biotech 
-FTII,FutureTech II Acquisition .
+FTII,FutureTech II Acquisition 
 AVTX,Avalo Therapeutics 
 ELPW,Elong Power Holding 
 HPH,Highest Performances  
@@ -2074,11 +2071,11 @@ CPBI,Central Plains Bancshares
 BOWN,Bowen Acquisition 
 FGEN,FibroGen 
 OPTN,OptiNose 
-GBBK,Global Blockchain Acquisition .
-USEG,U.S. Energy .
+GBBK,Global Blockchain Acquisition 
+USEG,US Energy Corp
 VRCA,Verrica Pharmaceuticals 
 PODC,PodcastOne 
-GBIO,Generation Bio Co.
+GBIO,Generation Bio Co
 KRON,Kronos Bio 
 CTSO,Cytosorbents 
 IMRX,Immuneering 
@@ -2086,9 +2083,9 @@ SCLX,Scilex Holding
 MDBH,MDB Capital  LLC
 FLNT,Fluent 
 BAYA,Bayview Acquisition 
-FKWL,Franklin Wireless .
+FKWL,Franklin Wireless 
 CNTB,Connect Biopharma  
-LATG,Chenghe Acquisition I Co.
+LATG,Chenghe Acquisition I Co
 OTLK,Outlook Therapeutics 
 STTK,Shattuck Labs 
 GANX,Gain Therapeutics 
@@ -2100,13 +2097,13 @@ BCOW,1895 Ban of Wisconsin
 AREC,American Resources 
 SELX,Semilux International 
 NSTS,NSTS Ban 
-BRAC,Broad Capital Acquisition .
-CNVS,Cineverse .
+BRAC,Broad Capital Acquisition 
+CNVS,Cineverse 
 NVNO,enVVeno Medical 
 IMMX,Immix Biopharma 
 BUJA,Bukit Jalil Global Acquisition 1 
 PTLE,PTL 
-BAFN,BayFirst Financial .
+BAFN,BayFirst Financial 
 XGN,Exagen 
 CGBS,Crown LNG  
 CLIR,ClearSign Technologies 
@@ -2121,10 +2118,10 @@ KSCP,Knightscope
 IDN,Intellicheck 
 GEG,Great Elm  
 APYX,Apyx Medical 
-NHTC,Natural Health Trends .
+NHTC,Natural Health Trends 
 SUUN,SolarBank 
-RFAC,RF Acquisition .
-EMCG,Embrace Change Acquisition .
+RFAC,RF Acquisition 
+EMCG,Embrace Change Acquisition 
 PTHL,Pheton  
 RGS,Regis 
 LBGJ,Li Bang International  
@@ -2142,7 +2139,7 @@ WKEY,WISeKey International Holding AG
 OPI,Office Properties Income Trust
 DGHI,Digihost Technology 
 TBMC,Trailblazer Merger  I
-ARKR,Ark Restaurants .
+ARKR,Ark Restaurants 
 ALCY,Alchemy Investments Acquisition  1
 ICAD,iCAD 
 OMIC,Singular Genomics Systems 
@@ -2166,14 +2163,14 @@ XLO,Xilio Therapeutics
 ICCC,ImmuCell 
 NTRB,Nutriband 
 BEEM,Beam Global
-SWVL,Swvl  .
+SWVL,Swvl  
 MSAI,MultiSensor AI  
 GORV,Lazydays  
 CRWS,Crown Crafts 
 ZBAO,Zhibao Technology 
 SPAI,Safe Pro  
 DYAI,Dyadic International 
-BLAC,Bellevue Life Sciences Acquisition .
+BLAC,Bellevue Life Sciences Acquisition 
 GLST,Global Star Acquisition 
 KZR,Kezar Life Sciences 
 LUCD,Lucid Diagnostics 
@@ -2197,8 +2194,8 @@ RNTX,Rein Therapeutics
 NCEW,New Century Logistics (BVI) 
 ALVR,AlloVir 
 CFSB,CFSB Ban 
-TNXP,Tonix Pharmaceuticals Holding .
-LSB,LakeShore Biopharma Co. 
+TNXP,Tonix Pharmaceuticals Holding 
+LSB,LakeShore Biopharma Co 
 FCUV,Focus Universal 
 PXS,Pyxis Tankers 
 RFIL,RF Industries 
@@ -2212,16 +2209,16 @@ UONEK,Urban One
 WLGS,WANG & LEE  
 JRSH,Jerash  
 DWSN,Dawson Geophysical 
-FAAS,DigiAsia .
+FAAS,DigiAsia 
 AGFY,Agrify 
-SYT,SYLA Technologies Co. 
+SYT,SYLA Technologies Co 
 INTS,Intensity Therapeutics 
 ESLA,Estrella Immunopharma 
 YOTA,Yotta Acquisition 
 BWEN,Broadwind 
 HKIT,Hitek Global 
-MNDO,MIND C.T.I. 
-WAVS,Western Acquisition Ventures .
+MNDO,MIND CTI 
+WAVS,Western Acquisition Ventures 
 BRNS,Barinthus Biotherapeutics 
 HFBL,Home Federal Ban  of Louisiana
 LVLU,Lulu's Fashion Lounge  
@@ -2229,8 +2226,8 @@ CALC,CalciMedica
 VYNE,VYNE Therapeutics 
 SGRP,SPAR  
 OCC,Optical Cable 
-WINV,WinVest Acquisition .
-DECA,Denali Capital Acquisition .
+WINV,WinVest Acquisition 
+DECA,Denali Capital Acquisition 
 DTIL,Precision BioSciences 
 RDIB,Reading International 
 LGCL,Lucas GC 
@@ -2250,7 +2247,7 @@ GDST,Goldenstone Acquisition
 HOLO,MicroCloud Hologram 
 CLNN,Clene 
 STAI,ScanTech AI Systems 
-YI,111
+YI,111 Inc
 SRZN,Surrozen 
 CPIX,Cumberland Pharmaceuticals 
 MKZR,MacKenzie Realty Capital 
@@ -2258,7 +2255,7 @@ NXL,Nexalin Technology
 LTRN,Lantern Pharma 
 JG,Aurora Mobile 
 VRAR,The Glimpse  
-SNYR,Synergy CHC .
+SNYR,Synergy CHC 
 LDTC,LeddarTech  
 HHS,Harte Hanks 
 ANTX,AN2 Therapeutics 
@@ -2305,13 +2302,13 @@ ECDA,ECD Automotive Design
 EDRY,EuroDry 
 MTEK,Maris-Tech 
 FGL,Founder  
-LEXX,Lexaria Bioscience .
+LEXX,Lexaria Bioscience 
 AMPG,AmpliTech  
 MLEC,Moolec Science SA
 NMTC,NeuroOne Medical Technologies 
 MDCX,Medicus Pharma 
 WCT,Wellchange   
-BNIX,Bannix Acquisition .
+BNIX,Bannix Acquisition 
 TRSG,Tungray Technologies 
 AACG,ATA Creativity Global
 RDI,Reading International 
@@ -2344,7 +2341,7 @@ CVKD,Cadrenal Therapeutics
 PMN,ProMIS Neurosciences 
 SWIN,Solowin 
 HUIZ,Huize Holding 
-AQU,Aquaron Acquisition .
+AQU,Aquaron Acquisition 
 CGTX,Cognition Therapeutics 
 MOGO,Mogo 
 WKHS,Workhorse  
@@ -2371,9 +2368,9 @@ GLE,Global Engine  Holding
 UCAR,U Power 
 HYFM,Hydrofarm   
 EMKR,Emcore 
-TURB,Turbo Energy S.A.
+TURB,Turbo Energy SA
 CREX,Creative Realities 
-NISN,Nisun International Enterprise Development  Co. 
+NISN,Nisun International Enterprise Development  Co 
 DAIO,Data I/O 
 CTXR,Citius Pharmaceuticals 
 IPW,iPower 
@@ -2381,17 +2378,17 @@ LGVN,Longeveron
 CVV,CVD Equipment 
 XAIR,Beyond Air 
 CPSH,CPS Technologies 
-UTSI,UTStarcom  .
+UTSI,UTStarcom  
 GTIM,Good Times Restaurants 
-LVTX,LAVA Therapeutics N.V.
+LVTX,LAVA Therapeutics NV
 DRRX,DURECT 
 GTEC,Greenland Technologies Holding 
 XOS,Xos 
-LRE,Lead Real Estate Co. 
+LRE,Lead Real Estate Co 
 CHR,Cheer Holding 
 ENLV,Enlivex Therapeutics 
 GDTC,CytoMed Therapeutics 
-DRIO,DarioHealth .
+DRIO,DarioHealth 
 LITM,Snow Lake Resources 
 NAII,Natural Alternatives International 
 EHGO,Eshallgo 
@@ -2417,12 +2414,12 @@ CODX,Co-Diagnostics
 GP,GreenPower Motor  
 KFFB,Kentucky First Federal Ban
 WETH,Wetouch Technology 
-HUDI,Huadi International  Co. 
+HUDI,Huadi International  Co 
 BCAB,BioAtla 
 PSHG,Performance Shipping 
-EPOW,Sunrise New Energy Co. 
+EPOW,Sunrise New Energy Co 
 SKYQ,Sky Quarry 
-HUDA,Hudson Acquisition I .
+HUDA,Hudson Acquisition I 
 ELBM,Electra Battery Materials 
 EZFL,EZFill  
 GRYP,Gryphon Digital Mining 
@@ -2439,10 +2436,10 @@ STEC,Santech
 PULM,Pulmatrix 
 WVVI,Willamette Valley Vineyards 
 PWM,Prestige Wealth 
-BOSC,B.O.S. Better Online Solutions 
+BOSC,BOS Better Online Solutions 
 CYTH,Cyclo Therapeutics 
 CETY,Clean Energy Technologies 
-JVA,Coffee Holding Co. 
+JVA,Coffee Holding Co 
 RVSN,Rail Vision 
 INTZ,Intrusion 
 VSEE,VSee Health 
@@ -2455,11 +2452,11 @@ MSS,Maison Solutions
 AIFU,AIX 
 OCEA,Ocean Biomedical 
 HUBC,HUB Cyber Security 
-ZKIN,ZK International  Co. 
+ZKIN,ZK International  Co 
 ATHA,Athira Pharma 
 NAAS,NaaS Technology 
 DRCT,Direct Digital  
-DFLI,Dragonfly Energy  .
+DFLI,Dragonfly Energy  
 TRAW,Traws Pharma 
 PRZO,ParaZero Technologies 
 COCP,Cocrystal Pharma 
@@ -2474,8 +2471,8 @@ KITT,Nauticus Robotics
 NWGL,Nature Wood  
 SDOT,Sadot  
 CCTG,CCSC Technology International  
-IINN,Inspira Technologies Oxy B.H.N. 
-GFAI,Guardforce AI Co. 
+IINN,Inspira Technologies Oxy BHN 
+GFAI,Guardforce AI Co 
 JDZG,JIADE 
 EVTV,Envirotech Vehicles 
 COEP,Coeptis Therapeutics  
@@ -2483,20 +2480,20 @@ DPRO,Draganfly
 EDTK,Skillful Craftsman Education Technology 
 BFRG,Bullfrog AI  
 CARM,Carisma Therapeutics 
-CLIK,Click  
+CLIK,Click Holdings
 MEIP,MEI Pharma 
 SONM,Sonim Technologies 
 NKGN,NKGen Biotech 
 GIGM,GigaMedia 
 SOHO,Sotherly Hotels 
-IPM,Intelligent Protection Management .
+IPM,Intelligent Protection Management 
 FEBO,Fenbo  
 YYAI,Connexa Sports Technologies 
 JL,J-Long  
 RETO,ReTo Eco-Solutions 
-AFMD,Affimed N.V.
+AFMD,Affimed NV
 IZM,ICZOOM  
-FLGC,Flora Growth .
+FLGC,Flora Growth 
 SLNH,Soluna  
 MLGO,MicroAlgo 
 SNTI,Senti Biosciences 
@@ -2505,7 +2502,7 @@ ABTS,Abits
 YHC,LQR House 
 IPA,ImmunoPrecise Antibodies 
 BTAI,BioXcel Therapeutics 
-JFU,9F 
+JFU,9F Inc
 MCVT,Mill City Ventures III 
 CRVO,CervoMed 
 ATER,Aterian 
@@ -2519,13 +2516,13 @@ VCIG,VCI Global
 COSM,Cosmos Health 
 MIGI,Mawson Infrastructure  
 ADN,Advent Technologies  
-BCTX,BriaCell Therapeutics .
+BCTX,BriaCell Therapeutics 
 SKK,SKK  
 CLRO,ClearOne 
 AIEV,Thunder Power  
 JCTC,Jewett-Cameron Trading  
 GLYC,GlycoMimetics 
-CPOP,Pop Culture  Co. 
+CPOP,Pop Culture  Co 
 MDRR,Medalist Diversified REIT 
 JZ,Jianzhi Education Technology   
 INHD,Inno  
@@ -2564,15 +2561,15 @@ CDTG,CDT Environmental Technology Investment
 BOF,BranchOut Food 
 CMLS,Cumulus Media 
 BNRG,Brenmiller Energy 
-TKLF,Tokyo Lifestyle Co. 
+TKLF,Tokyo Lifestyle Co 
 OMEX,Odyssey Marine Expl 
 FMST,Foremost Clean Energy 
 EEIQ,EpicQuest Education  International 
 CISO,CISO Global 
 SVMH,SRIVARU Holding 
-XTKG,X3  Co. 
+XTKG,X3 Holdings
 EDUC,Educational Development 
-APCX,AppTech Payments .
+APCX,AppTech Payments 
 WNW,Meiwu Technology  
 IMNN,Imunon 
 WISA,WiSA Technologies 
@@ -2598,7 +2595,7 @@ IMRN,Immuron
 BSLK,Bolt Projects  
 RLMD,Relmada Therapeutics 
 CJJD,China Jo-Jo Drugstores 
-PETZ,TDH  
+PETZ,TDH Holdings
 LNKS,Linkers Industries 
 BCLI,Brainstorm Cell Therapeutics 
 BIAF,bioAffinity Technologies 
@@ -2607,7 +2604,7 @@ GMM,Global Mofy AI
 DLPN,Dolphin Entertainment 
 SCKT,Socket Mobile 
 BHIL,Benson Hill 
-INTJ,Intelligent  
+INTJ,Intelligent Group
 PSIG,PS International  
 CTCX,Carmell 
 UBXG,U-BX Technology 
@@ -2625,7 +2622,7 @@ NTRP,NextTrip
 PEV,Phoenix Motor 
 MNDR,Mobile-health Network Solutions
 GVH,Globavend  
-TSBX,Turnstone Biologics .
+TSBX,Turnstone Biologics 
 PMCB,PharmaCyte Biotech 
 HOTH,Hoth Therapeutics 
 GSIW,Garden Stage 
@@ -2641,7 +2638,7 @@ BCDA,BioCardia
 PPBT,Purple Biotech 
 AYTU,Aytu BioPharma 
 MKDW,MKDWELL Tech 
-MYNZ,Mainz Biomed N.V.
+MYNZ,Mainz Biomed NV
 MFI,mF International 
 TLPH,Talphera 
 WBUY,Webuy Global 
@@ -2650,8 +2647,8 @@ VISL,Vislink Technologies
 AEMD,Aethlon Medical 
 SIDU,Sidus Space 
 CARV,Carver Ban 
-SOGP,Sound  
-LRHC,La Rosa  .
+SOGP,Sound Group
+LRHC,La Rosa  
 ENSC,Ensysce Biosciences 
 IVDA,Iveda Solutions 
 EVOK,Evoke Pharma 
@@ -2666,7 +2663,7 @@ PRPO,Precipio
 SQFT,Presidio Property Trust 
 NXU,Nxu 
 AMST,Amesite 
-ELWS,Earlyworks Co. 
+ELWS,Earlyworks Co 
 VRAX,Virax Biolabs  
 CMCT,Creative Media & Community Trust 
 CJET,Chijet Motor  
@@ -2676,14 +2673,14 @@ LGCB,Linkage Global Inc
 KDLY,Kindly MD 
 EVGN,Evogene 
 BOXL,Boxlight 
-ARTW,Art's-Way Manufacturing Co. 
-SYRA,Syra Health .
+ARTW,Art's-Way Manufacturing Co 
+SYRA,Syra Health 
 BKYI,BIO-key International 
 SGLY,Singularity Future Technology 
 ASNS,Actelis Networks 
-HIHO,Highway  
-GV,Visionary  
-MHUA,Meihua International Medical Technologies Co. 
+HIHO,Highway Holdings
+GV,Visionary Holdings
+MHUA,Meihua International Medical Technologies Co 
 YJ,Yunji 
 WTO,UTime 
 HOFV,Hall of Fame Resort & Entertainment 
@@ -2696,7 +2693,7 @@ TRUG,TruGolf
 AEI,Alset 
 ICU,SeaStar Medical Holding 
 FGI,FGI Industries 
-GRNQ,Greenpro Capital .
+GRNQ,Greenpro Capital 
 ROMA,Roma Green Finance 
 AWH,Aspira Women's Health 
 IBG,Innovation Beverage  
@@ -2718,7 +2715,7 @@ RDHL,RedHill Biopharma
 PAVM,PAVmed 
 PSTV,Plus Therapeutics 
 STRR,Star Equity  
-IMCC,IM Cannabis .
+IMCC,IM Cannabis 
 RKDA,Arcadia Biosciences 
 IDAI,T Stamp 
 APM,Aptorum  
@@ -2741,11 +2738,11 @@ GRI,GRI Bio
 KRKR,36Kr  
 ADIL,Adial Pharmaceuticals 
 VIRX,Viracta Therapeutics 
-XHG,XChange TEC.INC
+XHG,XChange TECINC
 BON,Bon Natural Life 
 GURE,Gulf Resources 
 PNBK,Patriot National Ban 
-ULY,Urgent.ly 
+ULY,urgently Inc
 BMRA,Biomerica 
 SYRS,Syros Pharmaceuticals 
 ONFO,Onfolio  
@@ -2754,7 +2751,7 @@ XBIO,Xenetic Biosciences
 QNTM,Quantum BioPharma 
 GLTO,Galecto 
 MGRX,Mangoceuticals 
-BGLC,BioNexus Gene Lab .
+BGLC,BioNexus Gene Lab 
 CNSP,CNS Pharmaceuticals 
 CMND,Clearmind Medicine 
 CEAD,CEA Industries 
@@ -2765,23 +2762,23 @@ GNPX,Genprex
 TGL,Treasure Global 
 TTOO,T2 Biosystems 
 FTFT,Future FinTech  
-VEEE,Twin Vee Powercats Co.
+VEEE,Twin Vee Powercats Co
 SBFM,Sunshine Biopharma 
 INBS,Intelligent Bio Solutions 
 GSUN,Golden Sun Health Technology  
 CHNR,China Natural Resources 
-LXEH,Lixiang Education Holding Co. 
+LXEH,Lixiang Education Holding Co 
 SNGX,Soligenix 
-PHIO,Phio Pharmaceuticals .
+PHIO,Phio Pharmaceuticals 
 VS,Versus Systems 
 AEHL,Antelope Enterprise  
 LICN,Lichen China 
-CREG,Smart Powerr .
+CREG,Smart Powerr 
 LIXT,Lixte Biotechnology  
 EJH,E-Home Household Service  
 ONVO,Organovo  
 MBRX,Moleculin Biotech 
-GXAI,Gaxos.ai 
+GXAI,Gaxosai 
 ATPC,Agape ATP 
 CISS,C3is 
 VVPR,VivoPower International 
@@ -2789,25 +2786,25 @@ CETX,Cemtrex
 SNTG,Sentage  
 TNON,Tenon Medical 
 GTBP,GT Biopharma 
-OST,Ostin Technology  Co. 
+OST,Ostin Technology  Co 
 VINC,Vincerx Pharma 
 BTOG,Bit Origin 
 REBN,Reborn Coffee 
 STAF,Staffing 360 Solutions 
 HAO,Haoxi Health Technology 
 PBM,Psyence Biomedical 
-YOSH,Yoshiharu Global Co.
+YOSH,Yoshiharu Global Co
 XTIA,XTI Aerospace 
 MRM,MEDIROM Healthcare Technologies 
-LKCO,Luokung Technology .
+LKCO,Luokung Technology 
 YGMZ,MingZhu Logistics  
 NIVF,NewGenIvf  
 HCTI,Healthcare Triangle 
-CRKN,Crown Electrokinetics .
-JTAI,Jet.AI 
+CRKN,Crown Electrokinetics 
+JTAI,JetAI 
 AYRO,Ayro 
 SNPX,Synaptogenix 
-LTRY,Lottery.com 
+LTRY,Lottery.com Inc
 CTHR,Charles & Colvard 
 SONN,Sonnet BioTherapeutics  
 ONCO,Onconetix 
@@ -2826,15 +2823,15 @@ LFLY,Leafly
 ZCAR,Zoomcar  
 NCNA,NuCana 
 GLMD,Galmed Pharmaceuticals 
-IFBD,Infobird Co. 
+IFBD,Infobird Co 
 JXG,JX Luxventure  
 EDBL,Edible Garden AG Inorated
-SGBX,Safe & Green  .
+SGBX,Safe & Green  
 VSME,VS MEDIA  
-ALBT,Avalon GloboCare .
+ALBT,Avalon GloboCare 
 OLB,The OLB  
 AGRI,AgriFORCE Growing Systems 
-ATXG,Addentax  .
+ATXG,Addentax  
 OBLG,Oblong 
 OCTO,Eightco  
 MULN,Mullen Automotive 
@@ -2868,10 +2865,10 @@ ZVSA,ZyVersa Therapeutics
 TCBP,TC Biopharm () 
 SOPA,Society Pass Inorated
 HSCS,HeartSciences 
-WORX,SCWorx .
+WORX,SCWorx 
 TNFA,TNF Pharmaceuticals 
 NLSP,NLS Pharmaceutics AG
-ATNF,180 Life Sciences .
+ATNF,180 Life Sciences 
 NDRA,ENDRA Life Sciences 
 MYSZ,My Size 
 VMAR,Vision Marine Technologies 
@@ -2879,7 +2876,7 @@ XYLO,Xylo Technologies
 HSDT,Helius Medical Technologies 
 PTIX,Protagenic Therapeutics 
 INM,InMed Pharmaceuticals 
-KTTA,Pasithea Therapeutics .
+KTTA,Pasithea Therapeutics 
 FAMI,Farmmi 
 WHLR,Wheeler Real Estate Investment Trust 
 SHPH,Shuttle Pharmaceuticals  
@@ -2915,12 +2912,12 @@ VERO,Venus Concept
 SLXN,Silexion Therapeutics 
 AREB,American Rebel  
 BDRX,Biodexa Pharmaceuticals 
-NVVE,Nuvve Holding .
+NVVE,Nuvve Holding 
 BBLG,Bone Biologics 
 TRNR,Interactive Strength 
 PALI,Palisade Bio 
 DGLY,Digital Ally 
-AKAN,Akanda .
+AKAN,Akanda 
 CYCC,Cyclacel Pharmaceuticals 
 APVO,Aptevo Therapeutics 
 TIVC,Tivic Health Systems 
@@ -2932,7 +2929,7 @@ SXTP,60 Degrees Pharmaceuticals
 GNLN,Greenlane  
 NAYA,NAYA Biosciences 
 TAOP,Taoping 
-CNEY,CN Energy . 
+CNEY,CN Energy  
 AVGR,Avinger 
 BJDX,Bluejay Diagnostics 
 ADTX,Aditxt 
@@ -2954,7 +2951,7 @@ CYN,Cyngn
 SXTC,China SXT Pharmaceuticals 
 TANH,Tantech  
 GCTK,GlucoTrack 
-LYT,Lytus Technologies  PTV. 
+LYT,Lytus Technologies  PTV 
 SPGC,Sacks Parente Golf 
 LGHL,Lion  Holding 
 SOBR,SOBR Safe 
@@ -2978,16 +2975,16 @@ NVO,Novo Nordisk A/S
 CRM,Salesforce 
 ABBV,AbbVie 
 CVX,Chevron 
-KO,The Coca-Cola 
-WFC,Wells Fargo & 
+KO,Coca-Cola
+WFC,Wells Fargo
 MRK,Merck & Co 
 TM,Toyota Motor 
 MS,Morgan Stanley
 ACN,Accenture plc
 AXP,American Express 
 BX,Blackstone 
-TMO,Thermo Fisher Scientific 
-GS,The Goldman Sachs Group 
+TMO,Thermo Fisher
+GS,Goldman Sachs Group
 IBM,International Business Machines 
 MCD,McDonald's 
 GE,General Electric 
@@ -3084,7 +3081,7 @@ CNQ,Canadian Natural Resources
 FDX,FedEx 
 CVS,CVS Health 
 CRH,CRH plc
-SE,Sea 
+SE,Sea Ltd
 DEO,Diageo plc
 SPG,Simon Property Group 
 RCL,Royal Caribbean Cruises Ltd
@@ -3094,7 +3091,7 @@ BNS,The Bank of Nova Scotia
 TFC,Truist Financial 
 CARR,Carrier Global 
 SLB,Schlumberger 
-TGT,Target 
+TGT,Target Corp
 DLR,Digital Realty Trust 
 HLT,Hilton Worldwide  
 BK,The Bank of New York Mellon 
@@ -3196,7 +3193,7 @@ LYV,Live Nation Entertainment
 AVB,AvalonBay Communities 
 VICI,VICI Properties 
 HSY,The Hershey 
-RDDT,Reddit 
+RDDT,Reddit Inc
 CAH,Cardinal Health 
 HPQ,HP 
 HPE,Hewlett Packard Enterprise 
@@ -3283,7 +3280,7 @@ CFG,Citizens Financial Group
 LDOS,Leidos  
 STE,STERIS plc
 VIK,Viking  Ltd
-BEKE,KE  
+BEKE,KE Holdings
 CMS,CMS Energy 
 LH,Labcorp  
 IHG,InterContinental Hotels Group PLC
@@ -3301,7 +3298,7 @@ BLDR,Builders FirstSource
 WSO,Watsco 
 DKS,DICK'S Sporting Goods 
 TRU,TransUnion
-ONON,On  AG
+ONON,On Holdings
 WSOB,Watsco 
 MT,ArcelorMittal SA
 SNA,Snap-on Incorporated
@@ -3473,7 +3470,7 @@ BLD,TopBuild
 CACI,CACI International Inc
 AYI,Acuity Brands 
 PSN,Parsons 
-CCK,Crown  
+CCK,Crown Holdings
 SSB,SouthState 
 BNT,Brookfield Wealth Solutions 
 EDU,New Oriental Education & Technology Group 
@@ -3497,9 +3494,9 @@ WCC,WESCO International
 MLI,Mueller Industries 
 BRBR,BellRing Brands 
 FBIN,Fortune Brands Innovations 
-VFC,VF 
+VFC,VF Corp
 CFR,Cullen/Frost Bankers 
-NIO,NIO 
+NIO,Nio Inc
 ORI,Old Republic International 
 FRT,Federal Realty Investment Trust
 GTLS,Chart Industries 
@@ -3586,7 +3583,6 @@ SSD,Simpson Manufacturing
 RLI,RLI 
 BWA,BorgWarner 
 MOGA,Moog 
-MOGB,Moog 
 CWAN,Clearwater Analytics  
 VIPS,Vipshop  
 WTS,Watts Water Technologies 
@@ -3655,7 +3651,7 @@ LUMN,Lumen Technologies
 GGB,Gerdau SA
 GGB,Gerdau SA
 TX,Ternium SA
-QTWO,Q2  
+QTWO,Q2 Holdings
 AMG,Affiliated Managers Group 
 LNC,Lincoln National 
 THG,The Hanover Insurance Group 
@@ -3694,7 +3690,7 @@ CUZ,Cousins Properties Incorporated
 INGM,Ingram Micro  
 BBAR,Banco BBVA Argentina SA
 CLF,Cleveland-Cliffs 
-WHD,Cactus 
+WHD,Cactus Inc
 SOBO,South Bow 
 CWENA,Clearway Energy 
 CTRE,CareTrust REIT 
@@ -3801,7 +3797,7 @@ ECG,Everus Construction Group
 EPR,EPR Properties
 UAA,Under Armour 
 WU,The Western Union 
-BRC,Brady 
+BRC,Brady Corp
 ATMU,Atmus Filtration Technologies 
 TPH,Tri Pointe Homes 
 SSL,Sasol 
@@ -3842,7 +3838,7 @@ WD,Walker & Dunlop
 BXMT,Blackstone Mortgage Trust 
 IAG,IAMGOLD 
 SLVM,Sylvamo 
-FBP,First Ban
+FBP,First Bancorp
 TFPM,Triple Flag Precious Metals 
 OKLO,Oklo 
 TEX,Terex 
@@ -4105,7 +4101,7 @@ ATEN,A10 Networks
 NRP,Natural Resource Partners LP
 HLX,Helix Energy Solutions Group 
 AIV,Apartment Investment and Management 
-EVEX,Eve  
+EVEX,Eve Holdings
 KLG,WK Kellogg Co
 WT,WisdomTree 
 WGO,Winnebago Industries 
@@ -4134,7 +4130,7 @@ SMWB,Similarweb
 ATUS,Altice USA 
 AGL,agilon health 
 SPH,Suburban Propane Partners LP
-OLO,Olo 
+OLO,Olo Inc
 KW,Kennedy-Wilson  
 BFS,Saul Centers 
 UVV,Universal 
@@ -4264,7 +4260,7 @@ DRD,DRDGOLD
 MYTE,MYT Netherlands Parent BV
 TXO,TXO Partners LP
 SPLP,Steel Partners  LP
-GHLD,Guild  
+GHLD,Guild Holdings
 BFLY,Butterfly Network 
 PRA,ProAssurance 
 MLR,Miller Industries 
@@ -4278,7 +4274,6 @@ BRSP,BrightSpire Capital
 EQBK,Equity Bancshares 
 KREF,KKR Real Estate Finance Trust 
 BALY,Bally's 
-BALYT,Bally's 
 DDL,Dingdong (Cayman) 
 ETD,Ethan Allen Interiors 
 CCO,Clear Channel Outdoor  
@@ -4370,7 +4365,7 @@ CHPT,ChargePoint
 GDOT,Green Dot 
 GBLI,Global Indemnity Group LLC
 TWI,Titan International 
-CLCO,Cool  
+CLCO,Cool Company
 FVR,FrontView REIT 
 CANG,Cango 
 EGY,VAALCO Energy 
@@ -4386,7 +4381,7 @@ GCO,Genesco
 EQV,EQV Ventures Acquisition 
 AAM,AA Mission Acquisition 
 MUX,McEwen Mining 
-WDH,Waterdrop 
+WDH,Waterdrop Inc
 PNNT,PennantPark Investment 
 SMC,Summit Midstream 
 CLDT,Chatham Lodging Trust
@@ -4468,11 +4463,11 @@ FOA,Finance of America Companies
 DBI,Designer Brands 
 WTI,W&T Offshore 
 CPS,Cooper-Standard  
-BYON,Beyond 
+BYON,Beyond Meat
 ONTF,ON24 
 ONIT,Onity Group 
 TG,Tredegar 
-PERF,Perfect 
+PERF,Perfect Corp
 FTK,Flotek Industries 
 SKIL,Skillsoft 
 MPLN,MultiPlan 
@@ -4491,7 +4486,7 @@ FF,FutureFuel
 AMPY,Amplify Energy 
 LANV,Lanvin Group  
 TBI,TrueBlue 
-CIA,Citizens 
+CIA,Citizens Inc
 NC,NACCO Industries 
 KFS,Kingsway Financial Services 
 SRG,Seritage Growth Properties
@@ -4552,7 +4547,7 @@ SQNS,Sequans Communications SA
 OPAD,Offerpad Solutions 
 DM,Desktop Metal 
 CATO,The Cato 
-TISI,Team 
+TISI,Team Inc
 MKFG,Markforged  
 ANVS,Annovis Bio 
 CULP,Culp 
@@ -4578,14 +4573,13 @@ RFL,Rafael
 NRT,North European Oil Royalty Trust
 ZEPP,Zepp Health 
 BODI,The Beachbody  
-VNCE,Vince  
+VNCE,Vince Holdings
 VHC,VirnetX  
 ENZ,Enzo Biochem 
 BTCM,BIT Mining 
 LICY,Li-Cycle  
 FENG,Phoenix New Media 
 KUKE,Kuke Music  
-NYC,American Strategic Investment 
 LITB,LightInTheBox   
 FEDU,Four Seasons Education (Cayman) 
 MOGU,MOGU 
@@ -4618,7 +4612,7 @@ $FAST,Fastenal
 $HOOD,Robinhood Markets  
 $FER,Ferrovial SE
 $ERIC,Telefonaktiebolaget LM Ericsson (publ)
-$TROW,T. Rowe Price  
+$TROW,T Rowe Price  
 $ON,ON Semiconductor 
 $LI,Li Auto 
 $FOX,Fox 
@@ -4644,8 +4638,8 @@ $STEP,StepStone
 $PARA,Paramount Global
 $HALO,Halozyme Therapeutics 
 $OS,OneStream 
-$WAY,Waystar Holding .
-$COOP,Mr. Cooper  
+$WAY,Waystar Holding 
+$COOP,Mr Cooper  
 $MAT,Mattel 
 $MARA,MARA  
 $CALM,Cal-Maine Foods 
@@ -4658,11 +4652,11 @@ $LOPE,Grand Canyon Education
 $PONY,Pony AI 
 $NARI,Inari Medical 
 $EXPO,Exponent 
-$IEP,Icahn Enterprises L.P.
+$IEP,Icahn Enterprises LP
 $RELY,Remitly Global 
 $RIOT,Riot Platforms 
 $SLAB,Silicon Laboratories 
-$FIZZ,National Beverage .
+$FIZZ,National Beverage 
 $DORM,Dorman Products 
 $PI,Impinj 
 $RARE,Ultragenyx Pharmaceutical 
@@ -4680,7 +4674,7 @@ $TOWN,TowneBank
 $CAKE,The Cheesecake Factory Inorated
 $ODD,Oddity Tech 
 $PLUG,Plug Power 
-$HUT,Hut 8 .
+$HUT,Hut 8 
 $CENT,Central Garden & Pet 
 $RUN,Sunrun 
 $LOT,Lotus Technology 
@@ -4690,7 +4684,7 @@ $CHEF,The Chefs' Warehouse
 $NEXT,NextDecade 
 $PLUS,ePlus 
 $COCO,The Vita Coco  
-$LION,Lionsgate Studios .
+$LION,Lionsgate Studios 
 $AGIO,Agios Pharmaceuticals 
 $CASH,Pathward Financial 
 $BEAM,Beam Therapeutics 
@@ -4699,7 +4693,7 @@ $IRON,Disc Medicine
 $IQ,iQIYI 
 $TARS,Tarsus Pharmaceuticals 
 $PAX,Patria Investments 
-$GO,Grocery Outlet Holding .
+$GO,Grocery Outlet Holding 
 $TASK,TaskUs 
 $HOPE,Hope Ban 
 $TILE,Interface 
@@ -4730,7 +4724,7 @@ $GOOD,Gladstone Commercial
 $EVER,EverQuote 
 $GLAD,Gladstone Capital 
 $LIND,Lindblad Expeditions  
-$KIDS,OrthoPediatrics .
+$KIDS,OrthoPediatrics 
 $WASH,Washington Trust Ban 
 $OPT,Opthea 
 $OUST,Ouster 
@@ -4745,7 +4739,7 @@ $OMER,Omeros
 $TREE,LendingTree 
 $TALK,Talkspace 
 $HONE,HarborOne Ban 
-$GAMB,Gambling.com  
+$GAMB,Gambling  
 $PHAT,Phathom Pharmaceuticals 
 $GAIN,Gladstone Investment 
 $RICK,RCI Hospitality  
@@ -4765,17 +4759,17 @@ $WALD,Waldencast
 $GILT,Gilat Satellite Networks 
 $ZEUS,Olympic Steel 
 $POET,POET Technologies 
-$ALF,Centurion Acquisition .
+$ALF,Centurion Acquisition 
 $LOCO,El Pollo Loco  
-$GIG,GigCapital7 .
+$GIG,GigCapital7 
 $NEWT,NewtekOne 
 $DADA,Dada Nexus 
 $ATOM,Atomera Inorated
 $CUB,Lionheart 
-$SIMA,SIM Acquisition . I
+$SIMA,SIM Acquisition  I
 $HIT,Health In Tech 
 $TRUE,TrueCar 
-$POLE,Andretti Acquisition . II
+$POLE,Andretti Acquisition  II
 $IBEX,IBEX 
 $MAMA,Mama's Creations 
 $AIRS,AirSculpt Technologies 
@@ -4788,7 +4782,7 @@ $FACT,FACT II Acquisition
 $LIEN,Chicago Atlantic BDC 
 $SANG,Sangoma Technologies 
 $SERA,Sera Prognostics 
-$PROF,Profound Medical .
+$PROF,Profound Medical 
 $MAPS,WM Technology 
 $SOPH,SOPHiA GENETICS SA
 $RAIL,FreightCar America 
@@ -4796,8 +4790,8 @@ $LAKE,Lakeland Industries
 $SKIN,The Beauty Health 
 $ESSA,ESSA Ban 
 $KINS,Kingstone Companies 
-$PROP,Prairie Operating Co.
-$TOYO,TOYO Co. 
+$PROP,Prairie Operating Co
+$TOYO,TOYO Co 
 $ALEC,Alector 
 $PAYS,Paysign 
 $RAPT,RAPT Therapeutics 
@@ -4807,22 +4801,22 @@ $REE,REE Automotive
 $RENE,Cartesian Growth  II
 $BOOM,DMC Global 
 $FATE,Fate Therapeutics 
-$SHIP,Seanergy Maritime  .
+$SHIP,Seanergy Maritime  
 $TIL,Instil Bio 
 $SEER,Seer 
 $E,The Children's Place 
-$DIBS,1stdibs.Com 
+$DIBS,1stdibs 
 $LARK,Landmark Ban 
 $NEON,Neonode 
 $MIST,Milestone Pharmaceuticals 
 $ALTO,Alto Ingredients 
-$GATE,Marblegate Acquisition .
+$GATE,Marblegate Acquisition 
 $TOUR,Tuniu 
 $CHAR,Charlton Aria Acquisition 
 $ZENA,ZenaTech 
 $TELA,TELA Bio 
 $PETS,PetMed Express 
-$RANG,Range Capital Acquisition .
+$RANG,Range Capital Acquisition 
 $ABOS,Acumen Pharmaceuticals 
 $CURR,CURRENC  
 $MASS,908 Devices 
@@ -4836,8 +4830,8 @@ $CODA,Coda Octopus
 $WRAP,Wrap Technologies 
 $FAT,FAT Brands 
 $CAMP,Camp4 Therapeutics 
-$MAYS,J.W. Mays 
-$ME,23andMe Holding Co.
+$MAYS,JW Mays 
+$ME,23andMe Holding Co
 $GUTS,Fractyl Health 
 $ALTS,ALT5 Sigma 
 $SKYE,Skye Bioscience 
@@ -4865,7 +4859,7 @@ $BEAT,HeartBeam
 $MATH,Metalpha Technology Holding 
 $SELF,Global Self Storage 
 $PITA,Heramba Electric 
-$TORO,Toro .
+$TORO,Toro 
 $BOLD,Boundless Bio 
 $AIRT,Air T 
 $BIRD,Allbirds 
@@ -4882,13 +4876,13 @@ $CASI,CASI Pharmaceuticals
 $RAVE,Rave Restaurant  
 $EBON,Ebang International  
 $MOVE,Movano 
-$TURN,180 Degree Capital .
+$TURN,180 Degree Capital 
 $RAYA,Erayak Power Solution  
 $SHOT,Safety Shot 
-$FARM,Farmer Bros. Co.
+$FARM,Farmer Bros Co
 $RENT,Rent the Runway 
 $KALA,KALA BIO 
-$GROW,U.S. Global Investors 
+$GROW,US Global Investors 
 $SABS,SAB Biotherapeutics 
 $FLUX,Flux Power  
 $RAIN,Rain Enhancement Technologies Holdco 
@@ -4902,7 +4896,7 @@ $GAME,GameSquare
 $SAG,SAG  
 $HOOK,HOOKIPA Pharma 
 $MOB,Mobilicom 
-$ANY,Sphere 3D .
+$ANY,Sphere 3D 
 $ERNA,Eterna Therapeutics 
 $RAY,Raytech Holding 
 $CARA,Cara Therapeutics 
@@ -4913,15 +4907,15 @@ $BOLT,Bolt Biotherapeutics
 $MIRA,MIRA Pharmaceuticals 
 $GELS,Gelteq 
 $DUO,Fangdd Network  
-$ASPS,Altisource Portfolio Solutions S.A.
+$ASPS,Altisource Portfolio Solutions SA
 $BLIN,Bridgeline Digital 
 $ELSE,Electro-Sensors 
-$DEVS,DevvStream .
+$DEVS,DevvStream 
 $PT,Pintec Technology  
 $TAIT,Taitron Components Inorated
 $SWAG,Stran &  
 $LUCY,Innovative Eyewear 
-$PET,Wag!  Co.
+$PET,Wag!  Co
 $MYNA,Mynaric AG
 $LOBO,Lobo EV Technologies 
 $PC,Premium Catering () 
@@ -4938,10 +4932,10 @@ $WATT,Energous
 $CERO,CERo Therapeutics  
 $RIME,Algorhythm  
 $EAST,Eastside Distilling 
-$ICON,Icon Energy .
+$ICON,Icon Energy 
 $BACK,IMAC  
-$ADD,Color Star Technology Co. 
-$V,Visa 
+$ADD,Color Star Technology Co 
+$V,Visa Inc
 $MA,Mastercard Incorporated
 $SAP,SAP SE
 $NOW,ServiceNow 
@@ -4957,7 +4951,7 @@ $NEE,NextEra Energy
 $COP,ConocoPhillips
 $SHOP,Shopify 
 $BA,The Boeing 
-$DE,Deere & 
+$DE,Deere & Co
 $UPS,United Parcel Service 
 $SPOT,Spotify Technology SA
 $BUD,Anheuser-Busch InBev SA/NV
@@ -4966,7 +4960,7 @@ $MO,Altria Group
 $ICE,Intercontinental Exchange 
 $WELL,Welltower 
 $RACE,Ferrari NV
-$MMM,3M 
+$MMM,3M Co
 $DELL,Dell Technologies 
 $SAN,Banco Santander SA
 $ET,Energy Transfer LP
@@ -5003,17 +4997,17 @@ $WIT,Wipro
 $HUM,Humana 
 $ED,Consolidated Edison 
 $DECK,Deckers Outdoor 
-$DOW,Dow 
+$DOW,Dow Jones
 $KEYS,Keysight Technologies 
 $K,Kellanova
 $GOLD,Barrick Gold 
 $EL,The Estée Lauder Companies 
 $DOV,Dover 
 $HAL,Halliburton 
-$GIB,CGI 
-$WAT,Waters 
+$GIB,CGI Inc
+$WAT,Waters Corp
 $EME,EMCOR Group 
-$TOST,Toast 
+$TOST,Toast Inc
 $BCE,BCE 
 $ES,Eversource Energy
 $PINS,Pinterest 
@@ -5021,7 +5015,7 @@ $KEY,KeyCorp
 $ESS,Essex Property Trust 
 $L,Loews 
 $BURL,Burlington Stores 
-$SNAP,Snap 
+$SNAP,Snap Inc
 $FIX,Comfort Systems USA 
 $ARE,Alexandria Real Estate Equities 
 $RYAN,Ryan Specialty  
@@ -5029,7 +5023,7 @@ $BAH,Booz Allen Hamilton
 $J,Jacobs Solutions 
 $MAS,Masco 
 $AS,Amer Sports 
-$BALL,Ball 
+$BALL,Ball Corp
 $WES,Western Midstream Partners LP
 $JEF,Jefferies Financial Group 
 $KIM,Kimco Realty 
@@ -5057,7 +5051,7 @@ $BIO,Bio-Rad Laboratories
 $CUBE,CubeSmart
 $LAD,Lithia Motors 
 $GLOB,Globant SA
-$BILL,BILL  
+$BILL,Bill Holdings
 $SUM,Summit Materials 
 $KEP,Korea Electric Power 
 $GAP,The Gap 
@@ -5080,7 +5074,7 @@ $CADE,Cadence Bank
 $SITE,SiteOne Landscape Supply 
 $KEX,Kirby 
 $EAT,Brinker International 
-$POST,Post  
+$POST,Post Holdings
 $JOBY,Joby Aviation 
 $STAG,STAG Industrial 
 $COLD,Americold Realty Trust 
@@ -5094,7 +5088,7 @@ $PAM,Pampa Energía SA
 $MAIN,Main Street Capital 
 $SKY,Champion Homes 
 $AL,Air Lease 
-$LEA,Lear 
+$LEA,Lear Corp
 $MAC,The Macerich 
 $SEE,Sealed Air 
 $BOOT,Boot Barn  
@@ -5103,7 +5097,7 @@ $PHI,PLDT
 $SON,Sonoco Products 
 $AGO,Assured Guaranty 
 $PRIM,Primoris Services 
-$BOX,Box 
+$BOX,Box Inc
 $GOLF,Acushnet  
 $BC,Brunswick 
 $FUN,Six Flags Entertainment 
@@ -5237,7 +5231,4601 @@ $STEM,Stem
 $SOL,Emeren Group Ltd
 $LON,Loncor Gold 
 $SUP,Superior Industries International 
-$BEST,BEST 
+$BEST,Best Inc
 $NINE,Nine Energy Service 
 $KORE,KORE Group  
-$SOS,SOS 
+$SOS,SOS Ltd
+$NYC,American Strategic Investment 
+AAPL,$AAPL
+NVDA,$NVDA
+MSFT,$MSFT
+GOOG,$GOOG
+AMZN,$AMZN
+TSLA,$TSLA
+AVGO,$AVGO
+NFLX,$NFLX
+ASML,$ASML
+TMUS,$TMUS
+CSCO,$CSCO
+ISRG,$ISRG
+AZN,$AZN
+AMD,$AMD
+QCOM,$QCOM
+ADBE,$ADBE
+TXN,$TXN
+INTU,$INTU
+BKNG,$BKNG
+PLTR,$PLTR
+AMAT,$AMAT
+AMGN,$AMGN
+HON,$HON
+PDD,$PDD
+CMCSA,$CMCSA
+SNY,$SNY
+ADP,$ADP
+PANW,$PANW
+APP,$APP
+VRTX,$VRTX
+SBUX,$SBUX
+MRVL,$MRVL
+LRCX,$LRCX
+KLAC,$KLAC
+CEG,$CEG
+MELI,$MELI
+PYPL,$PYPL
+CRWD,$CRWD
+MSTR,$MSTR
+EQIX,$EQIX
+INTC,$INTC
+ABNB,$ABNB
+CDNS,$CDNS
+CME,$CME
+CTAS,$CTAS
+SNPS,$SNPS
+MDLZ,$MDLZ
+REGN,$REGN
+FTNT,$FTNT
+WDAY,$WDAY
+NTES,$NTES
+CSX,$CSX
+ADSK,$ADSK
+TTD,$TTD
+PCAR,$PCAR
+ROP,$ROP
+CHTR,$CHTR
+CPRT,$CPRT
+NXPI,$NXPI
+PAYX,$PAYX
+JD,$JD
+AEP,$AEP
+ROST,$ROST
+MNST,$MNST
+DDOG,$DDOG
+BKR,$BKR
+NDAQ,$NDAQ
+TCOM,$TCOM
+KDP,$KDP
+ODFL,$ODFL
+ARGX,$ARGX
+VRSK,$VRSK
+CTSH,$CTSH
+GEHC,$GEHC
+EXC,$EXC
+XEL,$XEL
+EA,$EA
+ACGL,$ACGL
+CCEP,$CCEP
+KHC,$KHC
+IDXX,$IDXX
+UAL,$UAL
+ALNY,$ALNY
+TTWO,$TTWO
+WTW,$WTW
+DXCM,$DXCM
+EBAY,$EBAY
+MCHP,$MCHP
+TW,$TW
+FCNCA,$FCNCA
+CSGP,$CSGP
+ANSS,$ANSS
+FCNCO,$FCNCO
+FITB,$FITB
+MPWR,$MPWR
+ZS,$ZS
+BIDU,$BIDU
+TSCO,$TSCO
+BNTX,$BNTX
+LPLA,$LPLA
+CDW,$CDW
+HBAN,$HBAN
+ZM,$ZM
+EXE,$EXE
+NTAP,$NTAP
+TPG,$TPG
+WBD,$WBD
+EXPE,$EXPE
+GFS,$GFS
+FWONK,$FWONK
+NTRA,$NTRA
+FWONA,$FWONA
+WDC,$WDC
+PTC,$PTC
+FOXA,$FOXA
+CINF,$CINF
+TER,$TER
+ILMN,$ILMN
+VOD,$VOD
+ONC,$ONC
+SBAC,$SBAC
+NTRS,$NTRS
+ERIE,$ERIE
+ALAB,$ALAB
+ZBRA,$ZBRA
+BIIB,$BIIB
+RYAAY,$RYAAY
+IBKR,$IBKR
+VRSN,$VRSN
+CHKP,$CHKP
+FSLR,$FSLR
+STX,$STX
+SSNC,$SSNC
+CG,$CG
+STLD,$STLD
+ULTA,$ULTA
+DKNG,$DKNG
+JBHT,$JBHT
+PODD,$PODD
+DOCU,$DOCU
+PFG,$PFG
+AFRM,$AFRM
+SMCI,$SMCI
+RPRX,$RPRX
+MDB,$MDB
+TRMB,$TRMB
+NTNX,$NTNX
+KSPI,$KSPI
+CYBR,$CYBR
+ZG,$ZG
+SOFI,$SOFI
+MANH,$MANH
+ICLR,$ICLR
+NWS,$NWS
+UTHR,$UTHR
+ALGN,$ALGN
+AZPN,$AZPN
+SYM,$SYM
+NWSA,$NWSA
+HOLX,$HOLX
+ENTG,$ENTG
+FFIV,$FFIV
+WMG,$WMG
+DLTR,$DLTR
+LNT,$LNT
+SWKS,$SWKS
+ARCC,$ARCC
+BSY,$BSY
+CASY,$CASY
+NBIX,$NBIX
+OKTA,$OKTA
+DPZ,$DPZ
+RIVN,$RIVN
+EVRG,$EVRG
+DUOL,$DUOL
+SFM,$SFM
+INCY,$INCY
+EWBC,$EWBC
+PAA,$PAA
+AKAM,$AKAM
+VTRS,$VTRS
+MBLY,$MBLY
+WIX,$WIX
+ITCI,$ITCI
+SMMT,$SMMT
+MRNA,$MRNA
+GLPI,$GLPI
+ESLT,$ESLT
+GMAB,$GMAB
+LOGI,$LOGI
+SAIA,$SAIA
+CRDO,$CRDO
+INSM,$INSM
+JKHY,$JKHY
+RKLB,$RKLB
+LAMR,$LAMR
+CHRW,$CHRW
+HST,$HST
+NDSN,$NDSN
+GGAL,$GGAL
+TXRH,$TXRH
+TECH,$TECH
+FTAI,$FTAI
+BMRN,$BMRN
+MNDY,$MNDY
+MMYT,$MMYT
+CPB,$CPB
+AUR,$AUR
+SRPT,$SRPT
+NEUP,$NEUP
+TTEK,$TTEK
+PCVX,$PCVX
+ROKU,$ROKU
+FUTU,$FUTU
+WWD,$WWD
+PCTY,$PCTY
+PPC,$PPC
+LBRDK,$LBRDK
+LECO,$LECO
+LBRDA,$LBRDA
+WBA,$WBA
+EXEL,$EXEL
+AAON,$AAON
+SEIC,$SEIC
+TLN,$TLN
+MEDP,$MEDP
+GTLB,$GTLB
+MTSI,$MTSI
+MRNO,$MRNO
+EXAS,$EXAS
+HTHT,$HTHT
+LKQ,$LKQ
+VFS,$VFS
+VNOM,$VNOM
+DSGX,$DSGX
+DOX,$DOX
+DBX,$DBX
+APA,$APA
+ALTR,$ALTR
+CHDN,$CHDN
+GLBE,$GLBE
+DRS,$DRS
+MASI,$MASI
+PNFP,$PNFP
+LCID,$LCID
+CFLT,$CFLT
+APPF,$APPF
+RGLD,$RGLD
+ENPH,$ENPH
+WTFC,$WTFC
+HSIC,$HSIC
+TTAN,$TTAN
+DJT,$DJT
+FYBR,$FYBR
+RGEN,$RGEN
+HQY,$HQY
+BRKR,$BRKR
+NBIS,$NBIS
+VERX,$VERX
+CBSH,$CBSH
+PEGA,$PEGA
+AGNC,$AGNC
+MKTX,$MKTX
+FSV,$FSV
+HLNE,$HLNE
+ASND,$ASND
+ROIV,$ROIV
+MTCH,$MTCH
+FRHC,$FRHC
+LSCC,$LSCC
+CHRD,$CHRD
+ONB,$ONB
+MKSI,$MKSI
+LNW,$LNW
+ENSG,$ENSG
+MIDD,$MIDD
+EXLS,$EXLS
+PARAA,$PARAA
+FRPT,$FRPT
+RVMD,$RVMD
+OTEX,$OTEX
+SIRI,$SIRI
+BECN,$BECN
+CCCS,$CCCS
+UFPI,$UFPI
+BOKF,$BOKF
+CWST,$CWST
+CZR,$CZR
+BPOP,$BPOP
+CVLT,$CVLT
+SPSC,$SPSC
+HCP,$HCP
+QRVO,$QRVO
+SATS,$SATS
+BILI,$BILI
+OLED,$OLED
+CIGI,$CIGI
+NVMI,$NVMI
+BPMC,$BPMC
+WSC,$WSC
+BBIO,$BBIO
+CGNX,$CGNX
+LNTH,$LNTH
+CELH,$CELH
+XP,$XP
+CSWI,$CSWI
+LLYVK,$LLYVK
+LLYVA,$LLYVA
+RMBS,$RMBS
+LSTR,$LSTR
+SMTC,$SMTC
+ASTS,$ASTS
+GNTX,$GNTX
+AMKR,$AMKR
+NXT,$NXT
+QXO,$QXO
+BZ,$BZ
+LITE,$LITE
+CROX,$CROX
+ETSY,$ETSY
+SLM,$SLM
+MDGL,$MDGL
+COLB,$COLB
+SRAD,$SRAD
+OLLI,$OLLI
+MMSI,$MMSI
+UMBF,$UMBF
+LEGN,$LEGN
+GRFS,$GRFS
+CACC,$CACC
+LFUS,$LFUS
+UPST,$UPST
+CRVL,$CRVL
+SIGI,$SIGI
+QFIN,$QFIN
+SAIC,$SAIC
+SITM,$SITM
+TSEM,$TSEM
+CORT,$CORT
+ACIW,$ACIW
+REYN,$REYN
+VIRT,$VIRT
+LYFT,$LYFT
+CYTK,$CYTK
+NUVL,$NUVL
+CHX,$CHX
+TEM,$TEM
+STRL,$STRL
+NOVT,$NOVT
+VLY,$VLY
+FFIN,$FFIN
+TLX,$TLX
+NSIT,$NSIT
+BCPC,$BCPC
+INTA,$INTA
+WFRD,$WFRD
+UBSI,$UBSI
+KTOS,$KTOS
+SOUN,$SOUN
+OZK,$OZK
+HWC,$HWC
+IESC,$IESC
+FRSH,$FRSH
+VRNS,$VRNS
+URBN,$URBN
+CLBT,$CLBT
+FCFS,$FCFS
+QLYS,$QLYS
+OPCH,$OPCH
+RRR,$RRR
+TENB,$TENB
+PECO,$PECO
+PAGP,$PAGP
+ESGR,$ESGR
+NXST,$NXST
+COLM,$COLM
+RUSHA,$RUSHA
+ITRI,$ITRI
+ALKS,$ALKS
+AVAV,$AVAV
+RUSHB,$RUSHB
+BWIN,$BWIN
+GH,$GH
+LANC,$LANC
+AVT,$AVT
+TIGO,$TIGO
+RDNT,$RDNT
+AEIS,$AEIS
+AXSM,$AXSM
+BRZE,$BRZE
+PLXS,$PLXS
+BGC,$BGC
+SANM,$SANM
+FELE,$FELE
+IDCC,$IDCC
+SKYW,$SKYW
+GLNG,$GLNG
+EEFT,$EEFT
+SNRE,$SNRE
+TGTX,$TGTX
+ALGM,$ALGM
+FTDR,$FTDR
+IPAR,$IPAR
+LBTYK,$LBTYK
+CAMT,$CAMT
+PRCT,$PRCT
+KRYS,$KRYS
+LBTYB,$LBTYB
+LBTYA,$LBTYA
+VCTR,$VCTR
+GDS,$GDS
+NWL,$NWL
+VRRM,$VRRM
+SRRK,$SRRK
+IBOC,$IBOC
+VRNA,$VRNA
+GSHD,$GSHD
+ICUI,$ICUI
+CORZ,$CORZ
+GBDC,$GBDC
+SBRA,$SBRA
+NFE,$NFE
+ACHC,$ACHC
+ALVO,$ALVO
+PYCR,$PYCR
+ADMA,$ADMA
+BANF,$BANF
+VKTX,$VKTX
+CARG,$CARG
+NCNO,$NCNO
+DOOO,$DOOO
+CVCO,$CVCO
+BLKB,$BLKB
+FULT,$FULT
+PAYO,$PAYO
+OMAB,$OMAB
+IAC,$IAC
+BL,$BL
+AGYS,$AGYS
+ACLX,$ACLX
+TCBI,$TCBI
+PTEN,$PTEN
+ASO,$ASO
+XRAY,$XRAY
+APLS,$APLS
+IMVT,$IMVT
+USLM,$USLM
+EBC,$EBC
+ACVA,$ACVA
+POWI,$POWI
+SHC,$SHC
+ARLP,$ARLP
+TFSL,$TFSL
+ALKT,$ALKT
+ATAT,$ATAT
+CCOI,$CCOI
+PTON,$PTON
+WRD,$WRD
+CRNX,$CRNX
+ZI,$ZI
+FIBK,$FIBK
+MEOH,$MEOH
+SNEX,$SNEX
+CRSP,$CRSP
+SMPL,$SMPL
+FHB,$FHB
+RNA,$RNA
+MGEE,$MGEE
+DLO,$DLO
+AVPT,$AVPT
+RYTM,$RYTM
+CLSK,$CLSK
+PTCT,$PTCT
+HEES,$HEES
+VEON,$VEON
+NWE,$NWE
+OTTR,$OTTR
+VCYT,$VCYT
+IRTC,$IRTC
+PCH,$PCH
+SYNA,$SYNA
+WSFS,$WSFS
+IPGP,$IPGP
+AMBA,$AMBA
+PTVE,$PTVE
+BTSG,$BTSG
+NMRK,$NMRK
+IRDM,$IRDM
+WDFC,$WDFC
+DNLI,$DNLI
+CNXC,$CNXC
+BTDR,$BTDR
+RGTI,$RGTI
+XENE,$XENE
+LFST,$LFST
+PATK,$PATK
+ALRM,$ALRM
+AMED,$AMED
+POWL,$POWL
+LIF,$LIF
+BHF,$BHF
+ACAD,$ACAD
+NMIH,$NMIH
+CVBF,$CVBF
+MGRC,$MGRC
+LUNR,$LUNR
+NVCR,$NVCR
+FLNC,$FLNC
+VCEL,$VCEL
+LAUR,$LAUR
+PLMR,$PLMR
+KYMR,$KYMR
+IOSP,$IOSP
+SFNC,$SFNC
+HUBG,$HUBG
+HTLF,$HTLF
+DIOD,$DIOD
+FIVN,$FIVN
+JJSF,$JJSF
+MLTX,$MLTX
+INDB,$INDB
+CPRX,$CPRX
+OSIS,$OSIS
+PDCO,$PDCO
+PRGS,$PRGS
+TWST,$TWST
+QDEL,$QDEL
+MRUS,$MRUS
+JBLU,$JBLU
+EWTX,$EWTX
+GT,$GT
+ALHC,$ALHC
+ZLAB,$ZLAB
+FFBC,$FFBC
+TBBK,$TBBK
+PSMT,$PSMT
+PLTK,$PLTK
+TTMI,$TTMI
+WAFD,$WAFD
+STNE,$STNE
+PRVA,$PRVA
+LIVN,$LIVN
+DRVN,$DRVN
+MRCY,$MRCY
+PSNY,$PSNY
+NAMS,$NAMS
+SGRY,$SGRY
+AMRX,$AMRX
+JANX,$JANX
+RPD,$RPD
+KLIC,$KLIC
+SWTX,$SWTX
+FLYW,$FLYW
+IREN,$IREN
+NEOG,$NEOG
+GCMG,$GCMG
+APPN,$APPN
+RNW,$RNW
+BANR,$BANR
+ICFI,$ICFI
+HCM,$HCM
+MRX,$MRX
+AZTA,$AZTA
+WULF,$WULF
+ARCB,$ARCB
+FRME,$FRME
+TNDM,$TNDM
+ARWR,$ARWR
+MYRG,$MYRG
+ADUS,$ADUS
+BATRA,$BATRA
+VC,$VC
+PPBI,$PPBI
+ROIC,$ROIC
+ACLS,$ACLS
+STRA,$STRA
+MLCO,$MLCO
+HWKN,$HWKN
+EXTR,$EXTR
+BATRK,$BATRK
+APGE,$APGE
+WB,$WB
+MCW,$MCW
+SBCF,$SBCF
+UPWK,$UPWK
+WERN,$WERN
+ZD,$ZD
+MGNI,$MGNI
+PTGX,$PTGX
+VIAV,$VIAV
+NBTB,$NBTB
+MIRM,$MIRM
+KC,$KC
+LMAT,$LMAT
+VICR,$VICR
+YY,$YY
+LGIH,$LGIH
+PWP,$PWP
+TRMD,$TRMD
+TRMK,$TRMK
+WSBC,$WSBC
+EFSC,$EFSC
+SYBT,$SYBT
+TFIN,$TFIN
+SUPN,$SUPN
+HRMY,$HRMY
+SLNO,$SLNO
+AVDX,$AVDX
+CRTO,$CRTO
+LGND,$LGND
+HURN,$HURN
+PINC,$PINC
+CENTA,$CENTA
+VSEC,$VSEC
+ENLT,$ENLT
+ENVX,$ENVX
+CNTA,$CNTA
+TMDX,$TMDX
+GTX,$GTX
+IDYA,$IDYA
+CGON,$CGON
+INTR,$INTR
+TRUP,$TRUP
+HLMN,$HLMN
+OMCL,$OMCL
+OSW,$OSW
+CLOV,$CLOV
+WGS,$WGS
+UFPT,$UFPT
+HSAI,$HSAI
+CERT,$CERT
+MQ,$MQ
+MESO,$MESO
+CENX,$CENX
+NEO,$NEO
+EVCM,$EVCM
+MXL,$MXL
+HPK,$HPK
+PSEC,$PSEC
+VITL,$VITL
+ULCC,$ULCC
+CNXN,$CNXN
+GOGL,$GOGL
+RXRX,$RXRX
+CIFR,$CIFR
+CMPR,$CMPR
+GERN,$GERN
+JAMF,$JAMF
+SPT,$SPT
+TXG,$TXG
+ALGT,$ALGT
+FBNC,$FBNC
+SKWD,$SKWD
+ATRC,$ATRC
+IOVA,$IOVA
+APLD,$APLD
+SBLK,$SBLK
+PRDO,$PRDO
+PGNY,$PGNY
+GDYN,$GDYN
+CHCO,$CHCO
+LKFN,$LKFN
+WVE,$WVE
+AMPH,$AMPH
+EXPI,$EXPI
+SONO,$SONO
+IART,$IART
+MBIN,$MBIN
+STGW,$STGW
+WBTN,$WBTN
+SIMO,$SIMO
+BLTE,$BLTE
+XMTR,$XMTR
+NWBI,$NWBI
+MNKD,$MNKD
+GDRX,$GDRX
+IBRX,$IBRX
+PCT,$PCT
+CLBK,$CLBK
+TWFG,$TWFG
+NN,$NN
+UCTT,$UCTT
+DVAX,$DVAX
+ARQT,$ARQT
+CLMT,$CLMT
+IAS,$IAS
+MTTR,$MTTR
+ATEC,$ATEC
+UPBD,$UPBD
+DSGR,$DSGR
+FTRE,$FTRE
+NTCT,$NTCT
+OPRA,$OPRA
+DMLP,$DMLP
+DYN,$DYN
+ARHS,$ARHS
+TVTX,$TVTX
+GLPG,$GLPG
+INFN,$INFN
+VRNT,$VRNT
+AKRO,$AKRO
+SJW,$SJW
+DXPE,$DXPE
+HDL,$HDL
+AAOI,$AAOI
+GPCR,$GPCR
+ASTH,$ASTH
+SASR,$SASR
+MCRI,$MCRI
+PLAB,$PLAB
+VECO,$VECO
+DNUT,$DNUT
+ANDE,$ANDE
+PLYA,$PLYA
+CLDX,$CLDX
+BCRX,$BCRX
+SSRM,$SSRM
+MLKN,$MLKN
+QUBT,$QUBT
+VNET,$VNET
+NAVI,$NAVI
+IMCR,$IMCR
+SEZL,$SEZL
+VBTX,$VBTX
+HLIT,$HLIT
+EVO,$EVO
+HELE,$HELE
+SPNS,$SPNS
+INDV,$INDV
+VIR,$VIR
+HIMX,$HIMX
+ATSG,$ATSG
+ACDC,$ACDC
+CSGS,$CSGS
+TCBK,$TCBK
+NRIX,$NRIX
+KRNT,$KRNT
+STBA,$STBA
+SRCE,$SRCE
+AFYA,$AFYA
+ADEA,$ADEA
+DCOM,$DCOM
+SDGR,$SDGR
+XNCR,$XNCR
+CMPO,$CMPO
+INMD,$INMD
+LZ,$LZ
+AMPL,$AMPL
+WABC,$WABC
+GIII,$GIII
+KARO,$KARO
+VRDN,$VRDN
+NVAX,$NVAX
+WINA,$WINA
+QCRH,$QCRH
+AHCO,$AHCO
+KNSA,$KNSA
+BLBD,$BLBD
+SGML,$SGML
+WLFC,$WLFC
+RBCAA,$RBCAA
+BUSE,$BUSE
+PRAX,$PRAX
+SABR,$SABR
+MDXG,$MDXG
+MRTN,$MRTN
+LILAK,$LILAK
+DCBO,$DCBO
+CBRL,$CBRL
+OCUL,$OCUL
+CCB,$CCB
+SYRE,$SYRE
+OCSL,$OCSL
+NSSC,$NSSC
+ARDX,$ARDX
+RXST,$RXST
+HROW,$HROW
+MFIC,$MFIC
+CRCT,$CRCT
+NYAX,$NYAX
+UDMY,$UDMY
+TTGT,$TTGT
+CRAI,$CRAI
+BLFS,$BLFS
+QNST,$QNST
+HTZ,$HTZ
+ARVN,$ARVN
+CDNA,$CDNA
+THRM,$THRM
+IMKTA,$IMKTA
+IMKTA,$IMKTA
+BMBL,$BMBL
+AMWD,$AMWD
+TBLA,$TBLA
+PZZA,$PZZA
+APOG,$APOG
+MYGN,$MYGN
+NMFC,$NMFC
+SCSC,$SCSC
+GABC,$GABC
+SAFT,$SAFT
+MOMO,$MOMO
+EVGO,$EVGO
+DSP,$DSP
+NVEE,$NVEE
+FOXF,$FOXF
+KALU,$KALU
+COMM,$COMM
+ULH,$ULH
+CNCK,$CNCK
+TIGR,$TIGR
+MRVI,$MRVI
+PFBC,$PFBC
+ECPG,$ECPG
+XRX,$XRX
+INVA,$INVA
+EOSE,$EOSE
+COHU,$COHU
+EMBC,$EMBC
+FWRG,$FWRG
+ACMR,$ACMR
+XPEL,$XPEL
+BBSI,$BBSI
+DGII,$DGII
+CECO,$CECO
+ELVN,$ELVN
+AMSC,$AMSC
+TLRY,$TLRY
+ANIP,$ANIP
+AUPH,$AUPH
+LQDT,$LQDT
+PEBO,$PEBO
+OCFC,$OCFC
+PLSE,$PLSE
+SNDX,$SNDX
+BELFA,$BELFA
+IGIC,$IGIC
+AMAL,$AMAL
+CCEC,$CCEC
+FSUN,$FSUN
+STAA,$STAA
+INOD,$INOD
+BRKL,$BRKL
+AOSL,$AOSL
+PENG,$PENG
+COLL,$COLL
+CSWC,$CSWC
+TH,$TH
+ADPT,$ADPT
+VMEO,$VMEO
+PDFS,$PDFS
+LMB,$LMB
+LX,$LX
+OLPX,$OLPX
+NRDS,$NRDS
+SBGI,$SBGI
+ICHR,$ICHR
+VSAT,$VSAT
+LQDA,$LQDA
+CMCO,$CMCO
+JBSS,$JBSS
+BELFB,$BELFB
+ARRY,$ARRY
+PCRX,$PCRX
+BCYC,$BCYC
+HEPS,$HEPS
+BLMN,$BLMN
+BFC,$BFC
+SDA,$SDA
+RCKT,$RCKT
+OPK,$OPK
+NTLA,$NTLA
+KRUS,$KRUS
+AMSF,$AMSF
+CTBI,$CTBI
+FWRD,$FWRD
+RDFN,$RDFN
+HSTM,$HSTM
+MATW,$MATW
+AVXL,$AVXL
+TRS,$TRS
+BZAI,$BZAI
+PNTG,$PNTG
+TRNS,$TRNS
+HSII,$HSII
+DMRC,$DMRC
+OCS,$OCS
+BHRB,$BHRB
+BGM,$BGM
+CGBD,$CGBD
+CVAC,$CVAC
+RDWR,$RDWR
+ANGI,$ANGI
+PFC,$PFC
+PHVS,$PHVS
+SLRC,$SLRC
+AVAH,$AVAH
+STKL,$STKL
+COGT,$COGT
+MSEX,$MSEX
+PTLO,$PTLO
+INDI,$INDI
+CNOB,$CNOB
+GDEN,$GDEN
+IPX,$IPX
+FMBH,$FMBH
+REAX,$REAX
+TYRA,$TYRA
+CRESY,$CRESY
+ASTL,$ASTL
+HTLD,$HTLD
+RCAT,$RCAT
+ABCL,$ABCL
+ATLC,$ATLC
+UVSP,$UVSP
+SANA,$SANA
+CRSR,$CRSR
+TRIN,$TRIN
+HCSG,$HCSG
+FUFU,$FUFU
+NESR,$NESR
+UXIN,$UXIN
+SNCY,$SNCY
+FIP,$FIP
+PAHC,$PAHC
+HFWA,$HFWA
+SEDG,$SEDG
+AVBP,$AVBP
+NNE,$NNE
+SCVL,$SCVL
+ERII,$ERII
+PSIX,$PSIX
+HCKT,$HCKT
+AIOT,$AIOT
+AXGN,$AXGN
+NBN,$NBN
+PRAA,$PRAA
+OSBC,$OSBC
+SERV,$SERV
+GCT,$GCT
+MCBS,$MCBS
+REPL,$REPL
+FBYD,$FBYD
+ADTN,$ADTN
+PPTA,$PPTA
+CEVA,$CEVA
+IIIV,$IIIV
+CDMO,$CDMO
+GLDD,$GLDD
+AVDL,$AVDL
+BITF,$BITF
+BJRI,$BJRI
+DAKT,$DAKT
+ADSE,$ADSE
+MGPI,$MGPI
+NTGR,$NTGR
+PLRX,$PLRX
+ORIC,$ORIC
+GSM,$GSM
+ADV,$ADV
+ARKO,$ARKO
+NBBK,$NBBK
+ASTE,$ASTE
+SHLS,$SHLS
+SEPN,$SEPN
+EGBN,$EGBN
+CSIQ,$CSIQ
+SCWX,$SCWX
+BFST,$BFST
+CRON,$CRON
+ODP,$ODP
+FCBC,$FCBC
+CFFN,$CFFN
+IRMD,$IRMD
+TIPT,$TIPT
+TCPC,$TCPC
+CFB,$CFB
+ETNB,$ETNB
+MLAB,$MLAB
+CTKB,$CTKB
+IBCP,$IBCP
+DJCO,$DJCO
+OSPN,$OSPN
+CRMD,$CRMD
+FNKO,$FNKO
+FDUS,$FDUS
+CBLL,$CBLL
+MBWM,$MBWM
+PRTA,$PRTA
+CCAP,$CCAP
+RBBN,$RBBN
+GSBC,$GSBC
+ABL,$ABL
+HBT,$HBT
+BCAX,$BCAX
+CSTL,$CSTL
+ORRF,$ORRF
+RPAY,$RPAY
+MBUU,$MBUU
+SIBN,$SIBN
+CGNT,$CGNT
+HBNC,$HBNC
+PUBM,$PUBM
+HAFC,$HAFC
+IMTX,$IMTX
+OFIX,$OFIX
+QURE,$QURE
+UFCS,$UFCS
+SFIX,$SFIX
+MVST,$MVST
+THRY,$THRY
+ECX,$ECX
+MNRO,$MNRO
+EZPW,$EZPW
+IMOS,$IMOS
+NEXN,$NEXN
+NVTS,$NVTS
+IMXI,$IMXI
+ITRN,$ITRN
+ESQ,$ESQ
+PGY,$PGY
+FSBC,$FSBC
+AMRK,$AMRK
+SVRA,$SVRA
+WRLD,$WRLD
+PHAR,$PHAR
+UPB,$UPB
+CAC,$CAC
+CNDT,$CNDT
+SHEN,$SHEN
+RLAY,$RLAY
+EOLS,$EOLS
+HNST,$HNST
+CLNE,$CLNE
+CRML,$CRML
+INV,$INV
+BVS,$BVS
+IMNM,$IMNM
+LPRO,$LPRO
+LENZ,$LENZ
+SMBC,$SMBC
+VINP,$VINP
+SSYS,$SSYS
+GPRE,$GPRE
+EU,$EU
+PRTH,$PRTH
+ABUS,$ABUS
+BYRN,$BYRN
+AUTL,$AUTL
+MGIC,$MGIC
+RMR,$RMR
+DH,$DH
+TRST,$TRST
+PLPC,$PLPC
+SPTN,$SPTN
+CAPR,$CAPR
+MOFG,$MOFG
+CCBG,$CCBG
+TECX,$TECX
+SLP,$SLP
+IRWD,$IRWD
+ACIC,$ACIC
+ATRO,$ATRO
+DNTH,$DNTH
+MNTK,$MNTK
+CGEM,$CGEM
+CTLP,$CTLP
+GRAL,$GRAL
+HUMA,$HUMA
+LEGH,$LEGH
+CCRN,$CCRN
+KRT,$KRT
+HTBI,$HTBI
+SCHL,$SCHL
+CLMB,$CLMB
+ALTI,$ALTI
+NCMI,$NCMI
+CRNC,$CRNC
+ZJK,$ZJK
+FRPH,$FRPH
+SPFI,$SPFI
+DOGZ,$DOGZ
+KURA,$KURA
+SKYT,$SKYT
+HTBK,$HTBK
+MPB,$MPB
+ACCD,$ACCD
+PGC,$PGC
+VREX,$VREX
+CRGX,$CRGX
+LYTS,$LYTS
+THFF,$THFF
+FLX,$FLX
+BTBT,$BTBT
+RXT,$RXT
+CLFD,$CLFD
+EYPT,$EYPT
+HNRG,$HNRG
+WLDN,$WLDN
+NYMT,$NYMT
+SBC,$SBC
+FISI,$FISI
+TMCI,$TMCI
+HIFS,$HIFS
+SRDX,$SRDX
+MSBI,$MSBI
+DDI,$DDI
+SMLR,$SMLR
+FLGT,$FLGT
+ATEX,$ATEX
+SHBI,$SHBI
+FFWM,$FFWM
+RZLV,$RZLV
+RSVR,$RSVR
+GEVO,$GEVO
+INNV,$INNV
+SENEB,$SENEB
+KELYA,$KELYA
+FMNB,$FMNB
+SENEA,$SENEA
+STOK,$STOK
+DHC,$DHC
+PFIS,$PFIS
+NFBK,$NFBK
+KELYB,$KELYB
+METC,$METC
+CCNE,$CCNE
+MNMD,$MNMD
+NNDM,$NNDM
+EBTC,$EBTC
+NNOX,$NNOX
+DGICA,$DGICA
+ALRS,$ALRS
+MXCT,$MXCT
+ANGO,$ANGO
+GLRE,$GLRE
+BCAL,$BCAL
+EVLV,$EVLV
+MLYS,$MLYS
+ORKA,$ORKA
+RAPP,$RAPP
+FLWS,$FLWS
+RNAC,$RNAC
+DGICB,$DGICB
+PRCH,$PRCH
+LINC,$LINC
+BIGC,$BIGC
+XERS,$XERS
+CCSI,$CCSI
+NWPX,$NWPX
+LASR,$LASR
+SNDL,$SNDL
+PACB,$PACB
+RDVT,$RDVT
+MTLS,$MTLS
+VLGEA,$VLGEA
+KOD,$KOD
+ANAB,$ANAB
+BBCP,$BBCP
+MREO,$MREO
+BLDP,$BLDP
+AIRJ,$AIRJ
+CBNK,$CBNK
+TRML,$TRML
+KE,$KE
+AIP,$AIP
+VERV,$VERV
+PROK,$PROK
+AROW,$AROW
+MITK,$MITK
+GCBC,$GCBC
+KRNY,$KRNY
+ARCT,$ARCT
+VALU,$VALU
+SIGA,$SIGA
+UNTY,$UNTY
+ANSC,$ANSC
+ANNX,$ANNX
+TCBX,$TCBX
+SWBI,$SWBI
+MGTX,$MGTX
+TMC,$TMC
+YORW,$YORW
+BWMN,$BWMN
+CDXC,$CDXC
+VBNK,$VBNK
+GHRS,$GHRS
+SVC,$SVC
+ATXS,$ATXS
+BIOX,$BIOX
+URGN,$URGN
+FFIC,$FFIC
+ESPR,$ESPR
+TRDA,$TRDA
+GRVY,$GRVY
+GRPN,$GRPN
+ITIC,$ITIC
+BSVN,$BSVN
+ZVRA,$ZVRA
+QTRX,$QTRX
+SHYF,$SHYF
+ACTG,$ACTG
+NRIM,$NRIM
+LMNR,$LMNR
+DCGO,$DCGO
+RWAY,$RWAY
+PRTC,$PRTC
+TBPH,$TBPH
+AKBA,$AKBA
+BSRR,$BSRR
+TKNO,$TKNO
+KROS,$KROS
+MERC,$MERC
+ALNT,$ALNT
+TCMD,$TCMD
+CELC,$CELC
+CLPT,$CLPT
+KMDA,$KMDA
+MFH,$MFH
+CWCO,$CWCO
+USAP,$USAP
+HAIN,$HAIN
+NETD,$NETD
+CVRX,$CVRX
+DHIL,$DHIL
+LESL,$LESL
+AHG,$AHG
+OLMA,$OLMA
+OFLX,$OFLX
+LVRO,$LVRO
+LE,$LE
+DCTH,$DCTH
+SOHU,$SOHU
+ORGO,$ORGO
+LSAK,$LSAK
+ABVX,$ABVX
+NRC,$NRC
+CRNT,$CRNT
+CVGW,$CVGW
+MBX,$MBX
+CDZI,$CDZI
+CDXS,$CDXS
+OTLY,$OTLY
+NVEC,$NVEC
+AMCX,$AMCX
+ALLO,$ALLO
+OABI,$OABI
+DOYU,$DOYU
+KALV,$KALV
+BRY,$BRY
+AEHR,$AEHR
+CCIX,$CCIX
+NIPG,$NIPG
+JFIN,$JFIN
+FBIZ,$FBIZ
+CRMT,$CRMT
+ENGN,$ENGN
+TBCH,$TBCH
+EWCZ,$EWCZ
+ZIMV,$ZIMV
+BMRC,$BMRC
+LGTY,$LGTY
+ASPI,$ASPI
+PAMT,$PAMT
+ILLR,$ILLR
+PANL,$PANL
+FMAO,$FMAO
+MTRX,$MTRX
+HBCP,$HBCP
+ETON,$ETON
+RGNX,$RGNX
+HRZN,$HRZN
+API,$API
+PSNL,$PSNL
+APEI,$APEI
+GPAT,$GPAT
+PNRG,$PNRG
+PRME,$PRME
+BWB,$BWB
+CYRX,$CYRX
+MBAV,$MBAV
+WTBA,$WTBA
+NYXH,$NYXH
+USCB,$USCB
+NPCE,$NPCE
+SNBR,$SNBR
+NMRA,$NMRA
+EGHT,$EGHT
+CWBC,$CWBC
+RRBI,$RRBI
+RBB,$RBB
+VALN,$VALN
+HCAT,$HCAT
+KRRO,$KRRO
+TITN,$TITN
+FRBA,$FRBA
+KLTR,$KLTR
+RVNC,$RVNC
+ASLE,$ASLE
+JOUT,$JOUT
+CERS,$CERS
+PMTS,$PMTS
+SSBK,$SSBK
+CMPX,$CMPX
+ZBIO,$ZBIO
+GDEV,$GDEV
+WEYS,$WEYS
+LWAY,$LWAY
+PKOH,$PKOH
+QSI,$QSI
+CTNM,$CTNM
+TSHA,$TSHA
+XOMA,$XOMA
+ACNB,$ACNB
+PGEN,$PGEN
+ABSI,$ABSI
+SPOK,$SPOK
+RDUS,$RDUS
+IHRT,$IHRT
+FSBW,$FSBW
+VMD,$VMD
+AUDC,$AUDC
+ASUR,$ASUR
+CIVB,$CIVB
+CCIR,$CCIR
+NATH,$NATH
+TBRG,$TBRG
+OB,$OB
+VACH,$VACH
+LNZA,$LNZA
+RIGL,$RIGL
+CRVS,$CRVS
+GOCO,$GOCO
+ARTNA,$ARTNA
+BLZE,$BLZE
+CMRX,$CMRX
+COFS,$COFS
+BLDE,$BLDE
+BEAG,$BEAG
+PBPB,$PBPB
+NODK,$NODK
+MCFT,$MCFT
+ZUMZ,$ZUMZ
+TTSH,$TTSH
+LFVN,$LFVN
+TATT,$TATT
+JAKK,$JAKK
+INBK,$INBK
+DENN,$DENN
+EXFY,$EXFY
+REFI,$REFI
+UROY,$UROY
+PDLB,$PDLB
+CZFS,$CZFS
+ALDX,$ALDX
+LSEA,$LSEA
+MLAC,$MLAC
+SFST,$SFST
+SLDP,$SLDP
+ALDF,$ALDF
+FSTR,$FSTR
+BCML,$BCML
+AQST,$AQST
+TNGX,$TNGX
+VCIC,$VCIC
+OBT,$OBT
+TRVI,$TRVI
+CZNC,$CZNC
+FNLC,$FNLC
+NECB,$NECB
+ATYR,$ATYR
+GSRT,$GSRT
+HOND,$HOND
+EHTH,$EHTH
+SMTI,$SMTI
+INVZ,$INVZ
+LPBB,$LPBB
+YMAB,$YMAB
+IMMP,$IMMP
+CCCC,$CCCC
+IMMR,$IMMR
+GWRS,$GWRS
+ITOS,$ITOS
+PBFS,$PBFS
+VYGR,$VYGR
+GMGI,$GMGI
+LPAA,$LPAA
+PCB,$PCB
+PCYO,$PCYO
+RGP,$RGP
+FORR,$FORR
+JMSB,$JMSB
+OSUR,$OSUR
+AVIR,$AVIR
+MVIS,$MVIS
+RR,$RR
+AENT,$AENT
+ARBE,$ARBE
+TSSI,$TSSI
+FRST,$FRST
+PDYN,$PDYN
+CDRO,$CDRO
+NGNE,$NGNE
+PLBC,$PLBC
+HDSN,$HDSN
+SATL,$SATL
+ISPR,$ISPR
+SNFCA,$SNFCA
+LNKB,$LNKB
+THRD,$THRD
+NAMI,$NAMI
+DRTS,$DRTS
+RZLT,$RZLT
+ZSPC,$ZSPC
+ACRS,$ACRS
+AFRI,$AFRI
+FLXS,$FLXS
+DRDB,$DRDB
+DOMO,$DOMO
+ARQ,$ARQ
+ACIU,$ACIU
+NATR,$NATR
+LXRX,$LXRX
+UHG,$UHG
+ALLT,$ALLT
+SGC,$SGC
+ATGL,$ATGL
+CADL,$CADL
+FDBC,$FDBC
+VNDA,$VNDA
+INGN,$INGN
+BYND,$BYND
+MVBF,$MVBF
+ONEW,$ONEW
+ARQQ,$ARQQ
+TDUP,$TDUP
+CEPO,$CEPO
+IRBT,$IRBT
+RMNI,$RMNI
+LWLG,$LWLG
+SAMG,$SAMG
+HITI,$HITI
+ICG,$ICG
+BACQ,$BACQ
+SLN,$SLN
+ZYXI,$ZYXI
+BNTC,$BNTC
+INSE,$INSE
+LAZR,$LAZR
+SBT,$SBT
+DSGN,$DSGN
+HLXB,$HLXB
+TZOO,$TZOO
+NVX,$NVX
+NAUT,$NAUT
+GENK,$GENK
+ESEA,$ESEA
+ELDN,$ELDN
+FHTX,$FHTX
+ATAI,$ATAI
+AVNW,$AVNW
+TLS,$TLS
+NTWO,$NTWO
+CPSS,$CPSS
+TSBK,$TSBK
+WSBF,$WSBF
+BDMD,$BDMD
+ILPT,$ILPT
+PRQR,$PRQR
+VSTM,$VSTM
+CMPS,$CMPS
+LFCR,$LFCR
+RCEL,$RCEL
+PKBK,$PKBK
+ANIK,$ANIK
+IONR,$IONR
+CGC,$CGC
+VUZI,$VUZI
+SVCO,$SVCO
+FDMT,$FDMT
+AMRN,$AMRN
+BPRN,$BPRN
+BWFG,$BWFG
+ALCO,$ALCO
+ARAY,$ARAY
+HRTX,$HRTX
+OACC,$OACC
+ABEO,$ABEO
+OPBK,$OPBK
+DMAC,$DMAC
+FBLA,$FBLA
+PWOD,$PWOD
+SGMO,$SGMO
+HTCO,$HTCO
+AMLX,$AMLX
+CFFI,$CFFI
+WHF,$WHF
+ATNI,$ATNI
+FRGT,$FRGT
+CHMG,$CHMG
+MYPS,$MYPS
+FVCB,$FVCB
+KGEI,$KGEI
+CDTX,$CDTX
+SMID,$SMID
+CTRN,$CTRN
+FULC,$FULC
+WILC,$WILC
+OVLY,$OVLY
+TVGN,$TVGN
+MACI,$MACI
+GASS,$GASS
+LRMR,$LRMR
+ACB,$ACB
+BTMD,$BTMD
+NWFL,$NWFL
+TSAT,$TSAT
+FINW,$FINW
+LCNB,$LCNB
+UTMD,$UTMD
+KVAC,$KVAC
+FUNC,$FUNC
+NWTN,$NWTN
+OCGN,$OCGN
+LFMD,$LFMD
+DYNX,$DYNX
+AVR,$AVR
+MFIN,$MFIN
+MBCN,$MBCN
+OBIO,$OBIO
+GOSS,$GOSS
+ESOA,$ESOA
+AOUT,$AOUT
+MDWD,$MDWD
+ESCA,$ESCA
+FXNC,$FXNC
+PLMK,$PLMK
+MKTW,$MKTW
+RGCO,$RGCO
+MOLN,$MOLN
+ZYBT,$ZYBT
+RDCM,$RDCM
+RITR,$RITR
+GAUZ,$GAUZ
+ZNTL,$ZNTL
+SLRN,$SLRN
+SWKH,$SWKH
+BCBP,$BCBP
+HURA,$HURA
+BCOV,$BCOV
+HPAI,$HPAI
+MGNX,$MGNX
+FCEL,$FCEL
+APPS,$APPS
+HWBK,$HWBK
+SSP,$SSP
+AEYE,$AEYE
+HMST,$HMST
+ISTR,$ISTR
+OGI,$OGI
+PROC,$PROC
+VABK,$VABK
+PHLT,$PHLT
+VSTA,$VSTA
+IVA,$IVA
+PESI,$PESI
+INBX,$INBX
+BLFY,$BLFY
+KOPN,$KOPN
+FFNW,$FFNW
+BVFL,$BVFL
+RELL,$RELL
+BWAY,$BWAY
+TTEC,$TTEC
+TDAC,$TDAC
+SEVN,$SEVN
+BSII,$BSII
+TRVG,$TRVG
+ONDS,$ONDS
+NKSH,$NKSH
+FTEL,$FTEL
+WNEB,$WNEB
+HQI,$HQI
+PVBC,$PVBC
+AFCG,$AFCG
+GRRR,$GRRR
+IKT,$IKT
+PLL,$PLL
+EGAN,$EGAN
+FCCO,$FCCO
+MRCC,$MRCC
+LXEO,$LXEO
+OXSQ,$OXSQ
+TCX,$TCX
+KRMD,$KRMD
+CGEN,$CGEN
+YIBO,$YIBO
+JUNS,$JUNS
+BRLT,$BRLT
+NUTX,$NUTX
+BTOC,$BTOC
+JRVR,$JRVR
+TROO,$TROO
+DSY,$DSY
+CRDF,$CRDF
+LOGC,$LOGC
+BIOA,$BIOA
+SPKL,$SPKL
+SCPH,$SCPH
+RCKY,$RCKY
+CLAR,$CLAR
+LYEL,$LYEL
+SKGR,$SKGR
+FLL,$FLL
+INSG,$INSG
+MYFW,$MYFW
+ARTV,$ARTV
+STFS,$STFS
+ACRV,$ACRV
+EML,$EML
+GNFT,$GNFT
+FSFG,$FSFG
+RMBL,$RMBL
+VOR,$VOR
+CLLS,$CLLS
+UBFO,$UBFO
+VXRT,$VXRT
+CHRS,$CHRS
+KEQU,$KEQU
+NKTR,$NKTR
+BZUN,$BZUN
+AZ,$AZ
+MRBK,$MRBK
+NEGG,$NEGG
+VOXX,$VOXX
+HNVR,$HNVR
+ACTU,$ACTU
+FEIM,$FEIM
+PEBK,$PEBK
+GPRO,$GPRO
+GLSI,$GLSI
+POWW,$POWW
+VIRC,$VIRC
+CRGO,$CRGO
+CKPT,$CKPT
+QMCO,$QMCO
+ADUR,$ADUR
+BDSX,$BDSX
+IBAC,$IBAC
+CZWI,$CZWI
+SSTI,$SSTI
+III,$III
+STRT,$STRT
+STRS,$STRS
+ATLO,$ATLO
+NKTX,$NKTX
+ESHA,$ESHA
+SGHT,$SGHT
+FENC,$FENC
+ISSC,$ISSC
+BAER,$BAER
+BROG,$BROG
+HCVI,$HCVI
+ADAP,$ADAP
+HFFG,$HFFG
+CSPI,$CSPI
+RFAI,$RFAI
+JYNT,$JYNT
+QRTEB,$QRTEB
+RCMT,$RCMT
+PHH,$PHH
+ORGN,$ORGN
+IPHA,$IPHA
+BFIN,$BFIN
+CRBP,$CRBP
+STRO,$STRO
+PBYI,$PBYI
+TCRX,$TCRX
+CSTE,$CSTE
+FTLF,$FTLF
+PTMN,$PTMN
+PVLA,$PVLA
+WLAC,$WLAC
+BLNK,$BLNK
+IFRX,$IFRX
+NCTY,$NCTY
+PDEX,$PDEX
+BMEA,$BMEA
+NEOV,$NEOV
+TLSI,$TLSI
+PLBY,$PLBY
+BANX,$BANX
+MMLP,$MMLP
+ZJYL,$ZJYL
+DXLG,$DXLG
+ISRL,$ISRL
+REKR,$REKR
+CXDO,$CXDO
+CDLX,$CDLX
+BETR,$BETR
+CBFV,$CBFV
+NBTX,$NBTX
+RILY,$RILY
+TELO,$TELO
+MRAM,$MRAM
+CRBU,$CRBU
+KYTX,$KYTX
+MNPR,$MNPR
+CFBK,$CFBK
+EPSN,$EPSN
+FRAF,$FRAF
+ABAT,$ABAT
+AISP,$AISP
+OPRT,$OPRT
+AMTX,$AMTX
+INMB,$INMB
+HOFT,$HOFT
+VTYX,$VTYX
+EUDA,$EUDA
+NIU,$NIU
+LAES,$LAES
+TAVI,$TAVI
+SSSS,$SSSS
+NNBR,$NNBR
+AKYA,$AKYA
+SFBC,$SFBC
+VEEA,$VEEA
+UFG,$UFG
+ZENV,$ZENV
+CLYM,$CLYM
+QUIK,$QUIK
+SGMT,$SGMT
+SBFG,$SBFG
+UNB,$UNB
+LTRX,$LTRX
+MCRB,$MCRB
+NTCL,$NTCL
+TDTH,$TDTH
+QRTEA,$QRTEA
+MPAA,$MPAA
+CEP,$CEP
+UEIC,$UEIC
+QIPT,$QIPT
+ECBK,$ECBK
+XNET,$XNET
+SKYX,$SKYX
+ULBI,$ULBI
+BRLS,$BRLS
+GGR,$GGR
+SAVA,$SAVA
+FGBI,$FGBI
+GEOS,$GEOS
+RMBI,$RMBI
+VGAS,$VGAS
+OPOF,$OPOF
+ZURA,$ZURA
+LSE,$LSE
+LCUT,$LCUT
+CSBR,$CSBR
+YAAS,$YAAS
+SLDB,$SLDB
+QRHC,$QRHC
+TSVT,$TSVT
+LPTX,$LPTX
+NA,$NA
+RENB,$RENB
+NTIC,$NTIC
+LPTH,$LPTH
+SDST,$SDST
+MNSB,$MNSB
+DTI,$DTI
+LPSN,$LPSN
+BSET,$BSET
+CHSN,$CHSN
+YXT,$YXT
+RSSS,$RSSS
+WIMI,$WIMI
+GNSS,$GNSS
+BDTX,$BDTX
+MHLD,$MHLD
+QH,$QH
+MAMO,$MAMO
+EBMT,$EBMT
+IGMS,$IGMS
+CSLR,$CSLR
+STHO,$STHO
+PLMJ,$PLMJ
+CAAS,$CAAS
+RVSB,$RVSB
+XBIT,$XBIT
+FNWD,$FNWD
+ALGS,$ALGS
+VBFC,$VBFC
+HTLM,$HTLM
+VOXR,$VOXR
+SLNG,$SLNG
+TNYA,$TNYA
+KVHI,$KVHI
+SIEB,$SIEB
+AFBI,$AFBI
+PPIH,$PPIH
+HURC,$HURC
+CGTL,$CGTL
+GIFI,$GIFI
+ELUT,$ELUT
+PCSC,$PCSC
+VCSA,$VCSA
+ACHV,$ACHV
+ACNT,$ACNT
+PHUN,$PHUN
+DLHC,$DLHC
+GECC,$GECC
+BZFD,$BZFD
+SVII,$SVII
+IPXX,$IPXX
+SRTS,$SRTS
+NOTV,$NOTV
+UPLD,$UPLD
+PPYA,$PPYA
+LGO,$LGO
+LVO,$LVO
+JYD,$JYD
+VERI,$VERI
+ATOS,$ATOS
+ZEO,$ZEO
+CABA,$CABA
+VERU,$VERU
+OFS,$OFS
+ZTEK,$ZTEK
+HLP,$HLP
+EPRX,$EPRX
+ATLX,$ATLX
+RDZN,$RDZN
+DLTH,$DLTH
+MAXN,$MAXN
+TAYD,$TAYD
+USGO,$USGO
+YSXT,$YSXT
+OVBC,$OVBC
+STKS,$STKS
+FBRX,$FBRX
+VRA,$VRA
+MGX,$MGX
+RBKB,$RBKB
+GAIA,$GAIA
+BHST,$BHST
+SILC,$SILC
+NKLA,$NKLA
+WW,$WW
+NVCT,$NVCT
+SRBK,$SRBK
+FCAP,$FCAP
+ECOR,$ECOR
+CPHC,$CPHC
+SHMD,$SHMD
+WMPN,$WMPN
+ENTA,$ENTA
+IZTC,$IZTC
+CRDL,$CRDL
+SND,$SND
+MODV,$MODV
+IMPP,$IMPP
+RECT,$RECT
+PRPL,$PRPL
+MSW,$MSW
+PROV,$PROV
+CURI,$CURI
+BSBK,$BSBK
+SIFY,$SIFY
+HUHU,$HUHU
+PFX,$PFX
+AXTI,$AXTI
+FONR,$FONR
+KLXE,$KLXE
+AFJK,$AFJK
+ADVM,$ADVM
+ACOG,$ACOG
+SPHA,$SPHA
+PBHC,$PBHC
+EVGR,$EVGR
+GLAC,$GLAC
+RRGB,$RRGB
+IVCA,$IVCA
+QETA,$QETA
+SY,$SY
+BTM,$BTM
+MGYR,$MGYR
+IVAC,$IVAC
+MDXH,$MDXH
+ORMP,$ORMP
+LNSR,$LNSR
+BRID,$BRID
+DYCQ,$DYCQ
+SNCR,$SNCR
+CLEU,$CLEU
+FNWB,$FNWB
+THCH,$THCH
+COYA,$COYA
+BKHA,$BKHA
+XCH,$XCH
+ASMB,$ASMB
+HLVX,$HLVX
+HNNA,$HNNA
+DBVT,$DBVT
+MNOV,$MNOV
+IROH,$IROH
+QSG,$QSG
+KNDI,$KNDI
+FATBB,$FATBB
+OPRX,$OPRX
+IMUX,$IMUX
+GRWG,$GRWG
+CNTY,$CNTY
+ALOT,$ALOT
+SCWO,$SCWO
+FSHP,$FSHP
+PAVS,$PAVS
+DTSQ,$DTSQ
+FOSL,$FOSL
+HSPO,$HSPO
+PWUP,$PWUP
+INVE,$INVE
+IMAB,$IMAB
+INZY,$INZY
+BYNO,$BYNO
+PYXS,$PYXS
+JSPR,$JSPR
+USAU,$USAU
+HBIO,$HBIO
+ALXO,$ALXO
+TLSA,$TLSA
+MCHX,$MCHX
+VMCA,$VMCA
+OKUR,$OKUR
+SFWL,$SFWL
+PEPG,$PEPG
+LTBR,$LTBR
+SPWH,$SPWH
+AITR,$AITR
+ORKT,$ORKT
+MGRM,$MGRM
+ENTX,$ENTX
+VIOT,$VIOT
+RGLS,$RGLS
+VTGN,$VTGN
+AIRE,$AIRE
+CTOR,$CTOR
+CBAT,$CBAT
+AZI,$AZI
+HSPT,$HSPT
+ADAG,$ADAG
+VFF,$VFF
+JVSA,$JVSA
+CBUS,$CBUS
+ASPC,$ASPC
+GALT,$GALT
+YHNA,$YHNA
+KPTI,$KPTI
+SNT,$SNT
+IPSC,$IPSC
+AIRG,$AIRG
+AADI,$AADI
+ATMV,$ATMV
+MRSN,$MRSN
+TBNK,$TBNK
+ASRT,$ASRT
+THTX,$THTX
+XFOR,$XFOR
+CAPN,$CAPN
+VIGL,$VIGL
+CHCI,$CHCI
+EPIX,$EPIX
+GNLX,$GNLX
+ATMC,$ATMC
+CMTL,$CMTL
+ALLK,$ALLK
+LSBK,$LSBK
+QNCX,$QNCX
+ICLK,$ICLK
+INCR,$INCR
+AUBN,$AUBN
+VTSI,$VTSI
+IROQ,$IROQ
+APLT,$APLT
+ACET,$ACET
+EDAP,$EDAP
+BYFC,$BYFC
+FVN,$FVN
+EURK,$EURK
+ATRA,$ATRA
+MSSA,$MSSA
+SPHL,$SPHL
+PIII,$PIII
+RDAC,$RDAC
+HGBL,$HGBL
+OPTX,$OPTX
+ASYS,$ASYS
+ANL,$ANL
+GNTA,$GNTA
+PRTS,$PRTS
+INLF,$INLF
+AGEN,$AGEN
+ELTK,$ELTK
+SGA,$SGA
+CSLM,$CSLM
+TETE,$TETE
+CNTX,$CNTX
+ANIX,$ANIX
+UBCP,$UBCP
+FUSB,$FUSB
+NOEM,$NOEM
+NCSM,$NCSM
+PMVP,$PMVP
+YTRA,$YTRA
+IKNA,$IKNA
+CVGI,$CVGI
+SNAL,$SNAL
+GSIT,$GSIT
+CLSD,$CLSD
+AVTE,$AVTE
+VANI,$VANI
+FBLG,$FBLG
+GTI,$GTI
+STIM,$STIM
+BYSI,$BYSI
+FFIE,$FFIE
+HYPR,$HYPR
+SMXT,$SMXT
+TPIC,$TPIC
+NSPR,$NSPR
+WFCF,$WFCF
+UNCY,$UNCY
+FDSB,$FDSB
+CCG,$CCG
+NB,$NB
+ICCH,$ICCH
+ELTX,$ELTX
+OAKU,$OAKU
+SDIG,$SDIG
+SLS,$SLS
+ABP,$ABP
+RMTI,$RMTI
+ICCM,$ICCM
+AIMAU,$AIMAU
+CTMX,$CTMX
+FNGR,$FNGR
+BNR,$BNR
+FTII,$FTII
+AVTX,$AVTX
+ELPW,$ELPW
+HPH,$HPH
+RIBB,$RIBB
+ISPO,$ISPO
+LRFC,$LRFC
+WPRT,$WPRT
+WAI,$WAI
+RGC,$RGC
+ONCY,$ONCY
+BMR,$BMR
+SOTK,$SOTK
+RCON,$RCON
+NIXX,$NIXX
+IPWR,$IPWR
+USIO,$USIO
+STI,$STI
+AUID,$AUID
+BOTJ,$BOTJ
+RVPH,$RVPH
+CPBI,$CPBI
+BOWN,$BOWN
+FGEN,$FGEN
+OPTN,$OPTN
+GBBK,$GBBK
+USEG,$USEG
+VRCA,$VRCA
+PODC,$PODC
+GBIO,$GBIO
+KRON,$KRON
+CTSO,$CTSO
+IMRX,$IMRX
+SCLX,$SCLX
+MDBH,$MDBH
+FLNT,$FLNT
+BAYA,$BAYA
+FKWL,$FKWL
+CNTB,$CNTB
+LATG,$LATG
+OTLK,$OTLK
+STTK,$STTK
+GANX,$GANX
+PRLD,$PRLD
+REFR,$REFR
+YYGH,$YYGH
+RTC,$RTC
+BCOW,$BCOW
+AREC,$AREC
+SELX,$SELX
+NSTS,$NSTS
+BRAC,$BRAC
+CNVS,$CNVS
+NVNO,$NVNO
+IMMX,$IMMX
+BUJA,$BUJA
+PTLE,$PTLE
+BAFN,$BAFN
+XGN,$XGN
+CGBS,$CGBS
+CLIR,$CLIR
+RPID,$RPID
+RPTX,$RPTX
+PDSB,$PDSB
+CLRC,$CLRC
+NRXP,$NRXP
+OVID,$OVID
+NVA,$NVA
+KSCP,$KSCP
+IDN,$IDN
+GEG,$GEG
+APYX,$APYX
+NHTC,$NHTC
+SUUN,$SUUN
+RFAC,$RFAC
+EMCG,$EMCG
+PTHL,$PTHL
+RGS,$RGS
+LBGJ,$LBGJ
+FTCI,$FTCI
+IOBT,$IOBT
+FBIO,$FBIO
+TYGO,$TYGO
+MDIA,$MDIA
+AIXI,$AIXI
+CLST,$CLST
+UCL,$UCL
+GODN,$GODN
+HYMC,$HYMC
+WKEY,$WKEY
+OPI,$OPI
+DGHI,$DGHI
+TBMC,$TBMC
+ARKR,$ARKR
+ALCY,$ALCY
+ICAD,$ICAD
+OMIC,$OMIC
+IVVD,$IVVD
+SSBI,$SSBI
+SHLT,$SHLT
+DHAI,$DHAI
+SYPR,$SYPR
+SPRO,$SPRO
+INO,$INO
+UG,$UG
+STBX,$STBX
+NVNI,$NVNI
+BTCS,$BTCS
+ANGH,$ANGH
+CELU,$CELU
+MODD,$MODD
+ACHL,$ACHL
+UONE,$UONE
+XLO,$XLO
+ICCC,$ICCC
+NTRB,$NTRB
+BEEM,$BEEM
+SWVL,$SWVL
+MSAI,$MSAI
+GORV,$GORV
+CRWS,$CRWS
+ZBAO,$ZBAO
+SPAI,$SPAI
+DYAI,$DYAI
+BLAC,$BLAC
+GLST,$GLST
+KZR,$KZR
+LUCD,$LUCD
+CLGN,$CLGN
+CCLD,$CCLD
+MNY,$MNY
+FORL,$FORL
+ASRV,$ASRV
+ABLV,$ABLV
+VTVT,$VTVT
+VRME,$VRME
+TCBS,$TCBS
+SCYX,$SCYX
+PPSI,$PPSI
+DUOT,$DUOT
+FSEA,$FSEA
+ITRM,$ITRM
+ICMB,$ICMB
+KTCC,$KTCC
+RNTX,$RNTX
+NCEW,$NCEW
+ALVR,$ALVR
+CFSB,$CFSB
+TNXP,$TNXP
+LSB,$LSB
+FCUV,$FCUV
+PXS,$PXS
+RFIL,$RFIL
+ELEV,$ELEV
+BCG,$BCG
+ANEB,$ANEB
+OMCC,$OMCC
+PXLW,$PXLW
+OPXS,$OPXS
+UONEK,$UONEK
+WLGS,$WLGS
+JRSH,$JRSH
+DWSN,$DWSN
+FAAS,$FAAS
+AGFY,$AGFY
+SYT,$SYT
+INTS,$INTS
+ESLA,$ESLA
+YOTA,$YOTA
+BWEN,$BWEN
+HKIT,$HKIT
+MNDO,$MNDO
+WAVS,$WAVS
+BRNS,$BRNS
+HFBL,$HFBL
+LVLU,$LVLU
+CALC,$CALC
+VYNE,$VYNE
+SGRP,$SGRP
+OCC,$OCC
+WINV,$WINV
+DECA,$DECA
+DTIL,$DTIL
+RDIB,$RDIB
+LGCL,$LGCL
+DXR,$DXR
+AGAE,$AGAE
+ARBK,$ARBK
+IZEA,$IZEA
+NEHC,$NEHC
+BRFH,$BRFH
+MDAI,$MDAI
+MOBX,$MOBX
+BIVI,$BIVI
+RADX,$RADX
+QTTB,$QTTB
+TPST,$TPST
+GDST,$GDST
+HOLO,$HOLO
+CLNN,$CLNN
+STAI,$STAI
+YI,$YI
+SRZN,$SRZN
+CPIX,$CPIX
+MKZR,$MKZR
+NXL,$NXL
+LTRN,$LTRN
+JG,$JG
+VRAR,$VRAR
+SNYR,$SNYR
+LDTC,$LDTC
+HHS,$HHS
+ANTX,$ANTX
+DSWL,$DSWL
+RLYB,$RLYB
+FEAM,$FEAM
+CMMB,$CMMB
+TLF,$TLF
+CENN,$CENN
+OCX,$OCX
+AERT,$AERT
+BGFV,$BGFV
+IRD,$IRD
+DALN,$DALN
+SCNX,$SCNX
+SOND,$SOND
+MTC,$MTC
+FPAY,$FPAY
+VIVK,$VIVK
+SLGL,$SLGL
+PASG,$PASG
+DIST,$DIST
+ZCMD,$ZCMD
+NUKK,$NUKK
+PBBK,$PBBK
+OMGA,$OMGA
+AWRE,$AWRE
+HSON,$HSON
+GRCE,$GRCE
+ONEG,$ONEG
+INKT,$INKT
+HTCR,$HTCR
+SJ,$SJ
+MTEN,$MTEN
+OKYO,$OKYO
+ORIS,$ORIS
+RNXT,$RNXT
+XBP,$XBP
+TZUP,$TZUP
+VSTE,$VSTE
+SURG,$SURG
+NDLS,$NDLS
+ECDA,$ECDA
+EDRY,$EDRY
+MTEK,$MTEK
+FGL,$FGL
+LEXX,$LEXX
+AMPG,$AMPG
+MLEC,$MLEC
+NMTC,$NMTC
+MDCX,$MDCX
+WCT,$WCT
+BNIX,$BNIX
+TRSG,$TRSG
+AACG,$AACG
+RDI,$RDI
+CLPS,$CLPS
+FTHM,$FTHM
+BANL,$BANL
+AIFF,$AIFF
+ATHE,$ATHE
+APWC,$APWC
+LSTA,$LSTA
+NTWK,$NTWK
+POCI,$POCI
+HKPD,$HKPD
+AAME,$AAME
+SCOR,$SCOR
+AKTX,$AKTX
+IXHL,$IXHL
+KPLT,$KPLT
+INTG,$INTG
+FTEK,$FTEK
+MBOT,$MBOT
+DTST,$DTST
+TOI,$TOI
+FOXX,$FOXX
+TPCS,$TPCS
+AGMH,$AGMH
+CXAI,$CXAI
+MRNS,$MRNS
+CVKD,$CVKD
+PMN,$PMN
+SWIN,$SWIN
+HUIZ,$HUIZ
+AQU,$AQU
+CGTX,$CGTX
+MOGO,$MOGO
+WKHS,$WKHS
+ONMD,$ONMD
+COCH,$COCH
+NXGL,$NXGL
+ZOOZ,$ZOOZ
+UBX,$UBX
+NSYS,$NSYS
+PGHL,$PGHL
+AXDX,$AXDX
+ESGL,$ESGL
+SOWG,$SOWG
+CMBM,$CMBM
+PMEC,$PMEC
+NXPL,$NXPL
+XCUR,$XCUR
+WKSP,$WKSP
+CTRM,$CTRM
+IRIX,$IRIX
+GLBS,$GLBS
+OESX,$OESX
+GLE,$GLE
+UCAR,$UCAR
+HYFM,$HYFM
+EMKR,$EMKR
+TURB,$TURB
+CREX,$CREX
+NISN,$NISN
+DAIO,$DAIO
+CTXR,$CTXR
+IPW,$IPW
+LGVN,$LGVN
+CVV,$CVV
+XAIR,$XAIR
+CPSH,$CPSH
+UTSI,$UTSI
+GTIM,$GTIM
+LVTX,$LVTX
+DRRX,$DRRX
+GTEC,$GTEC
+XOS,$XOS
+LRE,$LRE
+CHR,$CHR
+ENLV,$ENLV
+GDTC,$GDTC
+DRIO,$DRIO
+LITM,$LITM
+NAII,$NAII
+EHGO,$EHGO
+BTCT,$BTCT
+EQ,$EQ
+FGF,$FGF
+VVOS,$VVOS
+LPCN,$LPCN
+FRSX,$FRSX
+MRKR,$MRKR
+TNMG,$TNMG
+BNAI,$BNAI
+FEMY,$FEMY
+BLRX,$BLRX
+OCG,$OCG
+PLUR,$PLUR
+OXBR,$OXBR
+MGIH,$MGIH
+NRSN,$NRSN
+CDIO,$CDIO
+MTEX,$MTEX
+CODX,$CODX
+GP,$GP
+KFFB,$KFFB
+WETH,$WETH
+HUDI,$HUDI
+BCAB,$BCAB
+PSHG,$PSHG
+EPOW,$EPOW
+SKYQ,$SKYQ
+HUDA,$HUDA
+ELBM,$ELBM
+EZFL,$EZFL
+GRYP,$GRYP
+TOMZ,$TOMZ
+NXTC,$NXTC
+TENX,$TENX
+PYPD,$PYPD
+SHFS,$SHFS
+CNTM,$CNTM
+INAB,$INAB
+RMSG,$RMSG
+SFHG,$SFHG
+STEC,$STEC
+PULM,$PULM
+WVVI,$WVVI
+PWM,$PWM
+BOSC,$BOSC
+CYTH,$CYTH
+CETY,$CETY
+JVA,$JVA
+RVSN,$RVSN
+INTZ,$INTZ
+VSEE,$VSEE
+SPCB,$SPCB
+BSGM,$BSGM
+ZBAI,$ZBAI
+GLXG,$GLXG
+GOVX,$GOVX
+MSS,$MSS
+AIFU,$AIFU
+OCEA,$OCEA
+HUBC,$HUBC
+ZKIN,$ZKIN
+ATHA,$ATHA
+NAAS,$NAAS
+DRCT,$DRCT
+DFLI,$DFLI
+TRAW,$TRAW
+PRZO,$PRZO
+COCP,$COCP
+GDC,$GDC
+BNGO,$BNGO
+HOVR,$HOVR
+SMSI,$SMSI
+SANW,$SANW
+PMAX,$PMAX
+APRE,$APRE
+KITT,$KITT
+NWGL,$NWGL
+SDOT,$SDOT
+CCTG,$CCTG
+IINN,$IINN
+GFAI,$GFAI
+JDZG,$JDZG
+EVTV,$EVTV
+COEP,$COEP
+DPRO,$DPRO
+EDTK,$EDTK
+BFRG,$BFRG
+CARM,$CARM
+CLIK,$CLIK
+MEIP,$MEIP
+SONM,$SONM
+NKGN,$NKGN
+GIGM,$GIGM
+SOHO,$SOHO
+IPM,$IPM
+FEBO,$FEBO
+YYAI,$YYAI
+JL,$JL
+RETO,$RETO
+AFMD,$AFMD
+IZM,$IZM
+FLGC,$FLGC
+SLNH,$SLNH
+MLGO,$MLGO
+SNTI,$SNTI
+NXTT,$NXTT
+ABTS,$ABTS
+YHC,$YHC
+IPA,$IPA
+BTAI,$BTAI
+JFU,$JFU
+MCVT,$MCVT
+CRVO,$CRVO
+ATER,$ATER
+SYBX,$SYBX
+LIQT,$LIQT
+GLBZ,$GLBZ
+LFWD,$LFWD
+MTVA,$MTVA
+NEPH,$NEPH
+VCIG,$VCIG
+COSM,$COSM
+MIGI,$MIGI
+ADN,$ADN
+BCTX,$BCTX
+SKK,$SKK
+CLRO,$CLRO
+AIEV,$AIEV
+JCTC,$JCTC
+GLYC,$GLYC
+CPOP,$CPOP
+MDRR,$MDRR
+JZ,$JZ
+INHD,$INHD
+HCWB,$HCWB
+ILAG,$ILAG
+RMCF,$RMCF
+BBGI,$BBGI
+JZXN,$JZXN
+MSPR,$MSPR
+SPPL,$SPPL
+QMMM,$QMMM
+USEA,$USEA
+FLYE,$FLYE
+STRM,$STRM
+CWD,$CWD
+DTSS,$DTSS
+CAPT,$CAPT
+SPRB,$SPRB
+LSH,$LSH
+CING,$CING
+SUGP,$SUGP
+NCRA,$NCRA
+NERV,$NERV
+DMN,$DMN
+XTLB,$XTLB
+ARBB,$ARBB
+SMTK,$SMTK
+RMCO,$RMCO
+SAIH,$SAIH
+AQMS,$AQMS
+ABVE,$ABVE
+YHGJ,$YHGJ
+PRPH,$PRPH
+EKSO,$EKSO
+CDTG,$CDTG
+BOF,$BOF
+CMLS,$CMLS
+BNRG,$BNRG
+TKLF,$TKLF
+OMEX,$OMEX
+FMST,$FMST
+EEIQ,$EEIQ
+CISO,$CISO
+SVMH,$SVMH
+XTKG,$XTKG
+EDUC,$EDUC
+APCX,$APCX
+WNW,$WNW
+IMNN,$IMNN
+WISA,$WISA
+APTO,$APTO
+DATS,$DATS
+TXMD,$TXMD
+SNSE,$SNSE
+MEGL,$MEGL
+NCI,$NCI
+MNTS,$MNTS
+YQ,$YQ
+BRTX,$BRTX
+SSKN,$SSKN
+LYRA,$LYRA
+ADGM,$ADGM
+ACXP,$ACXP
+HWH,$HWH
+JBDI,$JBDI
+LCFY,$LCFY
+QTI,$QTI
+CNFR,$CNFR
+IMRN,$IMRN
+BSLK,$BSLK
+RLMD,$RLMD
+CJJD,$CJJD
+PETZ,$PETZ
+LNKS,$LNKS
+BCLI,$BCLI
+BIAF,$BIAF
+UGRO,$UGRO
+GMM,$GMM
+DLPN,$DLPN
+SCKT,$SCKT
+BHIL,$BHIL
+INTJ,$INTJ
+PSIG,$PSIG
+CTCX,$CTCX
+UBXG,$UBXG
+LIDR,$LIDR
+LEDS,$LEDS
+APLM,$APLM
+GITS,$GITS
+ASTC,$ASTC
+CSCI,$CSCI
+NITO,$NITO
+CLWT,$CLWT
+SGMA,$SGMA
+CREV,$CREV
+NTRP,$NTRP
+PEV,$PEV
+MNDR,$MNDR
+GVH,$GVH
+TSBX,$TSBX
+PMCB,$PMCB
+HOTH,$HOTH
+GSIW,$GSIW
+BTBD,$BTBD
+AMOD,$AMOD
+APDN,$APDN
+CLRB,$CLRB
+JAGX,$JAGX
+KPRX,$KPRX
+CDT,$CDT
+XELB,$XELB
+BCDA,$BCDA
+PPBT,$PPBT
+AYTU,$AYTU
+MKDW,$MKDW
+MYNZ,$MYNZ
+MFI,$MFI
+TLPH,$TLPH
+WBUY,$WBUY
+RVYL,$RVYL
+VISL,$VISL
+AEMD,$AEMD
+SIDU,$SIDU
+CARV,$CARV
+SOGP,$SOGP
+LRHC,$LRHC
+ENSC,$ENSC
+IVDA,$IVDA
+EVOK,$EVOK
+AIHS,$AIHS
+AIMD,$AIMD
+GIPR,$GIPR
+HTOO,$HTOO
+GWAV,$GWAV
+KLTO,$KLTO
+GDHG,$GDHG
+PRPO,$PRPO
+SQFT,$SQFT
+NXU,$NXU
+AMST,$AMST
+ELWS,$ELWS
+VRAX,$VRAX
+CMCT,$CMCT
+CJET,$CJET
+INDP,$INDP
+MARPS,$MARPS
+LGCB,$LGCB
+KDLY,$KDLY
+EVGN,$EVGN
+BOXL,$BOXL
+ARTW,$ARTW
+SYRA,$SYRA
+BKYI,$BKYI
+SGLY,$SGLY
+ASNS,$ASNS
+HIHO,$HIHO
+GV,$GV
+MHUA,$MHUA
+YJ,$YJ
+WTO,$WTO
+HOFV,$HOFV
+LDWY,$LDWY
+GOEV,$GOEV
+NURO,$NURO
+POLA,$POLA
+CUTR,$CUTR
+TRUG,$TRUG
+AEI,$AEI
+ICU,$ICU
+FGI,$FGI
+GRNQ,$GRNQ
+ROMA,$ROMA
+AWH,$AWH
+IBG,$IBG
+BNZI,$BNZI
+POAI,$POAI
+SLE,$SLE
+BFRI,$BFRI
+CYCN,$CYCN
+CHEK,$CHEK
+OMH,$OMH
+TRIB,$TRIB
+WAFU,$WAFU
+JCSE,$JCSE
+JNVR,$JNVR
+OTRK,$OTRK
+IPDN,$IPDN
+LMFA,$LMFA
+RDHL,$RDHL
+PAVM,$PAVM
+PSTV,$PSTV
+STRR,$STRR
+IMCC,$IMCC
+RKDA,$RKDA
+IDAI,$IDAI
+APM,$APM
+XWEL,$XWEL
+EFOI,$EFOI
+ADXN,$ADXN
+HYZN,$HYZN
+KZIA,$KZIA
+BLBX,$BLBX
+KAVL,$KAVL
+JWEL,$JWEL
+BLMZ,$BLMZ
+MRIN,$MRIN
+ABVC,$ABVC
+ELAB,$ELAB
+DOMH,$DOMH
+TWG,$TWG
+IMG,$IMG
+GRI,$GRI
+KRKR,$KRKR
+ADIL,$ADIL
+VIRX,$VIRX
+XHG,$XHG
+BON,$BON
+GURE,$GURE
+PNBK,$PNBK
+ULY,$ULY
+BMRA,$BMRA
+SYRS,$SYRS
+ONFO,$ONFO
+ALZN,$ALZN
+XBIO,$XBIO
+QNTM,$QNTM
+GLTO,$GLTO
+MGRX,$MGRX
+BGLC,$BGLC
+CNSP,$CNSP
+CMND,$CMND
+CEAD,$CEAD
+CTNT,$CTNT
+EDSA,$EDSA
+SRM,$SRM
+GNPX,$GNPX
+TGL,$TGL
+TTOO,$TTOO
+FTFT,$FTFT
+VEEE,$VEEE
+SBFM,$SBFM
+INBS,$INBS
+GSUN,$GSUN
+CHNR,$CHNR
+LXEH,$LXEH
+SNGX,$SNGX
+PHIO,$PHIO
+VS,$VS
+AEHL,$AEHL
+LICN,$LICN
+CREG,$CREG
+LIXT,$LIXT
+EJH,$EJH
+ONVO,$ONVO
+MBRX,$MBRX
+GXAI,$GXAI
+ATPC,$ATPC
+CISS,$CISS
+VVPR,$VVPR
+CETX,$CETX
+SNTG,$SNTG
+TNON,$TNON
+GTBP,$GTBP
+OST,$OST
+VINC,$VINC
+BTOG,$BTOG
+REBN,$REBN
+STAF,$STAF
+HAO,$HAO
+PBM,$PBM
+YOSH,$YOSH
+XTIA,$XTIA
+MRM,$MRM
+LKCO,$LKCO
+YGMZ,$YGMZ
+NIVF,$NIVF
+HCTI,$HCTI
+CRKN,$CRKN
+JTAI,$JTAI
+AYRO,$AYRO
+SNPX,$SNPX
+LTRY,$LTRY
+CTHR,$CTHR
+SONN,$SONN
+ONCO,$ONCO
+KXIN,$KXIN
+NVFY,$NVFY
+PLRZ,$PLRZ
+ZAPP,$ZAPP
+SINT,$SINT
+BAOS,$BAOS
+IVP,$IVP
+PRTG,$PRTG
+IMTE,$IMTE
+ALLR,$ALLR
+MSGM,$MSGM
+LFLY,$LFLY
+ZCAR,$ZCAR
+NCNA,$NCNA
+GLMD,$GLMD
+IFBD,$IFBD
+JXG,$JXG
+EDBL,$EDBL
+SGBX,$SGBX
+VSME,$VSME
+ALBT,$ALBT
+OLB,$OLB
+AGRI,$AGRI
+ATXG,$ATXG
+OBLG,$OBLG
+OCTO,$OCTO
+MULN,$MULN
+PRSO,$PRSO
+NUWE,$NUWE
+TIRX,$TIRX
+TCTM,$TCTM
+EVAX,$EVAX
+XRTX,$XRTX
+SUNE,$SUNE
+BHAT,$BHAT
+UPXI,$UPXI
+ARTL,$ARTL
+CELZ,$CELZ
+BPTH,$BPTH
+ATXI,$ATXI
+SLRX,$SLRX
+XPON,$XPON
+LIPO,$LIPO
+CNET,$CNET
+RELI,$RELI
+ASTI,$ASTI
+ENVB,$ENVB
+RSLS,$RSLS
+SNOA,$SNOA
+AMIX,$AMIX
+STSS,$STSS
+BENF,$BENF
+NCPL,$NCPL
+ZVSA,$ZVSA
+TCBP,$TCBP
+SOPA,$SOPA
+HSCS,$HSCS
+WORX,$WORX
+TNFA,$TNFA
+NLSP,$NLSP
+ATNF,$ATNF
+NDRA,$NDRA
+MYSZ,$MYSZ
+VMAR,$VMAR
+XYLO,$XYLO
+HSDT,$HSDT
+PTIX,$PTIX
+INM,$INM
+KTTA,$KTTA
+FAMI,$FAMI
+WHLR,$WHLR
+SHPH,$SHPH
+SNES,$SNES
+PTPI,$PTPI
+SGD,$SGD
+TTNP,$TTNP
+HEPA,$HEPA
+THAR,$THAR
+QNRX,$QNRX
+SNAX,$SNAX
+AQB,$AQB
+SCNI,$SCNI
+DWTX,$DWTX
+QLGN,$QLGN
+SISI,$SISI
+ICCT,$ICCT
+BCAN,$BCAN
+TCRT,$TCRT
+PCSA,$PCSA
+DRMA,$DRMA
+UOKA,$UOKA
+ASST,$ASST
+SYTA,$SYTA
+SPRC,$SPRC
+AUUD,$AUUD
+ENTO,$ENTO
+LGMK,$LGMK
+XXII,$XXII
+ISPC,$ISPC
+SVRE,$SVRE
+VERO,$VERO
+SLXN,$SLXN
+AREB,$AREB
+BDRX,$BDRX
+NVVE,$NVVE
+BBLG,$BBLG
+TRNR,$TRNR
+PALI,$PALI
+DGLY,$DGLY
+AKAN,$AKAN
+CYCC,$CYCC
+APVO,$APVO
+TIVC,$TIVC
+WINT,$WINT
+NAOV,$NAOV
+VLCN,$VLCN
+REVB,$REVB
+SXTP,$SXTP
+GNLN,$GNLN
+NAYA,$NAYA
+TAOP,$TAOP
+CNEY,$CNEY
+AVGR,$AVGR
+BJDX,$BJDX
+ADTX,$ADTX
+JFBR,$JFBR
+WLDS,$WLDS
+SBET,$SBET
+MGOL,$MGOL
+KWE,$KWE
+VRPX,$VRPX
+SMX,$SMX
+RNAZ,$RNAZ
+TC,$TC
+EZGO,$EZGO
+PRFX,$PRFX
+UK,$UK
+LUXH,$LUXH
+ALCE,$ALCE
+CYN,$CYN
+SXTC,$SXTC
+TANH,$TANH
+GCTK,$GCTK
+LYT,$LYT
+SPGC,$SPGC
+LGHL,$LGHL
+SOBR,$SOBR
+ACON,$ACON
+STKH,$STKH
+MBIO,$MBIO
+BRKA,$BRKA
+BRKB,$BRKB
+TSM,$TSM
+WMT,$WMT
+JPM,$JPM
+LLY,$LLY
+XOM,$XOM
+UNH,$UNH
+ORCL,$ORCL
+HD,$HD
+PG,$PG
+BAC,$BAC
+JNJ,$JNJ
+NVO,$NVO
+CRM,$CRM
+ABBV,$ABBV
+CVX,$CVX
+KO,$KO
+WFC,$WFC
+MRK,$MRK
+TM,$TM
+MS,$MS
+ACN,$ACN
+AXP,$AXP
+BX,$BX
+TMO,$TMO
+GS,$GS
+IBM,$IBM
+MCD,$MCD
+GE,$GE
+ABT,$ABT
+NVS,$NVS
+DIS,$DIS
+HSBC,$HSBC
+DHR,$DHR
+RY,$RY
+VZ,$VZ
+RTX,$RTX
+BLK,$BLK
+SPGI,$SPGI
+PFE,$PFE
+SYK,$SYK
+BSX,$BSX
+HDB,$HDB
+PGR,$PGR
+UNP,$UNP
+UBER,$UBER
+KKR,$KKR
+SCHW,$SCHW
+MUFG,$MUFG
+UL,$UL
+TJX,$TJX
+ETN,$ETN
+TTE,$TTE
+BHP,$BHP
+SONY,$SONY
+FI,$FI
+LMT,$LMT
+BMY,$BMY
+MDT,$MDT
+GEV,$GEV
+CB,$CB
+UBS,$UBS
+MMC,$MMC
+NKE,$NKE
+RIO,$RIO
+PLD,$PLD
+TD,$TD
+IBN,$IBN
+ENB,$ENB
+APO,$APO
+SMFG,$SMFG
+ELV,$ELV
+RELX,$RELX
+AMT,$AMT
+SHW,$SHW
+BN,$BN
+TT,$TT
+INFY,$INFY
+MCO,$MCO
+PH,$PH
+WM,$WM
+PBR,$PBR
+PBRA,$PBRA
+DUK,$DUK
+APH,$APH
+BP,$BP
+BTI,$BTI
+AON,$AON
+CI,$CI
+HCA,$HCA
+PNC,$PNC
+CMG,$CMG
+MSI,$MSI
+SCCO,$SCCO
+EOG,$EOG
+ITW,$ITW
+USB,$USB
+TDG,$TDG
+MCK,$MCK
+ZTS,$ZTS
+AJG,$AJG
+GD,$GD
+COF,$COF
+EPD,$EPD
+BMO,$BMO
+CL,$CL
+WMB,$WMB
+TRI,$TRI
+EMR,$EMR
+APD,$APD
+NOC,$NOC
+CP,$CP
+BDX,$BDX
+EQNR,$EQNR
+GSK,$GSK
+KMI,$KMI
+ECL,$ECL
+RSG,$RSG
+CNQ,$CNQ
+FDX,$FDX
+CVS,$CVS
+CRH,$CRH
+SE,$SE
+DEO,$DEO
+SPG,$SPG
+RCL,$RCL
+CNI,$CNI
+MFG,$MFG
+BNS,$BNS
+TFC,$TFC
+CARR,$CARR
+SLB,$SLB
+TGT,$TGT
+DLR,$DLR
+HLT,$HLT
+BK,$BK
+CM,$CM
+AFL,$AFL
+VST,$VST
+FCX,$FCX
+NGG,$NGG
+BBVA,$BBVA
+LNG,$LNG
+NSC,$NSC
+TRV,$TRV
+GWW,$GWW
+SRE,$SRE
+SQ,$SQ
+JCI,$JCI
+MFC,$MFC
+MPLX,$MPLX
+PSA,$PSA
+VRT,$VRT
+HWM,$HWM
+BCS,$BCS
+ING,$ING
+CMI,$CMI
+PWR,$PWR
+PSX,$PSX
+TRP,$TRP
+SU,$SU
+ITUB,$ITUB
+MPC,$MPC
+CVNA,$CVNA
+MSCI,$MSCI
+DHI,$DHI
+TRGP,$TRGP
+DFS,$DFS
+NEM,$NEM
+FLUT,$FLUT
+AIG,$AIG
+COR,$COR
+WCN,$WCN
+VLO,$VLO
+TEL,$TEL
+HMC,$HMC
+LYG,$LYG
+RBLX,$RBLX
+CTVA,$CTVA
+GLW,$GLW
+AEM,$AEM
+KMB,$KMB
+FIS,$FIS
+KR,$KR
+DAL,$DAL
+AMX,$AMX
+ALC,$ALC
+GRMN,$GRMN
+LHX,$LHX
+HLN,$HLN
+CBRE,$CBRE
+EW,$EW
+TAK,$TAK
+NWG,$NWG
+KVUE,$KVUE
+CPNG,$CPNG
+CCI,$CCI
+LENB,$LENB
+PCG,$PCG
+DB,$DB
+IR,$IR
+SYY,$SYY
+IQV,$IQV
+VMC,$VMC
+FERG,$FERG
+STLA,$STLA
+RMD,$RMD
+VEEV,$VEEV
+ETR,$ETR
+YUM,$YUM
+RJF,$RJF
+SLF,$SLF
+CCL,$CCL
+CUK,$CUK
+STZ,$STZ
+MLM,$MLM
+EXR,$EXR
+GIS,$GIS
+HEI,$HEI
+EFX,$EFX
+MTB,$MTB
+TPL,$TPL
+HIG,$HIG
+ROK,$ROK
+DD,$DD
+LVS,$LVS
+IRM,$IRM
+EQT,$EQT
+CNC,$CNC
+WEC,$WEC
+LYV,$LYV
+AVB,$AVB
+VICI,$VICI
+HSY,$HSY
+RDDT,$RDDT
+CAH,$CAH
+HPQ,$HPQ
+HPE,$HPE
+WDS,$WDS
+BRO,$BRO
+CQP,$CQP
+CHT,$CHT
+NUE,$NUE
+XYL,$XYL
+ABEV,$ABEV
+HEIA,$HEIA
+GDDY,$GDDY
+STT,$STT
+PPG,$PPG
+FMX,$FMX
+CVE,$CVE
+GPN,$GPN
+SW,$SW
+FTV,$FTV
+MTD,$MTD
+EQR,$EQR
+QSR,$QSR
+BR,$BR
+SYF,$SYF
+WPM,$WPM
+IOT,$IOT
+CHD,$CHD
+CPAY,$CPAY
+DTE,$DTE
+NTR,$NTR
+VLTO,$VLTO
+NVR,$NVR
+AEE,$AEE
+LYB,$LYB
+WSM,$WSM
+DVN,$DVN
+VTR,$VTR
+TEVA,$TEVA
+AWK,$AWK
+UI,$UI
+ADM,$ADM
+PPL,$PPL
+NOK,$NOK
+TYL,$TYL
+WST,$WST
+FNV,$FNV
+TKO,$TKO
+EIX,$EIX
+PHG,$PHG
+PHM,$PHM
+RKT,$RKT
+HUBB,$HUBB
+ROL,$ROL
+BAM,$BAM
+IX,$IX
+LII,$LII
+TEF,$TEF
+FE,$FE
+MKL,$MKL
+KB,$KB
+STM,$STM
+WRB,$WRB
+ATO,$ATO
+CCJ,$CCJ
+TECK,$TECK
+TDY,$TDY
+RF,$RF
+WY,$WY
+ASX,$ASX
+PBA,$PBA
+ZBH,$ZBH
+CTRA,$CTRA
+IFF,$IFF
+PSTG,$PSTG
+DRI,$DRI
+CNP,$CNP
+PKG,$PKG
+NRG,$NRG
+TS,$TS
+PUK,$PUK
+FTS,$FTS
+TU,$TU
+CFG,$CFG
+LDOS,$LDOS
+STE,$STE
+VIK,$VIK
+BEKE,$BEKE
+CMS,$CMS
+LH,$LH
+IHG,$IHG
+TSN,$TSN
+CLX,$CLX
+IP,$IP
+MKC,$MKC
+MKCV,$MKCV
+BBDO,$BBDO
+BBD,$BBD
+LUV,$LUV
+INVH,$INVH
+YPF,$YPF
+BLDR,$BLDR
+WSO,$WSO
+DKS,$DKS
+TRU,$TRU
+ONON,$ONON
+WSOB,$WSOB
+MT,$MT
+SNA,$SNA
+CRBG,$CRBG
+CSL,$CSL
+MAA,$MAA
+NI,$NI
+JBL,$JBL
+AER,$AER
+NMR,$NMR
+FDS,$FDS
+BBY,$BBY
+EC,$EC
+TWLO,$TWLO
+SHG,$SHG
+TME,$TME
+PNR,$PNR
+CF,$CF
+DGX,$DGX
+YUMC,$YUMC
+OMC,$OMC
+GFL,$GFL
+GPC,$GPC
+RBA,$RBA
+HRL,$HRL
+SUI,$SUI
+MOH,$MOH
+TPR,$TPR
+IEX,$IEX
+RPM,$RPM
+BFB,$BFB
+EQH,$EQH
+BFA,$BFA
+TLK,$TLK
+XPO,$XPO
+KOF,$KOF
+USFD,$USFD
+FNF,$FNF
+BAX,$BAX
+UMC,$UMC
+OC,$OC
+RS,$RS
+EG,$EG
+RCI,$RCI
+EXPD,$EXPD
+AVY,$AVY
+UDR,$UDR
+BSBR,$BSBR
+SN,$SN
+CNH,$CNH
+DT,$DT
+ZTO,$ZTO
+COHR,$COHR
+WLK,$WLK
+CHWY,$CHWY
+DG,$DG
+AVTR,$AVTR
+RL,$RL
+GWRE,$GWRE
+AMH,$AMH
+RGA,$RGA
+TXT,$TXT
+EDR,$EDR
+BAP,$BAP
+ACM,$ACM
+RVTY,$RVTY
+GGG,$GGG
+APTV,$APTV
+JHX,$JHX
+BSS,$BSS
+UHAL,$UHAL
+AMCR,$AMCR
+CW,$CW
+FTI,$FTI
+GFI,$GFI
+AU,$AU
+UNM,$UNM
+PFGC,$PFGC
+DVA,$DVA
+FMS,$FMS
+CAVA,$CAVA
+TOL,$TOL
+PKX,$PKX
+XPEV,$XPEV
+RNR,$RNR
+CLS,$CLS
+CNA,$CNA
+EBR,$EBR
+EPAM,$EPAM
+CLH,$CLH
+SWK,$SWK
+BXP,$BXP
+UHALB,$UHALB
+PR,$PR
+SUZ,$SUZ
+JNPR,$JNPR
+KGC,$KGC
+HLI,$HLI
+SOLV,$SOLV
+RDY,$RDY
+RBRK,$RBRK
+BJ,$BJ
+THC,$THC
+PRMB,$PRMB
+JLL,$JLL
+GMED,$GMED
+CAG,$CAG
+ITT,$ITT
+GME,$GME
+WPC,$WPC
+CPT,$CPT
+UHS,$UHS
+KMX,$KMX
+MTZ,$MTZ
+CIEN,$CIEN
+NCLH,$NCLH
+NVT,$NVT
+BCH,$BCH
+OVV,$OVV
+RTO,$RTO
+YMM,$YMM
+PAYC,$PAYC
+SF,$SF
+MGA,$MGA
+ALLE,$ALLE
+SNX,$SNX
+SQM,$SQM
+PCOR,$PCOR
+EVR,$EVR
+TFII,$TFII
+DTM,$DTM
+ACI,$ACI
+AFG,$AFG
+FHN,$FHN
+BWXT,$BWXT
+SCI,$SCI
+BG,$BG
+CNM,$CNM
+SNN,$SNN
+SJM,$SJM
+AIZ,$AIZ
+KVYO,$KVYO
+NLY,$NLY
+EMN,$EMN
+PAG,$PAG
+FND,$FND
+BROS,$BROS
+SKX,$SKX
+SBS,$SBS
+PSO,$PSO
+AOS,$AOS
+ESTC,$ESTC
+ULS,$ULS
+ATR,$ATR
+APG,$APG
+ARMK,$ARMK
+OHI,$OHI
+IPG,$IPG
+RRX,$RRX
+ALSN,$ALSN
+TPX,$TPX
+CRS,$CRS
+KNTK,$KNTK
+WBS,$WBS
+QGEN,$QGEN
+AEG,$AEG
+KNSL,$KNSL
+BLD,$BLD
+CACI,$CACI
+AYI,$AYI
+PSN,$PSN
+CCK,$CCK
+SSB,$SSB
+BNT,$BNT
+EDU,$EDU
+GL,$GL
+RRC,$RRC
+PNW,$PNW
+UWMC,$UWMC
+WAL,$WAL
+MGM,$MGM
+WPP,$WPP
+PRI,$PRI
+RBC,$RBC
+WMS,$WMS
+BEP,$BEP
+MUSA,$MUSA
+WTRG,$WTRG
+GNRC,$GNRC
+BIOB,$BIOB
+EHC,$EHC
+WCC,$WCC
+MLI,$MLI
+BRBR,$BRBR
+FBIN,$FBIN
+VFC,$VFC
+CFR,$CFR
+NIO,$NIO
+ORI,$ORI
+FRT,$FRT
+GTLS,$GTLS
+HESM,$HESM
+BSAC,$BSAC
+REXR,$REXR
+CR,$CR
+KD,$KD
+KNX,$KNX
+STN,$STN
+PLNT,$PLNT
+INGR,$INGR
+FN,$FN
+CMA,$CMA
+FLR,$FLR
+MOS,$MOS
+GKOS,$GKOS
+EXP,$EXP
+VNO,$VNO
+LW,$LW
+OGE,$OGE
+NYT,$NYT
+DCI,$DCI
+TTC,$TTC
+ALK,$ALK
+TFX,$TFX
+IONQ,$IONQ
+AES,$AES
+GPK,$GPK
+CRL,$CRL
+FLS,$FLS
+RH,$RH
+SARO,$SARO
+AGI,$AGI
+LTM,$LTM
+ASR,$ASR
+MHK,$MHK
+ATI,$ATI
+SKM,$SKM
+LPX,$LPX
+WH,$WH
+CIB,$CIB
+EGP,$EGP
+BBWI,$BBWI
+MTDR,$MTDR
+BRX,$BRX
+CE,$CE
+HII,$HII
+AXTA,$AXTA
+KBR,$KBR
+WF,$WF
+SMAR,$SMAR
+PAAS,$PAAS
+BERY,$BERY
+CX,$CX
+DLB,$DLB
+KT,$KT
+IVZ,$IVZ
+CAE,$CAE
+SNV,$SNV
+TREX,$TREX
+ICL,$ICL
+ALV,$ALV
+AGCO,$AGCO
+HRB,$HRB
+AXS,$AXS
+BMA,$BMA
+NNN,$NNN
+PB,$PB
+ADC,$ADC
+ESAB,$ESAB
+ENLC,$ENLC
+INFA,$INFA
+DDS,$DDS
+LOAR,$LOAR
+WEX,$WEX
+ERJ,$ERJ
+MNSO,$MNSO
+WFG,$WFG
+RHI,$RHI
+AZEK,$AZEK
+WHR,$WHR
+SSD,$SSD
+RLI,$RLI
+BWA,$BWA
+MOGA,$MOGA
+CWAN,$CWAN
+VIPS,$VIPS
+WTS,$WTS
+FR,$FR
+SPXC,$SPXC
+BFAM,$BFAM
+TMHC,$TMHC
+JXN,$JXN
+JHG,$JHG
+VMI,$VMI
+FCN,$FCN
+VOYA,$VOYA
+FMC,$FMC
+MTN,$MTN
+BYD,$BYD
+CHH,$CHH
+ANF,$ANF
+PJT,$PJT
+OMF,$OMF
+STWD,$STWD
+ADT,$ADT
+AWI,$AWI
+ZWS,$ZWS
+UGI,$UGI
+MSA,$MSA
+FAF,$FAF
+JBTM,$JBTM
+BMI,$BMI
+ZK,$ZK
+ESI,$ESI
+CRK,$CRK
+OSK,$OSK
+STVN,$STVN
+FSK,$FSK
+COTY,$COTY
+WK,$WK
+NFG,$NFG
+MTG,$MTG
+BRFS,$BRFS
+ALTM,$ALTM
+TKC,$TKC
+RHP,$RHP
+ARW,$ARW
+ESNT,$ESNT
+BLCO,$BLCO
+HMY,$HMY
+TRNO,$TRNO
+HIMS,$HIMS
+NOV,$NOV
+HOMB,$HOMB
+TAL,$TAL
+TEO,$TEO
+FSS,$FSS
+KNF,$KNF
+TIMB,$TIMB
+HR,$HR
+RITM,$RITM
+HRI,$HRI
+MTH,$MTH
+DAR,$DAR
+GPI,$GPI
+GBCI,$GBCI
+OBDC,$OBDC
+CMC,$CMC
+LUMN,$LUMN
+GGB,$GGB
+GGB,$GGB
+TX,$TX
+QTWO,$QTWO
+AMG,$AMG
+LNC,$LNC
+THG,$THG
+VNT,$VNT
+SLGN,$SLGN
+FNB,$FNB
+SMR,$SMR
+CIG,$CIG
+CIGC,$CIGC
+EPRT,$EPRT
+DY,$DY
+AMTM,$AMTM
+FG,$FG
+PFSI,$PFSI
+USM,$USM
+GATX,$GATX
+IBP,$IBP
+LB,$LB
+VIST,$VIST
+NE,$NE
+NEWSA,$NEWSA
+TKR,$TKR
+HXL,$HXL
+INSP,$INSP
+GXO,$GXO
+GTES,$GTES
+MGY,$MGY
+KRG,$KRG
+AROC,$AROC
+MSGS,$MSGS
+SNDR,$SNDR
+SWX,$SWX
+CIVI,$CIVI
+PVH,$PVH
+CUZ,$CUZ
+INGM,$INGM
+BBAR,$BBAR
+CLF,$CLF
+WHD,$WHD
+SOBO,$SOBO
+CWENA,$CWENA
+CTRE,$CTRE
+DNB,$DNB
+CBT,$CBT
+SLG,$SLG
+SM,$SM
+BCC,$BCC
+RDN,$RDN
+SHAK,$SHAK
+KBH,$KBH
+CRC,$CRC
+LRN,$LRN
+SFBS,$SFBS
+TGS,$TGS
+PIPR,$PIPR
+ABG,$ABG
+ACA,$ACA
+NEU,$NEU
+KTB,$KTB
+BDC,$BDC
+ITGR,$ITGR
+MMS,$MMS
+NJR,$NJR
+BIPC,$BIPC
+NSA,$NSA
+MUR,$MUR
+WTM,$WTM
+BBU,$BBU
+VVV,$VVV
+KRC,$KRC
+LAZ,$LAZ
+MATX,$MATX
+MSM,$MSM
+CNX,$CNX
+TNET,$TNET
+ACHR,$ACHR
+ABCB,$ABCB
+CNS,$CNS
+ASAN,$ASAN
+POR,$POR
+IRT,$IRT
+TXNM,$TXNM
+AHR,$AHR
+AB,$AB
+ELP,$ELP
+ELPC,$ELPC
+TAC,$TAC
+BKH,$BKH
+GBTG,$GBTG
+CBZ,$CBZ
+KMPR,$KMPR
+CRGY,$CRGY
+KGS,$KGS
+UNF,$UNF
+OGS,$OGS
+AX,$AX
+TDS,$TDS
+ASB,$ASB
+OGN,$OGN
+RXO,$RXO
+BCO,$BCO
+GVA,$GVA
+SMG,$SMG
+SR,$SR
+CNO,$CNO
+RYN,$RYN
+ENIC,$ENIC
+HGV,$HGV
+SPR,$SPR
+JWN,$JWN
+TGLS,$TGLS
+NNI,$NNI
+OLN,$OLN
+OSCR,$OSCR
+GHC,$GHC
+NXE,$NXE
+FLG,$FLG
+ASGN,$ASGN
+UCB,$UCB
+PBH,$PBH
+AVNT,$AVNT
+SG,$SG
+SKT,$SKT
+HHH,$HHH
+BHVN,$BHVN
+MDU,$MDU
+CPA,$CPA
+DXC,$DXC
+LBRT,$LBRT
+ATGE,$ATGE
+BEPC,$BEPC
+GFF,$GFF
+KFY,$KFY
+CXT,$CXT
+NPO,$NPO
+CLVT,$CLVT
+APLE,$APLE
+PBF,$PBF
+HP,$HP
+MWA,$MWA
+TNL,$TNL
+ECG,$ECG
+EPR,$EPR
+UAA,$UAA
+WU,$WU
+BRC,$BRC
+ATMU,$ATMU
+TPH,$TPH
+SSL,$SSL
+IGT,$IGT
+GPOR,$GPOR
+ESE,$ESE
+APAM,$APAM
+CNK,$CNK
+EE,$EE
+HTGC,$HTGC
+MP,$MP
+NVST,$NVST
+HBM,$HBM
+AQN,$AQN
+FUL,$FUL
+RSI,$RSI
+CDP,$CDP
+HL,$HL
+VRN,$VRN
+REZI,$REZI
+UA,$UA
+STR,$STR
+ATHM,$ATHM
+HASI,$HASI
+DOCN,$DOCN
+CBU,$CBU
+TBBB,$TBBB
+ABM,$ABM
+HGTY,$HGTY
+DV,$DV
+BSM,$BSM
+BVN,$BVN
+GMS,$GMS
+HIW,$HIW
+HAYW,$HAYW
+PRGO,$PRGO
+WD,$WD
+BXMT,$BXMT
+IAG,$IAG
+SLVM,$SLVM
+FBP,$FBP
+TFPM,$TFPM
+OKLO,$OKLO
+TEX,$TEX
+NHI,$NHI
+TRN,$TRN
+SXT,$SXT
+BNL,$BNL
+PII,$PII
+LPL,$LPL
+AEO,$AEO
+BFH,$BFH
+CWK,$CWK
+CWEN,$CWEN
+RNG,$RNG
+USAC,$USAC
+GRND,$GRND
+GNW,$GNW
+BKU,$BKU
+FHI,$FHI
+VAC,$VAC
+SGHC,$SGHC
+GEFB,$GEFB
+WRBY,$WRBY
+ATKR,$ATKR
+CAAP,$CAAP
+HCC,$HCC
+TDC,$TDC
+HBI,$HBI
+VSCO,$VSCO
+TDW,$TDW
+GEF,$GEF
+CC,$CC
+TGNA,$TGNA
+RLX,$RLX
+PRKS,$PRKS
+NSP,$NSP
+UGP,$UGP
+CNR,$CNR
+CPK,$CPK
+BOH,$BOH
+AWR,$AWR
+ABR,$ABR
+ENVA,$ENVA
+PK,$PK
+CPRI,$CPRI
+HAFN,$HAFN
+AKR,$AKR
+BHC,$BHC
+LCII,$LCII
+NOMD,$NOMD
+BANC,$BANC
+AAP,$AAP
+MANU,$MANU
+OII,$OII
+QS,$QS
+FCPT,$FCPT
+MCY,$MCY
+AESI,$AESI
+GRBK,$GRBK
+UE,$UE
+AKOB,$AKOB
+AKOA,$AKOA
+CWT,$CWT
+ESRT,$ESRT
+AZZ,$AZZ
+AVAL,$AVAL
+ENOV,$ENOV
+ATS,$ATS
+ENR,$ENR
+CXW,$CXW
+CSAN,$CSAN
+PFS,$PFS
+SBSW,$SBSW
+AMR,$AMR
+STNG,$STNG
+CDE,$CDE
+SEM,$SEM
+MPW,$MPW
+SDRL,$SDRL
+FBK,$FBK
+HNI,$HNI
+MTX,$MTX
+SPNT,$SPNT
+KWR,$KWR
+AGX,$AGX
+BKE,$BKE
+EPAC,$EPAC
+LXP,$LXP
+SPB,$SPB
+SWI,$SWI
+NATL,$NATL
+CCS,$CCS
+WLY,$WLY
+WLYB,$WLYB
+BB,$BB
+KLC,$KLC
+SHO,$SHO
+BTU,$BTU
+LMND,$LMND
+SAH,$SAH
+DKL,$DKL
+RNST,$RNST
+SXI,$SXI
+SEMR,$SEMR
+CWH,$CWH
+DFH,$DFH
+VSH,$VSH
+IVT,$IVT
+TR,$TR
+LSPD,$LSPD
+IBTA,$IBTA
+CEPU,$CEPU
+ALG,$ALG
+CMBT,$CMBT
+LU,$LU
+SOC,$SOC
+CXM,$CXM
+MBC,$MBC
+PHIN,$PHIN
+KAR,$KAR
+CCU,$CCU
+BTE,$BTE
+VSTS,$VSTS
+AGM,$AGM
+RVLV,$RVLV
+CVI,$CVI
+WOR,$WOR
+DBRG,$DBRG
+ZGN,$ZGN
+MTRN,$MTRN
+PAGS,$PAGS
+GBX,$GBX
+CNMD,$CNMD
+EVTC,$EVTC
+BKV,$BKV
+VTMX,$VTMX
+OFG,$OFG
+PRM,$PRM
+WNS,$WNS
+TSLX,$TSLX
+ARDT,$ARDT
+UTZ,$UTZ
+NPWR,$NPWR
+ZIM,$ZIM
+HG,$HG
+TALO,$TALO
+FL,$FL
+CTRI,$CTRI
+CRI,$CRI
+IIPR,$IIPR
+VYX,$VYX
+AAT,$AAT
+BWLP,$BWLP
+MSDL,$MSDL
+INSW,$INSW
+KMT,$KMT
+HTH,$HTH
+DAVA,$DAVA
+LC,$LC
+CABO,$CABO
+DRH,$DRH
+LZB,$LZB
+FIHL,$FIHL
+MNR,$MNR
+WWW,$WWW
+FINV,$FINV
+GENI,$GENI
+LGFA,$LGFA
+STC,$STC
+GLP,$GLP
+SVV,$SVV
+KN,$KN
+REVG,$REVG
+THS,$THS
+DFIN,$DFIN
+PRG,$PRG
+WMK,$WMK
+GB,$GB
+CDLR,$CDLR
+MSGE,$MSGE
+XPRO,$XPRO
+DHT,$DHT
+ARIS,$ARIS
+BHE,$BHE
+NABL,$NABL
+NGVT,$NGVT
+UNFI,$UNFI
+BBUC,$BBUC
+GTY,$GTY
+LGFB,$LGFB
+SUPV,$SUPV
+FCF,$FCF
+WTTR,$WTTR
+NBHC,$NBHC
+AMBP,$AMBP
+BAK,$BAK
+DBD,$DBD
+VVX,$VVX
+GNL,$GNL
+PEB,$PEB
+PD,$PD
+EDN,$EDN
+EPC,$EPC
+QBTS,$QBTS
+NTB,$NTB
+WKC,$WKC
+VRE,$VRE
+NWN,$NWN
+NIC,$NIC
+OI,$OI
+TNC,$TNC
+DESP,$DESP
+NEP,$NEP
+PHR,$PHR
+LTC,$LTC
+TROX,$TROX
+CSTM,$CSTM
+CUBI,$CUBI
+TDOC,$TDOC
+HMN,$HMN
+CTS,$CTS
+CDRE,$CDRE
+WS,$WS
+ZUO,$ZUO
+BV,$BV
+KRP,$KRP
+FDP,$FDP
+JBGS,$JBGS
+XHR,$XHR
+RLJ,$RLJ
+AMC,$AMC
+STEL,$STEL
+TNK,$TNK
+DAC,$DAC
+PX,$PX
+MLNK,$MLNK
+MODG,$MODG
+SPHR,$SPHR
+VRTS,$VRTS
+TGI,$TGI
+CMRE,$CMRE
+ERO,$ERO
+DX,$DX
+SHCO,$SHCO
+HLIO,$HLIO
+ADNT,$ADNT
+DNOW,$DNOW
+SFL,$SFL
+KSS,$KSS
+LNN,$LNN
+UTI,$UTI
+UMH,$UMH
+GSBD,$GSBD
+SCL,$SCL
+ENFN,$ENFN
+BLX,$BLX
+LADR,$LADR
+MMI,$MMI
+ATEN,$ATEN
+NRP,$NRP
+HLX,$HLX
+AIV,$AIV
+EVEX,$EVEX
+KLG,$KLG
+WT,$WT
+WGO,$WGO
+FLNG,$FLNG
+COUR,$COUR
+FSM,$FSM
+OXM,$OXM
+USPH,$USPH
+SILA,$SILA
+TPC,$TPC
+SCS,$SCS
+BHLB,$BHLB
+PBI,$PBI
+GRDN,$GRDN
+VTLE,$VTLE
+ELME,$ELME
+FSLY,$FSLY
+EFXT,$EFXT
+FUBO,$FUBO
+NMM,$NMM
+AORT,$AORT
+SDHC,$SDHC
+RCUS,$RCUS
+HCI,$HCI
+SMWB,$SMWB
+ATUS,$ATUS
+AGL,$AGL
+SPH,$SPH
+OLO,$OLO
+KW,$KW
+BFS,$BFS
+UVV,$UVV
+DQ,$DQ
+LOMA,$LOMA
+DK,$DK
+CGAU,$CGAU
+EIG,$EIG
+MRC,$MRC
+IMAX,$IMAX
+IDT,$IDT
+AMRC,$AMRC
+IRS,$IRS
+FVRR,$FVRR
+INVX,$INVX
+CNNE,$CNNE
+NTST,$NTST
+RC,$RC
+KBDC,$KBDC
+EVRI,$EVRI
+MD,$MD
+NVGS,$NVGS
+CIM,$CIM
+SBH,$SBH
+EVH,$EVH
+EFC,$EFC
+WEAV,$WEAV
+NX,$NX
+PL,$PL
+GETY,$GETY
+JKS,$JKS
+OMI,$OMI
+BCSF,$BCSF
+PRSU,$PRSU
+VTEX,$VTEX
+FBMS,$FBMS
+CTOS,$CTOS
+PMT,$PMT
+KRO,$KRO
+PSFE,$PSFE
+OBK,$OBK
+PDM,$PDM
+SA,$SA
+PGRE,$PGRE
+LPG,$LPG
+SSTK,$SSTK
+JBI,$JBI
+SII,$SII
+IHS,$IHS
+CSR,$CSR
+TUYA,$TUYA
+VTOL,$VTOL
+ASPN,$ASPN
+ARR,$ARR
+FBRT,$FBRT
+MFA,$MFA
+KFRC,$KFRC
+BBDC,$BBDC
+TPB,$TPB
+SKE,$SKE
+DCO,$DCO
+NXRT,$NXRT
+DLX,$DLX
+AHH,$AHH
+THR,$THR
+BKDT,$BKDT
+BKD,$BKD
+GRC,$GRC
+BBAI,$BBAI
+AMN,$AMN
+RDW,$RDW
+ALX,$ALX
+TIXT,$TIXT
+AGRO,$AGRO
+ML,$ML
+SBSI,$SBSI
+SBR,$SBR
+GIC,$GIC
+BRDG,$BRDG
+OPFI,$OPFI
+EEX,$EEX
+PRLB,$PRLB
+VLRS,$VLRS
+AMTB,$AMTB
+AAMI,$AAMI
+PFLT,$PFLT
+EXK,$EXK
+BDN,$BDN
+NGVC,$NGVC
+NCDL,$NCDL
+CLB,$CLB
+BLND,$BLND
+ECVT,$ECVT
+MTAL,$MTAL
+FNA,$FNA
+PDS,$PDS
+BXC,$BXC
+GRNT,$GRNT
+UTL,$UTL
+UAN,$UAN
+ACEL,$ACEL
+SXC,$SXC
+ETWO,$ETWO
+MSC,$MSC
+CBL,$CBL
+BORR,$BORR
+RWT,$RWT
+BZH,$BZH
+CAPL,$CAPL
+NEXA,$NEXA
+CINT,$CINT
+DAO,$DAO
+NUVB,$NUVB
+ASIX,$ASIX
+HOV,$HOV
+DEC,$DEC
+WLKP,$WLKP
+OEC,$OEC
+RSKD,$RSKD
+LVWR,$LVWR
+TYG,$TYG
+VTS,$VTS
+YEXT,$YEXT
+SITC,$SITC
+JELD,$JELD
+DRD,$DRD
+MYTE,$MYTE
+TXO,$TXO
+SPLP,$SPLP
+GHLD,$GHLD
+BFLY,$BFLY
+PRA,$PRA
+MLR,$MLR
+CPF,$CPF
+PLYM,$PLYM
+ECO,$ECO
+GSL,$GSL
+XPOF,$XPOF
+HUYA,$HUYA
+BRSP,$BRSP
+EQBK,$EQBK
+KREF,$KREF
+BALY,$BALY
+DDL,$DDL
+ETD,$ETD
+CCO,$CCO
+CVLG,$CVLG
+SLQT,$SLQT
+OPY,$OPY
+WNC,$WNC
+NGL,$NGL
+AXL,$AXL
+NPK,$NPK
+GCI,$GCI
+NVRI,$NVRI
+TRTX,$TRTX
+WSR,$WSR
+AVNS,$AVNS
+AACT,$AACT
+MCB,$MCB
+VHI,$VHI
+SMP,$SMP
+BH,$BH
+NPKI,$NPKI
+HIPO,$HIPO
+HLF,$HLF
+RYI,$RYI
+CURV,$CURV
+BHA,$BHA
+TK,$TK
+LXU,$LXU
+TTI,$TTI
+USNA,$USNA
+GES,$GES
+EVTL,$EVTL
+MAGN,$MAGN
+MTUS,$MTUS
+NBR,$NBR
+HZO,$HZO
+BRCC,$BRCC
+YALA,$YALA
+VEL,$VEL
+MCS,$MCS
+AUNA,$AUNA
+ODC,$ODC
+GNK,$GNK
+FPH,$FPH
+RGR,$RGR
+CTO,$CTO
+CRDA,$CRDA
+CMP,$CMP
+ZKH,$ZKH
+KODK,$KODK
+CRDB,$CRDB
+LDI,$LDI
+RERE,$RERE
+DNA,$DNA
+FPI,$FPI
+CHCT,$CHCT
+NOA,$NOA
+OLP,$OLP
+GMRE,$GMRE
+UVE,$UVE
+PBT,$PBT
+AMBC,$AMBC
+QD,$QD
+EBF,$EBF
+CMTG,$CMTG
+EBS,$EBS
+GPRK,$GPRK
+SMBK,$SMBK
+GOTU,$GOTU
+LZM,$LZM
+IIIN,$IIIN
+HKD,$HKD
+MATV,$MATV
+PSBD,$PSBD
+UHT,$UHT
+BBW,$BBW
+ASC,$ASC
+BGS,$BGS
+CLW,$CLW
+RYAM,$RYAM
+IVR,$IVR
+LAAC,$LAAC
+GHM,$GHM
+CPAC,$CPAC
+AGS,$AGS
+ACCO,$ACCO
+GFR,$GFR
+CHPT,$CHPT
+GDOT,$GDOT
+GBLI,$GBLI
+TWI,$TWI
+CLCO,$CLCO
+FVR,$FVR
+CANG,$CANG
+EGY,$EGY
+UIS,$UIS
+NLOP,$NLOP
+EAF,$EAF
+BOC,$BOC
+SD,$SD
+CTV,$CTV
+HPP,$HPP
+JMIA,$JMIA
+GCO,$GCO
+EQV,$EQV
+AAM,$AAM
+MUX,$MUX
+WDH,$WDH
+PNNT,$PNNT
+SMC,$SMC
+CLDT,$CLDT
+FC,$FC
+SPIR,$SPIR
+MYE,$MYE
+TRC,$TRC
+YRD,$YRD
+MOV,$MOV
+DDD,$DDD
+ASA,$ASA
+SPMC,$SPMC
+SNDA,$SNDA
+PKST,$PKST
+SGU,$SGU
+CYH,$CYH
+BWMX,$BWMX
+XPER,$XPER
+GNTY,$GNTY
+GNE,$GNE
+EHAB,$EHAB
+BKKT,$BKKT
+TRAK,$TRAK
+RNGR,$RNGR
+CYD,$CYD
+FREY,$FREY
+MLP,$MLP
+SCM,$SCM
+MSB,$MSB
+OOMA,$OOMA
+HOUS,$HOUS
+AMPX,$AMPX
+HLLY,$HLLY
+LND,$LND
+PSTL,$PSTL
+LXFR,$LXFR
+XYF,$XYF
+HVT,$HVT
+HVTA,$HVTA
+SB,$SB
+RM,$RM
+OIS,$OIS
+NL,$NL
+BKSY,$BKSY
+SAR,$SAR
+VLN,$VLN
+NREF,$NREF
+ZVIA,$ZVIA
+NGS,$NGS
+BRT,$BRT
+GTNA,$GTNA
+EB,$EB
+BNED,$BNED
+SES,$SES
+YSG,$YSG
+CVEO,$CVEO
+IPI,$IPI
+MTW,$MTW
+MEC,$MEC
+HRTG,$HRTG
+HYAC,$HYAC
+MPX,$MPX
+GTN,$GTN
+RMAX,$RMAX
+ORN,$ORN
+NRGV,$NRGV
+MBI,$MBI
+TBN,$TBN
+TPVG,$TPVG
+SMRT,$SMRT
+VPG,$VPG
+NRDY,$NRDY
+MG,$MG
+PKE,$PKE
+JACS,$JACS
+ZH,$ZH
+CBAN,$CBAN
+FOA,$FOA
+DBI,$DBI
+WTI,$WTI
+CPS,$CPS
+BYON,$BYON
+ONTF,$ONTF
+ONIT,$ONIT
+TG,$TG
+PERF,$PERF
+FTK,$FTK
+SKIL,$SKIL
+MPLN,$MPLN
+SBXD,$SBXD
+AZUL,$AZUL
+ARL,$ARL
+NMG,$NMG
+GHG,$GHG
+TCI,$TCI
+ALTG,$ALTG
+AEVA,$AEVA
+HBB,$HBB
+AOMR,$AOMR
+CLBR,$CLBR
+FF,$FF
+AMPY,$AMPY
+LANV,$LANV
+TBI,$TBI
+CIA,$CIA
+NC,$NC
+KFS,$KFS
+SRG,$SRG
+DSX,$DSX
+ONL,$ONL
+HSHP,$HSHP
+ODV,$ODV
+EVC,$EVC
+SJT,$SJT
+CIO,$CIO
+PSQH,$PSQH
+SMHI,$SMHI
+BHR,$BHR
+DLNG,$DLNG
+EQC,$EQC
+CCRD,$CCRD
+ADCT,$ADCT
+AXR,$AXR
+NVRO,$NVRO
+CLPR,$CLPR
+MED,$MED
+CBNA,$CBNA
+MDV,$MDV
+MX,$MX
+CHGG,$CHGG
+TSE,$TSE
+BW,$BW
+PHX,$PHX
+SPCE,$SPCE
+GPMT,$GPMT
+AMWL,$AMWL
+AVD,$AVD
+TSQ,$TSQ
+WBX,$WBX
+FRGE,$FRGE
+CMCM,$CMCM
+CRNG,$CRNG
+LFT,$LFT
+RPT,$RPT
+ACR,$ACR
+WHG,$WHG
+ANRO,$ANRO
+TLYS,$TLYS
+GCTS,$GCTS
+SRL,$SRL
+UFI,$UFI
+OCFT,$OCFT
+SKLZ,$SKLZ
+DHX,$DHX
+CHMI,$CHMI
+DTC,$DTC
+RBOT,$RBOT
+IH,$IH
+VOC,$VOC
+CNF,$CNF
+STG,$STG
+SQNS,$SQNS
+OPAD,$OPAD
+DM,$DM
+CATO,$CATO
+TISI,$TISI
+MKFG,$MKFG
+ANVS,$ANVS
+CULP,$CULP
+OWLT,$OWLT
+VATE,$VATE
+GWH,$GWH
+AMTD,$AMTD
+CRT,$CRT
+NEUE,$NEUE
+SRFM,$SRFM
+BGSF,$BGSF
+SST,$SST
+NTZ,$NTZ
+GEC,$GEC
+SPRU,$SPRU
+AP,$AP
+GROV,$GROV
+PVL,$PVL
+AHT,$AHT
+BEDU,$BEDU
+PRT,$PRT
+RFL,$RFL
+NRT,$NRT
+ZEPP,$ZEPP
+BODI,$BODI
+VNCE,$VNCE
+VHC,$VHC
+ENZ,$ENZ
+BTCM,$BTCM
+LICY,$LICY
+FENG,$FENG
+KUKE,$KUKE
+LITB,$LITB
+FEDU,$FEDU
+MOGU,$MOGU
+CCM,$CCM
+LOCL,$LOCL
+PNST,$PNST
+EQS,$EQS
+XIN,$XIN
+MTR,$MTR
+ENFY,$ENFY
+BPT,$BPT
+ALUR,$ALUR
