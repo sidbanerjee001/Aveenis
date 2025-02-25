@@ -190,7 +190,7 @@ def run_reddit_scrape():
     setup_logger()
     reddit = setup_reddit(load_env_vars())
     company_to_ticker = setup_company_to_ticker()
-    tickers = list(company_to_ticker.values())
+    tickers = list(set(company_to_ticker.values()))
     companies = list(company_to_ticker.keys())
     trie = setup_trie(tickers, companies)
 
