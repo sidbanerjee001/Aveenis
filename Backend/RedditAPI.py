@@ -108,7 +108,9 @@ def setup_company_to_ticker():
         with open(file_path, 'r') as file:
             reader = csv.DictReader(file)
             for row in reader:
-                company_to_ticker[row['Company Name']] = row['Ticker']
+                company_name = row['Company Name'].strip().lower()
+                ticker = row['Ticker'].strip().lower()
+                company_to_ticker[company_name] = ticker
         return company_to_ticker
     
     except FileNotFoundError:
@@ -129,6 +131,8 @@ def setup_trie(tickers, companies):
     for company in companies:
         trie.insert(company)
     return trie
+
+
 
 
 #======================================= Functions to fetch data from a subreddit =======================================
@@ -154,12 +158,13 @@ def get_data(subreddit_name, reddit, data_dict, trie, company_to_ticker):
             raise ValueError(f"Invalid post_type '{config.POST_TYPE}'. Must be 'hot', 'new', 'rising', etc.")
 
         for post in posts:
+            post_title = post.title
             post_text = post.selftext
 
             # Fetch comments
             post.comments.replace_more(limit=None)
             comments_text = " ".join(comment.body for comment in post.comments.list())
-            post_and_comments_text = (post_text + " " + comments_text).lower()
+            post_and_comments_text = (post_title + " " + post_text + " " + comments_text).lower()
 
             # Update data_dict with raw mentions and upvotes for mentioned tickers
             mentioned_tickers = trie.search_and_count(post_and_comments_text, data_dict, company_to_ticker)
@@ -198,7 +203,7 @@ def run_reddit_scrape():
     for subreddit_name in subreddit_names:
         get_data(subreddit_name, reddit, data_dict, trie, company_to_ticker)
 
-    #Puts tickers with most raw mentions at end of dictionary for debugging purposes
+    # Puts tickers with most raw mentions at end of dictionary for debugging purposes
     sorted_data_dict = dict(sorted(data_dict.items(), key=lambda item: item[1][0]))
 
 
@@ -219,6 +224,7 @@ def main():
     print(run_reddit_scrape())
     end = time.time()
     print(f"Time taken: {end-start} seconds")
+    
 
 
 
