@@ -47,7 +47,7 @@ def calculate_accel(data: list, interval: int) -> float:
 
 def calculate_function(data: list) -> float:
     raw_score = sqrt(data[0]) + data[1]
-    return f"{raw_score:.3f}"
+    return round(raw_score, 3)
 
 
 # Test cases

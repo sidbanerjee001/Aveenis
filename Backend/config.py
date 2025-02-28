@@ -1,6 +1,6 @@
-DRIVER_PATH = "chrome-mac-arm64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing"
-TICKER_FILE = "tickers.txt"
-HOURS = 12
+DRIVER_PATH = "./chrome/chromedriver-linux64"
+TICKER_FILE = "test.txt"
+HOURS = 3
 
 # Subreddit scraping settings
 SUBREDDIT_NAMES = ["wallstreetbets", "stocks", "investing"]  # List of subreddits to scrape
