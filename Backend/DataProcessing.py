@@ -45,6 +45,21 @@ def calculate_accel(data: list, interval: int) -> float:
     )
 
 
+def calculate_accels(data) -> list:
+    accels = []
+    for i in range((2), len(data)):
+        sub_data = data[:i+1]
+        accel = calculate_accel(sub_data, 1)
+        
+        if accel == float('inf') or accel == -float('inf'):
+            accel = 0
+        elif accel == float('nan'):
+            accel = 0
+
+        accels.append(accel)
+        
+    return accels
+
 def calculate_function(data: list) -> float:
     raw_score = sqrt(data[0]) + data[1]
     return round(raw_score, 3)

@@ -38,18 +38,7 @@ class Trie:
             node = node.children[char]
         return node.is_end_of_ticker
     
-    # Sid's idea of checking every word in teh text and checking if it's a ticker
-    def search_and_count_simple(self, text, dict_with_ticker_rm_and_upvotes):
-        split_text = text.split()
-        mentioned_tickers = set()
-        for word in split_text:
-            if self.search(word):
-                mentioned_tickers.add(word)
-                dict_with_ticker_rm_and_upvotes[word][0] += 1
-        return mentioned_tickers
-    
-    # Slightly better version that doesn't require splitting text into words
-    def search_and_count(self, text, dict_with_ticker_rm_and_upvotes):
+    def search_and_count(self, text, dict_with_ticker_rm_and_upvotes, company_to_ticker: dict):
         """Counts appearances of a ticker, and adds raw mentions to dictionary. Returns a set of tickers mentioned"""
         mentioned_tickers = set()
         for i in range(len(text)):
@@ -62,9 +51,12 @@ class Trie:
                     is_start_of_word = (i == 0) or not text[i-1].isalnum()
                     is_end_of_word = (j == len(text)) or not text[j].isalnum()
                     if is_start_of_word and is_end_of_word:
-                        mentioned_tickers.add(text[i:j])
-                        dict_with_ticker_rm_and_upvotes[text[i:j]][0] += 1
-        
+                        detected_ticker = text[i:j]
+                        print(f"found this ticker/company: {detected_ticker}")
+                        if detected_ticker in company_to_ticker:
+                            detected_ticker = company_to_ticker[detected_ticker]
+                        dict_with_ticker_rm_and_upvotes[detected_ticker][0] += 1
+                        mentioned_tickers.add(detected_ticker)
         return mentioned_tickers
 
 
@@ -101,23 +93,6 @@ def setup_reddit(env_vars):
         user_agent = env_vars['reddit_user_agent']
     )
     return reddit
-
-def setup_ticker_list():
-    """
-    Reads a list of tickers from tickers.txt.
-
-    Returns:
-        list: A list of tickers.
-    """
-    try:
-        current_dir = os.path.dirname(__file__)
-        ticker_filepath = os.path.join(current_dir, 'tickers.txt')
-        with open(ticker_filepath, 'r') as file:
-            return file.read().splitlines()
-
-    except Exception as e:
-        logger.error(f"Error loading tickers from {ticker_filepath}: {e}")
-        return []
     
 def setup_company_to_ticker():
     """
@@ -133,10 +108,19 @@ def setup_company_to_ticker():
         with open(file_path, 'r') as file:
             reader = csv.DictReader(file)
             for row in reader:
-                company_to_ticker[row['Company Name']] = row['Ticker']
+                company_name = row['Company Name'].strip().lower()
+                ticker = row['Ticker'].strip().lower()
+                company_to_ticker[company_name] = ticker
         return company_to_ticker
+    
+    except FileNotFoundError:
+        logger.error("CSV file not found. Ensure 'company_to_ticker.csv' is in the project directory.")
+        return {}
+    except KeyError:
+        logger.error("CSV file is missing required headers: 'Company Name' and 'Ticker'.")
+        return {}
     except Exception as e:
-        logger.error(f"Error loading company-to-ticker mapping: {e}")
+        logger.error(f"Unexpected error loading company-to-ticker mapping: {e}")
         return {}
    
 def setup_trie(tickers, companies):
@@ -149,8 +133,10 @@ def setup_trie(tickers, companies):
     return trie
 
 
+
+
 #======================================= Functions to fetch data from a subreddit =======================================
-def get_data(subreddit_name, reddit, data_dict, trie):
+def get_data(subreddit_name, reddit, data_dict, trie, company_to_ticker):
     """
     Fetch data from a subreddit
     Args:  
@@ -172,15 +158,16 @@ def get_data(subreddit_name, reddit, data_dict, trie):
             raise ValueError(f"Invalid post_type '{config.POST_TYPE}'. Must be 'hot', 'new', 'rising', etc.")
 
         for post in posts:
+            post_title = post.title
             post_text = post.selftext
 
             # Fetch comments
             post.comments.replace_more(limit=None)
             comments_text = " ".join(comment.body for comment in post.comments.list())
-            post_and_comments_text = (post_text + " " + comments_text).lower()
+            post_and_comments_text = (post_title + " " + post_text + " " + comments_text).lower()
 
             # Update data_dict with raw mentions and upvotes for mentioned tickers
-            mentioned_tickers = trie.search_and_count(post_and_comments_text, data_dict)
+            mentioned_tickers = trie.search_and_count(post_and_comments_text, data_dict, company_to_ticker)
             for mentioned_ticker in mentioned_tickers:
                 data_dict[mentioned_ticker][1] += post.ups
 
@@ -202,8 +189,9 @@ def run_reddit_scrape():
     # Run setup fumctions
     setup_logger()
     reddit = setup_reddit(load_env_vars())
-    tickers = setup_ticker_list()
-    companies = setup_company_to_ticker().keys()
+    company_to_ticker = setup_company_to_ticker()
+    tickers = list(set(company_to_ticker.values()))
+    companies = list(company_to_ticker.keys())
     trie = setup_trie(tickers, companies)
 
 
@@ -213,8 +201,10 @@ def run_reddit_scrape():
     # Get the damn data
     subreddit_names = config.SUBREDDIT_NAMES
     for subreddit_name in subreddit_names:
-        get_data(subreddit_name, reddit, data_dict, trie)
+        get_data(subreddit_name, reddit, data_dict, trie, company_to_ticker)
 
+    # Puts tickers with most raw mentions at end of dictionary for debugging purposes
+    sorted_data_dict = dict(sorted(data_dict.items(), key=lambda item: item[1][0]))
 
 
     # Ensure data was fetched properly
@@ -224,7 +214,8 @@ def run_reddit_scrape():
         logger.error("Error fetching data")
 
     # data is a dictionary with tickers as keys and a list of mentions and upvotes as values
-    return data_dict
+    return sorted_data_dict
+
 
 
 def main():
@@ -233,10 +224,9 @@ def main():
     print(run_reddit_scrape())
     end = time.time()
     print(f"Time taken: {end-start} seconds")
+    
+
 
 
 if __name__ == "__main__":
     main()
-
-
-

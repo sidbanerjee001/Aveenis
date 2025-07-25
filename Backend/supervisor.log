@@ -1,0 +1,9 @@
+2025-07-25 11:29:32,490 - stocktwits.process_supervisor - INFO - Loaded 5 target tickers from parameter list
+2025-07-25 11:29:32,491 - stocktwits.process_supervisor - INFO - Starting new process...
+2025-07-25 11:29:32,491 - stocktwits.process_supervisor - INFO - Process monitoring started
+2025-07-25 11:29:32,494 - stocktwits.process_supervisor - INFO - Supervised scraping started for 5 tickers.
+2025-07-25 11:29:32,505 - stocktwits.process_supervisor - INFO - Process started
+2025-07-25 11:29:32,512 - stocktwits.process_supervisor - INFO - New completions detected: ['aacg', 'aapl', 'amd', 'nke', 'tsla']
+2025-07-25 11:29:32,513 - stocktwits.process_supervisor - INFO - All 5 tickers completed successfully. Stopping monitoring.
+2025-07-25 11:29:32,513 - stocktwits.process_supervisor - INFO - Monitoring loop ended
+2025-07-25 11:29:33,809 - stocktwits.process_supervisor - INFO - Creating new browser driver

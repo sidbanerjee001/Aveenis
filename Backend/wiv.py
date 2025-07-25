@@ -2,6 +2,7 @@
 # parameter stock is a string.
 
 import yfinance as yf
+import pandas as pd
 from datetime import datetime, timedelta
 import numpy as np
 
@@ -32,7 +33,7 @@ def calculate_iv_sum(stock):
     count = 0  # strikes processed?
     total_oi = 0
 
-    print(type(top_strikes[0]))
+    # print(type(top_strikes[0]))
 
     for strike in top_strikes:
         call_option = options_chain.calls[options_chain.calls['strike'] == strike]
@@ -70,4 +71,38 @@ def calculate_iv_sum(stock):
         if count >= 5:
             break
 
+    if total_oi == 0:
+        return 0
     return sum_weighted_avg_iv / total_oi
+
+def get_stockprice_last_day(stock: str):
+
+    # Download data: 1-day period, hourly interval
+    data = yf.download(tickers=stock, period="1d", interval="60m", progress=False, auto_adjust=True)
+
+    # Reset index to make the timestamp a column
+    data = data.reset_index()
+
+    # Print the result
+    # Keep only timestamp and close price
+
+    # Print the result
+    if data.empty or "Close" not in data.columns:
+        return []
+    return data["Close"].values.flatten().tolist()
+
+def get_marketcap_last_day(stock: str):
+    # Download data: 1-day period, hourly interval
+    data = yf.download(tickers=stock, period="1d", interval="60m", progress=False, auto_adjust=True)
+    data = data.reset_index()
+
+    ticker = yf.Ticker(stock)
+    info = ticker.info
+    shares_outstanding = info.get("sharesOutstanding", None)
+
+    if data.empty or "Close" not in data.columns or shares_outstanding is None:
+        return []
+
+    # Calculate market cap for each hour
+    market_caps = (data["Close"] * shares_outstanding).values.flatten().tolist()
+    return market_caps

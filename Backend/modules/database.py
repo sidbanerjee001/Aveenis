@@ -227,6 +227,6 @@ class Database:
         # _data.set_value("updated_at", str(datetime.datetime.now(datetime.UTC)))
 
         # Update the data in the database
-        self.__client.table("final_db").upsert(
+        self.__client.table("only_stocktwits_alltickers").upsert(
             {"stock_ticker": _stock_ticker, "data": str(_data)}
         ).execute()

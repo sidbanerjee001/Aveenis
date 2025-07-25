@@ -1,0 +1,9832 @@
+Ticker,Company Name
+V1,V2
+AAPL,Apple 
+NVDA,NVIDIA 
+MSFT,Microsoft 
+GOOG,GOOGL
+AMZN,Amazon
+TSLA,Tesla  
+AVGO,Broadcom 
+NFLX,Netflix  
+ASML,ASML Holding NV
+TMUS,T-Mobile US  
+CSCO,Cisco Systems  
+ISRG,Intuitive Surgical  
+AZN,AstraZeneca 
+AMD,Advanced Micro Devices  
+QCOM,QUALCOMM Inorated
+ADBE,Adobe 
+TXN,Texas Instruments Inorated
+INTU,Intuit 
+BKNG,Booking  
+PLTR,Palantir Technologies 
+AMAT,Applied Materials  
+AMGN,Amgen 
+HON,Honeywell International 
+PDD,PDD  
+CMCSA,Comcast 
+SNY,Sanofi
+ADP,Automatic Data Processing  
+PANW,Palo Alto Networks  
+APP,AppLovin 
+VRTX,Vertex Pharmaceuticals Inorated
+SBUX,Starbucks 
+MRVL,Marvell Technology  
+LRCX,Lam Research 
+KLAC,KLA 
+CEG,Constellation Energy 
+MELI,MercadoLibre  
+PYPL,PayPal   
+CRWD,CrowdStrike   
+MSTR,MicroStrategy Inorated
+EQIX,Equinix  
+INTC,Intel 
+ABNB,Airbnb  
+CDNS,Cadence Design Systems  
+CME,CME  
+CTAS,Cintas 
+SNPS,Synopsys  
+MDLZ,Mondelez International  
+REGN,Regeneron Pharmaceuticals  
+FTNT,Fortinet  
+WDAY,Workday  
+NTES,NetEase  
+CSX,CSX 
+ADSK,Autodesk  
+TTD,The Trade Desk  
+PCAR,PACCAR Inc
+ROP,Roper Technologies  
+CHTR,Charter Communications  
+CPRT,Copart  
+NXPI,NXP Semiconductors NV
+PAYX,Paychex  
+JD,JD Inc
+AEP,American Electric Power   
+ROST,Ross Stores  
+MNST,Monster Beverage 
+DDOG,Datadog  
+BKR,Baker Hughes 
+NDAQ,Nasdaq  
+TCOM,Trip  
+KDP,Keurig Dr Pepper 
+ODFL,Old Dominion Freight Line  
+ARGX,argenx SE
+VRSK,Verisk Analytics  
+CTSH,Cognizant Technology Solutions 
+GEHC,GE HealthCare Technologies 
+EXC,Exelon 
+XEL,Xcel Energy 
+EA,Electronic Arts 
+ACGL,Arch Capital  
+CCEP,Coca-Cola Europacific Partners 
+KHC,The Kraft Heinz 
+IDXX,IDEXX Laboratories  
+UAL,United Airlines  
+ALNY,Alnylam Pharmaceuticals 
+TTWO,Take-Two Interactive Software 
+WTW,Willis Towers Watson Public  
+DXCM,DexCom 
+EBAY,eBay 
+MCHP,Microchip Technology Inorated
+TW,Tradeweb Markets 
+FCNCA,First Citizens BancShares 
+CSGP,CoStar  
+ANSS,ANSYS 
+FCNCO,First Citizens BancShares 
+FITB,Fifth Third Ban
+MPWR,Monolithic Power Systems 
+ZS,Zscaler 
+BIDU,Baidu 
+TSCO,Tractor Supply 
+BNTX,BioNTech SE
+LPLA,LPL Financial  
+CDW,CDW 
+HBAN,Huntington Bancshares Inorated
+ZM,Zoom Communications 
+EXE,Expand Energy 
+NTAP,NetApp 
+TPG,TPG 
+WBD,Warner Bros Discovery 
+EXPE,Expedia  
+GFS,GlobalFoundries 
+FWONK,Formula One 
+NTRA,Natera 
+FWONA,Formula One 
+WDC,Western Digital 
+PTC,PTC 
+FOXA,Fox News
+CINF,Cincinnati Financial 
+TER,Teradyne 
+ILMN,Illumina 
+VOD,Vodafone  Public  
+ONC,BeiGene 
+SBAC,SBA Communications 
+NTRS,Northern Trust 
+ERIE,Erie Indemnity 
+ALAB,Astera Labs 
+ZBRA,Zebra Technologies 
+BIIB,Biogen 
+RYAAY,Ryanair  
+IBKR,Interactive Brokers  
+VRSN,VeriSign 
+CHKP,Check Point Software Technologies 
+FSLR,First Solar 
+STX,Seagate Technology  
+SSNC,SS&C Technologies  
+CG,The Carlyle  
+STLD,Steel Dynamics 
+ULTA,Ulta Beauty 
+DKNG,DraftKings 
+JBHT,JB Hunt Transport Services 
+PODD,Insulet 
+DOCU,DocuSign 
+PFG,Principal Financial  
+AFRM,Affirm  
+SMCI,Super Micro Computer 
+RPRX,Royalty Pharma 
+MDB,MongoDB 
+TRMB,Trimble 
+NTNX,Nutanix 
+KSPI,Joint Stock  Kaspikz
+CYBR,CyberArk Software 
+ZG,Zillow  
+SOFI,SoFi Technologies 
+MANH,Manhattan Associates 
+ICLR,ICON Public  
+NWS,News Corp
+UTHR,United Therapeutics 
+ALGN,Align Technology 
+AZPN,Aspen Technology 
+SYM,Symbotic 
+NWSA,News 
+HOLX,Hologic 
+ENTG,Entegris 
+FFIV,F5 Inc
+WMG,Warner Music  
+DLTR,Dollar Tree 
+LNT,Alliant Energy 
+SWKS,Skyworks Solutions 
+ARCC,Ares Capital 
+BSY,Bentley Systems Inorated
+CASY,Casey's General Stores 
+NBIX,Neurocrine Biosciences 
+OKTA,Okta 
+DPZ,Dominos
+RIVN,Rivian Automotive 
+EVRG,Evergy 
+DUOL,Duolingo 
+SFM,Sprouts Farmers Market 
+INCY,Incyte 
+EWBC,East West Ban 
+PAA,Plains All American Pipeline LP
+AKAM,Akamai Technologies 
+VTRS,Viatris 
+MBLY,Mobileye Global 
+WIX,wix.com
+ITCI,Intra-Cellular Therapies 
+SMMT,Summit Therapeutics 
+MRNA,Moderna 
+GLPI,Gaming and Leisure Properties 
+ESLT,Elbit Systems 
+GMAB,Genmab A/S
+LOGI,Logitech International SA
+SAIA,Saia 
+CRDO,Credo Technology  Holding 
+INSM,Insmed Inorated
+JKHY,Jack Henry & Associates 
+RKLB,Rocket Lab USA 
+LAMR,Lamar Advertising 
+CHRW,CH Robinson Worldwide 
+HST,Host Hotels & Resorts 
+NDSN,Nordson 
+GGAL,Grupo Financiero Galicia SA
+TXRH,Texas Roadhouse 
+TECH,Bio-Techne 
+FTAI,FTAI Aviation 
+BMRN,BioMarin Pharmaceutical 
+MNDY,monday 
+MMYT,MakeMyTrip 
+CPB,The Campbell's 
+AUR,Aurora Innovation 
+SRPT,Sarepta Therapeutics 
+NEUP,Neuphoria Therapeutics 
+TTEK,Tetra Tech 
+PCVX,Vaxcyte 
+ROKU,Roku 
+FUTU,Futu  
+WWD,Woodward 
+PCTY,Paylocity Holding 
+PPC,Pilgrim's Pride 
+LBRDK,Liberty Broadband 
+LECO,Lincoln Electric  
+LBRDA,Liberty Broadband 
+WBA,Walgreens Boots Alliance 
+EXEL,Exelixis 
+AAON,AAON 
+SEIC,SEI Investments 
+TLN,Talen Energy 
+MEDP,Medpace  
+GTLB,GitLab 
+MTSI,MACOM Technology Solutions  
+MRNO,Murano Global Investments 
+EXAS,Exact Sciences 
+HTHT,H World  
+LKQ,LKQ 
+VFS,VinFast Auto 
+VNOM,Viper Energy 
+DSGX,The Descartes Systems  
+DOX,Amdocs 
+DBX,Dropbox 
+APA,APA 
+ALTR,Altair Engineering 
+CHDN,Churchill Downs Inorated
+GLBE,Global-E Online 
+DRS,Leonardo DRS 
+MASI,Masimo 
+PNFP,Pinnacle Financial Partners 
+LCID,Lucid  
+CFLT,Confluent 
+APPF,AppFolio 
+RGLD,Royal Gold 
+ENPH,Enphase Energy 
+WTFC,Wintrust Financial 
+HSIC,Henry Schein 
+TTAN,ServiceTitan 
+DJT,Trump Media & Technology  
+FYBR,Frontier Communications Parent 
+RGEN,Repligen 
+HQY,HealthEquity 
+BRKR,Bruker 
+NBIS,Nebius  NV
+VERX,Vertex 
+CBSH,Commerce Bancshares 
+PEGA,Pegasystems 
+AGNC,AGNC Investment 
+MKTX,MarketAxess  
+FSV,FirstService 
+HLNE,Hamilton Lane Inorated
+ASND,Ascendis Pharma A/S
+ROIV,Roivant Sciences 
+MTCH,Match  
+FRHC,Freedom Holding 
+LSCC,Lattice Semiconductor 
+CHRD,Chord Energy 
+ONB,Old National Ban
+MKSI,MKS Instruments 
+LNW,Light & Wonder 
+ENSG,The Ensign  
+MIDD,The Middleby 
+EXLS,ExlService  
+PARAA,Paramount Global
+FRPT,Freshpet 
+RVMD,Revolution Medicines 
+OTEX,Open Text 
+SIRI,Sirius XM  
+BECN,Beacon Roofing Supply 
+CCCS,CCC Intelligent Solutions  
+UFPI,UFP Industries 
+BOKF,BOK Financial 
+CWST,Casella Waste Systems 
+CZR,Caesars Entertainment 
+BPOP,Popular 
+CVLT,Commvault Systems 
+SPSC,SPS Commerce 
+HCP,Hashi 
+QRVO,Qorvo 
+SATS,EchoStar 
+BILI,Bilibili 
+OLED,Universal Display 
+CIGI,Colliers International  
+NVMI,Nova 
+BPMC,Blueprint Medicines 
+WSC,WillScot  
+BBIO,BridgeBio Pharma 
+CGNX,Cognex 
+LNTH,Lantheus  
+CELH,Celsius  
+XP,XP Inc
+CSWI,CSW Industrials 
+LLYVK,Liberty Live 
+LLYVA,Liberty Live 
+RMBS,Rambus 
+LSTR,Landstar System 
+SMTC,Semtech 
+ASTS,AST SpaceMobile 
+GNTX,Gentex 
+AMKR,Amkor Technology 
+NXT,Nextracker 
+QXO,QXO Inc
+BZ,Kanzhun 
+LITE,Lumentum  
+CROX,Crocs 
+ETSY,Etsy 
+SLM,SLM 
+MDGL,Madrigal Pharmaceuticals 
+COLB,Columbia Banking System 
+SRAD,Sportradar  AG
+OLLI,Ollie's Bargain Outlet  
+MMSI,Merit Medical Systems 
+UMBF,UMB Financial 
+LEGN,Legend Biotech 
+GRFS,Grifols SA
+CACC,Credit Acceptance 
+LFUS,Littelfuse 
+UPST,Upstart  
+CRVL,CorVel 
+SIGI,Selective Insurance  
+QFIN,Qifu Technology 
+SAIC,Science Applications International 
+SITM,SiTime 
+TSEM,Tower Semiconductor 
+CORT,Corcept Therapeutics Inorated
+ACIW,ACI Worldwide 
+REYN,Reynolds Consumer Products 
+VIRT,Virtu Financial 
+LYFT,Lyft 
+CYTK,Cytokinetics Inorated
+NUVL,Nuvalent 
+CHX,ChampionX 
+TEM,Tempus AI Inc
+STRL,Sterling Infrastructure 
+NOVT,Novanta 
+VLY,Valley National Ban
+FFIN,First Financial Bankshares 
+TLX,Telix Pharmaceuticals 
+NSIT,Insight Enterprises 
+BCPC,Balchem 
+INTA,Intapp 
+WFRD,Weatherford International 
+UBSI,United Bankshares 
+KTOS,Kratos Defense & Security Solutions 
+SOUN,SoundHound AI 
+OZK,Bank OZK
+HWC,Hancock Whitney 
+IESC,IES  
+FRSH,Freshworks 
+VRNS,Varonis Systems 
+URBN,Urban Outfitters 
+CLBT,Cellebrite DI 
+FCFS,FirstCash  
+QLYS,Qualys 
+OPCH,Option Care Health 
+RRR,Red Rock Resorts 
+TENB,Tenable  
+PECO,Phillips Edison &  
+PAGP,Plains GP  LP
+ESGR,Enstar  
+NXST,Nexstar Media  
+COLM,Columbia Sportswear 
+RUSHA,Rush Enterprises 
+ITRI,Itron 
+ALKS,Alkermes 
+AVAV,AeroVironment 
+RUSHB,Rush Enterprises 
+BWIN,The Baldwin Insurance  
+GH,Guardant Health 
+LANC,Lancaster Colony 
+AVT,Avnet 
+TIGO,Millicom International Cellular SA
+RDNT,RadNet 
+AEIS,Advanced Energy Industries 
+AXSM,Axsome Therapeutics 
+BRZE,Braze 
+PLXS,Plexus 
+BGC,BGC Group
+SANM,Sanmina 
+FELE,Franklin Electric Co 
+IDCC,InterDigital 
+SKYW,SkyWest 
+GLNG,Golar LNG 
+EEFT,Euronet Worldwide 
+SNRE,Sunrise Communications AG
+TGTX,TG Therapeutics 
+ALGM,Allegro MicroSystems 
+FTDR,Frontdoor 
+IPAR,Interparfums 
+LBTYK,Liberty Global 
+CAMT,Camtek 
+PRCT,PROCEPT BioRobotics 
+KRYS,Krystal Biotech 
+LBTYB,Liberty Global 
+LBTYA,Liberty Global 
+VCTR,Victory Capital  
+GDS,GDS Holdings
+NWL,Newell Brands 
+VRRM,Verra Mobility 
+SRRK,Scholar Rock Holding 
+IBOC,International Bancshares 
+VRNA,Verona Pharma 
+GSHD,Goosehead Insurance Inc
+ICUI,ICU Medical 
+CORZ,Core Scientific 
+GBDC,Golub Capital BDC 
+SBRA,Sabra Health Care REIT 
+NFE,New Fortress Energy 
+ACHC,Acadia Healthcare  
+ALVO,Alvotech
+PYCR,Paycor HCM 
+ADMA,ADMA Biologics 
+BANF,BancFirst 
+VKTX,Viking Therapeutics 
+CARG,CarGurus 
+NCNO,nCino 
+DOOO,BRP 
+CVCO,Cavco Industries 
+BLKB,Blackbaud 
+FULT,Fulton Financial 
+PAYO,Payoneer Global 
+OMAB,Grupo Aeroportuario del Centro Norte SAB de CV
+IAC,IAC Inc
+BL,BlackLine 
+AGYS,Agilysys 
+ACLX,Arcellx 
+TCBI,Texas Capital Bancshares 
+PTEN,Patterson-UTI Energy 
+ASO,Academy Sports and Outdoors 
+XRAY,DENTSPLY SIRONA 
+APLS,Apellis Pharmaceuticals 
+IMVT,Immunovant 
+USLM,United States Lime & Minerals 
+EBC,Eastern Bankshares 
+ACVA,ACV Auctions 
+POWI,Power Integrations 
+SHC,Sotera Health 
+ARLP,Alliance Resource Partners LP
+TFSL,TFS Financial 
+ALKT,Alkami Technology 
+ATAT,Atour Lifestyle  
+CCOI,Cogent Communications  
+PTON,Peloton Interactive 
+WRD,WeRide 
+CRNX,Crinetics Pharmaceuticals 
+ZI,ZoomInfo Technologies 
+FIBK,First Interstate BancSystem 
+MEOH,Methanex 
+SNEX,StoneX  
+CRSP,CRISPR Therapeutics AG
+SMPL,The Simply Good Foods 
+FHB,First Hawaiian 
+RNA,Avidity Biosciences 
+MGEE,MGE Energy 
+DLO,DLocal 
+AVPT,AvePoint 
+RYTM,Rhythm Pharmaceuticals 
+CLSK,CleanSpark 
+PTCT,PTC Therapeutics 
+HEES,H&E Equipment Services 
+VEON,VEON 
+NWE,NorthWestern Energy  
+OTTR,Otter Tail 
+VCYT,Veracyte 
+IRTC,iRhythm Technologies 
+PCH,PotlatchDeltic 
+SYNA,Synaptics Inorated
+WSFS,WSFS Financial 
+IPGP,IPG Photonics 
+AMBA,Ambarella 
+PTVE,Pactiv Evergreen 
+BTSG,BrightSpring Health Services 
+NMRK,Newmark  
+IRDM,Iridium Communications 
+WDFC,WD-40 
+DNLI,Denali Therapeutics 
+CNXC,Concentrix 
+BTDR,Bitdeer Technologies 
+RGTI,Rigetti Computing 
+XENE,Xenon Pharmaceuticals 
+LFST,LifeStance Health  
+PATK,Patrick Industries 
+ALRM,Alarm.com
+AMED,Amedisys 
+POWL,Powell Industries 
+LIF,Life360 
+BHF,Brighthouse Financial 
+ACAD,ACADIA Pharmaceuticals 
+NMIH,NMI  
+CVBF,CVB Financial 
+MGRC,McGrath Rent
+LUNR,Intuitive Machines 
+NVCR,NovoCure 
+FLNC,Fluence Energy 
+VCEL,Vericel 
+LAUR,Laureate Education 
+PLMR,Palomar  
+KYMR,Kymera Therapeutics 
+IOSP,Innospec 
+SFNC,Simmons First National 
+HUBG,Hub Group
+HTLF,Heartland Financial USA 
+DIOD,Diodes Inorated
+FIVN,Five9 
+JJSF,J&J Snack Foods 
+MLTX,MoonLake Immunotherapeutics
+INDB,Independent Bank 
+CPRX,Catalyst Pharmaceuticals 
+OSIS,OSI Systems 
+PDCO,Patterson Companies 
+PRGS,Progress Software 
+TWST,Twist Bioscience 
+QDEL,QuidelOrtho 
+MRUS,Merus NV
+JBLU,JetBlue Airways 
+EWTX,Edgewise Therapeutics 
+GT,The Goodyear Tire & Rubber 
+ALHC,Alignment Healthcare 
+ZLAB,Zai Lab 
+FFBC,First Financial Ban
+TBBK,Bancorp
+PSMT,PriceSmart 
+PLTK,Playtika Holding 
+TTMI,TTM Technologies 
+WAFD,WaFd 
+STNE,StoneCo 
+PRVA,Privia Health  
+LIVN,LivaNova 
+DRVN,Driven Brands  
+MRCY,Mercury Systems 
+PSNY,Polestar Automotive Holding UK 
+NAMS,NewAmsterdam Pharma  NV
+SGRY,Surgery Partners 
+AMRX,Amneal Pharmaceuticals 
+JANX,Janux Therapeutics 
+RPD,Rapid7 
+KLIC,Kulicke and Soffa Industries 
+SWTX,SpringWorks Therapeutics 
+FLYW,Flywire 
+IREN,IREN 
+NEOG,Neogen 
+GCMG,GCM Grosvenor 
+APPN,Appian 
+RNW,ReNew Energy Global 
+BANR,Banner 
+ICFI,ICF International 
+HCM,HUTCHMED (China) 
+MRX,Marex  
+AZTA,Azenta 
+WULF,TeraWulf 
+ARCB,ArcBest 
+FRME,First Merchants 
+TNDM,Tandem Diabetes Care 
+ARWR,Arrowhead Pharmaceuticals 
+MYRG,MYR  
+ADUS,Addus HomeCare 
+BATRA,Atlanta Braves  
+VC,Visteon 
+PPBI,Pacific Premier Ban 
+ROIC,Retail Opportunity Investments 
+ACLS,Axcelis Technologies 
+STRA,Strategic Education 
+MLCO,Melco Resorts & Entertainment 
+HWKN,Hawkins 
+EXTR,Extreme Networks 
+BATRK,Atlanta Braves  
+APGE,Apogee Therapeutics 
+WB,Weibo 
+MCW,Mister Car Wash 
+SBCF,Seacoast Banking  of Florida
+UPWK,Upwork 
+WERN,Werner Enterprises 
+ZD,Ziff Davis 
+MGNI,Magnite 
+PTGX,Protagonist Therapeutics 
+VIAV,Viavi Solutions 
+NBTB,NBT Ban 
+MIRM,Mirum Pharmaceuticals 
+KC,Kingsoft Cloud  
+LMAT,LeMaitre Vascular 
+VICR,Vicor 
+YY,JOYY 
+LGIH,LGI Homes 
+PWP,Perella Weinberg Partners
+TRMD,TORM 
+TRMK,Trustmark 
+WSBC,WesBanco 
+EFSC,Enterprise Financial Services 
+SYBT,Stock Yards Ban 
+TFIN,Triumph Financial 
+SUPN,Supernus Pharmaceuticals 
+HRMY,Harmony Biosciences  
+SLNO,Soleno Therapeutics 
+AVDX,AvidXchange  
+CRTO,Criteo SA
+LGND,Ligand Pharmaceuticals Inorated
+HURN,Huron Consulting  
+PINC,Premier 
+CENTA,Central Garden & Pet 
+VSEC,VSE 
+ENLT,Enlight Renewable Energy 
+ENVX,Enovix 
+CNTA,Centessa Pharmaceuticals 
+TMDX,TransMedics  
+GTX,Garrett Motion 
+IDYA,IDEAYA Biosciences 
+CGON,CG Oncology 
+INTR,Inter & Co 
+TRUP,Trupanion 
+HLMN,Hillman Solutions 
+OMCL,Omnicell 
+OSW,OneSpaWorld  
+CLOV,Clover Health Investments 
+WGS,GeneDx  
+UFPT,UFP Technologies 
+HSAI,Hesai 
+CERT,Certara 
+MQ,Marqeta 
+MESO,Mesoblast 
+CENX,Century Aluminum 
+NEO,NeoGenomics 
+EVCM,EverCommerce 
+MXL,MaxLinear 
+HPK,HighPeak Energy 
+PSEC,Prospect Capital 
+VITL,Vital Farms 
+ULCC,Frontier   
+CNXN,PC Connection 
+GOGL,Golden Ocean  
+RXRX,Recursion Pharmaceuticals 
+CIFR,Cipher Mining 
+CMPR,Cimpress 
+GERN,Geron 
+JAMF,Jamf Holding 
+SPT,Sprout Social 
+TXG,10x Genomics 
+ALGT,Allegiant Travel 
+FBNC,First Ban
+SKWD,Skyward Specialty Insurance  
+ATRC,AtriCure 
+IOVA,Iovance Biotherapeutics 
+APLD,Applied Digital 
+SBLK,Star Bulk Carriers 
+PRDO,Perdoceo Education 
+PGNY,Progyny 
+GDYN,Grid Dynamics  
+CHCO,City Holding 
+LKFN,Lakeland Financial 
+WVE,Wave Life Sciences 
+AMPH,Amphastar Pharmaceuticals 
+EXPI,eXp World  
+SONO,Sonos 
+IART,Integra LifeSciences  
+MBIN,Merchants Ban
+STGW,Stagwell 
+WBTN,WEBTOON Entertainment 
+SIMO,Silicon Motion Technology 
+BLTE,Belite Bio Inc
+XMTR,Xometry 
+NWBI,Northwest Bancshares 
+MNKD,MannKind 
+GDRX,GoodRx  
+IBRX,ImmunityBio 
+PCT,PureCycle Technologies 
+CLBK,Columbia Financial 
+TWFG,TWFG 
+NN,NextNav 
+UCTT,Ultra Clean  
+DVAX,Dynavax Technologies 
+ARQT,Arcutis Biotherapeutics 
+CLMT,Calumet 
+IAS,Integral Ad Science Holding 
+MTTR,Matterport 
+ATEC,Alphatec  
+UPBD,Upbound  
+DSGR,Distribution Solutions  
+FTRE,Fortrea  
+NTCT,NetScout Systems 
+OPRA,Opera 
+DMLP,Dorchester Minerals LP
+DYN,Dyne Therapeutics 
+ARHS,Arhaus 
+TVTX,Travere Therapeutics 
+GLPG,Galapagos NV
+INFN,Infinera 
+VRNT,Verint Systems 
+AKRO,Akero Therapeutics 
+SJW,SJW Group
+DXPE,DXP Enterprises 
+HDL,Super Hi International Holding 
+AAOI,Applied Optoelectronics 
+GPCR,Structure Therapeutics 
+ASTH,Astrana Health 
+SASR,Sandy Spring Ban 
+MCRI,Monarch Casino & Resort 
+PLAB,Photronics 
+VECO,Veeco Instruments 
+DNUT,Krispy Kreme 
+ANDE,The Andersons 
+PLYA,Playa Hotels & Resorts NV
+CLDX,Celldex Therapeutics 
+BCRX,BioCryst Pharmaceuticals 
+SSRM,SSR Mining 
+MLKN,MillerKnoll 
+QUBT,Quantum Computing 
+VNET,VNET  
+NAVI,Navient 
+IMCR,Immunocore  
+SEZL,Sezzle 
+VBTX,Veritex  
+HLIT,Harmonic 
+EVO,Evotec SE
+HELE,Helen of Troy 
+SPNS,Sapiens International  NV
+INDV,Indivior 
+VIR,Vir Biotechnology 
+HIMX,Himax Technologies 
+ATSG,Air Transport Services  
+ACDC,ProFrac Holding 
+CSGS,CSG Systems International 
+TCBK,TriCo Bancshares
+NRIX,Nurix Therapeutics 
+KRNT,Kornit Digital 
+STBA,S&T Ban 
+SRCE,1st Source 
+AFYA,Afya 
+ADEA,Adeia 
+DCOM,Dime Community Bancshares 
+SDGR,Schrödinger 
+XNCR,Xencor 
+CMPO,CompoSecure 
+INMD,InMode 
+LZ,LegalZoom 
+AMPL,Amplitude 
+WABC,Westamerica Ban
+GIII,G-III Apparel  
+KARO,Karooooo 
+VRDN,Viridian Therapeutics 
+NVAX,Novavax 
+WINA,Winmark 
+QCRH,QCR  
+AHCO,AdaptHealth 
+KNSA,Kiniksa Pharmaceuticals International 
+BLBD,Blue Bird 
+SGML,Sigma Lithium 
+WLFC,Willis Lease Finance 
+RBCAA,Republic Ban 
+BUSE,First Busey 
+PRAX,Praxis Precision Medicines 
+SABR,Sabre 
+MDXG,MiMedx  
+MRTN,Marten Transport 
+LILAK,Liberty Latin America 
+DCBO,Docebo 
+CBRL,Cracker Barrel 
+OCUL,Ocular Therapeutix 
+CCB,Coastal Financial 
+SYRE,Spyre Therapeutics 
+OCSL,Oaktree Specialty Lending 
+NSSC,Napco Security Technologies 
+ARDX,Ardelyx 
+RXST,RxSight 
+HROW,Harrow 
+MFIC,MidCap Financial Investment 
+CRCT,Cricut 
+NYAX,Nayax 
+UDMY,Udemy 
+TTGT,TechTarget 
+CRAI,CRA International 
+BLFS,BioLife Solutions 
+QNST,QuinStreet 
+HTZ,Hertz Global  
+ARVN,Arvinas 
+CDNA,CareDx Inc
+THRM,Gentherm Inorated
+IMKTA,Ingles Markets Inorated
+IMKTA,Ingles Markets Inorated
+BMBL,Bumble 
+AMWD,American Woodmark 
+TBLA,Taboola 
+PZZA,Papa John's International 
+APOG,Apogee Enterprises 
+MYGN,Myriad Genetics 
+NMFC,New Mountain Finance 
+SCSC,ScanSource 
+GABC,German American Ban 
+SAFT,Safety Insurance  
+MOMO,Hello Group
+EVGO,EVgo 
+DSP,Viant Technology 
+NVEE,NV5 Global 
+FOXF,Fox Factory Holding 
+KALU,Kaiser Aluminum 
+COMM,CommScope Holding  
+ULH,Universal Logistics  
+CNCK,Coincheck  NV
+TIGR,UP Fintech Holding 
+MRVI,Maravai LifeSciences  
+PFBC,Preferred Bank
+ECPG,Encore Capital  
+XRX,Xerox  
+INVA,Innoviva 
+EOSE,Eos Energy Enterprises 
+COHU,Cohu 
+EMBC,Embecta 
+FWRG,First Watch Restaurant  
+ACMR,ACM Research 
+XPEL,XPEL 
+BBSI,Barrett Business Services 
+DGII,Digi International 
+CECO,CECO Environmental 
+ELVN,Enliven Therapeutics 
+AMSC,American Superconductor 
+TLRY,Tilray Brands 
+ANIP,ANI Pharmaceuticals 
+AUPH,Aurinia Pharmaceuticals 
+LQDT,Liquidity Services 
+PEBO,Peoples Ban 
+OCFC,OceanFirst Financial 
+PLSE,Pulse Biosciences 
+SNDX,Syndax Pharmaceuticals 
+BELFA,Bel Fuse 
+IGIC,International General Insurance  
+AMAL,Amalgamated Financial 
+CCEC,Capital Clean Energy Carriers 
+FSUN,FirstSun Capital Ban
+STAA,STAAR Surgical 
+INOD,Innodata 
+BRKL,Brookline Ban 
+AOSL,Alpha and Omega Semiconductor 
+PENG,Penguin Solutions 
+COLL,Collegium Pharmaceutical 
+CSWC,Capital Southwest 
+TH,Target Hospitality 
+ADPT,Adaptive Biotechnologies 
+VMEO,Vimeo 
+PDFS,PDF Solutions 
+LMB,Limbach  
+LX,LexinFintech  
+OLPX,Olaplex  
+NRDS,NerdWallet 
+SBGI,Sinclair 
+ICHR,Ichor  
+VSAT,Viasat 
+LQDA,Liquidia 
+CMCO,Columbus McKinnon 
+JBSS,John B Sanfilippo & Son 
+BELFB,Bel Fuse 
+ARRY,Array Technologies 
+PCRX,Pacira BioSciences 
+BCYC,Bicycle Therapeutics 
+HEPS,D-Market Elektronik
+BLMN,Bloomin' Brands 
+BFC,Bank First 
+SDA,SunCar Technology  
+RCKT,Rocket Pharmaceuticals 
+OPK,OPKO Health 
+NTLA,Intellia Therapeutics 
+KRUS,Kura Sushi USA 
+AMSF,AMERISAFE 
+CTBI,Community Trust Ban 
+FWRD,Forward Air 
+RDFN,Redfin 
+HSTM,HealthStream 
+MATW,Matthews International 
+AVXL,Anavex Life Sciences 
+TRS,TriMas 
+BZAI,Blaize  
+PNTG,The Pennant  
+TRNS,Transcat 
+HSII,Heidrick & Struggles International 
+DMRC,Digimarc 
+OCS,Oculis Holding AG
+BHRB,Burke & Herbert Financial Services 
+BGM,BGM  
+CGBD,Carlyle Secured Lending 
+CVAC,CureVac NV
+RDWR,Radware 
+ANGI,Angi 
+PFC,Premier Financial 
+PHVS,Pharvaris NV
+SLRC,SLR Investment 
+AVAH,Aveanna Healthcare  
+STKL,SunOpta 
+COGT,Cogent Biosciences 
+MSEX,Middlesex Water 
+PTLO,Portillo's 
+INDI,indie Semiconductor 
+CNOB,ConnectOne Ban 
+GDEN,Golden Entertainment 
+IPX,IperionX 
+FMBH,First Mid Bancshares 
+REAX,The Real Brokerage 
+TYRA,Tyra Biosciences 
+CRESY,Cresud Sociedad Anónima Comercial Inmobiliaria Financiera y Agropecuaria
+ASTL,Algoma Steel  
+HTLD,Heartland Express 
+RCAT,Red Cat  
+ABCL,AbCellera Biologics 
+ATLC,Atlanticus  
+UVSP,Univest Financial 
+SANA,Sana Biotechnology 
+CRSR,Corsair Gaming 
+TRIN,Trinity Capital 
+HCSG,Healthcare Services  
+FUFU,BitFuFu 
+NESR,National Energy Services Reunited 
+UXIN,Uxin 
+SNCY,Sun Country Airlines  
+FIP,FTAI Infrastructure 
+PAHC,Phibro Animal Health 
+HFWA,Heritage Financial 
+SEDG,SolarEdge Technologies 
+AVBP,ArriVent BioPharma 
+NNE,NANO Nuclear Energy 
+SCVL,Shoe Carnival 
+ERII,Energy Recovery 
+PSIX,Power Solutions International 
+HCKT,The Hackett  
+AIOT,PowerFleet 
+AXGN,Axogen 
+NBN,Northeast Bank
+PRAA,PRA  
+OSBC,Old Second Ban 
+SERV,Serve Robotics 
+GCT,GigaCloud Technology 
+MCBS,MetroCity Bankshares 
+REPL,Replimune  
+FBYD,Falcon's Beyond Global 
+ADTN,ADTRAN  
+PPTA,Perpetua Resources 
+CEVA,CEVA 
+IIIV,i3 Verticals 
+CDMO,Avid Bioservices 
+GLDD,Great Lakes Dredge & Dock 
+AVDL,Avadel Pharmaceuticals 
+BITF,Bitfarms 
+BJRI,BJ's Restaurants 
+DAKT,Daktronics 
+ADSE,ADS-TEC Energy 
+MGPI,MGP Ingredients 
+NTGR,NETGEAR 
+PLRX,Pliant Therapeutics 
+ORIC,ORIC Pharmaceuticals 
+GSM,Ferroglobe 
+ADV,Advantage Solutions 
+ARKO,Arko 
+NBBK,NB Ban 
+ASTE,Astec Industries 
+SHLS,Shoals Technologies  
+SEPN,Septerna 
+EGBN,Eagle Ban 
+CSIQ,Canadian Solar 
+SCWX,SecureWorks 
+BFST,Business First Bancshares 
+CRON,Cronos  
+ODP,The ODP 
+FCBC,First Community Bankshares 
+CFFN,Capitol Federal Financial 
+IRMD,IRADIMED 
+TIPT,Tiptree 
+TCPC,BlackRock TCP Capital 
+CFB,CrossFirst Bankshares 
+ETNB,89bio 
+MLAB,Mesa Laboratories 
+CTKB,Cytek Biosciences 
+IBCP,Independent Bank 
+DJCO,Daily Journal 
+OSPN,OneSpan 
+CRMD,CorMedix 
+FNKO,Funko 
+FDUS,Fidus Investment 
+CBLL,CeriBell 
+MBWM,Mercantile Bank 
+PRTA,Prothena  
+CCAP,Crescent Capital BDC 
+RBBN,Ribbon Communications 
+GSBC,Great Southern Ban 
+ABL,Abacus Life 
+HBT,HBT Financial 
+BCAX,Bicara Therapeutics 
+CSTL,Castle Biosciences 
+ORRF,Orrstown Financial Services 
+RPAY,Repay  
+MBUU,Malibu Boats 
+SIBN,SI-BONE 
+CGNT,Cognyte Software 
+HBNC,Horizon Ban 
+PUBM,PubMatic 
+HAFC,Hanmi Financial 
+IMTX,Immatics NV
+OFIX,Orthofix Medical 
+QURE,uniQure NV
+UFCS,United Fire  
+SFIX,Stitch Fix 
+MVST,Microvast  
+THRY,Thryv  
+ECX,ECARX  
+MNRO,Monro 
+EZPW,EZ 
+IMOS,ChipMOS TECHNOLOGIES 
+NEXN,Nexxen International 
+NVTS,Navitas Semiconductor 
+IMXI,International Money Express 
+ITRN,Ituran Location and Control 
+ESQ,Esquire Financial  
+PGY,Pagaya Technologies 
+FSBC,Five Star Ban
+AMRK,A-Mark Precious Metals 
+SVRA,Savara 
+WRLD,World Acceptance 
+PHAR,Pharming  NV
+UPB,Upstream Bio 
+CAC,Camden National 
+CNDT,Conduent Inorated
+SHEN,Shenandoah Telecommunications 
+RLAY,Relay Therapeutics 
+EOLS,Evolus 
+HNST,The Honest  
+CLNE,Clean Energy Fuels 
+CRML,Critical Metals 
+INV,Innventure 
+BVS,Bioventus 
+IMNM,Immunome 
+LPRO,Open Lending 
+LENZ,LENZ Therapeutics 
+SMBC,Southern Missouri Ban 
+VINP,Vinci Partners Investments 
+SSYS,Stratasys 
+GPRE,Green Plains 
+EU,enCore Energy 
+PRTH,Priority Technology  
+ABUS,Arbutus Biopharma 
+BYRN,Byrna Technologies 
+AUTL,Autolus Therapeutics 
+MGIC,Magic Software Enterprises 
+RMR,The RMR  
+DH,Definitive Healthcare 
+TRST,TrustCo Bank  NY
+PLPC,Preformed Line Products 
+SPTN,SpartanNash 
+CAPR,Capricor Therapeutics 
+MOFG,MidWestOne Financial  
+CCBG,Capital City Bank  
+TECX,Tectonic Therapeutic 
+SLP,Simulations Plus 
+IRWD,Ironwood Pharmaceuticals 
+ACIC,American Coastal Insurance 
+ATRO,Astronics 
+DNTH,Dianthus Therapeutics 
+MNTK,Montauk Renewables 
+CGEM,Cullinan Therapeutics 
+CTLP,Cantaloupe 
+GRAL,GRAIL 
+HUMA,Humacyte 
+LEGH,Legacy Housing 
+CCRN,Cross Country Healthcare 
+KRT,Karat Packaging 
+HTBI,HomeTrust Bancshares 
+SCHL,Scholastic 
+CLMB,Climb Global Solutions 
+ALTI,AlTi Global 
+NCMI,National CineMedia 
+CRNC,Cerence 
+ZJK,ZJK Industrial Co 
+FRPH,FRP  
+SPFI,South Plains Financial 
+DOGZ,Dogness (International) 
+KURA,Kura Oncology 
+SKYT,SkyWater Technology 
+HTBK,Heritage Commerce 
+MPB,Mid Penn Ban 
+ACCD,Accolade 
+PGC,Peapack-Gladstone Financial 
+VREX,Varex Imaging 
+CRGX,CARGO Therapeutics 
+LYTS,LSI Industries 
+THFF,First Financial 
+FLX,BingEx 
+BTBT,Bit Digital 
+RXT,Rackspace Technology 
+CLFD,Clearfield 
+EYPT,EyePoint Pharmaceuticals 
+HNRG,Hallador Energy 
+WLDN,Willdan  
+NYMT,New York Mortgage Trust 
+SBC,SBC Medical   Inorated
+FISI,Financial Institutions 
+TMCI,Treace Medical Concepts 
+HIFS,Hingham Institution for Savings
+SRDX,Surmodics 
+MSBI,Midland States Ban 
+DDI,DoubleDown Interactive Co 
+SMLR,Semler Scientific 
+FLGT,Fulgent Genetics 
+ATEX,Anterix 
+SHBI,Shore Bancshares 
+FFWM,First Foundation 
+RZLV,Rezolve AI 
+RSVR,Reservoir Media 
+GEVO,Gevo 
+INNV,InnovAge Holding 
+SENEB,Seneca Foods 
+KELYA,Kelly Services 
+FMNB,Farmers National Banc 
+SENEA,Seneca Foods 
+STOK,Stoke Therapeutics 
+DHC,Diversified Healthcare Trust
+PFIS,Peoples Financial Services 
+NFBK,Northfield Ban
+KELYB,Kelly Services 
+METC,Ramaco Resources 
+CCNE,CNB Financial 
+MNMD,Mind Medicine (MindMed) 
+NNDM,Nano Dimension 
+EBTC,Enterprise Ban 
+NNOX,Nano-X Imaging 
+DGICA,Donegal  
+ALRS,Alerus Financial 
+MXCT,MaxCyte 
+ANGO,AngioDynamics 
+GLRE,Greenlight Capital Re 
+BCAL,California Ban
+EVLV,Evolv Technologies  
+MLYS,Mineralys Therapeutics 
+ORKA,Oruka Therapeutics 
+RAPP,Rapport Therapeutics 
+FLWS,1800 Flowers
+RNAC,Cartesian Therapeutics 
+DGICB,Donegal  
+PRCH,Porch  
+LINC,Lincoln Educational Services 
+BIGC,BigCommerce  
+XERS,Xeris Biopharma  
+CCSI,Consensus Cloud Solutions 
+NWPX,Northwest Pipe 
+LASR,nLIGHT 
+SNDL,SNDL 
+PACB,Pacific Biosciences of California 
+RDVT,Red Violet 
+MTLS,Materialise NV
+VLGEA,Village Super Market 
+KOD,Kodiak Sciences 
+ANAB,AnaptysBio 
+BBCP,Concrete Pumping  
+MREO,Mereo BioPharma  
+BLDP,Ballard Power Systems 
+AIRJ,AirJoule Technologies 
+CBNK,Capital Ban 
+TRML,Tourmaline Bio 
+KE,Kimball Electronics 
+AIP,Arteris 
+VERV,Verve Therapeutics 
+PROK,ProKidney 
+AROW,Arrow Financial 
+MITK,Mitek Systems 
+GCBC,Greene County Ban 
+KRNY,Kearny Financial 
+ARCT,Arcturus Therapeutics  
+VALU,Value Line 
+SIGA,SIGA Technologies 
+UNTY,Unity Ban 
+ANSC,Agriculture & Natural Solutions Acquisition 
+ANNX,Annexon 
+TCBX,Third Coast Bancshares 
+SWBI,Smith & Wesson Brands 
+MGTX,MeiraGTx  
+TMC,TMC the metals  
+YORW,The York Water 
+BWMN,Bowman Consulting  
+CDXC,ChromaDex 
+VBNK,VersaBank
+GHRS,GH Research 
+SVC,Service Properties Trust
+ATXS,Astria Therapeutics 
+BIOX,Bioceres Crop Solutions 
+URGN,UroGen Pharma 
+FFIC,Flushing Financial 
+ESPR,Esperion Therapeutics 
+TRDA,Entrada Therapeutics 
+GRVY,Gravity Co 
+GRPN,Groupon
+ITIC,Investors Title 
+BSVN,Bank7 
+ZVRA,Zevra Therapeutics 
+QTRX,Quanterix 
+SHYF,The Shyft  
+ACTG,Acacia Research 
+NRIM,Northrim Ban 
+LMNR,Limoneira 
+DCGO,DocGo 
+RWAY,Runway Growth Finance 
+PRTC,PureTech Health 
+TBPH,Theravance Biopharma 
+AKBA,Akebia Therapeutics 
+BSRR,Sierra Ban
+TKNO,Alpha Teknova 
+KROS,Keros Therapeutics 
+MERC,Mercer International 
+ALNT,Allient 
+TCMD,Tactile Systems Technology 
+CELC,Celcuity 
+CLPT,ClearPoint Neuro 
+KMDA,Kamada 
+MFH,Mercurity Fintech Holding 
+CWCO,Consolidated Water Co 
+USAP,Universal Stainless & Alloy Products 
+HAIN,The Hain Celestial  
+NETD,Nabors Energy Transition  II
+CVRX,CVRx 
+DHIL,Diamond Hill Investment  
+LESL,Leslie's 
+AHG,Akso Health 
+OLMA,Olema Pharmaceuticals 
+OFLX,Omega Flex 
+LVRO,Lavoro 
+LE,Lands' End 
+DCTH,Delcath Systems 
+SOHU,Sohu 
+ORGO,Organogenesis  
+LSAK,Lesaka Technologies 
+ABVX,ABIVAX Société Anonyme
+NRC,National Research 
+CRNT,Ceragon Networks 
+CVGW,Calavo Growers 
+MBX,MBX Biosciences 
+CDZI,Cadiz 
+CDXS,Codexis 
+OTLY,Oatly  AB
+NVEC,NVE 
+AMCX,AMC Networks 
+ALLO,Allogene Therapeutics 
+OABI,OmniAb 
+DOYU,DouYu International  
+KALV,KalVista Pharmaceuticals 
+BRY,Berry Corporation
+AEHR,Aehr Test Systems 
+CCIX,Churchill Capital  IX
+NIPG,NIP  
+JFIN,Jiayin  
+FBIZ,First Business Financial Services 
+CRMT,America's Car-Mart 
+ENGN,enGene  
+TBCH,Turtle Beach 
+EWCZ,European Wax Center 
+ZIMV,ZimVie 
+BMRC,Bank of Marin Ban
+LGTY,Logility Supply Chain Solutions 
+ASPI,ASP Isotopes 
+PAMT,Pamt 
+ILLR,Triller  
+PANL,Pangaea Logistics Solutions 
+FMAO,Farmers & Merchants Ban 
+MTRX,Matrix Service 
+HBCP,Home Ban 
+ETON,Eton Pharmaceuticals 
+RGNX,REGENXBIO 
+HRZN,Horizon Technology Finance 
+API,Agora 
+PSNL,Personalis 
+APEI,American Public Education 
+GPAT,GP-Act III Acquisition 
+PNRG,PrimeEnergy Resources 
+PRME,Prime Medicine 
+BWB,Bridgewater Bancshares 
+CYRX,Cryoport 
+MBAV,M3-Brigade Acquisition V 
+WTBA,West Ban 
+NYXH,Nyxoah SA
+USCB,USCB Financial  
+NPCE,NeuroPace 
+SNBR,Sleep Number 
+NMRA,Neumora Therapeutics 
+EGHT,8x8 
+CWBC,Community West Bancshares
+RRBI,Red River Bancshares 
+RBB,RBB Ban
+VALN,Valneva SE
+HCAT,Health Catalyst 
+KRRO,Korro Bio 
+TITN,Titan Machinery 
+FRBA,First Bank
+KLTR,Kaltura 
+RVNC,Revance Therapeutics 
+ASLE,AerSale 
+JOUT,Johnson Outdoors 
+CERS,Cerus 
+PMTS,CPI Card  
+SSBK,Southern States Bancshares 
+CMPX,Compass Therapeutics 
+ZBIO,Zenas BioPharma 
+GDEV,GDEV 
+WEYS,Weyco  
+LWAY,Lifeway Foods 
+PKOH,Park-Ohio  
+QSI,Quantum-Si inorated
+CTNM,Contineum Therapeutics 
+TSHA,Taysha Gene Therapies 
+XOMA,XOMA Royalty 
+ACNB,ACNB 
+PGEN,Precigen 
+ABSI,Absci 
+SPOK,Spok  
+RDUS,Radius Recycling 
+IHRT,iHeartMedia 
+FSBW,FS Ban 
+VMD,Viemed Healthcare 
+AUDC,AudioCodes 
+ASUR,Asure Software 
+CIVB,Civista Bancshares 
+CCIR,Cohen Circle Acquisition  I
+NATH,Nathan's Famous 
+TBRG,TruBridge 
+OB,Outbrain 
+VACH,Voyager Acquisition 
+LNZA,LanzaTech Global 
+RIGL,Rigel Pharmaceuticals 
+CRVS,Corvus Pharmaceuticals 
+GOCO,GoHealth 
+ARTNA,Artesian Resources 
+BLZE,Backblaze 
+CMRX,Chimerix 
+COFS,ChoiceOne Financial Services 
+BLDE,Blade Air Mobility 
+BEAG,Bold Eagle Acquisition 
+PBPB,Potbelly 
+NODK,NI Holdings
+MCFT,MasterCraft Boat  
+ZUMZ,Zumiez 
+TTSH,Tile Shop  
+LFVN,LifeVantage 
+TATT,TAT Technologies 
+JAKK,JAKKS Pacific 
+INBK,First Internet Ban
+DENN,Denny's 
+EXFY,Expensify 
+REFI,Chicago Atlantic Real Estate Finance 
+UROY,Uranium Royalty 
+PDLB,Ponce Financial  
+CZFS,Citizens Financial Services 
+ALDX,Aldeyra Therapeutics 
+LSEA,Landsea Homes 
+MLAC,Mountain Lake Acquisition 
+SFST,Southern First Bancshares 
+SLDP,Solid Power 
+ALDF,Aldel Financial II 
+FSTR,LB Foster 
+BCML,BayCom 
+AQST,Aquestive Therapeutics 
+TNGX,Tango Therapeutics 
+VCIC,Vine Hill Capital Investment 
+OBT,Orange County Ban 
+TRVI,Trevi Therapeutics 
+CZNC,Citizens & Northern 
+FNLC,The First Ban 
+NECB,Northeast Community Ban 
+ATYR,aTyr Pharma 
+GSRT,GSR III Acquisition 
+HOND,HCM II Acquisition 
+EHTH,eHealth 
+SMTI,Sanara MedTech 
+INVZ,Innoviz Technologies 
+LPBB,Launch Two Acquisition 
+YMAB,Y-mAbs Therapeutics 
+IMMP,Immutep 
+CCCC,C4 Therapeutics 
+IMMR,Immersion 
+GWRS,Global Water Resources 
+ITOS,iTeos Therapeutics 
+PBFS,Pioneer Ban 
+VYGR,Voyager Therapeutics 
+GMGI,Golden Matrix  
+LPAA,Launch One Acquisition 
+PCB,PCB Ban
+PCYO,Pure Cycle 
+RGP,Resources Connection 
+FORR,Forrester Research 
+JMSB,John Marshall Ban 
+OSUR,OraSure Technologies 
+AVIR,Atea Pharmaceuticals 
+MVIS,MicroVision 
+RR,Richtech Robotics 
+AENT,Alliance Entertainment Holding 
+ARBE,Arbe Robotics 
+TSSI,TSS 
+FRST,Primis Financial 
+PDYN,Palladyne AI 
+CDRO,Codere Online Luxembourg SA
+NGNE,Neurogene 
+PLBC,Plumas Ban
+HDSN,Hudson Technologies 
+SATL,Satellogic 
+ISPR,Ispire Technology 
+SNFCA,Security National Financial 
+LNKB,LINKBAN 
+THRD,Third Harmonic Bio 
+NAMI,Jinxin Technology Holding 
+DRTS,Alpha Tau Medical 
+RZLT,Rezolute 
+ZSPC,zSpace 
+ACRS,Aclaris Therapeutics 
+AFRI,Forafric Global 
+FLXS,Flexsteel Industries 
+DRDB,Roman DBDR Acquisition  II
+DOMO,Domo 
+ARQ,Arq Inc
+ACIU,AC Immune SA
+NATR,Nature's Sunshine Products 
+LXRX,Lexicon Pharmaceuticals 
+UHG,United Homes  
+ALLT,Allot 
+SGC,Superior  of Companies 
+ATGL,Alpha Technology  
+CADL,Candel Therapeutics 
+FDBC,Fidelity D & D Ban 
+VNDA,Vanda Pharmaceuticals 
+INGN,Inogen 
+BYND,Beyond Meat 
+MVBF,MVB Financial 
+ONEW,OneWater Marine 
+ARQQ,Arqit Quantum 
+TDUP,ThredUp 
+CEPO,Cantor Equity Partners I 
+IRBT,iRobot 
+RMNI,Rimini Street 
+LWLG,Lightwave Logic 
+SAMG,Silvercrest Asset Management  
+HITI,High Tide 
+ICG,Intchains  
+BACQ,Bleichroeder Acquisition  I
+SLN,Silence Therapeutics 
+ZYXI,Zynex 
+BNTC,Benitec Biopharma 
+INSE,Inspired Entertainment 
+LAZR,Luminar Technologies 
+SBT,Sterling Ban  (Southfield MI)
+DSGN,Design Therapeutics 
+HLXB,Helix Acquisition  II
+TZOO,Travelzoo
+NVX,NOVONIX 
+NAUT,Nautilus Biotechnology 
+GENK,GEN Restaurant  
+ESEA,Euroseas 
+ELDN,Eledon Pharmaceuticals 
+FHTX,Foghorn Therapeutics 
+ATAI,Atai Life Sciences NV
+AVNW,Aviat Networks 
+TLS,Telos 
+NTWO,Newbury Street II Acquisition 
+CPSS,Consumer Portfolio Services 
+TSBK,Timberland Ban 
+WSBF,Waterstone Financial 
+BDMD,Baird Medical Investment  
+ILPT,Industrial Logistics Properties Trust
+PRQR,ProQR Therapeutics NV
+VSTM,Verastem 
+CMPS,COMPASS Pathways 
+LFCR,Lifecore Biomedical 
+RCEL,AVITA Medical 
+PKBK,Parke Ban 
+ANIK,Anika Therapeutics 
+IONR,ioneer 
+CGC,Canopy Growth 
+VUZI,Vuzix 
+SVCO,Silvaco  
+FDMT,4D Molecular Therapeutics 
+AMRN,Amarin  
+BPRN,Princeton Ban 
+BWFG,Bankwell Financial  
+ALCO,Alico 
+ARAY,Accuray Inorated
+HRTX,Heron Therapeutics 
+OACC,Oaktree Acquisition  III Life Sciences
+ABEO,Abeona Therapeutics 
+OPBK,OP Ban
+DMAC,DiaMedica Therapeutics 
+FBLA,FB Ban 
+PWOD,Penns Woods Ban 
+SGMO,Sangamo Therapeutics 
+HTCO,Caravelle International 
+AMLX,Amylyx Pharmaceuticals 
+CFFI,C&F Financial 
+WHF,WhiteHorse Finance 
+ATNI,ATN International 
+FRGT,Freight Technologies 
+CHMG,Chemung Financial 
+MYPS,PLAYSTUDIOS 
+FVCB,FVCBank 
+KGEI,Kolibri Global Energy 
+CDTX,Cidara Therapeutics 
+SMID,Smith-Midland 
+CTRN,Citi Trends 
+FULC,Fulcrum Therapeutics 
+WILC,G Willi-Food International 
+OVLY,Oak Valley Ban
+TVGN,Tevogen Bio  
+MACI,Melar Acquisition  I
+GASS,StealthGas 
+LRMR,Larimar Therapeutics 
+ACB,Aurora Cannabis 
+BTMD,biote 
+NWFL,Norwood Financial 
+TSAT,Telesat 
+FINW,FinWise Ban
+LCNB,LCNB 
+UTMD,Utah Medical Products 
+KVAC,Keen Vision Acquisition 
+FUNC,First United 
+NWTN,NWTN 
+OCGN,Ocugen 
+LFMD,LifeMD 
+DYNX,Dynamix 
+AVR,Anteris Technologies Global 
+MFIN,Medallion Financial 
+MBCN,Middlefield Banc 
+OBIO,Orchestra BioMed  
+GOSS,Gossamer Bio 
+ESOA,Energy Services of America 
+AOUT,American Outdoor Brands 
+MDWD,MediWound 
+ESCA,Escalade Inorated
+FXNC,First National 
+PLMK,Plum Acquisition  IV
+MKTW,MarketWise 
+RGCO,RGC Resources 
+MOLN,Molecular Partners AG
+ZYBT,Zhengye Biotechnology Holding 
+RDCM,RADCOM 
+RITR,Reitar Logtech  
+GAUZ,Gauzy 
+ZNTL,Zentalis Pharmaceuticals 
+SLRN,Acelyrin 
+SWKH,SWK  
+BCBP,BCB Ban 
+HURA,TuHURA Biosciences 
+BCOV,Brightcove 
+HPAI,Helport AI 
+MGNX,MacroGenics 
+FCEL,FuelCell Energy 
+APPS,Digital Turbine 
+HWBK,Hawthorn Bancshares 
+SSP,The EW Scripps 
+AEYE,AudioEye 
+HMST,HomeStreet 
+ISTR,Investar Holding 
+OGI,Organigram  
+PROC,Procaps  SA
+VABK,Virginia National Bankshares 
+PHLT,Performant Healthcare 
+VSTA,Vasta Platform 
+IVA,Inventiva SA
+PESI,Perma-Fix Environmental Services 
+INBX,Inhibrx Biosciences 
+BLFY,Blue Foundry Ban
+KOPN,Kopin 
+FFNW,First Financial Northwest 
+BVFL,BV Financial 
+RELL,Richardson Electronics 
+BWAY,BrainsWay 
+TTEC,TTEC  
+TDAC,Translational Development Acquisition 
+SEVN,Seven Hills Realty Trust
+BSII,Black Spade Acquisition II Co
+TRVG,trivago NV
+ONDS,Ondas  
+NKSH,National Bankshares 
+FTEL,Fitell 
+WNEB,Western New England Ban 
+HQI,HireQuest 
+PVBC,Provident Ban 
+AFCG,Advanced Flower Capital 
+GRRR,Gorilla Technology  
+IKT,Inhibikase Therapeutics 
+PLL,Piedmont Lithium 
+EGAN,eGain 
+FCCO,First Community 
+MRCC,Monroe Capital 
+LXEO,Lexeo Therapeutics 
+OXSQ,Oxford Square Capital 
+TCX,Tucows 
+KRMD,KORU Medical Systems 
+CGEN,Compugen 
+YIBO,Planet Image International 
+JUNS,Jupiter Neurosciences 
+BRLT,Brilliant Earth  
+NUTX,Nutex Health 
+BTOC,Armlogi Holding 
+JRVR,James River   
+TROO,TROOPS 
+DSY,Big Tree Cloud  
+CRDF,Cardiff Oncology 
+LOGC,ContextLogic 
+BIOA,BioAge Labs 
+SPKL,Spark I Acquisition 
+SCPH,scPharmaceuticals 
+RCKY,Rocky Brands 
+CLAR,Clarus 
+LYEL,Lyell Immunopharma 
+SKGR,SK Growth Opportunities 
+FLL,Full House Resorts 
+INSG,Inseego 
+MYFW,First Western Financial 
+ARTV,Artiva Biotherapeutics 
+STFS,Star Fashion Culture  
+ACRV,Acrivon Therapeutics 
+EML,The Eastern 
+GNFT,Genfit SA
+FSFG,First Savings Financial  
+RMBL,RumbleOn 
+VOR,Vor Biopharma 
+CLLS,Cellectis SA
+UBFO,United Security Bancshares
+VXRT,Vaxart 
+CHRS,Coherus BioSciences 
+KEQU,Kewaunee Scientific 
+NKTR,Nektar Therapeutics
+BZUN,Baozun 
+AZ,A2Z Cust2Mate Solutions 
+MRBK,Meridian 
+NEGG,Newegg Commerce 
+VOXX,VOXX International 
+HNVR,Hanover Ban 
+ACTU,Actuate Therapeutics 
+FEIM,Frequency Electronics 
+PEBK,Peoples Ban of North Carolina 
+GPRO,GoPro 
+GLSI,Greenwich LifeSciences 
+POWW,AMMO 
+VIRC,Virco Mfg 
+CRGO,Freightos 
+CKPT,Checkpoint Therapeutics 
+QMCO,Quantum Corp
+ADUR,Aduro Clean Technologies 
+BDSX,Biodesix 
+IBAC,IB Acquisition 
+CZWI,Citizens Community Ban 
+SSTI,SoundThinking 
+III,Information Services  
+STRT,Strattec Security 
+STRS,Stratus Properties 
+ATLO,Ames National 
+NKTX,Nkarta 
+ESHA,ESH Acquisition 
+SGHT,Sight Sciences 
+FENC,Fennec Pharmaceuticals 
+ISSC,Innovative Solutions and Support 
+BAER,Bridger Aerospace   
+BROG,Brooge Energy 
+HCVI,Hennessy Capital Investment  VI
+ADAP,Adaptimmune Therapeutics 
+HFFG,HF Foods  
+CSPI,CSP 
+RFAI,RF Acquisition  II
+JYNT,The Joint 
+QRTEB,Qurate Retail 
+RCMT,RCM Technologies 
+PHH,Park Ha Biological Technology Co 
+ORGN,Origin Materials 
+IPHA,Innate Pharma SA
+BFIN,BankFinancial 
+CRBP,Corbus Pharmaceuticals  
+STRO,Sutro Biopharma 
+PBYI,Puma Biotechnology 
+TCRX,TScan Therapeutics 
+CSTE,Caesarstone 
+FTLF,FitLife Brands 
+PTMN,Portman Ridge Finance 
+PVLA,Palvella Therapeutics 
+WLAC,Willow Lane Acquisition 
+BLNK,Blink Charging Co
+IFRX,InflaRx NV
+NCTY,The9 
+PDEX,Pro-Dex 
+BMEA,Biomea Fusion 
+NEOV,NeoVolta 
+TLSI,TriSalus Life Sciences 
+PLBY,PLBY  
+BANX,ArrowMark Financial 
+MMLP,Martin Midstream Partners LP
+ZJYL,Jin Medical International 
+DXLG,Destination XL  
+ISRL,Israel Acquisitions 
+REKR,Rekor Systems 
+CXDO,Crexendo 
+CDLX,Cardlytics 
+BETR,Better Home & Finance Holding 
+CBFV,CB Financial Services 
+NBTX,Nanobiotix SA
+RILY,B Riley Financial 
+TELO,Telomir Pharmaceuticals 
+MRAM,Everspin Technologies 
+CRBU,Caribou Biosciences 
+KYTX,Kyverna Therapeutics 
+MNPR,Monopar Therapeutics 
+CFBK,CF Bankshares 
+EPSN,Epsilon Energy 
+FRAF,Franklin Financial Services 
+ABAT,American Battery Technology 
+AISP,Airship AI  
+OPRT,Oportun Financial 
+AMTX,Aemetis 
+INMB,INmune Bio 
+HOFT,Hooker Furnishings 
+VTYX,Ventyx Biosciences 
+EUDA,EUDA Health  
+NIU,Niu Technologies
+LAES,SEALSQ 
+TAVI,Tavia Acquisition 
+SSSS,SuRo Capital 
+NNBR,NN Inc
+AKYA,Akoya Biosciences 
+SFBC,Sound Financial Ban 
+VEEA,Veea 
+UFG,Uni-Fuels  
+ZENV,Zenvia 
+CLYM,Climb Bio 
+QUIK,QuickLogic 
+SGMT,Sagimet Biosciences 
+SBFG,SB Financial  
+UNB,Union Bankshares 
+LTRX,Lantronix 
+MCRB,Seres Therapeutics 
+NTCL,NetClass Technology Inc
+TDTH,Trident Digital Tech  
+QRTEA,Qurate Retail 
+MPAA,Motorcar Parts of America 
+CEP,Cantor Equity Partners 
+UEIC,Universal Electronics 
+QIPT,Quipt Home Medical 
+ECBK,ECB Ban 
+XNET,Xunlei 
+SKYX,SKYX Platforms 
+ULBI,Ultralife 
+BRLS,Borealis Foods 
+GGR,Gogoro 
+SAVA,Cassava Sciences 
+FGBI,First Guaranty Bancshares 
+GEOS,Geospace Technologies 
+RMBI,Richmond Mutual Ban 
+VGAS,Verde Clean Fuels 
+OPOF,Old Point Financial 
+ZURA,Zura Bio 
+LSE,Leishen Energy Holding Co 
+LCUT,Lifetime Brands 
+CSBR,Champions Oncology 
+YAAS,Youxin Technology 
+SLDB,Solid Biosciences 
+QRHC,Quest Resource Holding 
+TSVT,2seventy bio 
+LPTX,Leap Therapeutics 
+NA,Nano Labs 
+RENB,Renovaro 
+NTIC,Northern Technologies International 
+LPTH,LightPath Technologies 
+SDST,Stardust Power 
+MNSB,MainStreet Bancshares 
+DTI,Drilling Tools International 
+LPSN,LivePerson 
+BSET,Bassett Furniture Industries Inorated
+CHSN,Chanson International Holding
+YXT,YXT  Holding 
+RSSS,Research Solutions 
+WIMI,WiMi Hologram Cloud 
+GNSS,Genasys 
+BDTX,Black Diamond Therapeutics 
+MHLD,Maiden Holdings
+QH,Quhuo 
+MAMO,Massimo 
+EBMT,Eagle Ban Montana 
+IGMS,IGM Biosciences 
+CSLR,Complete Solaria 
+STHO,Star Holdings
+PLMJ,Plum Acquisition  III
+CAAS,China Automotive Systems 
+RVSB,Riverview Ban 
+XBIT,XBiotech 
+FNWD,Finward Ban
+ALGS,Aligos Therapeutics 
+VBFC,Village Bank and Trust Financial 
+HTLM,HomesToLife 
+VOXR,Vox Royalty 
+SLNG,Stabilis Solutions 
+TNYA,Tenaya Therapeutics 
+KVHI,KVH Industries 
+SIEB,Siebert Financial 
+AFBI,Affinity Bancshares 
+PPIH,Perma-Pipe International  
+HURC,Hurco Companies 
+CGTL,Creative Global Technology  
+GIFI,Gulf Island Fabrication 
+ELUT,Elutia 
+PCSC,Perceptive Capital Solutions 
+VCSA,Vacasa 
+ACHV,Achieve Life Sciences 
+ACNT,Ascent Industries Co
+PHUN,Phunware 
+DLHC,DLH  
+GECC,Great Elm Capital 
+BZFD,BuzzFeed 
+SVII,Spring Valley Acquisition  II
+IPXX,Inflection Point Acquisition  II
+SRTS,Sensus Healthcare 
+NOTV,Inotiv 
+UPLD,Upland Software 
+PPYA,Papaya Growth Opportunity  I
+LGO,Largo 
+LVO,LiveOne 
+JYD,Jayud Global Logistics 
+VERI,Veritone 
+ATOS,Atossa Therapeutics 
+ZEO,Zeo Energy 
+CABA,Cabaletta Bio 
+VERU,Veru 
+OFS,OFS Capital 
+ZTEK,Zentek 
+HLP,Hongli  
+EPRX,Eupraxia Pharmaceuticals 
+ATLX,Atlas Lithium 
+RDZN,Roadzen 
+DLTH,Duluth  
+MAXN,Maxeon Solar Technologies 
+TAYD,Taylor Devices 
+USGO,US GoldMining 
+YSXT,YSX Tech Co 
+OVBC,Ohio Valley Banc 
+STKS,The ONE  Hospitality 
+FBRX,Forte Biosciences 
+VRA,Vera Bradley 
+MGX,Metagenomi 
+RBKB,Rhinebeck Ban 
+GAIA,Gaia 
+BHST,BioHarvest Sciences 
+SILC,Silicom 
+NKLA,Nikola 
+WW,WW International 
+NVCT,Nuvectis Pharma 
+SRBK,SR Ban 
+FCAP,First Capital 
+ECOR,electroCore 
+CPHC,Canterbury Park Holding 
+SHMD,SCHMID  NV
+WMPN,William Penn Ban
+ENTA,Enanta Pharmaceuticals 
+IZTC,Invizyne Technologies 
+CRDL,Cardiol Therapeutics 
+SND,Smart Sand 
+MODV,ModivCare 
+IMPP,Imperial Petroleum 
+RECT,Rectitude  
+PRPL,Purple Innovation 
+MSW,Ming Shing   
+PROV,Provident Financial  
+CURI,CuriosityStream 
+BSBK,Bogota Financial 
+SIFY,Sify Technologies 
+HUHU,HUHUTECH International  
+PFX,PhenixFIN 
+AXTI,AXT 
+FONR,FONAR 
+KLXE,KLX Energy Services  
+AFJK,Aimei Health Technology Co 
+ADVM,Adverum Biotechnologies 
+ACOG,Alpha Cognition 
+SPHA,Shepherd Ave Capital Acquisition 
+PBHC,Pathfinder Ban 
+EVGR,Evergreen 
+GLAC,Global Lights Acquisition 
+RRGB,Red Robin Gourmet Burgers 
+IVCA,Invest AI Acquisition 
+QETA,Quetta Acquisition 
+SY,So-Young International 
+BTM,Bitcoin Depot 
+MGYR,Magyar Ban 
+IVAC,Intevac 
+MDXH,MDxHealth SA
+ORMP,Oramed Pharmaceuticals 
+LNSR,LENSAR 
+BRID,Bridgford Foods 
+DYCQ,DT Cloud Acquisition 
+SNCR,Synchronoss Technologies 
+CLEU,China Liberal Education  
+FNWB,First Northwest Ban
+THCH,TH International 
+COYA,Coya Therapeutics 
+BKHA,Black Hawk Acquisition 
+XCH,XCHG 
+ASMB,Assembly Biosciences 
+HLVX,HilleVax 
+HNNA,Hennessy Advisors 
+DBVT,DBV Technologies SA
+MNOV,MediciNova 
+IROH,Iron Horse Acquisitions 
+QSG,QuantaSing  
+KNDI,Kandi Technologies  
+FATBB,FAT Brands 
+OPRX,OptimizeRx 
+IMUX,Immunic 
+GRWG,GrowGeneration 
+CNTY,Century Casinos 
+ALOT,AstroNova 
+SCWO,374Water 
+FSHP,Flag Ship Acquisition 
+PAVS,Paranovus Entertainment Technology 
+DTSQ,DT Cloud Star Acquisition 
+FOSL,Fossil Group
+HSPO,Horizon Space Acquisition I 
+PWUP,PowerUp Acquisition 
+INVE,Identiv 
+IMAB,I-Mab
+INZY,Inozyme Pharma 
+BYNO,byNordic Acquisition 
+PYXS,Pyxis Oncology 
+JSPR,Jasper Therapeutics 
+USAU,US Gold 
+HBIO,Harvard Bioscience 
+ALXO,ALX Oncology  
+TLSA,Tiziana Life Sciences 
+MCHX,Marchex 
+VMCA,Valuence Merger  I
+OKUR,OnKure Therapeutics 
+SFWL,Shengfeng Development 
+PEPG,PepGen 
+LTBR,Lightbridge 
+SPWH,Sportsman's Warehouse  
+AITR,AI Transportation Acquisition 
+ORKT,Orangekloud Technology 
+MGRM,Monogram Technologies 
+ENTX,Entera Bio 
+VIOT,Viomi Technology Co 
+RGLS,Regulus Therapeutics 
+VTGN,Vistagen Therapeutics 
+AIRE,reAlpha Tech 
+CTOR,Citius Oncology 
+CBAT,CBAK Energy Technology 
+AZI,Autozi Internet Technology (Global) 
+HSPT,Horizon Space Acquisition II 
+ADAG,Adagene 
+VFF,Village Farms International 
+JVSA,JVSPAC Acquisition 
+CBUS,Cibus 
+ASPC,A SPAC III Acquisition 
+GALT,Galectin Therapeutics 
+YHNA,YHN Acquisition I 
+KPTI,Karyopharm Therapeutics 
+SNT,Senstar Technologies 
+IPSC,Century Therapeutics 
+AIRG,Airgain 
+AADI,Aadi Bioscience 
+ATMV,AlphaVest Acquisition 
+MRSN,Mersana Therapeutics 
+TBNK,Territorial Ban 
+ASRT,Assertio  
+THTX,Theratechnologies 
+XFOR,X4 Pharmaceuticals 
+CAPN,Cayson Acquisition 
+VIGL,Vigil Neuroscience 
+CHCI,Comstock Holding Companies 
+EPIX,ESSA Pharma 
+GNLX,Genelux 
+ATMC,AlphaTime Acquisition 
+CMTL,Comtech Telecommunications 
+ALLK,Allakos 
+LSBK,Lake Shore Ban 
+QNCX,Quince Therapeutics 
+ICLK,iClick Interactive Asia  
+INCR,InterCure 
+AUBN,Auburn National Ban 
+VTSI,VirTra 
+IROQ,IF Ban 
+APLT,Applied Therapeutics 
+ACET,Adicet Bio 
+EDAP,EDAP TMS SA
+BYFC,Broadway Financial 
+FVN,Future Vision II Acquisition 
+EURK,Eureka Acquisition 
+ATRA,Atara Biotherapeutics 
+MSSA,Metal Sky Star Acquisition 
+SPHL,Springview  
+PIII,P3 Health Partners 
+RDAC,Rising Dragon Acquisition 
+HGBL,Heritage Global 
+OPTX,Syntec Optics  
+ASYS,Amtech Systems 
+ANL,Adlai Nortye 
+GNTA,Genenta Science SpA
+PRTS,CarParts 
+INLF,INLIF 
+AGEN,Agenus 
+ELTK,Eltek 
+SGA,Saga Communications 
+CSLM,CSLM Acquisition 
+TETE,Technology & Telecommunication Acquisition 
+CNTX,Context Therapeutics 
+ANIX,Anixa Biosciences 
+UBCP,United Ban 
+FUSB,First US Bancshares 
+NOEM,CO2 Energy Transition 
+NCSM,NCS Multistage  
+PMVP,PMV Pharmaceuticals 
+YTRA,Yatra Online 
+IKNA,Ikena Oncology 
+CVGI,Commercial Vehicle  
+SNAL,Snail Inc
+GSIT,GSI Technology 
+CLSD,Clearside Biomedical 
+AVTE,Aerovate Therapeutics 
+VANI,Vivani Medical 
+FBLG,FibroBiologics 
+GTI,Graphjet Technology
+STIM,Neuronetics 
+BYSI,BeyondSpring 
+FFIE,Faraday Future Intelligent Electric 
+HYPR,Hyperfine 
+SMXT,SolarMax Technology 
+TPIC,TPI Composites 
+NSPR,InspireMD 
+WFCF,Where Food Comes From 
+UNCY,Unicycive Therapeutics 
+FDSB,Fifth District Ban 
+CCG,Cheche  
+NB,Nio Developments 
+ICCH,ICC  
+ELTX,Elicio Therapeutics 
+OAKU,Oak Woods Acquisition 
+SDIG,Stronghold Digital Mining 
+SLS,SELLAS Life Sciences  
+ABP,Abpro  
+RMTI,Rockwell Medical 
+ICCM,IceCure Medical 
+AIMAU,Aimfinity Investment  I
+CTMX,CytomX Therapeutics 
+FNGR,FingerMotion 
+BNR,Burning Rock Biotech 
+FTII,FutureTech II Acquisition 
+AVTX,Avalo Therapeutics 
+ELPW,Elong Power Holding 
+HPH,Highest Performances  
+RIBB,Ribbon Acquisition 
+ISPO,Inspirato Inorated
+LRFC,Logan Ridge Finance 
+WPRT,Westport Fuel Systems 
+WAI,Top KingWin 
+RGC,Regencell Bioscience  
+ONCY,Oncolytics Biotech 
+BMR,Beamr Imaging 
+SOTK,Sono-Tek 
+RCON,Recon Technology 
+NIXX,Nixxy 
+IPWR,Ideal Power 
+USIO,Usio 
+STI,Solidion Technology 
+AUID,authID 
+BOTJ,Bank of the James Financial  
+RVPH,Reviva Pharmaceuticals  
+CPBI,Central Plains Bancshares 
+BOWN,Bowen Acquisition 
+FGEN,FibroGen 
+OPTN,OptiNose 
+GBBK,Global Blockchain Acquisition 
+USEG,US Energy Corp
+VRCA,Verrica Pharmaceuticals 
+PODC,PodcastOne 
+GBIO,Generation Bio Co
+KRON,Kronos Bio 
+CTSO,Cytosorbents 
+IMRX,Immuneering 
+SCLX,Scilex Holding 
+MDBH,MDB Capital  LLC
+FLNT,Fluent 
+BAYA,Bayview Acquisition 
+FKWL,Franklin Wireless 
+CNTB,Connect Biopharma  
+LATG,Chenghe Acquisition I Co
+OTLK,Outlook Therapeutics 
+STTK,Shattuck Labs 
+GANX,Gain Therapeutics 
+PRLD,Prelude Therapeutics Inorated
+REFR,Research Frontiers Inorated
+YYGH,YY  Holding 
+RTC,Baijiayun  
+BCOW,1895 Ban of Wisconsin 
+AREC,American Resources 
+SELX,Semilux International 
+NSTS,NSTS Ban 
+BRAC,Broad Capital Acquisition 
+CNVS,Cineverse 
+NVNO,enVVeno Medical 
+IMMX,Immix Biopharma 
+BUJA,Bukit Jalil Global Acquisition 1 
+PTLE,PTL 
+BAFN,BayFirst Financial 
+XGN,Exagen 
+CGBS,Crown LNG  
+CLIR,ClearSign Technologies 
+RPID,Rapid Micro Biosystems 
+RPTX,Repare Therapeutics 
+PDSB,PDS Biotechnology 
+CLRC,ClimateRock
+NRXP,NRx Pharmaceuticals 
+OVID,Ovid Therapeutics 
+NVA,Nova Minerals 
+KSCP,Knightscope 
+IDN,Intellicheck 
+GEG,Great Elm  
+APYX,Apyx Medical 
+NHTC,Natural Health Trends 
+SUUN,SolarBank 
+RFAC,RF Acquisition 
+EMCG,Embrace Change Acquisition 
+PTHL,Pheton  
+RGS,Regis 
+LBGJ,Li Bang International  
+FTCI,FTC Solar 
+IOBT,IO Biotech 
+FBIO,Fortress Biotech 
+TYGO,Tigo Energy 
+MDIA,MediaCo Holding 
+AIXI,Xiao-I 
+CLST,Catalyst Ban 
+UCL,uCloudlink  
+GODN,Golden Star Acquisition 
+HYMC,Hycroft Mining Holding 
+WKEY,WISeKey International Holding AG
+OPI,Office Properties Income Trust
+DGHI,Digihost Technology 
+TBMC,Trailblazer Merger  I
+ARKR,Ark Restaurants 
+ALCY,Alchemy Investments Acquisition  1
+ICAD,iCAD 
+OMIC,Singular Genomics Systems 
+IVVD,Invivyd 
+SSBI,Summit State Bank
+SHLT,SHL Telemedicine 
+DHAI,DIH Holding US 
+SYPR,Sypris Solutions 
+SPRO,Spero Therapeutics 
+INO,Inovio Pharmaceuticals 
+UG,United-Guardian 
+STBX,Starbox   
+NVNI,Nvni  
+BTCS,BTCS 
+ANGH,Anghami 
+CELU,Celularity 
+MODD,Modular Medical 
+ACHL,Achilles Therapeutics 
+UONE,Urban One 
+XLO,Xilio Therapeutics 
+ICCC,ImmuCell 
+NTRB,Nutriband 
+BEEM,Beam Global
+SWVL,Swvl  
+MSAI,MultiSensor AI  
+GORV,Lazydays  
+CRWS,Crown Crafts 
+ZBAO,Zhibao Technology 
+SPAI,Safe Pro  
+DYAI,Dyadic International 
+BLAC,Bellevue Life Sciences Acquisition 
+GLST,Global Star Acquisition 
+KZR,Kezar Life Sciences 
+LUCD,Lucid Diagnostics 
+CLGN,CollPlant Biotechnologies 
+CCLD,CareCloud 
+MNY,MoneyHero 
+FORL,Four Leaf Acquisition 
+ASRV,AmeriServ Financial 
+ABLV,Able View Global 
+VTVT,vTv Therapeutics 
+VRME,VerifyMe 
+TCBS,Texas Community Bancshares 
+SCYX,SCYNEXIS 
+PPSI,Pioneer Power Solutions 
+DUOT,Duos Technologies  
+FSEA,First Seacoast Ban 
+ITRM,Iterum Therapeutics 
+ICMB,Invest Credit Management BDC 
+KTCC,Key Tronic 
+RNTX,Rein Therapeutics 
+NCEW,New Century Logistics (BVI) 
+ALVR,AlloVir 
+CFSB,CFSB Ban 
+TNXP,Tonix Pharmaceuticals Holding 
+LSB,LakeShore Biopharma Co 
+FCUV,Focus Universal 
+PXS,Pyxis Tankers 
+RFIL,RF Industries 
+ELEV,Elevation Oncology 
+BCG,Binah Capital  
+ANEB,Anebulo Pharmaceuticals 
+OMCC,Old Market Capital 
+PXLW,Pixelworks 
+OPXS,Optex Systems  Inc
+UONEK,Urban One 
+WLGS,WANG & LEE  
+JRSH,Jerash  
+DWSN,Dawson Geophysical 
+FAAS,DigiAsia 
+AGFY,Agrify 
+SYT,SYLA Technologies Co 
+INTS,Intensity Therapeutics 
+ESLA,Estrella Immunopharma 
+YOTA,Yotta Acquisition 
+BWEN,Broadwind 
+HKIT,Hitek Global 
+MNDO,MIND CTI 
+WAVS,Western Acquisition Ventures 
+BRNS,Barinthus Biotherapeutics 
+HFBL,Home Federal Ban  of Louisiana
+LVLU,Lulu's Fashion Lounge  
+CALC,CalciMedica 
+VYNE,VYNE Therapeutics 
+SGRP,SPAR  
+OCC,Optical Cable 
+WINV,WinVest Acquisition 
+DECA,Denali Capital Acquisition 
+DTIL,Precision BioSciences 
+RDIB,Reading International 
+LGCL,Lucas GC 
+DXR,Daxor 
+AGAE,Allied Gaming & Entertainment 
+ARBK,Argo Blockchain 
+IZEA,IZEA Worldwide 
+NEHC,New Era Helium 
+BRFH,Barfresh Food  
+MDAI,Spectral AI 
+MOBX,Mobix Labs 
+BIVI,BioVie 
+RADX,Radiopharm Theranostics 
+QTTB,Q32 Bio 
+TPST,Tempest Therapeutics 
+GDST,Goldenstone Acquisition 
+HOLO,MicroCloud Hologram 
+CLNN,Clene 
+STAI,ScanTech AI Systems 
+YI,111 Inc
+SRZN,Surrozen 
+CPIX,Cumberland Pharmaceuticals 
+MKZR,MacKenzie Realty Capital 
+NXL,Nexalin Technology 
+LTRN,Lantern Pharma 
+JG,Aurora Mobile 
+VRAR,The Glimpse  
+SNYR,Synergy CHC 
+LDTC,LeddarTech  
+HHS,Harte Hanks 
+ANTX,AN2 Therapeutics 
+DSWL,Deswell Industries 
+RLYB,Rallybio 
+FEAM,5E Advanced Materials 
+CMMB,Chemomab Therapeutics 
+TLF,Tandy Leather Factory 
+CENN,Cenntro 
+OCX,OncoCyte 
+AERT,Aeries Technology Inc
+BGFV,Big 5 Sporting Goods 
+IRD,Opus Genetics 
+DALN,DallasNews 
+SCNX,Scienture  
+SOND,Sonder  
+MTC,MMTec 
+FPAY,FlexShopper 
+VIVK,Vivakor 
+SLGL,Sol-Gel Technologies 
+PASG,Passage Bio 
+DIST,Distoken Acquisition 
+ZCMD,Zhongchao 
+NUKK,Nukkleus 
+PBBK,PB Bankshares 
+OMGA,Omega Therapeutics 
+AWRE,Aware 
+HSON,Hudson Global 
+GRCE,Grace Therapeutics 
+ONEG,OneConstruction  
+INKT,MiNK Therapeutics 
+HTCR,HeartCore Enterprises 
+SJ,Scienjoy Holding 
+MTEN,Mingteng International  
+OKYO,OKYO Pharma 
+ORIS,Oriental Rise  
+RNXT,RenovoRx 
+XBP,XBP Europe  
+TZUP,Thumzup Media 
+VSTE,Vast Renewables 
+SURG,SurgePays 
+NDLS,Noodles & 
+ECDA,ECD Automotive Design 
+EDRY,EuroDry 
+MTEK,Maris-Tech 
+FGL,Founder  
+LEXX,Lexaria Bioscience 
+AMPG,AmpliTech  
+MLEC,Moolec Science SA
+NMTC,NeuroOne Medical Technologies 
+MDCX,Medicus Pharma 
+WCT,Wellchange   
+BNIX,Bannix Acquisition 
+TRSG,Tungray Technologies 
+AACG,ATA Creativity Global
+RDI,Reading International 
+CLPS,CLPS In
+FTHM,Fathom  
+BANL,CBL International 
+AIFF,Firefly Neuroscience 
+ATHE,Alterity Therapeutics 
+APWC,Asia Pacific Wire & Cable  
+LSTA,Lisata Therapeutics 
+NTWK,NetSol Technologies 
+POCI,Precision Optics  
+HKPD,Hong Kong Pharma Digital Technology  
+AAME,Atlantic American 
+SCOR,comScore 
+AKTX,Akari Therapeutics 
+IXHL,Incannex Healthcare 
+KPLT,Katapult  
+INTG,The Inter 
+FTEK,Fuel Tech 
+MBOT,Microbot Medical 
+DTST,Data Storage 
+TOI,The Oncology Institute 
+FOXX,Foxx Development  
+TPCS,TechPrecision 
+AGMH,AGM   
+CXAI,CXApp 
+MRNS,Marinus Pharmaceuticals 
+CVKD,Cadrenal Therapeutics 
+PMN,ProMIS Neurosciences 
+SWIN,Solowin 
+HUIZ,Huize Holding 
+AQU,Aquaron Acquisition 
+CGTX,Cognition Therapeutics 
+MOGO,Mogo 
+WKHS,Workhorse  
+ONMD,OneMedNet 
+COCH,Envoy Medical 
+NXGL,NEXGEL 
+ZOOZ,ZOOZ Power 
+UBX,Unity Biotechnology 
+NSYS,Nortech Systems Inorated
+PGHL,Primega   
+AXDX,Accelerate Diagnostics 
+ESGL,ESGL  
+SOWG,Sow Good 
+CMBM,Cambium Networks 
+PMEC,Primech  
+NXPL,NextPlat 
+XCUR,Exicure 
+WKSP,Worksport 
+CTRM,Castor Maritime 
+IRIX,IRIDEX 
+GLBS,Globus Maritime 
+OESX,Orion Energy Systems 
+GLE,Global Engine  Holding 
+UCAR,U Power 
+HYFM,Hydrofarm   
+EMKR,Emcore 
+TURB,Turbo Energy SA
+CREX,Creative Realities 
+NISN,Nisun International Enterprise Development  Co 
+DAIO,Data I/O 
+CTXR,Citius Pharmaceuticals 
+IPW,iPower 
+LGVN,Longeveron 
+CVV,CVD Equipment 
+XAIR,Beyond Air 
+CPSH,CPS Technologies 
+UTSI,UTStarcom  
+GTIM,Good Times Restaurants 
+LVTX,LAVA Therapeutics NV
+DRRX,DURECT 
+GTEC,Greenland Technologies Holding 
+XOS,Xos 
+LRE,Lead Real Estate Co 
+CHR,Cheer Holding 
+ENLV,Enlivex Therapeutics 
+GDTC,CytoMed Therapeutics 
+DRIO,DarioHealth 
+LITM,Snow Lake Resources 
+NAII,Natural Alternatives International 
+EHGO,Eshallgo 
+BTCT,BTC Digital 
+EQ,Equillium 
+FGF,Fundamental Global 
+VVOS,Vivos Therapeutics 
+LPCN,Lipocine 
+FRSX,Foresight Autonomous  
+MRKR,Marker Therapeutics 
+TNMG,TNL Mediagene
+BNAI,Brand Engagement Network 
+FEMY,Femasys 
+BLRX,BioLineRx 
+OCG,Oriental Culture Holding 
+PLUR,Pluri 
+OXBR,Oxbridge Re  
+MGIH,Millennium  International  
+NRSN,NeuroSense Therapeutics 
+CDIO,Cardio Diagnostics  
+MTEX,Mannatech Inorated
+CODX,Co-Diagnostics 
+GP,GreenPower Motor  
+KFFB,Kentucky First Federal Ban
+WETH,Wetouch Technology 
+HUDI,Huadi International  Co 
+BCAB,BioAtla 
+PSHG,Performance Shipping 
+EPOW,Sunrise New Energy Co 
+SKYQ,Sky Quarry 
+HUDA,Hudson Acquisition I 
+ELBM,Electra Battery Materials 
+EZFL,EZFill  
+GRYP,Gryphon Digital Mining 
+TOMZ,TOMI Environmental Solutions 
+NXTC,NextCure 
+TENX,Tenax Therapeutics 
+PYPD,PolyPid 
+SHFS,SHF  
+CNTM,ConnectM Technology Solutions 
+INAB,IN8bio 
+RMSG,Real Messenger 
+SFHG,Samfine Creation   
+STEC,Santech  
+PULM,Pulmatrix 
+WVVI,Willamette Valley Vineyards 
+PWM,Prestige Wealth 
+BOSC,BOS Better Online Solutions 
+CYTH,Cyclo Therapeutics 
+CETY,Clean Energy Technologies 
+JVA,Coffee Holding Co 
+RVSN,Rail Vision 
+INTZ,Intrusion 
+VSEE,VSee Health 
+SPCB,SuperCom 
+BSGM,BioSig Technologies 
+ZBAI,ATIF  
+GLXG,Galaxy Payroll  
+GOVX,GeoVax Labs 
+MSS,Maison Solutions 
+AIFU,AIX 
+OCEA,Ocean Biomedical 
+HUBC,HUB Cyber Security 
+ZKIN,ZK International  Co 
+ATHA,Athira Pharma 
+NAAS,NaaS Technology 
+DRCT,Direct Digital  
+DFLI,Dragonfly Energy  
+TRAW,Traws Pharma 
+PRZO,ParaZero Technologies 
+COCP,Cocrystal Pharma 
+GDC,GD Culture  
+BNGO,Bionano Genomics 
+HOVR,New Horizon Aircraft 
+SMSI,Smith Micro Software 
+SANW,S&W Seed 
+PMAX,Powell Max 
+APRE,Aprea Therapeutics 
+KITT,Nauticus Robotics 
+NWGL,Nature Wood  
+SDOT,Sadot  
+CCTG,CCSC Technology International  
+IINN,Inspira Technologies Oxy BHN 
+GFAI,Guardforce AI Co 
+JDZG,JIADE 
+EVTV,Envirotech Vehicles 
+COEP,Coeptis Therapeutics  
+DPRO,Draganfly 
+EDTK,Skillful Craftsman Education Technology 
+BFRG,Bullfrog AI  
+CARM,Carisma Therapeutics 
+CLIK,Click Holdings
+MEIP,MEI Pharma 
+SONM,Sonim Technologies 
+NKGN,NKGen Biotech 
+GIGM,GigaMedia 
+SOHO,Sotherly Hotels 
+IPM,Intelligent Protection Management 
+FEBO,Fenbo  
+YYAI,Connexa Sports Technologies 
+JL,J-Long  
+RETO,ReTo Eco-Solutions 
+AFMD,Affimed NV
+IZM,ICZOOM  
+FLGC,Flora Growth 
+SLNH,Soluna  
+MLGO,MicroAlgo 
+SNTI,Senti Biosciences 
+NXTT,Next Technology Holding 
+ABTS,Abits  
+YHC,LQR House 
+IPA,ImmunoPrecise Antibodies 
+BTAI,BioXcel Therapeutics 
+JFU,9F Inc
+MCVT,Mill City Ventures III 
+CRVO,CervoMed 
+ATER,Aterian 
+SYBX,Synlogic 
+LIQT,LiqTech International 
+GLBZ,Glen Burnie Ban
+LFWD,Lifeward 
+MTVA,MetaVia 
+NEPH,Nephros 
+VCIG,VCI Global 
+COSM,Cosmos Health 
+MIGI,Mawson Infrastructure  
+ADN,Advent Technologies  
+BCTX,BriaCell Therapeutics 
+SKK,SKK  
+CLRO,ClearOne 
+AIEV,Thunder Power  
+JCTC,Jewett-Cameron Trading  
+GLYC,GlycoMimetics 
+CPOP,Pop Culture  Co 
+MDRR,Medalist Diversified REIT 
+JZ,Jianzhi Education Technology   
+INHD,Inno  
+HCWB,HCW Biologics 
+ILAG,Intelligent Living Application  
+RMCF,Rocky Mountain Chocolate Factory 
+BBGI,Beasley Broadcast  
+JZXN,Jiuzi  
+MSPR,MSP Recovery 
+SPPL,Simpple 
+QMMM,QMMM  
+USEA,United Maritime 
+FLYE,Fly-E  
+STRM,Streamline Health Solutions 
+CWD,CaliberCos 
+DTSS,Datasea 
+CAPT,Captivision 
+SPRB,Spruce Biosciences 
+LSH,Lakeside Holding 
+CING,Cingulate 
+SUGP,SU   
+NCRA,Nocera 
+NERV,Minerva Neurosciences 
+DMN,Damon 
+XTLB,XTL Biopharmaceuticals 
+ARBB,ARB IOT  
+SMTK,SmartKem 
+RMCO,Royalty Management Holding 
+SAIH,SAIHEAT 
+AQMS,Aqua Metals 
+ABVE,Above Food Ingredients 
+YHGJ,Yunhong Green CTI 
+PRPH,ProPhase Labs 
+EKSO,Ekso Bionics  
+CDTG,CDT Environmental Technology Investment  
+BOF,BranchOut Food 
+CMLS,Cumulus Media 
+BNRG,Brenmiller Energy 
+TKLF,Tokyo Lifestyle Co 
+OMEX,Odyssey Marine Expl 
+FMST,Foremost Clean Energy 
+EEIQ,EpicQuest Education  International 
+CISO,CISO Global 
+SVMH,SRIVARU Holding 
+XTKG,X3 Holdings
+EDUC,Educational Development 
+APCX,AppTech Payments 
+WNW,Meiwu Technology  
+IMNN,Imunon 
+WISA,WiSA Technologies 
+APTO,Aptose Biosciences 
+DATS,DatChat 
+TXMD,TherapeuticsMD 
+SNSE,Sensei Biotherapeutics 
+MEGL,Magic Empire Global 
+NCI,Neo-Concept International   
+MNTS,Momentus 
+YQ,17 Education & Technology  
+BRTX,BioRestorative Therapies 
+SSKN,STRATA Skin Sciences 
+LYRA,Lyra Therapeutics 
+ADGM,Adagio Medical  
+ACXP,Acurx Pharmaceuticals 
+HWH,HWH International 
+JBDI,JBDI  
+LCFY,Locafy 
+QTI,QT Imaging  
+CNFR,Conifer  
+IMRN,Immuron 
+BSLK,Bolt Projects  
+RLMD,Relmada Therapeutics 
+CJJD,China Jo-Jo Drugstores 
+PETZ,TDH Holdings
+LNKS,Linkers Industries 
+BCLI,Brainstorm Cell Therapeutics 
+BIAF,bioAffinity Technologies 
+UGRO,urban-gro 
+GMM,Global Mofy AI 
+DLPN,Dolphin Entertainment 
+SCKT,Socket Mobile 
+BHIL,Benson Hill 
+INTJ,Intelligent Group
+PSIG,PS International  
+CTCX,Carmell 
+UBXG,U-BX Technology 
+LIDR,AEye 
+LEDS,SemiLEDs 
+APLM,Apollomics 
+GITS,Global Interactive Technologies 
+ASTC,Astrotech 
+CSCI,COSCIENS Biopharma 
+NITO,N2OFF 
+CLWT,Euro Tech   
+SGMA,SigmaTron International 
+CREV,Carbon Revolution Public  
+NTRP,NextTrip 
+PEV,Phoenix Motor 
+MNDR,Mobile-health Network Solutions
+GVH,Globavend  
+TSBX,Turnstone Biologics 
+PMCB,PharmaCyte Biotech 
+HOTH,Hoth Therapeutics 
+GSIW,Garden Stage 
+BTBD,BT Brands 
+AMOD,Alpha Modus  
+APDN,Applied DNA Sciences 
+CLRB,Cellectar Biosciences 
+JAGX,Jaguar Health 
+KPRX,Kiora Pharmaceuticals 
+CDT,Conduit Pharmaceuticals 
+XELB,Xcel Brands 
+BCDA,BioCardia 
+PPBT,Purple Biotech 
+AYTU,Aytu BioPharma 
+MKDW,MKDWELL Tech 
+MYNZ,Mainz Biomed NV
+MFI,mF International 
+TLPH,Talphera 
+WBUY,Webuy Global 
+RVYL,Ryvyl 
+VISL,Vislink Technologies 
+AEMD,Aethlon Medical 
+SIDU,Sidus Space 
+CARV,Carver Ban 
+SOGP,Sound Group
+LRHC,La Rosa  
+ENSC,Ensysce Biosciences 
+IVDA,Iveda Solutions 
+EVOK,Evoke Pharma 
+AIHS,Senmiao Technology 
+AIMD,Ainos 
+GIPR,Generation Income Properties 
+HTOO,Fusion Fuel Green 
+GWAV,Greenwave Technology Solutions 
+KLTO,Klotho Neurosciences 
+GDHG,Golden Heaven   
+PRPO,Precipio 
+SQFT,Presidio Property Trust 
+NXU,Nxu 
+AMST,Amesite 
+ELWS,Earlyworks Co 
+VRAX,Virax Biolabs  
+CMCT,Creative Media & Community Trust 
+CJET,Chijet Motor  
+INDP,Indaptus Therapeutics 
+MARPS,Marine Petroleum Trust
+LGCB,Linkage Global Inc
+KDLY,Kindly MD 
+EVGN,Evogene 
+BOXL,Boxlight 
+ARTW,Art's-Way Manufacturing Co 
+SYRA,Syra Health 
+BKYI,BIO-key International 
+SGLY,Singularity Future Technology 
+ASNS,Actelis Networks 
+HIHO,Highway Holdings
+GV,Visionary Holdings
+MHUA,Meihua International Medical Technologies Co 
+YJ,Yunji 
+WTO,UTime 
+HOFV,Hall of Fame Resort & Entertainment 
+LDWY,Lendway 
+GOEV,Canoo 
+NURO,NeuroMetrix 
+POLA,Polar Power 
+CUTR,Cutera 
+TRUG,TruGolf  
+AEI,Alset 
+ICU,SeaStar Medical Holding 
+FGI,FGI Industries 
+GRNQ,Greenpro Capital 
+ROMA,Roma Green Finance 
+AWH,Aspira Women's Health 
+IBG,Innovation Beverage  
+BNZI,Banzai International 
+POAI,Predictive Oncology 
+SLE,Super League Enterprise 
+BFRI,Biofrontera 
+CYCN,Cyclerion Therapeutics 
+CHEK,Check-Cap 
+OMH,Ohmyhome 
+TRIB,Trinity Biotech 
+WAFU,Wah Fu Education  
+JCSE,JE Cleantech  
+JNVR,Janover 
+OTRK,Ontrak 
+IPDN,Professional Diversity Network 
+LMFA,LM Funding America 
+RDHL,RedHill Biopharma 
+PAVM,PAVmed 
+PSTV,Plus Therapeutics 
+STRR,Star Equity  
+IMCC,IM Cannabis 
+RKDA,Arcadia Biosciences 
+IDAI,T Stamp 
+APM,Aptorum  
+XWEL,XWELL 
+EFOI,Energy Focus 
+ADXN,Addex Therapeutics 
+HYZN,Hyzon Motors 
+KZIA,Kazia Therapeutics 
+BLBX,Blackboxstocks 
+KAVL,Kaival Brands Innovations  
+JWEL,Jowell Global 
+BLMZ,BloomZ 
+MRIN,Marin Software Inorated
+ABVC,ABVC BioPharma 
+ELAB,PMGC  
+DOMH,Dominari  
+TWG,Top Wealth  Holding 
+IMG,CIMG 
+GRI,GRI Bio 
+KRKR,36Kr  
+ADIL,Adial Pharmaceuticals 
+VIRX,Viracta Therapeutics 
+XHG,XChange TECINC
+BON,Bon Natural Life 
+GURE,Gulf Resources 
+PNBK,Patriot National Ban 
+ULY,urgently Inc
+BMRA,Biomerica 
+SYRS,Syros Pharmaceuticals 
+ONFO,Onfolio  
+ALZN,Alzamend Neuro 
+XBIO,Xenetic Biosciences 
+QNTM,Quantum BioPharma 
+GLTO,Galecto 
+MGRX,Mangoceuticals 
+BGLC,BioNexus Gene Lab 
+CNSP,CNS Pharmaceuticals 
+CMND,Clearmind Medicine 
+CEAD,CEA Industries 
+CTNT,Cheetah Net Supply Chain Service 
+EDSA,Edesa Biotech 
+SRM,SRM Entertainment 
+GNPX,Genprex 
+TGL,Treasure Global 
+TTOO,T2 Biosystems 
+FTFT,Future FinTech  
+VEEE,Twin Vee Powercats Co
+SBFM,Sunshine Biopharma 
+INBS,Intelligent Bio Solutions 
+GSUN,Golden Sun Health Technology  
+CHNR,China Natural Resources 
+LXEH,Lixiang Education Holding Co 
+SNGX,Soligenix 
+PHIO,Phio Pharmaceuticals 
+VS,Versus Systems 
+AEHL,Antelope Enterprise  
+LICN,Lichen China 
+CREG,Smart Powerr 
+LIXT,Lixte Biotechnology  
+EJH,E-Home Household Service  
+ONVO,Organovo  
+MBRX,Moleculin Biotech 
+GXAI,Gaxosai 
+ATPC,Agape ATP 
+CISS,C3is 
+VVPR,VivoPower International 
+CETX,Cemtrex 
+SNTG,Sentage  
+TNON,Tenon Medical 
+GTBP,GT Biopharma 
+OST,Ostin Technology  Co 
+VINC,Vincerx Pharma 
+BTOG,Bit Origin 
+REBN,Reborn Coffee 
+STAF,Staffing 360 Solutions 
+HAO,Haoxi Health Technology 
+PBM,Psyence Biomedical 
+YOSH,Yoshiharu Global Co
+XTIA,XTI Aerospace 
+MRM,MEDIROM Healthcare Technologies 
+LKCO,Luokung Technology 
+YGMZ,MingZhu Logistics  
+NIVF,NewGenIvf  
+HCTI,Healthcare Triangle 
+CRKN,Crown Electrokinetics 
+JTAI,JetAI 
+AYRO,Ayro 
+SNPX,Synaptogenix 
+LTRY,Lottery.com Inc
+CTHR,Charles & Colvard 
+SONN,Sonnet BioTherapeutics  
+ONCO,Onconetix 
+KXIN,Kaixin 
+NVFY,Nova LifeStyle 
+PLRZ,Polyrizon 
+ZAPP,Zapp Electric Vehicles  
+SINT,Sintx Technologies 
+BAOS,Baosheng Media   
+IVP,Inspire Veterinary Partners 
+PRTG,Portage Biotech 
+IMTE,Integrated Media Technology 
+ALLR,Allarity Therapeutics 
+MSGM,Motorsport Games 
+LFLY,Leafly  
+ZCAR,Zoomcar  
+NCNA,NuCana 
+GLMD,Galmed Pharmaceuticals 
+IFBD,Infobird Co 
+JXG,JX Luxventure  
+EDBL,Edible Garden AG Inorated
+SGBX,Safe & Green  
+VSME,VS MEDIA  
+ALBT,Avalon GloboCare 
+OLB,The OLB  
+AGRI,AgriFORCE Growing Systems 
+ATXG,Addentax  
+OBLG,Oblong 
+OCTO,Eightco  
+MULN,Mullen Automotive 
+PRSO,Peraso 
+NUWE,Nuwellis 
+TIRX,Tian Ruixiang  
+TCTM,TCTM Kids IT Education 
+EVAX,Evaxion Biotech A/S
+XRTX,XORTX Therapeutics 
+SUNE,SUNation Energy 
+BHAT,Blue Hat Interactive Entertainment Technology
+UPXI,Upexi 
+ARTL,Artelo Biosciences 
+CELZ,Creative Medical Technology  
+BPTH,Bio-Path  
+ATXI,Avenue Therapeutics 
+SLRX,Salarius Pharmaceuticals 
+XPON,Expion360 
+LIPO,Lipella Pharmaceuticals 
+CNET,ZW Data Action Technologies 
+RELI,Reliance Global  
+ASTI,Ascent Solar Technologies 
+ENVB,Enveric Biosciences 
+RSLS,ReShape Lifesciences 
+SNOA,Sonoma Pharmaceuticals 
+AMIX,Autonomix Medical 
+STSS,Sharps Technology 
+BENF,Beneficient
+NCPL,Netcapital 
+ZVSA,ZyVersa Therapeutics 
+TCBP,TC Biopharm () 
+SOPA,Society Pass Inorated
+HSCS,HeartSciences 
+WORX,SCWorx 
+TNFA,TNF Pharmaceuticals 
+NLSP,NLS Pharmaceutics AG
+ATNF,180 Life Sciences 
+NDRA,ENDRA Life Sciences 
+MYSZ,My Size 
+VMAR,Vision Marine Technologies 
+XYLO,Xylo Technologies 
+HSDT,Helius Medical Technologies 
+PTIX,Protagenic Therapeutics 
+INM,InMed Pharmaceuticals 
+KTTA,Pasithea Therapeutics 
+FAMI,Farmmi 
+WHLR,Wheeler Real Estate Investment Trust 
+SHPH,Shuttle Pharmaceuticals  
+SNES,SenesTech 
+PTPI,Petros Pharmaceuticals 
+SGD,Safe and Green Development 
+TTNP,Titan Pharmaceuticals 
+HEPA,Hepion Pharmaceuticals 
+THAR,Tharimmune 
+QNRX,Quoin Pharmaceuticals 
+SNAX,Stryve Foods 
+AQB,AquaBounty Technologies 
+SCNI,Scinai Immunotherapeutics 
+DWTX,Dogwood Therapeutics 
+QLGN,Qualigen Therapeutics 
+SISI,Shineco 
+ICCT,iCoreConnect 
+BCAN,Femto Technologies 
+TCRT,Alaunos Therapeutics 
+PCSA,Processa Pharmaceuticals 
+DRMA,Dermata Therapeutics 
+UOKA,MDJM 
+ASST,Asset Entities 
+SYTA,Siyata Mobile 
+SPRC,SciSparc 
+AUUD,Auddia 
+ENTO,Entero Therapeutics 
+LGMK,LogicMark 
+XXII,22nd Century  
+ISPC,iSpecimen 
+SVRE,SaverOne 2014 
+VERO,Venus Concept 
+SLXN,Silexion Therapeutics 
+AREB,American Rebel  
+BDRX,Biodexa Pharmaceuticals 
+NVVE,Nuvve Holding 
+BBLG,Bone Biologics 
+TRNR,Interactive Strength 
+PALI,Palisade Bio 
+DGLY,Digital Ally 
+AKAN,Akanda 
+CYCC,Cyclacel Pharmaceuticals 
+APVO,Aptevo Therapeutics 
+TIVC,Tivic Health Systems 
+WINT,Windtree Therapeutics 
+NAOV,NanoVibronix 
+VLCN,Volcon 
+REVB,Revelation Biosciences 
+SXTP,60 Degrees Pharmaceuticals 
+GNLN,Greenlane  
+NAYA,NAYA Biosciences 
+TAOP,Taoping 
+CNEY,CN Energy  
+AVGR,Avinger 
+BJDX,Bluejay Diagnostics 
+ADTX,Aditxt 
+JFBR,Jeffs' Brands 
+WLDS,Wearable Devices 
+SBET,SharpLink Gaming 
+MGOL,MGO Global 
+KWE,KWESST Micro Systems 
+VRPX,Virpax Pharmaceuticals 
+SMX,SMX (Security Matters) Public  
+RNAZ,TransCode Therapeutics 
+TC,TuanChe 
+EZGO,EZGO Technologies 
+PRFX,PainReform 
+UK,Ucommune International 
+LUXH,LuxUrban Hotels 
+ALCE,Alternus Clean Energy Inc
+CYN,Cyngn 
+SXTC,China SXT Pharmaceuticals 
+TANH,Tantech  
+GCTK,GlucoTrack 
+LYT,Lytus Technologies  PTV 
+SPGC,Sacks Parente Golf 
+LGHL,Lion  Holding 
+SOBR,SOBR Safe 
+ACON,Aclarion 
+STKH,Steakholder Foods 
+MBIO,Mustang Bio 
+BRKA,Berkshire Hathaway 
+BRKB,Berkshire Hathaway 
+TSM,TSMC
+WMT,Walmart 
+JPM,JPMorgan Chase & Co
+LLY,Eli Lilly and 
+XOM,Exxon Mobil 
+UNH,UnitedHealth Group Incorporated
+ORCL,Oracle 
+HD,The Home Depot 
+PG,The Procter & Gamble 
+BAC,Bank of America 
+JNJ,Johnson & Johnson
+NVO,Novo Nordisk A/S
+CRM,Salesforce 
+ABBV,AbbVie 
+CVX,Chevron 
+KO,Coca-Cola
+WFC,Wells Fargo
+MRK,Merck & Co 
+TM,Toyota Motor 
+MS,Morgan Stanley
+ACN,Accenture plc
+AXP,American Express 
+BX,Blackstone 
+TMO,Thermo Fisher
+GS,Goldman Sachs Group
+IBM,International Business Machines 
+MCD,McDonald's 
+GE,General Electric 
+ABT,Abbott Laboratories
+NVS,Novartis AG
+DIS,The Walt Disney 
+HSBC,HSBC  plc
+DHR,Danaher 
+RY,Royal Bank of Canada
+VZ,Verizon Communications 
+RTX,RTX 
+BLK,BlackRock 
+SPGI,S&P Global 
+PFE,Pfizer 
+SYK,Stryker 
+BSX,Boston Scientific 
+HDB,HDFC Bank 
+PGR,The Progressive 
+UNP,Union Pacific 
+UBER,Uber Technologies 
+KKR,KKR & Co 
+SCHW,The Charles Schwab 
+MUFG,Mitsubishi UFJ Financial Group 
+UL,Unilever PLC
+TJX,The TJX Companies 
+ETN,Eaton plc
+TTE,TotalEnergies SE
+BHP,BHP Group 
+SONY,Sony Group 
+FI,Fiserv 
+LMT,Lockheed Martin 
+BMY,Bristol-Myers Squibb 
+MDT,Medtronic plc
+GEV,GE Vernova 
+CB,Chubb 
+UBS,UBS Group AG
+MMC,Marsh & McLennan Companies 
+NKE,NIKE 
+RIO,Rio Tinto Group
+PLD,Prologis 
+TD,The Toronto-Dominion Bank
+IBN,ICICI Bank 
+ENB,Enbridge 
+APO,Apollo Global Management 
+SMFG,Sumitomo Mitsui Financial Group 
+ELV,Elevance Health 
+RELX,RELX PLC
+AMT,American Tower 
+SHW,The Sherwin-Williams 
+BN,Brookfield 
+TT,Trane Technologies plc
+INFY,Infosys 
+MCO,Moody's 
+PH,Parker-Hannifin 
+WM,Waste Management 
+PBR,Petróleo Brasileiro SA - Petrobras
+PBRA,Petróleo Brasileiro SA - Petrobras
+DUK,Duke Energy 
+APH,Amphenol 
+BP,BP plc
+BTI,British American Tobacco plc
+AON,Aon plc
+CI,The Cigna Group
+HCA,HCA Healthcare 
+PNC,The PNC Financial Services Group 
+CMG,Chipotle Mexican Grill 
+MSI,Motorola Solutions 
+SCCO,Southern Copper 
+EOG,EOG Resources 
+ITW,Illinois Tool Works 
+USB,US Bancorp
+TDG,TransDigm Group Incorporated
+MCK,McKesson 
+ZTS,Zoetis 
+AJG,Arthur J Gallagher & Co
+GD,General Dynamics 
+COF,Capital One Financial 
+EPD,Enterprise Products Partners LP
+BMO,Bank of Montreal
+CL,Colgate-Palmolive 
+WMB,The Williams Companies 
+TRI,Thomson Reuters 
+EMR,Emerson Electric Co
+APD,Air Products and Chemicals 
+NOC,Northrop Grumman 
+CP,Canadian Pacific Kansas City 
+BDX,Becton Dickinson and 
+EQNR,Equinor ASA
+GSK,GSK plc
+KMI,Kinder Morgan 
+ECL,Ecolab 
+RSG,Republic Services 
+CNQ,Canadian Natural Resources 
+FDX,FedEx 
+CVS,CVS Health 
+CRH,CRH plc
+SE,Sea Ltd
+DEO,Diageo plc
+SPG,Simon Property Group 
+RCL,Royal Caribbean Cruises Ltd
+CNI,Canadian National Railway 
+MFG,Mizuho Financial Group 
+BNS,The Bank of Nova Scotia
+TFC,Truist Financial 
+CARR,Carrier Global 
+SLB,Schlumberger 
+TGT,Target Corp
+DLR,Digital Realty Trust 
+HLT,Hilton Worldwide  
+BK,The Bank of New York Mellon 
+CM,Canadian Imperial Bank of Commerce
+AFL,Aflac Incorporated
+VST,Vistra Corp
+FCX,Freeport-McMoRan 
+NGG,National Grid plc
+BBVA,Banco Bilbao Vizcaya Argentaria SA
+LNG,Cheniere Energy 
+NSC,Norfolk Southern 
+TRV,The Travelers Companies 
+GWW,WW Grainger 
+SRE,Sempra
+SQ,Block 
+JCI,Johnson Controls International plc
+MFC,Manulife Financial 
+MPLX,MPLX LP
+PSA,Public Storage
+VRT,Vertiv  Co
+HWM,Howmet Aerospace 
+BCS,Barclays PLC
+ING,ING Groep NV
+CMI,Cummins 
+PWR,Quanta Services 
+PSX,Phillips 66
+TRP,TC Energy 
+SU,Suncor Energy 
+ITUB,Itaú Unibanco  SA
+MPC,Marathon Petroleum 
+CVNA,Carvana Co
+MSCI,MSCI 
+DHI,DR Horton 
+TRGP,Targa Resources Corp
+DFS,Discover Financial Services
+NEM,Newmont 
+FLUT,Flutter Entertainment plc
+AIG,American International Group 
+COR,Cencora 
+WCN,Waste Connections 
+VLO,Valero Energy 
+TEL,TE Connectivity plc
+HMC,Honda Motor Co Ltd
+LYG,Lloyds Banking Group plc
+RBLX,Roblox 
+CTVA,Corteva 
+GLW,Corning Incorporated
+AEM,Agnico Eagle Mines 
+KMB,Kimberly-Clark 
+FIS,Fidelity National Information Services 
+KR,The Kroger Co
+DAL,Delta Air Lines 
+AMX,América Móvil SAB de CV
+ALC,Alcon 
+GRMN,Garmin Ltd
+LHX,L3Harris Technologies 
+HLN,Haleon plc
+CBRE,CBRE Group 
+EW,Edwards Lifesciences 
+TAK,Takeda Pharmaceutical  
+NWG,NatWest Group plc
+KVUE,Kenvue 
+CPNG,Coupang 
+CCI,Crown Castle 
+LENB,Lennar 
+PCG,PG&E 
+DB,Deutsche Bank Aktiengesellschaft
+IR,Ingersoll Rand 
+SYY,Sysco 
+IQV,IQVIA  
+VMC,Vulcan Materials 
+FERG,Ferguson Enterprises 
+STLA,Stellantis NV
+RMD,ResMed 
+VEEV,Veeva Systems 
+ETR,Entergy 
+YUM,Yum! Brands 
+RJF,Raymond James Financial 
+SLF,Sun Life Financial 
+CCL,Carnival  & plc
+CUK,Carnival  & plc
+STZ,Constellation Brands 
+MLM,Martin Marietta Materials 
+EXR,Extra Space Storage 
+GIS,General Mills 
+HEI,HEICO 
+EFX,Equifax 
+MTB,M&T Bank 
+TPL,Texas Pacific Land 
+HIG,The Hartford Financial Services Group 
+ROK,Rockwell Automation 
+DD,DuPont de Nemours 
+LVS,Las Vegas Sands Corp
+IRM,Iron Mountain Incorporated
+EQT,EQT 
+CNC,Centene 
+WEC,WEC Energy Group 
+LYV,Live Nation Entertainment 
+AVB,AvalonBay Communities 
+VICI,VICI Properties 
+HSY,The Hershey 
+RDDT,Reddit Inc
+CAH,Cardinal Health 
+HPQ,HP 
+HPE,Hewlett Packard Enterprise 
+WDS,Woodside Energy Group Ltd
+BRO,Brown & Brown 
+CQP,Cheniere Energy Partners LP
+CHT,Chunghwa Telecom Co Ltd
+NUE,Nucor 
+XYL,Xylem 
+ABEV,Ambev SA
+HEIA,HEICO 
+GDDY,GoDaddy 
+STT,State Street 
+PPG,PPG Industries 
+FMX,Fomento Económico Mexicano SAB de CV
+CVE,Cenovus Energy 
+GPN,Global Payments 
+SW,Smurfit Westrock Plc
+FTV,Fortive 
+MTD,Mettler-Toledo International 
+EQR,Equity Residential
+QSR,Restaurant Brands International 
+BR,Broadridge Financial Solutions 
+SYF,Synchrony Financial
+WPM,Wheaton Precious Metals Corp
+IOT,Samsara 
+CHD,Church & Dwight Co 
+CPAY,Corpay 
+DTE,DTE Energy 
+NTR,Nutrien Ltd
+VLTO,Veralto 
+NVR,NVR 
+AEE,Ameren 
+LYB,LyondellBasell Industries NV
+WSM,Williams-Sonoma 
+DVN,Devon Energy 
+VTR,Ventas 
+TEVA,Teva Pharmaceutical Industries 
+AWK,American Water Works  
+UI,Ubiquiti 
+ADM,Archer-Daniels-Midland 
+PPL,PPL 
+NOK,Nokia Oyj
+TYL,Tyler Technologies 
+WST,West Pharmaceutical Services 
+FNV,Franco-Nevada 
+TKO,TKO Group  
+EIX,Edison International
+PHG,Koninklijke Philips NV
+PHM,PulteGroup 
+RKT,Rocket Companies 
+HUBB,Hubbell Incorporated
+ROL,Rollins 
+BAM,Brookfield Asset Management Ltd
+IX,ORIX 
+LII,Lennox International 
+TEF,Telefónica SA
+FE,FirstEnergy Corp
+MKL,Markel Group 
+KB,KB Financial Group 
+STM,STMicroelectronics NV
+WRB,W R Berkley 
+ATO,Atmos Energy 
+CCJ,Cameco 
+TECK,Teck Resources 
+TDY,Teledyne Technologies Incorporated
+RF,Regions Financial 
+WY,Weyerhaeuser 
+ASX,ASE Technology  Co Ltd
+PBA,Pembina Pipeline 
+ZBH,Zimmer Biomet  
+CTRA,Coterra Energy 
+IFF,International Flavors & Fragrances 
+PSTG,Pure Storage 
+DRI,Darden Restaurants 
+CNP,CenterPoint Energy 
+PKG,Packaging of America
+NRG,NRG Energy 
+TS,Tenaris SA
+PUK,Prudential plc
+FTS,Fortis 
+TU,TELUS 
+CFG,Citizens Financial Group 
+LDOS,Leidos  
+STE,STERIS plc
+VIK,Viking  Ltd
+BEKE,KE Holdings
+CMS,CMS Energy 
+LH,Labcorp  
+IHG,InterContinental Hotels Group PLC
+TSN,Tyson Foods 
+CLX,The Clorox 
+IP,International Paper 
+MKC,McCormick &  Incorporated
+MKCV,McCormick &  Incorporated
+BBDO,Banco Bradesco SA
+BBD,Banco Bradesco SA
+LUV,Southwest Airlines Co
+INVH,Invitation Homes 
+YPF,YPF Sociedad Anónima
+BLDR,Builders FirstSource 
+WSO,Watsco 
+DKS,DICK'S Sporting Goods 
+TRU,TransUnion
+ONON,On Holdings
+WSOB,Watsco 
+MT,ArcelorMittal SA
+SNA,Snap-on Incorporated
+CRBG,Corebridge Financial 
+CSL,Carlisle Companies Incorporated
+MAA,Mid-America Apartment Communities 
+NI,NiSource 
+JBL,Jabil 
+AER,AerCap  NV
+NMR,Nomura  
+FDS,FactSet Research Systems 
+BBY,Best Buy Co 
+EC,Ecopetrol SA
+TWLO,Twilio 
+SHG,Shinhan Financial Group Co Ltd
+TME,Tencent Music Entertainment Group
+PNR,Pentair plc
+CF,CF Industries  
+DGX,Quest Diagnostics Incorporated
+YUMC,Yum China  
+OMC,Omnicom Group 
+GFL,GFL Environmental 
+GPC,Genuine Parts 
+RBA,RB Global 
+HRL,Hormel Foods 
+SUI,Sun Communities 
+MOH,Molina Healthcare 
+TPR,Tapestry 
+IEX,IDEX 
+RPM,RPM International 
+BFB,Brown-Forman 
+EQH,Equitable  
+BFA,Brown-Forman 
+TLK,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk
+XPO,XPO 
+KOF,Coca-Cola FEMSA SAB de CV
+USFD,US Foods  Corp
+FNF,Fidelity National Financial 
+BAX,Baxter International 
+UMC,United Microelectronics 
+OC,Owens Corning
+RS,Reliance 
+EG,Everest Group Ltd
+RCI,Rogers Communications 
+EXPD,Expeditors International of Washington 
+AVY,Avery Dennison 
+UDR,UDR 
+BSBR,Banco Santander (Brasil) SA
+SN,SharkNinja 
+CNH,CNH Industrial NV
+DT,Dynatrace 
+ZTO,ZTO Express (Cayman) 
+COHR,Coherent Corp
+WLK,Westlake 
+CHWY,Chewy 
+DG,Dollar General 
+AVTR,Avantor 
+RL,Ralph Lauren 
+GWRE,Guidewire Software 
+AMH,American Homes 4 Rent
+RGA,Reinsurance Group of America Incorporated
+TXT,Textron 
+EDR,Endeavor Group  
+BAP,Credicorp 
+ACM,AECOM
+RVTY,Revvity 
+GGG,Graco 
+APTV,Aptiv PLC
+JHX,James Hardie Industries plc
+BSS,Bentley Systems Incorporated
+UHAL,U-Haul  
+AMCR,Amcor plc
+CW,Curtiss-Wright 
+FTI,TechnipFMC plc
+GFI,Gold Fields 
+AU,AngloGold Ashanti plc
+UNM,Unum Group
+PFGC,Performance Food Group 
+DVA,DaVita 
+FMS,Fresenius Medical Care AG
+CAVA,CAVA Group 
+TOL,Toll Brothers 
+PKX,POSCO  
+XPEV,XPeng 
+RNR,RenaissanceRe  
+CLS,Celestica 
+CNA,CNA Financial 
+EBR,Centrais Elétricas Brasileiras SA - Eletrobrás
+EPAM,EPAM Systems 
+CLH,Clean Harbors 
+SWK,Stanley Black & Decker 
+BXP,BXP 
+UHALB,U-Haul  
+PR,Permian Resources 
+SUZ,Suzano SA
+JNPR,Juniper Networks 
+KGC,Kinross Gold 
+HLI,Houlihan Lokey 
+SOLV,Solventum 
+RDY,Dr Reddy's Laboratories 
+RBRK,Rubrik 
+BJ,BJ's Wholesale Club  
+THC,Tenet Healthcare 
+PRMB,Primo Brands 
+JLL,Jones Lang LaSalle Incorporated
+GMED,Globus Medical 
+CAG,Conagra Brands 
+ITT,ITT 
+GME,GameStop 
+WPC,W P Carey 
+CPT,Camden Property Trust
+UHS,Universal Health Services 
+KMX,CarMax 
+MTZ,MasTec 
+CIEN,Ciena 
+NCLH,Norwegian Cruise Line  
+NVT,nVent Electric plc
+BCH,Banco de Chile
+OVV,Ovintiv 
+RTO,Rentokil Initial plc
+YMM,Full Truck Alliance  
+PAYC,Paycom Software 
+SF,Stifel Financial 
+MGA,Magna International 
+ALLE,Allegion plc
+SNX,TD SYNNEX 
+SQM,Sociedad Química y Minera de Chile SA
+PCOR,Procore Technologies 
+EVR,Evercore 
+TFII,TFI International 
+DTM,DT Midstream 
+ACI,Albertsons Companies 
+AFG,American Financial Group 
+FHN,First Horizon 
+BWXT,BWX Technologies 
+SCI,Service  International
+BG,Bunge Global SA
+CNM,Core & Main 
+SNN,Smith & Nephew plc
+SJM,The J M Smucker 
+AIZ,Assurant 
+KVYO,Klaviyo 
+NLY,Annaly Capital Management 
+EMN,Eastman Chemical 
+PAG,Penske Automotive Group 
+FND,Floor & Decor  
+BROS,Dutch Bros 
+SKX,Skechers USA 
+SBS,Companhia de Saneamento Básico do Estado de São Paulo - SABESP
+PSO,Pearson plc
+AOS,A O Smith 
+ESTC,Elastic NV
+ULS,UL Solutions 
+ATR,AptarGroup 
+APG,APi Group 
+ARMK,Aramark
+OHI,Omega Healthcare Investors 
+IPG,The Interpublic Group of Companies 
+RRX,Regal Rexnord 
+ALSN,Allison Transmission  
+TPX,Tempur Sealy International 
+CRS,Carpenter Technology 
+KNTK,Kinetik  
+WBS,Webster Financial 
+QGEN,Qiagen NV
+AEG,Aegon 
+KNSL,Kinsale Capital Group 
+BLD,TopBuild 
+CACI,CACI International Inc
+AYI,Acuity Brands 
+PSN,Parsons 
+CCK,Crown Holdings
+SSB,SouthState 
+BNT,Brookfield Wealth Solutions 
+EDU,New Oriental Education & Technology Group 
+GL,Globe Life 
+RRC,Range Resources 
+PNW,Pinnacle West Capital 
+UWMC,UWM  
+WAL,Western Alliance Ban
+MGM,MGM Resorts International
+WPP,WPP plc
+PRI,Primerica 
+RBC,RBC Bearings Incorporated
+WMS,Advanced Drainage Systems 
+BEP,Brookfield Renewable Partners LP
+MUSA,Murphy USA 
+WTRG,Essential Utilities 
+GNRC,Generac  
+BIOB,Bio-Rad Laboratories 
+EHC,Encompass Health 
+WCC,WESCO International 
+MLI,Mueller Industries 
+BRBR,BellRing Brands 
+FBIN,Fortune Brands Innovations 
+VFC,VF Corp
+CFR,Cullen/Frost Bankers 
+NIO,Nio Inc
+ORI,Old Republic International 
+FRT,Federal Realty Investment Trust
+GTLS,Chart Industries 
+HESM,Hess Midstream LP
+BSAC,Banco Santander-Chile
+REXR,Rexford Industrial Realty 
+CR,Crane 
+KD,Kyndryl  
+KNX,Knight-Swift Transportation  
+STN,Stantec 
+PLNT,Planet Fitness 
+INGR,Ingredion Incorporated
+FN,Fabrinet
+CMA,Comerica Incorporated
+FLR,Fluor 
+MOS,The Mosaic 
+GKOS,Glaukos 
+EXP,Eagle Materials 
+VNO,Vornado Realty Trust
+LW,Lamb Weston  
+OGE,OGE Energy 
+NYT,The New York Times 
+DCI,Donaldson  
+TTC,The Toro 
+ALK,Alaska Air Group 
+TFX,Teleflex Incorporated
+IONQ,IonQ 
+AES,The AES 
+GPK,Graphic Packaging  
+CRL,Charles River Laboratories International 
+FLS,Flowserve 
+RH,RH
+SARO,StandardAero 
+AGI,Alamos Gold 
+LTM,LATAM Airlines Group SA
+ASR,Grupo Aeroportuario del Sureste S A B de C V
+MHK,Mohawk Industries 
+ATI,ATI 
+SKM,SK Telecom  
+LPX,Louisiana-Pacific 
+WH,Wyndham Hotels & Resorts 
+CIB,Bancolombia SA
+EGP,EastGroup Properties 
+BBWI,Bath & Body Works 
+MTDR,Matador Resources 
+BRX,Brixmor Property Group 
+CE,Celanese 
+HII,Huntington Ingalls Industries 
+AXTA,Axalta Coating Systems 
+KBR,KBR 
+WF,Woori Financial Group 
+SMAR,Smartsheet 
+PAAS,Pan American Silver 
+BERY,Berry Global Group 
+CX,CEMEX SAB de CV
+DLB,Dolby Laboratories 
+KT,KT 
+IVZ,Invesco 
+CAE,CAE 
+SNV,Synovus Financial 
+TREX,Trex  
+ICL,ICL Group Ltd
+ALV,Autoliv 
+AGCO,AGCO 
+HRB,H&R Block 
+AXS,AXIS Capital  
+BMA,Banco Macro SA
+NNN,NNN REIT 
+PB,Prosperity Bancshares 
+ADC,Agree Realty 
+ESAB,ESAB 
+ENLC,EnLink Midstream LLC
+INFA,Informatica 
+DDS,Dillard's 
+LOAR,Loar  
+WEX,WEX 
+ERJ,Embraer SA
+MNSO,MINISO Group  
+WFG,West Fraser Timber  
+RHI,Robert Half 
+AZEK,The AZEK  
+WHR,Whirlpool 
+SSD,Simpson Manufacturing  
+RLI,RLI 
+BWA,BorgWarner 
+MOGA,Moog 
+CWAN,Clearwater Analytics  
+VIPS,Vipshop  
+WTS,Watts Water Technologies 
+FR,First Industrial Realty Trust 
+SPXC,SPX Technologies 
+BFAM,Bright Horizons Family Solutions 
+TMHC,Taylor Morrison Home 
+JXN,Jackson Financial 
+JHG,Janus Henderson Group plc
+VMI,Valmont Industries 
+FCN,FTI Consulting 
+VOYA,Voya Financial 
+FMC,FMC 
+MTN,Vail Resorts 
+BYD,Boyd Gaming 
+CHH,Choice Hotels International 
+ANF,Abercrombie & Fitch 
+PJT,PJT Partners 
+OMF,OneMain  
+STWD,Starwood Property Trust 
+ADT,ADT 
+AWI,Armstrong World Industries 
+ZWS,Zurn Elkay Water Solutions 
+UGI,UGI 
+MSA,MSA Safety Incorporated
+FAF,First American Financial 
+JBTM,JBT Marel 
+BMI,Badger Meter 
+ZK,ZEEKR Intelligent Technology  
+ESI,Element Solutions Inc
+CRK,Comstock Resources 
+OSK,Oshkosh 
+STVN,Stevanato Group SpA
+FSK,FS KKR Capital 
+COTY,Coty 
+WK,Workiva 
+NFG,National Fuel Gas 
+MTG,MGIC Investment 
+BRFS,BRF SA
+ALTM,Arcadium Lithium plc
+TKC,Turkcell Iletisim Hizmetleri AS
+RHP,Ryman Hospitality Properties 
+ARW,Arrow Electronics 
+ESNT,Essent Group 
+BLCO,Bausch + Lomb 
+HMY,Harmony Gold Mining  
+TRNO,Terreno Realty 
+HIMS,Hims & Hers Health 
+NOV,NOV 
+HOMB,Home Bancshares  (Conway AR)
+TAL,TAL Education Group
+TEO,Telecom Argentina SA
+FSS,Federal Signal 
+KNF,Knife River 
+TIMB,TIM SA
+HR,Healthcare Realty Trust Incorporated
+RITM,Rithm Capital 
+HRI,Herc  
+MTH,Meritage Homes 
+DAR,Darling Ingredients 
+GPI,Group 1 Automotive 
+GBCI,Glacier Bancorp 
+OBDC,Blue Owl Capital 
+CMC,Commercial Metals 
+LUMN,Lumen Technologies 
+GGB,Gerdau SA
+GGB,Gerdau SA
+TX,Ternium SA
+QTWO,Q2 Holdings
+AMG,Affiliated Managers Group 
+LNC,Lincoln National 
+THG,The Hanover Insurance Group 
+VNT,Vontier 
+SLGN,Silgan  
+FNB,FNB 
+SMR,NuScale Power 
+CIG,Companhia Energética de Minas Gerais - CEMIG
+CIGC,Companhia Energética de Minas Gerais - CEMIG
+EPRT,Essential Properties Realty Trust 
+DY,Dycom Industries 
+AMTM,Amentum  
+FG,F&G Annuities & Life 
+PFSI,PennyMac Financial Services 
+USM,United States Cellular 
+GATX,GATX 
+IBP,Installed Building Products 
+LB,LandBridge  LLC
+VIST,Vista Energy SAB de CV
+NE,Noble  plc
+NEWSA,Noble  plc
+TKR,The Timken 
+HXL,Hexcel 
+INSP,Inspire Medical Systems 
+GXO,GXO Logistics 
+GTES,Gates Industrial  plc
+MGY,Magnolia Oil & Gas 
+KRG,Kite Realty Group Trust
+AROC,Archrock 
+MSGS,Madison Square Garden Sports 
+SNDR,Schneider National 
+SWX,Southwest Gas  
+CIVI,Civitas Resources 
+PVH,PVH 
+CUZ,Cousins Properties Incorporated
+INGM,Ingram Micro  
+BBAR,Banco BBVA Argentina SA
+CLF,Cleveland-Cliffs 
+WHD,Cactus Inc
+SOBO,South Bow 
+CWENA,Clearway Energy 
+CTRE,CareTrust REIT 
+DNB,Dun & Bradstreet  
+CBT,Cabot 
+SLG,SL Green Realty 
+SM,SM Energy 
+BCC,Boise Cascade 
+RDN,Radian Group 
+SHAK,Shake Shack 
+KBH,KB Home
+CRC,California Resources 
+LRN,Stride 
+SFBS,ServisFirst Bancshares 
+TGS,Transportadora de Gas del Sur SA
+PIPR,Piper Sandler Companies
+ABG,Asbury Automotive Group 
+ACA,Arcosa 
+NEU,NewMarket 
+KTB,Kontoor Brands 
+BDC,Belden 
+ITGR,Integer  
+MMS,Maximus 
+NJR,New Jersey Resources 
+BIPC,Brookfield Infrastructure 
+NSA,National Storage Affiliates Trust
+MUR,Murphy Oil 
+WTM,White Mountains Insurance Group 
+BBU,Brookfield Business Partners LP
+VVV,Valvoline 
+KRC,Kilroy Realty 
+LAZ,Lazard 
+MATX,Matson 
+MSM,MSC Industrial Direct  
+CNX,CNX Resources 
+TNET,TriNet Group 
+ACHR,Archer Aviation 
+ABCB,Ameris Bancorp
+CNS,Cohen & Steers 
+ASAN,Asana 
+POR,Portland General Electric 
+IRT,Independence Realty Trust 
+TXNM,TXNM Energy 
+AHR,American Healthcare REIT 
+AB,AllianceBernstein  LP
+ELP,Companhia Paranaense de Energia - COPEL
+ELPC,Companhia Paranaense de Energia - COPEL
+TAC,TransAlta 
+BKH,Black Hills 
+GBTG,Global Business Travel Group 
+CBZ,CBIZ 
+KMPR,Kemper 
+CRGY,Crescent Energy 
+KGS,Kodiak Gas Services 
+UNF,UniFirst 
+OGS,ONE Gas 
+AX,Axos Financial 
+TDS,Telephone and Data Systems 
+ASB,Associated Banc-Corp
+OGN,Organon & 
+RXO,RXO 
+BCO,The Brink's 
+GVA,Granite Construction Incorporated
+SMG,The Scotts Miracle-Gro 
+SR,Spire 
+CNO,CNO Financial Group 
+RYN,Rayonier 
+ENIC,Enel Chile SA
+HGV,Hilton Grand Vacations 
+SPR,Spirit AeroSystems  
+JWN,Nordstrom 
+TGLS,Tecnoglass 
+NNI,Nelnet 
+OLN,Olin 
+OSCR,Oscar Health 
+GHC,Graham  
+NXE,NexGen Energy 
+FLG,Flagstar Financial 
+ASGN,ASGN Incorporated
+UCB,United Community Banks 
+PBH,Prestige Consumer Healthcare 
+AVNT,Avient 
+SG,Sweetgreen 
+SKT,Tanger 
+HHH,Howard Hughes  
+BHVN,Biohaven 
+MDU,MDU Resources Group 
+CPA,Copa  SA
+DXC,DXC Technology 
+LBRT,Liberty Energy 
+ATGE,Adtalem Global Education 
+BEPC,Brookfield Renewable 
+GFF,Griffon 
+KFY,Korn Ferry
+CXT,Crane NXT 
+NPO,Enpro 
+CLVT,Clarivate Plc
+APLE,Apple Hospitality REIT 
+PBF,PBF Energy 
+HP,Helmerich & Payne 
+MWA,Mueller Water Products 
+TNL,Travel + Leisure 
+ECG,Everus Construction Group 
+EPR,EPR Properties
+UAA,Under Armour 
+WU,The Western Union 
+BRC,Brady Corp
+ATMU,Atmus Filtration Technologies 
+TPH,Tri Pointe Homes 
+SSL,Sasol 
+IGT,International Game Technology PLC
+GPOR,Gulfport Energy 
+ESE,ESCO Technologies 
+APAM,Artisan Partners Asset Management 
+CNK,Cinemark  
+EE,Excelerate Energy 
+HTGC,Hercules Capital 
+MP,MP Materials 
+NVST,Envista  
+HBM,Hudbay Minerals 
+AQN,Algonquin Power & Utilities 
+FUL,HB Fuller 
+RSI,Rush Street Interactive 
+CDP,COPT Defense Properties
+HL,Hecla Mining 
+VRN,Veren 
+REZI,Resideo Technologies 
+UA,Under Armour 
+STR,Sitio Royalties 
+ATHM,Autohome 
+HASI,HA Sustainable Infrastructure Capital 
+DOCN,DigitalOcean  
+CBU,Community Financial System 
+TBBB,BBB Foods 
+ABM,ABM Industries Incorporated
+HGTY,Hagerty 
+DV,DoubleVerify  
+BSM,Black Stone Minerals LP
+BVN,Compañía de Minas Buenaventura SAA
+GMS,GMS 
+HIW,Highwoods Properties 
+HAYW,Hayward  
+PRGO,Perrigo  plc
+WD,Walker & Dunlop 
+BXMT,Blackstone Mortgage Trust 
+IAG,IAMGOLD 
+SLVM,Sylvamo 
+FBP,First Bancorp
+TFPM,Triple Flag Precious Metals 
+OKLO,Oklo 
+TEX,Terex 
+NHI,National Health Investors 
+TRN,Trinity Industries 
+SXT,Sensient Technologies 
+BNL,Broadstone Net Lease 
+PII,Polaris 
+LPL,LG Display  
+AEO,American Eagle Outfitters 
+BFH,Bread Financial  
+CWK,Cushman & Wakefield plc
+CWEN,Clearway Energy 
+RNG,RingCentral 
+USAC,USA Compression Partners LP
+GRND,Grindr 
+GNW,Genworth Financial 
+BKU,BankUnited 
+FHI,Federated Hermes 
+VAC,Marriott Vacations Worldwide 
+SGHC,Super Group (SGHC) 
+GEFB,Greif 
+WRBY,Warby Parker 
+ATKR,Atkore 
+CAAP,Corporación América Airports SA
+HCC,Warrior Met Coal 
+TDC,Teradata 
+HBI,Hanesbrands 
+VSCO,Victoria's Secret & 
+TDW,Tidewater 
+GEF,Greif 
+CC,The Chemours 
+TGNA,TEGNA 
+RLX,RLX Technology 
+PRKS,United Parks & Resorts 
+NSP,Insperity 
+UGP,Ultrapar Participações SA
+CNR,CONSOL Energy 
+CPK,Chesapeake Utilities 
+BOH,Bank of Hawaii 
+AWR,American States Water 
+ABR,Arbor Realty Trust 
+ENVA,Enova International 
+PK,Park Hotels & Resorts 
+CPRI,Capri  
+HAFN,Hafnia 
+AKR,Acadia Realty Trust
+BHC,Bausch Health Companies 
+LCII,LCI Industries
+NOMD,Nomad Foods 
+BANC,Banc of California 
+AAP,Advance Auto Parts 
+MANU,Manchester United plc
+OII,Oceaneering International 
+QS,QuantumScape 
+FCPT,Four Corners Property Trust 
+MCY,Mercury General 
+AESI,Atlas Energy Solutions 
+GRBK,Green Brick Partners 
+UE,Urban Edge Properties
+AKOB,Embotelladora Andina SA
+AKOA,Embotelladora Andina SA
+CWT,California Water Service Group
+ESRT,Empire State Realty Trust 
+AZZ,AZZ 
+AVAL,Grupo Aval Acciones y Valores SA
+ENOV,Enovis 
+ATS,ATS 
+ENR,Energizer  
+CXW,CoreCivic 
+CSAN,Cosan SA
+PFS,Provident Financial Services 
+SBSW,Sibanye Stillwater 
+AMR,Alpha Metallurgical Resources 
+STNG,Scorpio Tankers 
+CDE,Coeur Mining 
+SEM,Select Medical  
+MPW,Medical Properties Trust 
+SDRL,Seadrill 
+FBK,FB Financial 
+HNI,HNI 
+MTX,Minerals Technologies 
+SPNT,SiriusPoint 
+KWR,Quaker Chemical 
+AGX,Argan 
+BKE,The Buckle 
+EPAC,Enerpac Tool Group 
+LXP,LXP Industrial Trust
+SPB,Spectrum Brands  
+SWI,SolarWinds 
+NATL,NCR Atleos 
+CCS,Century Communities 
+WLY,John Wiley & Sons 
+WLYB,John Wiley & Sons 
+BB,BlackBerry 
+KLC,KinderCare Learning Companies 
+SHO,Sunstone Hotel Investors 
+BTU,Peabody Energy 
+LMND,Lemonade 
+SAH,Sonic Automotive 
+DKL,Delek Logistics Partners LP
+RNST,Renasant 
+SXI,Standex International 
+SEMR,Semrush  
+CWH,Camping World  
+DFH,Dream Finders Homes 
+VSH,Vishay Intertechnology 
+IVT,InvenTrust Properties 
+TR,Tootsie Roll Industries 
+LSPD,Lightspeed Commerce 
+IBTA,Ibotta 
+CEPU,Central Puerto SA
+ALG,Alamo Group 
+CMBT,CmbTech NV
+LU,Lufax  Ltd
+SOC,Sable Offshore 
+CXM,Sprinklr 
+MBC,MasterBrand 
+PHIN,PHINIA 
+KAR,OPENLANE 
+CCU,Compañía Cervecerías Unidas SA
+BTE,Baytex Energy 
+VSTS,Vestis 
+AGM,Federal Agricultural Mortgage 
+RVLV,Revolve Group 
+CVI,CVR Energy 
+WOR,Worthington Enterprises 
+DBRG,DigitalBridge Group 
+ZGN,Ermenegildo Zegna NV
+MTRN,Materion 
+PAGS,PagSeguro Digital 
+GBX,The Greenbrier Companies 
+CNMD,CONMED 
+EVTC,EVERTEC 
+BKV,BKV 
+VTMX,Corporación Inmobiliaria Vesta SAB de CV
+OFG,OFG Bancorp
+PRM,Perimeter Solutions 
+WNS,WNS () 
+TSLX,Sixth Street Specialty Lending 
+ARDT,Ardent Health Partners 
+UTZ,Utz Brands 
+NPWR,NET Power 
+ZIM,ZIM Integrated Shipping Services 
+HG,Hamilton Insurance Group 
+TALO,Talos Energy 
+FL,Foot Locker 
+CTRI,Centuri  
+CRI,Carter's 
+IIPR,Innovative Industrial Properties 
+VYX,NCR Voyix 
+AAT,American Assets Trust 
+BWLP,BW LPG 
+MSDL,Morgan Stanley Direct Lending Fund
+INSW,International Seaways 
+KMT,Kennametal 
+HTH,Hilltop  
+DAVA,Endava plc
+LC,LendingClub 
+CABO,Cable One 
+DRH,DiamondRock Hospitality 
+LZB,La-Z-Boy Incorporated
+FIHL,Fidelis Insurance  
+MNR,Mach Natural Resources LP
+WWW,Wolverine World Wide 
+FINV,FinVolution Group
+GENI,Genius Sports 
+LGFA,Lions Gate Entertainment 
+STC,Stewart Information Services 
+GLP,Global Partners LP
+SVV,Savers Value Village 
+KN,Knowles 
+REVG,REV Group 
+THS,TreeHouse Foods 
+DFIN,Donnelley Financial Solutions 
+PRG,PROG  
+WMK,Weis Markets 
+GB,Global Blue Group  AG
+CDLR,Cadeler A/S
+MSGE,Madison Square Garden Entertainment 
+XPRO,Expro Group  NV
+DHT,DHT  
+ARIS,Aris Water Solutions 
+BHE,Benchmark Electronics 
+NABL,N-able 
+NGVT,Ingevity 
+UNFI,United Natural Foods 
+BBUC,Brookfield Business 
+GTY,Getty Realty 
+LGFB,Lions Gate Entertainment 
+SUPV,Grupo Supervielle SA
+FCF,First Commonwealth Financial 
+WTTR,Select Water Solutions 
+NBHC,National Bank  
+AMBP,Ardagh Metal Packaging SA
+BAK,Braskem SA
+DBD,Diebold Nixdorf Incorporated
+VVX,V2X 
+GNL,Global Net Lease 
+PEB,Pebblebrook Hotel Trust
+PD,PagerDuty 
+EDN,Empresa Distribuidora y Comercializadora Norte Sociedad Anónima
+EPC,Edgewell Personal Care 
+QBTS,D-Wave Quantum 
+NTB,The Bank of NT Butterfield & Son 
+WKC,World Kinect 
+VRE,Veris Residential 
+NWN,Northwest Natural  
+NIC,Nicolet Bankshares 
+OI,O-I Glass 
+TNC,Tennant 
+DESP,Despegarcom 
+NEP,NextEra Energy Partners LP
+PHR,Phreesia 
+LTC,LTC Properties 
+TROX,Tronox  plc
+CSTM,Constellium SE
+CUBI,Customers Bancorp 
+TDOC,Teladoc Health 
+HMN,Horace Mann Educators 
+CTS,CTS 
+CDRE,Cadre  
+WS,Worthington Steel 
+ZUO,Zuora 
+BV,BrightView  
+KRP,Kimbell Royalty Partners LP
+FDP,Fresh Del Monte Produce 
+JBGS,JBG SMITH Properties
+XHR,Xenia Hotels & Resorts 
+RLJ,RLJ Lodging Trust
+AMC,AMC Entertainment  
+STEL,Stellar Bancorp 
+TNK,Teekay Tankers 
+DAC,Danaos 
+PX,P10 
+MLNK,MeridianLink 
+MODG,Topgolf Callaway Brands 
+SPHR,Sphere Entertainment 
+VRTS,Virtus Investment Partners 
+TGI,Triumph Group 
+CMRE,Costamare 
+ERO,Ero Copper 
+DX,Dynex Capital 
+SHCO,Soho House & Co 
+HLIO,Helios Technologies 
+ADNT,Adient plc
+DNOW,DNOW 
+SFL,SFL  
+KSS,Kohl's 
+LNN,Lindsay 
+UTI,Universal Technical Institute 
+UMH,UMH Properties 
+GSBD,Goldman Sachs BDC 
+SCL,Stepan 
+ENFN,Enfusion 
+BLX,Banco Latinoamericano de Comercio Exterior S A
+LADR,Ladder Capital Corp
+MMI,Marcus & Millichap 
+ATEN,A10 Networks 
+NRP,Natural Resource Partners LP
+HLX,Helix Energy Solutions Group 
+AIV,Apartment Investment and Management 
+EVEX,Eve Holdings
+KLG,WK Kellogg Co
+WT,WisdomTree 
+WGO,Winnebago Industries 
+FLNG,FLEX LNG 
+COUR,Coursera 
+FSM,Fortuna Mining 
+OXM,Oxford Industries 
+USPH,US Physical Therapy 
+SILA,Sila Realty Trust 
+TPC,Tutor Perini 
+SCS,Steelcase 
+BHLB,Berkshire Hills Bancorp 
+PBI,Pitney Bowes 
+GRDN,Guardian Pharmacy Services 
+VTLE,Vital Energy 
+ELME,Elme Communities
+FSLY,Fastly 
+EFXT,Enerflex 
+FUBO,fuboTV 
+NMM,Navios Maritime Partners LP
+AORT,Artivion 
+SDHC,Smith Douglas Homes 
+RCUS,Arcus Biosciences 
+HCI,HCI Group 
+SMWB,Similarweb 
+ATUS,Altice USA 
+AGL,agilon health 
+SPH,Suburban Propane Partners LP
+OLO,Olo Inc
+KW,Kennedy-Wilson  
+BFS,Saul Centers 
+UVV,Universal 
+DQ,Daqo New Energy 
+LOMA,Loma Negra Compañía Industrial Argentina Sociedad Anónima
+DK,Delek US  
+CGAU,Centerra Gold 
+EIG,Employers  
+MRC,MRC Global 
+IMAX,IMAX 
+IDT,IDT 
+AMRC,Ameresco 
+IRS,IRSA Inversiones y Representaciones Sociedad Anónima
+FVRR,Fiverr International 
+INVX,Innovex International 
+CNNE,Cannae  
+NTST,NETSTREIT 
+RC,Ready Capital 
+KBDC,Kayne Anderson BDC 
+EVRI,Everi  
+MD,Pediatrix Medical Group 
+NVGS,Navigator  
+CIM,Chimera Investment 
+SBH,Sally Beauty  
+EVH,Evolent Health 
+EFC,Ellington Financial 
+WEAV,Weave Communications 
+NX,Quanex Building Products 
+PL,Planet Labs PBC
+GETY,Getty Images  
+JKS,JinkoSolar   
+OMI,Owens & Minor 
+BCSF,Bain Capital Specialty Finance 
+PRSU,Pursuit Attractions and Hospitality 
+VTEX,VTEX
+FBMS,The First Bancshares 
+CTOS,Custom Truck One Source 
+PMT,PennyMac Mortgage Investment Trust
+KRO,Kronos Worldwide 
+PSFE,Paysafe 
+OBK,Origin Bancorp 
+PDM,Piedmont Office Realty Trust 
+SA,Seabridge Gold 
+PGRE,Paramount Group 
+LPG,Dorian LPG 
+SSTK,Shutterstock 
+JBI,Janus International Group 
+SII,Sprott 
+IHS,IHS  
+CSR,Centerspace
+TUYA,Tuya 
+VTOL,Bristow Group 
+ASPN,Aspen Aerogels 
+ARR,ARMOUR Residential REIT 
+FBRT,Franklin BSP Realty Trust 
+MFA,MFA Financial 
+KFRC,Kforce 
+BBDC,Barings BDC 
+TPB,Turning Point Brands 
+SKE,Skeena Resources 
+DCO,Ducommun Incorporated
+NXRT,NexPoint Residential Trust 
+DLX,Deluxe 
+AHH,Armada Hoffler Properties 
+THR,Thermon Group  
+BKDT,Brookdale Senior Living 
+BKD,Brookdale Senior Living 
+GRC,The Gorman-Rupp 
+BBAI,BigBearai  
+AMN,AMN Healthcare Services 
+RDW,Redwire 
+ALX,Alexander's 
+TIXT,TELUS International (Cda) 
+AGRO,Adecoagro SA
+ML,MoneyLion 
+SBSI,Southside Bancshares 
+SBR,Sabine Royalty Trust
+GIC,Global Industrial 
+BRDG,Bridge Investment Group  
+OPFI,OppFi 
+EEX,Emerald  
+PRLB,Proto Labs 
+VLRS,Controladora Vuela Compañía de Aviación SAB de CV
+AMTB,Amerant Bancorp 
+AAMI,Acadian Asset Management 
+PFLT,PennantPark Floating Rate Capital 
+EXK,Endeavour Silver 
+BDN,Brandywine Realty Trust
+NGVC,Natural Grocers by Vitamin Cottage 
+NCDL,Nuveen Churchill Direct Lending 
+CLB,Core Laboratories 
+BLND,Blend Labs 
+ECVT,Ecovyst 
+MTAL,MAC Copper 
+FNA,Paragon 28 
+PDS,Precision Drilling 
+BXC,BlueLinx  
+GRNT,Granite Ridge Resources 
+UTL,Unitil 
+UAN,CVR Partners LP
+ACEL,Accel Entertainment 
+SXC,SunCoke Energy 
+ETWO,E2open Parent  
+MSC,Studio City International  
+CBL,CBL & Associates Properties 
+BORR,Borr Drilling 
+RWT,Redwood Trust 
+BZH,Beazer Homes USA 
+CAPL,CrossAmerica Partners LP
+NEXA,Nexa Resources SA
+CINT,CI&T 
+DAO,Youdao 
+NUVB,Nuvation Bio 
+ASIX,AdvanSix 
+HOV,Hovnanian Enterprises 
+DEC,Diversified Energy  PLC
+WLKP,Westlake Chemical Partners LP
+OEC,Orion SA
+RSKD,Riskified 
+LVWR,LiveWire Group 
+TYG,Tortoise Energy Infrastructure 
+VTS,Vitesse Energy 
+YEXT,Yext 
+SITC,SITE Centers 
+JELD,JELD-WEN  
+DRD,DRDGOLD 
+MYTE,MYT Netherlands Parent BV
+TXO,TXO Partners LP
+SPLP,Steel Partners  LP
+GHLD,Guild Holdings
+BFLY,Butterfly Network 
+PRA,ProAssurance 
+MLR,Miller Industries 
+CPF,Central Pacific Financial 
+PLYM,Plymouth Industrial REIT 
+ECO,Okeanis Eco Tankers 
+GSL,Global Ship Lease 
+XPOF,Xponential Fitness 
+HUYA,HUYA 
+BRSP,BrightSpire Capital 
+EQBK,Equity Bancshares 
+KREF,KKR Real Estate Finance Trust 
+BALY,Bally's 
+DDL,Dingdong (Cayman) 
+ETD,Ethan Allen Interiors 
+CCO,Clear Channel Outdoor  
+CVLG,Covenant Logistics Group 
+SLQT,SelectQuote 
+OPY,Oppenheimer  
+WNC,Wabash National 
+NGL,NGL Energy Partners LP
+AXL,American Axle & Manufacturing  
+NPK,National Presto Industries 
+GCI,Gannett  
+NVRI,Enviri 
+TRTX,TPG RE Finance Trust 
+WSR,Whitestone REIT
+AVNS,Avanos Medical 
+AACT,Ares Acquisition  II
+MCB,Metropolitan Bank  
+VHI,Valhi 
+SMP,Standard Motor Products 
+BH,Biglari  
+NPKI,NPK International 
+HIPO,Hippo  
+HLF,Herbalife 
+RYI,Ryerson  
+CURV,Torrid  
+BHA,Biglari  
+TK,Teekay  
+LXU,LSB Industries 
+TTI,TETRA Technologies 
+USNA,USANA Health Sciences 
+GES,Guess? 
+EVTL,Vertical Aerospace 
+MAGN,Magnera 
+MTUS,Metallus 
+NBR,Nabors Industries 
+HZO,MarineMax 
+BRCC,BRC 
+YALA,Yalla Group 
+VEL,Velocity Financial 
+MCS,The Marcus 
+AUNA,Auna SA
+ODC,Oil-Dri  of America
+GNK,Genco Shipping & Trading 
+FPH,Five Point  LLC
+RGR,Sturm Ruger &  
+CTO,CTO Realty Growth 
+CRDA,Crawford & 
+CMP,Compass Minerals International 
+ZKH,ZKH Group 
+KODK,Eastman Kodak 
+CRDB,Crawford & 
+LDI,loanDepot 
+RERE,ATRenew 
+DNA,Ginkgo Bioworks  
+FPI,Farmland Partners 
+CHCT,Community Healthcare Trust Incorporated
+NOA,North American Construction Group 
+OLP,One Liberty Properties 
+GMRE,Global Medical REIT 
+UVE,Universal Insurance  
+PBT,Permian Basin Royalty Trust
+AMBC,Ambac Financial Group 
+QD,Qudian 
+EBF,Ennis 
+CMTG,Claros Mortgage Trust 
+EBS,Emergent BioSolutions 
+GPRK,GeoPark 
+SMBK,SmartFinancial 
+GOTU,Gaotu Techedu 
+LZM,Lifezone Metals 
+IIIN,Insteel Industries 
+HKD,AMTD Digital 
+MATV,Mativ  
+PSBD,Palmer Square Capital BDC 
+UHT,Universal Health Realty Income Trust
+BBW,Build-A-Bear Workshop 
+ASC,Ardmore Shipping 
+BGS,B&G Foods 
+CLW,Clearwater Paper 
+RYAM,Rayonier Advanced Materials 
+IVR,Invesco Mortgage Capital 
+LAAC,Lithium Americas (Argentina) 
+GHM,Graham 
+CPAC,Cementos Pacasmayo SAA
+AGS,PlayAGS 
+ACCO,ACCO Brands 
+GFR,Greenfire Resources 
+CHPT,ChargePoint  
+GDOT,Green Dot 
+GBLI,Global Indemnity Group LLC
+TWI,Titan International 
+CLCO,Cool Company
+FVR,FrontView REIT 
+CANG,Cango 
+EGY,VAALCO Energy 
+UIS,Unisys 
+NLOP,Net Lease Office Properties
+EAF,GrafTech International 
+BOC,Boston Omaha 
+SD,SandRidge Energy 
+CTV,Innovid 
+HPP,Hudson Pacific Properties 
+JMIA,Jumia Technologies AG
+GCO,Genesco 
+EQV,EQV Ventures Acquisition 
+AAM,AA Mission Acquisition 
+MUX,McEwen Mining 
+WDH,Waterdrop Inc
+PNNT,PennantPark Investment 
+SMC,Summit Midstream 
+CLDT,Chatham Lodging Trust
+FC,Franklin Covey 
+SPIR,Spire Global 
+MYE,Myers Industries 
+TRC,Tejon Ranch 
+YRD,Yiren Digital 
+MOV,Movado Group 
+DDD,3D Systems 
+ASA,ASA Gold and Precious Metals 
+SPMC,Sound Point Meridian Capital 
+SNDA,Sonida Senior Living 
+PKST,Peakstone Realty Trust
+SGU,Star Group LP
+CYH,Community Health Systems 
+BWMX,Betterware de México SAPI de CV
+XPER,Xperi 
+GNTY,Guaranty Bancshares 
+GNE,Genie Energy 
+EHAB,Enhabit 
+BKKT,Bakkt  
+TRAK,ReposiTrak 
+RNGR,Ranger Energy Services 
+CYD,China Yuchai International 
+FREY,FREYR Battery 
+MLP,Maui Land & Pineapple  
+SCM,Stellus Capital Investment 
+MSB,Mesabi Trust
+OOMA,Ooma 
+HOUS,Anywhere Real Estate 
+AMPX,Amprius Technologies 
+HLLY,Holley 
+LND,BrasilAgro - Companhia Brasileira de Propriedades Agrícolas
+PSTL,Postal Realty Trust 
+LXFR,Luxfer  PLC
+XYF,X Financial
+HVT,Haverty Furniture Companies 
+HVTA,Haverty Furniture Companies 
+SB,Safe Bulkers 
+RM,Regional Management 
+OIS,Oil States International 
+NL,NL Industries 
+BKSY,BlackSky Technology 
+SAR,Saratoga Investment 
+VLN,Valens Semiconductor 
+NREF,NexPoint Real Estate Finance 
+ZVIA,Zevia PBC
+NGS,Natural Gas Services Group 
+BRT,BRT Apartments 
+GTNA,Gray Media 
+EB,Eventbrite 
+BNED,Barnes & Noble Education 
+SES,SES AI 
+YSG,Yatsen  
+CVEO,Civeo 
+IPI,Intrepid Potash 
+MTW,The Manitowoc  
+MEC,Mayville Engineering  
+HRTG,Heritage Insurance  
+HYAC,Haymaker Acquisition  4
+MPX,Marine Products 
+GTN,Gray Media 
+RMAX,RE/MAX  
+ORN,Orion Group  
+NRGV,Energy Vault  
+MBI,MBIA 
+TBN,Tamboran Resources 
+TPVG,TriplePoint Venture Growth BDC 
+SMRT,SmartRent 
+VPG,Vishay Precision Group 
+NRDY,Nerdy 
+MG,Mistras Group 
+PKE,Park Aerospace 
+JACS,Jackson Acquisition  II
+ZH,Zhihu 
+CBAN,Colony Bankcorp 
+FOA,Finance of America Companies 
+DBI,Designer Brands 
+WTI,W&T Offshore 
+CPS,Cooper-Standard  
+BYON,Beyond Meat
+ONTF,ON24 
+ONIT,Onity Group 
+TG,Tredegar 
+PERF,Perfect Corp
+FTK,Flotek Industries 
+SKIL,Skillsoft 
+MPLN,MultiPlan 
+SBXD,SilverBox Corp IV
+AZUL,Azul SA
+ARL,American Realty Investors 
+NMG,Nouveau Monde Graphite 
+GHG,GreenTree Hospitality Group 
+TCI,Transcontinental Realty Investors 
+ALTG,Alta Equipment Group 
+AEVA,Aeva Technologies 
+HBB,Hamilton Beach Brands  
+AOMR,Angel Oak Mortgage REIT 
+CLBR,Colombier Acquisition  II
+FF,FutureFuel 
+AMPY,Amplify Energy 
+LANV,Lanvin Group  
+TBI,TrueBlue 
+CIA,Citizens Inc
+NC,NACCO Industries 
+KFS,Kingsway Financial Services 
+SRG,Seritage Growth Properties
+DSX,Diana Shipping 
+ONL,Orion Office REIT 
+HSHP,Himalaya Shipping 
+ODV,Osisko Development 
+EVC,Entravision Communications 
+SJT,San Juan Basin Royalty Trust
+CIO,City Office REIT 
+PSQH,PSQ  
+SMHI,SEACOR Marine  
+BHR,Braemar Hotels & Resorts 
+DLNG,Dynagas LNG Partners LP
+EQC,Equity Commonwealth
+CCRD,CoreCard 
+ADCT,ADC Therapeutics SA
+AXR,AMREP 
+NVRO,Nevro 
+CLPR,Clipper Realty 
+MED,Medifast 
+CBNA,Chain Bridge Bancorp 
+MDV,Modiv Industrial 
+MX,Magnachip Semiconductor 
+CHGG,Chegg 
+TSE,Trinseo PLC
+BW,Babcock & Wilcox Enterprises 
+PHX,PHX Minerals 
+SPCE,Virgin Galactic  
+GPMT,Granite Point Mortgage Trust 
+AMWL,American Well 
+AVD,American Vanguard 
+TSQ,Townsquare Media 
+WBX,Wallbox NV
+FRGE,Forge Global  
+CMCM,Cheetah Mobile 
+CRNG,CorEnergy Infrastructure Trust 
+LFT,Lument Finance Trust 
+RPT,Rithm Property Trust 
+ACR,ACRES Commercial Realty 
+WHG,Westwood  Group 
+ANRO,Alto Neuroscience 
+TLYS,Tilly's 
+GCTS,GCT Semiconductor  
+SRL,Scully Royalty 
+UFI,Unifi 
+OCFT,OneConnect Financial Technology  
+SKLZ,Skillz 
+DHX,DHI Group 
+CHMI,Cherry Hill Mortgage Investment 
+DTC,Solo Brands 
+RBOT,Vicarious Surgical 
+IH,iHuman 
+VOC,VOC Energy Trust
+CNF,CNFinance  
+STG,Sunlands Technology Group
+SQNS,Sequans Communications SA
+OPAD,Offerpad Solutions 
+DM,Desktop Metal 
+CATO,The Cato 
+TISI,Team Inc
+MKFG,Markforged  
+ANVS,Annovis Bio 
+CULP,Culp 
+OWLT,Owlet 
+VATE,INNOVATE 
+GWH,ESS Tech 
+AMTD,AMTD IDEA Group
+CRT,Cross Timbers Royalty Trust
+NEUE,NeueHealth 
+SRFM,Surf Air Mobility 
+BGSF,BGSF 
+SST,System1 
+NTZ,Natuzzi SpA
+GEC,Great Elm Group 
+SPRU,Spruce Power  
+AP,Ampco-Pittsburgh 
+GROV,Grove Collaborative  
+PVL,Permianville Royalty Trust
+AHT,Ashford Hospitality Trust 
+BEDU,Bright Scholar Education  
+PRT,PermRock Royalty Trust
+RFL,Rafael  
+NRT,North European Oil Royalty Trust
+ZEPP,Zepp Health 
+BODI,The Beachbody  
+VNCE,Vince Holdings
+VHC,VirnetX  
+ENZ,Enzo Biochem 
+BTCM,BIT Mining 
+LICY,Li-Cycle  
+FENG,Phoenix New Media 
+KUKE,Kuke Music  
+LITB,LightInTheBox   
+FEDU,Four Seasons Education (Cayman) 
+MOGU,MOGU 
+CCM,Concord Medical Services  
+LOCL,Local Bounti 
+PNST,Pinstripes  
+EQS,Equus Total Return 
+XIN,Xinyuan Real Estate  
+MTR,Mesa Royalty Trust
+ENFY,Enlightify 
+BPT,BP Prudhoe Bay Royalty Trust
+ALUR,Allurion Technologies 
+$META,Meta Platforms  
+$COST,Costco 
+$LIN,Linde 
+$PEP,PepsiCo  
+$ARM,Arm  
+$GILD,Gilead Sciences  
+$MU,Micron Technology  
+$ADI,Analog Devices  
+$MAR,Marriott International  
+$DASH,DoorDash  
+$ORLY,O'Reilly Automotive  
+$COIN,Coinbase Global  
+$TEAM,Atlassian 
+$FANG,Diamondback Energy  
+$LULU,Lululemon Athletica 
+$AXON,Axon Enterprise  
+$FAST,Fastenal 
+$HOOD,Robinhood Markets  
+$FER,Ferrovial SE
+$ERIC,Telefonaktiebolaget LM Ericsson (publ)
+$TROW,T Rowe Price  
+$ON,ON Semiconductor 
+$LI,Li Auto 
+$FOX,Fox 
+$COO,The Cooper Companies 
+$GRAB,Grab  
+$Z,Zillow  
+$GEN,Gen Digital 
+$FLEX,Flex 
+$MORN,Morningstar 
+$LINE,Lineage 
+$POOL,Pool 
+$REG,Regency Centers 
+$AAL,American Airlines  
+$CART,Maplebear 
+$COKE,Coca-Cola Consolidated 
+$NICE,NICE 
+$WYNN,Wynn Resorts 
+$ZION,Zions Ban National Association
+$WING,Wingstop 
+$HAS,Hasbro 
+$JAZZ,Jazz Pharmaceuticals 
+$STEP,StepStone  
+$PARA,Paramount Global
+$HALO,Halozyme Therapeutics 
+$OS,OneStream 
+$WAY,Waystar Holding 
+$COOP,Mr Cooper  
+$MAT,Mattel 
+$MARA,MARA  
+$CALM,Cal-Maine Foods 
+$CRUS,Cirrus Logic 
+$IONS,Ionis Pharmaceuticals 
+$FIVE,Five Below 
+$ROAD,Construction Partners 
+$ACT,Enact  
+$LOPE,Grand Canyon Education 
+$PONY,Pony AI 
+$NARI,Inari Medical 
+$EXPO,Exponent 
+$IEP,Icahn Enterprises LP
+$RELY,Remitly Global 
+$RIOT,Riot Platforms 
+$SLAB,Silicon Laboratories 
+$FIZZ,National Beverage 
+$DORM,Dorman Products 
+$PI,Impinj 
+$RARE,Ultragenyx Pharmaceutical 
+$FROG,JFrog 
+$CATY,Cathay General Ban
+$FORM,FormFactor 
+$FA,First Advantage 
+$CAR,Avis Budget  
+$RUM,Rumble 
+$WEN,The Wendy's 
+$PENN,PENN Entertainment 
+$SHOO,Steven Madden 
+$FOLD,Amicus Therapeutics 
+$TOWN,TowneBank
+$CAKE,The Cheesecake Factory Inorated
+$ODD,Oddity Tech 
+$PLUG,Plug Power 
+$HUT,Hut 8 
+$CENT,Central Garden & Pet 
+$RUN,Sunrun 
+$LOT,Lotus Technology 
+$VERA,Vera Therapeutics 
+$TRIP,Tripadvisor 
+$CHEF,The Chefs' Warehouse 
+$NEXT,NextDecade 
+$PLUS,ePlus 
+$COCO,The Vita Coco  
+$LION,Lionsgate Studios 
+$AGIO,Agios Pharmaceuticals 
+$CASH,Pathward Financial 
+$BEAM,Beam Therapeutics 
+$ROCK,Gibraltar Industries 
+$IRON,Disc Medicine 
+$IQ,iQIYI 
+$TARS,Tarsus Pharmaceuticals 
+$PAX,Patria Investments 
+$GO,Grocery Outlet Holding 
+$TASK,TaskUs 
+$HOPE,Hope Ban 
+$TILE,Interface 
+$UNIT,Uniti  
+$FORTY,Formula Systems (1985) 
+$LILA,Liberty Latin America 
+$ROOT,Root 
+$DAWN,Day One Biopharmaceuticals 
+$SPRY,ARS Pharmaceuticals 
+$DAVE,Dave 
+$OPEN,Opendoor Technologies 
+$WOOF,Petco Health and Wellness  
+$GOGO,Gogo 
+$REAL,The RealReal 
+$SEAT,Vivid Seats 
+$ESTA,Establishment Labs  
+$ZYME,Zymeworks 
+$PLAY,Dave & Buster's Entertainment 
+$EH,EHang  
+$GYRE,Gyre Therapeutics 
+$AVO,Mission Produce 
+$EYE,National Vision  
+$BASE,Couchbase 
+$SWIM,Latham  
+$LAB,Standard BioTools 
+$JACK,Jack in the Box 
+$GOOD,Gladstone Commercial 
+$EVER,EverQuote 
+$GLAD,Gladstone Capital 
+$LIND,Lindblad Expeditions  
+$KIDS,OrthoPediatrics 
+$WASH,Washington Trust Ban 
+$OPT,Opthea 
+$OUST,Ouster 
+$WEST,Westrock Coffee 
+$CAN,Canaan 
+$ANNA,AleAnna 
+$FARO,FARO Technologies 
+$CASS,Cass Information Systems 
+$OPAL,OPAL Fuels 
+$ERAS,Erasca 
+$OMER,Omeros 
+$TREE,LendingTree 
+$TALK,Talkspace 
+$HONE,HarborOne Ban 
+$GAMB,Gambling  
+$PHAT,Phathom Pharmaceuticals 
+$GAIN,Gladstone Investment 
+$RICK,RCI Hospitality  
+$ALT,Altimmune 
+$SAGE,Sage Therapeutics 
+$BAND,Bandwidth 
+$PERI,Perion Network 
+$ALMS,Alumis 
+$HIVE,HIVE Digital Technologies 
+$CARE,Carter Bankshares 
+$LOVE,The Lovesac 
+$TERN,Terns Pharmaceuticals 
+$AURA,Aura Biosciences 
+$LAND,Gladstone Land 
+$GLUE,Monte Rosa Therapeutics 
+$WALD,Waldencast 
+$GILT,Gilat Satellite Networks 
+$ZEUS,Olympic Steel 
+$POET,POET Technologies 
+$ALF,Centurion Acquisition 
+$LOCO,El Pollo Loco  
+$GIG,GigCapital7 
+$NEWT,NewtekOne 
+$DADA,Dada Nexus 
+$ATOM,Atomera Inorated
+$CUB,Lionheart 
+$SIMA,SIM Acquisition  I
+$HIT,Health In Tech 
+$TRUE,TrueCar 
+$POLE,Andretti Acquisition  II
+$IBEX,IBEX 
+$MAMA,Mama's Creations 
+$AIRS,AirSculpt Technologies 
+$PAL,Proficient Auto Logistics 
+$FLIC,The First of Long Island 
+$LUNG,Pulmonx 
+$DRUG,Bright Minds Biosciences 
+$EM,Smart Share Global 
+$FACT,FACT II Acquisition 
+$LIEN,Chicago Atlantic BDC 
+$SANG,Sangoma Technologies 
+$SERA,Sera Prognostics 
+$PROF,Profound Medical 
+$MAPS,WM Technology 
+$SOPH,SOPHiA GENETICS SA
+$RAIL,FreightCar America 
+$LAKE,Lakeland Industries 
+$SKIN,The Beauty Health 
+$ESSA,ESSA Ban 
+$KINS,Kingstone Companies 
+$PROP,Prairie Operating Co
+$TOYO,TOYO Co 
+$ALEC,Alector 
+$PAYS,Paysign 
+$RAPT,RAPT Therapeutics 
+$TWIN,Twin Disc Inorated
+$TUSK,Mammoth Energy Services 
+$REE,REE Automotive 
+$RENE,Cartesian Growth  II
+$BOOM,DMC Global 
+$FATE,Fate Therapeutics 
+$SHIP,Seanergy Maritime  
+$TIL,Instil Bio 
+$SEER,Seer 
+$E,The Children's Place 
+$DIBS,1stdibs 
+$LARK,Landmark Ban 
+$NEON,Neonode 
+$MIST,Milestone Pharmaceuticals 
+$ALTO,Alto Ingredients 
+$GATE,Marblegate Acquisition 
+$TOUR,Tuniu 
+$CHAR,Charlton Aria Acquisition 
+$ZENA,ZenaTech 
+$TELA,TELA Bio 
+$PETS,PetMed Express 
+$RANG,Range Capital Acquisition 
+$ABOS,Acumen Pharmaceuticals 
+$CURR,CURRENC  
+$MASS,908 Devices 
+$EDIT,Editas Medicine 
+$ELVA,Electrovaya 
+$MIMI,Mint In 
+$BRAG,Bragg Gaming  
+$SUNS,Sunrise Realty Trust 
+$TARA,Protara Therapeutics 
+$CODA,Coda Octopus  
+$WRAP,Wrap Technologies 
+$FAT,FAT Brands 
+$CAMP,Camp4 Therapeutics 
+$MAYS,JW Mays 
+$ME,23andMe Holding Co
+$GUTS,Fractyl Health 
+$ALTS,ALT5 Sigma 
+$SKYE,Skye Bioscience 
+$GAN,GAN 
+$SHIM,Shimmick 
+$CUE,Cue Biopharma 
+$LEE,Lee Enterprises Inorated
+$BLUE,bluebird bio 
+$DERM,Journey Medical 
+$HOUR,Hour Loop 
+$RANI,Rani Therapeutics  
+$ALAR,Alarum Technologies 
+$PRE,Prenetics Global 
+$LASE,Laser Photonics 
+$OSS,One Stop Systems 
+$WOK,WORK Medical Technology  
+$FORA,Forian 
+$LOAN,Manhattan Bridge Capital 
+$MIND,MIND Technology 
+$MURA,Mural Oncology 
+$KOSS,Koss 
+$HOWL,Werewolf Therapeutics 
+$LINK,Interlink Electronics 
+$BEAT,HeartBeam 
+$MATH,Metalpha Technology Holding 
+$SELF,Global Self Storage 
+$PITA,Heramba Electric 
+$TORO,Toro 
+$BOLD,Boundless Bio 
+$AIRT,Air T 
+$BIRD,Allbirds 
+$RAND,Rand Capital 
+$TOP,TOP Financial  
+$MESA,Mesa Air  
+$WAVE,Eco Wave Power Global AB (publ)
+$LOOP,Loop Industries 
+$JUNE,Junee 
+$TACT,TransAct Technologies Inorated
+$ZAP,Global X Funds - US Electrification Etf
+$OM,Outset Medical 
+$CASI,CASI Pharmaceuticals 
+$RAVE,Rave Restaurant  
+$EBON,Ebang International  
+$MOVE,Movano 
+$TURN,180 Degree Capital 
+$RAYA,Erayak Power Solution  
+$SHOT,Safety Shot 
+$FARM,Farmer Bros Co
+$RENT,Rent the Runway 
+$KALA,KALA BIO 
+$GROW,US Global Investors 
+$SABS,SAB Biotherapeutics 
+$FLUX,Flux Power  
+$RAIN,Rain Enhancement Technologies Holdco 
+$DARE,Daré Bioscience 
+$LIVE,Live Ventures Inorated
+$MASK,3 E Network Technology  
+$COOT,Australian Oilseeds  
+$CRIS,Curis 
+$GIFT,Giftify 
+$GAME,GameSquare  
+$SAG,SAG  
+$HOOK,HOOKIPA Pharma 
+$MOB,Mobilicom 
+$ANY,Sphere 3D 
+$ERNA,Eterna Therapeutics 
+$RAY,Raytech Holding 
+$CARA,Cara Therapeutics 
+$GREE,Greenidge Generation  
+$KIRK,Kirkland's 
+$GYRO,Gyrodyne LLC
+$BOLT,Bolt Biotherapeutics 
+$MIRA,MIRA Pharmaceuticals 
+$GELS,Gelteq 
+$DUO,Fangdd Network  
+$ASPS,Altisource Portfolio Solutions SA
+$BLIN,Bridgeline Digital 
+$ELSE,Electro-Sensors 
+$DEVS,DevvStream 
+$PT,Pintec Technology  
+$TAIT,Taitron Components Inorated
+$SWAG,Stran &  
+$LUCY,Innovative Eyewear 
+$PET,Wag!  Co
+$MYNA,Mynaric AG
+$LOBO,Lobo EV Technologies 
+$PC,Premium Catering () 
+$SEED,Origin Agritech 
+$BREA,Brera  
+$OP,OceanPal 
+$SILO,Silo Pharma 
+$EYEN,Eyenovia 
+$ANTE,AirNet Technology 
+$CASK,Heritage Distilling Holding  
+$FORD,Forward Industries 
+$VERB,Verb Technology  
+$WATT,Energous 
+$CERO,CERo Therapeutics  
+$RIME,Algorhythm  
+$EAST,Eastside Distilling 
+$ICON,Icon Energy 
+$BACK,IMAC  
+$ADD,Color Star Technology Co 
+$V,Visa Inc
+$MA,Mastercard Incorporated
+$SAP,SAP SE
+$NOW,ServiceNow 
+$SHEL,Shell plc
+$BABA,Alibaba Group  
+$PM,Philip Morris International 
+$CAT,Caterpillar 
+$T,AT&T 
+$ANET,Arista Networks Inc
+$C,Citigroup 
+$LOW,Lowe's Companies 
+$NEE,NextEra Energy 
+$COP,ConocoPhillips
+$SHOP,Shopify 
+$BA,The Boeing 
+$DE,Deere & Co
+$UPS,United Parcel Service 
+$SPOT,Spotify Technology SA
+$BUD,Anheuser-Busch InBev SA/NV
+$SO,The Southern 
+$MO,Altria Group 
+$ICE,Intercontinental Exchange 
+$WELL,Welltower 
+$RACE,Ferrari NV
+$MMM,3M Co
+$DELL,Dell Technologies 
+$SAN,Banco Santander SA
+$ET,Energy Transfer LP
+$OKE,ONEOK 
+$MET,MetLife 
+$ARES,Ares Management 
+$SNOW,Snowflake 
+$GM,General Motors 
+$NU,Nu  Ltd
+$AZO,AutoZone 
+$AMP,Ameriprise Financial 
+$URI,United Rentals 
+$ALL,The Allstate 
+$OXY,Occidental Petroleum 
+$O,Realty Income 
+$HES,Hess 
+$D,Dominion Energy 
+$FICO,Fair Isaac 
+$PEG,Public Service Enterprise Group Incorporated
+$ATE,Advantest 
+$PRU,Prudential Financial 
+$A,Agilent Technologies 
+$AME,AMETEK 
+$F,Ford Motor 
+$NET,Cloudflare 
+$IT,Gartner 
+$VALE,Vale SA
+$LEN,Lennar 
+$OTIS,Otis Worldwide 
+$HUBS,HubSpot 
+$OWL,Blue Owl Capital 
+$WAB,Westinghouse Air Brake Technologies 
+$WIT,Wipro 
+$HUM,Humana 
+$ED,Consolidated Edison 
+$DECK,Deckers Outdoor 
+$DOW,Dow Jones
+$KEYS,Keysight Technologies 
+$K,Kellanova
+$GOLD,Barrick Gold 
+$EL,The Estée Lauder Companies 
+$DOV,Dover 
+$HAL,Halliburton 
+$GIB,CGI Inc
+$WAT,Waters Corp
+$EME,EMCOR Group 
+$TOST,Toast Inc
+$BCE,BCE 
+$ES,Eversource Energy
+$PINS,Pinterest 
+$KEY,KeyCorp
+$ESS,Essex Property Trust 
+$L,Loews 
+$BURL,Burlington Stores 
+$SNAP,Snap Inc
+$FIX,Comfort Systems USA 
+$ARE,Alexandria Real Estate Equities 
+$RYAN,Ryan Specialty  
+$BAH,Booz Allen Hamilton  
+$J,Jacobs Solutions 
+$MAS,Masco 
+$AS,Amer Sports 
+$BALL,Ball Corp
+$WES,Western Midstream Partners LP
+$JEF,Jefferies Financial Group 
+$KIM,Kimco Realty 
+$H,Hyatt Hotels 
+$DOC,Healthpeak Properties 
+$BIP,Brookfield Infrastructure Partners LP
+$ELS,Equity LifeStyle Properties 
+$VIV,Telefônica Brasil SA
+$AR,Antero Resources 
+$ALB,Albemarle 
+$TAP,Molson Coors Beverage 
+$TAPA,Molson Coors Beverage 
+$BIRK,Birkenstock  plc
+$ALLY,Ally Financial 
+$DAY,Dayforce 
+$ONTO,Onto Innovation 
+$FOUR,Shift4 Payments 
+$BEN,Franklin Resources 
+$AA,Alcoa 
+$PEN,Penumbra 
+$DOCS,Doximity 
+$AIT,Applied Industrial Technologies 
+$PAC,Grupo Aeroportuario del Pacífico SAB de CV
+$BIO,Bio-Rad Laboratories 
+$CUBE,CubeSmart
+$LAD,Lithia Motors 
+$GLOB,Globant SA
+$BILL,Bill Holdings
+$SUM,Summit Materials 
+$KEP,Korea Electric Power 
+$GAP,The Gap 
+$U,Unity Software 
+$CHE,Chemed 
+$X,United States Steel 
+$G,Genpact 
+$AM,Antero Midstream 
+$GIL,Gildan Activewear 
+$SUN,Sunoco LP
+$AN,AutoNation 
+$S,SentinelOne 
+$PATH,UiPath 
+$ELF,elf Beauty 
+$R,Ryder System 
+$MOD,Modine Manufacturing 
+$LEVI,Levi Strauss & 
+$DINO,HF Sinclair 
+$CADE,Cadence Bank
+$SITE,SiteOne Landscape Supply 
+$KEX,Kirby 
+$EAT,Brinker International 
+$POST,Post Holdings
+$JOBY,Joby Aviation 
+$STAG,STAG Industrial 
+$COLD,Americold Realty Trust 
+$ELAN,Elanco Animal Health Incorporated
+$MC,Moelis & 
+$IDA,IDACORP 
+$W,Wayfair 
+$BE,Bloom Energy 
+$THO,THOR Industries 
+$PAM,Pampa Energía SA
+$MAIN,Main Street Capital 
+$SKY,Champion Homes 
+$AL,Air Lease 
+$LEA,Lear Corp
+$MAC,The Macerich 
+$SEE,Sealed Air 
+$BOOT,Boot Barn  
+$GEO,The GEO Group 
+$PHI,PLDT 
+$SON,Sonoco Products 
+$AGO,Assured Guaranty 
+$PRIM,Primoris Services 
+$BOX,Box Inc
+$GOLF,Acushnet  
+$BC,Brunswick 
+$FUN,Six Flags Entertainment 
+$ZETA,Zeta Global  
+$KAI,Kadant 
+$ST,Sensata Technologies  plc
+$NOG,Northern Oil and Gas 
+$AI,C3ai 
+$FLO,Flowers Foods 
+$ORA,Ormat Technologies 
+$ENS,EnerSys
+$M,Macy's 
+$FRO,Frontline plc
+$AUB,Atlantic Union Bankshares 
+$ALE,ALLETE 
+$PAY,Paymentus  
+$COMP,Compass 
+$MHO,M/I Homes 
+$HOG,Harley-Davidson 
+$HAE,Haemonetics 
+$YOU,Clear Secure 
+$ALIT,Alight 
+$RIG,Transocean 
+$DEI,Douglas Emmett 
+$OR,Osisko Gold Royalties Ltd
+$MIR,Mirion Technologies 
+$VAL,Valaris 
+$ASH,Ashland 
+$IFS,Intercorp Financial Services 
+$YETI,YETI  
+$OUT,OUTFRONT Media 
+$HUN,Huntsman 
+$EGO,Eldorado Gold 
+$AVA,Avista 
+$BUR,Burford Capital 
+$SAM,The Boston Beer  
+$PAR,PAR Technology 
+$JOE,The St Joe 
+$MAN,ManpowerGroup 
+$CON,Concentra Group  Parent 
+$YELP,Yelp 
+$FLOC,Flowco  
+$AIN,Albany International 
+$CALX,Calix 
+$SIG,Signet Jewelers 
+$AIR,AAR 
+$CURB,Curbline Properties 
+$B,Barnes Group 
+$HI,Hillenbrand 
+$PACS,PACS Group 
+$SEI,Solaris Energy Infrastructure 
+$RAMP,LiveRamp  
+$AGMA,Federal Agricultural Mortgage 
+$DAN,Dana Incorporated
+$LOB,Live Oak Bancshares 
+$ROG,Rogers 
+$SID,Companhia Siderúrgica Nacional
+$AG,First Majestic Silver 
+$KEN,Kenon  
+$SAND,Sandstorm Gold 
+$KOS,Kosmos Energy 
+$CODI,Compass Diversified
+$HE,Hawaiian Electric Industries 
+$VET,Vermilion Energy 
+$ARCO,Arcos Dorados  
+$RES,RPC 
+$LUCK,Lucky Strike Entertainment 
+$LEG,Leggett & Platt Incorporated
+$DEA,Easterly Government Properties 
+$FOR,Forestar Group 
+$GEL,Genesis Energy LP
+$ALEX,Alexander & Baldwin 
+$BY,Byline Bancorp 
+$DOLE,Dole plc
+$ARI,Apollo Commercial Real Estate Finance 
+$TWO,Two Harbors Investment 
+$SAFE,Safehold 
+$ARLO,Arlo Technologies 
+$CARS,Carscom 
+$UP,Wheels Up Experience 
+$PUMP,ProPetro  
+$BOW,Bowhead Specialty  
+$PRO,PROS  
+$PARR,Par Pacific  
+$FIGS,FIGS 
+$GOOS,Canada Goose  
+$WOLF,Wolfspeed 
+$HY,Hyster-Yale 
+$KIND,Nextdoor  
+$TV,Grupo Televisa SAB
+$INN,Summit Hotel Properties 
+$MEG,Montrose Environmental Group 
+$AC,Associated Capital Group 
+$LAC,Lithium Americas 
+$MAX,MediaAlpha 
+$REX,REX American Resources 
+$NOAH,Noah  
+$ORC,Orchid Island Capital 
+$ZIP,ZipRecruiter 
+$CAL,Caleres 
+$KOP,Koppers  
+$CSV,Carriage Services 
+$AMPS,Altus Power 
+$CION,CION Investment 
+$NAT,Nordic American Tankers 
+$PLOW,Douglas Dynamics 
+$TEN,Tsakos Energy Navigation 
+$PACK,Ranpak  
+$MEI,Methode Electronics 
+$JILL,JJill 
+$DIN,Dine Brands Global 
+$NOVA,Sunnova Energy International 
+$WOW,WideOpenWest 
+$QUAD,Quad/Graphics 
+$NUS,Nu Skin Enterprises 
+$BARK,BARK 
+$COOK,Traeger 
+$ACRE,Ares Commercial Real Estate 
+$LAW,CS Disco 
+$GHI,Greystone Housing Impact Investors LP
+$PINE,Alpine Income Property Trust 
+$FET,Forum Energy Technologies 
+$KNOP,KNOT Offshore Partners LP
+$AKA,aka Brands  
+$MITT,AG Mortgage Investment Trust 
+$EARN,Ellington Credit 
+$NOTE,FiscalNote  
+$SRI,Stoneridge 
+$DOUG,Douglas Elliman 
+$STEM,Stem 
+$SOL,Emeren Group Ltd
+$LON,Loncor Gold 
+$SUP,Superior Industries International 
+$BEST,Best Inc
+$NINE,Nine Energy Service 
+$KORE,KORE Group  
+$SOS,SOS Ltd
+$NYC,American Strategic Investment 
+AAPL,$AAPL
+NVDA,$NVDA
+MSFT,$MSFT
+GOOG,$GOOG
+AMZN,$AMZN
+TSLA,$TSLA
+AVGO,$AVGO
+NFLX,$NFLX
+ASML,$ASML
+TMUS,$TMUS
+CSCO,$CSCO
+ISRG,$ISRG
+AZN,$AZN
+AMD,$AMD
+QCOM,$QCOM
+ADBE,$ADBE
+TXN,$TXN
+INTU,$INTU
+BKNG,$BKNG
+PLTR,$PLTR
+AMAT,$AMAT
+AMGN,$AMGN
+HON,$HON
+PDD,$PDD
+CMCSA,$CMCSA
+SNY,$SNY
+ADP,$ADP
+PANW,$PANW
+APP,$APP
+VRTX,$VRTX
+SBUX,$SBUX
+MRVL,$MRVL
+LRCX,$LRCX
+KLAC,$KLAC
+CEG,$CEG
+MELI,$MELI
+PYPL,$PYPL
+CRWD,$CRWD
+MSTR,$MSTR
+EQIX,$EQIX
+INTC,$INTC
+ABNB,$ABNB
+CDNS,$CDNS
+CME,$CME
+CTAS,$CTAS
+SNPS,$SNPS
+MDLZ,$MDLZ
+REGN,$REGN
+FTNT,$FTNT
+WDAY,$WDAY
+NTES,$NTES
+CSX,$CSX
+ADSK,$ADSK
+TTD,$TTD
+PCAR,$PCAR
+ROP,$ROP
+CHTR,$CHTR
+CPRT,$CPRT
+NXPI,$NXPI
+PAYX,$PAYX
+JD,$JD
+AEP,$AEP
+ROST,$ROST
+MNST,$MNST
+DDOG,$DDOG
+BKR,$BKR
+NDAQ,$NDAQ
+TCOM,$TCOM
+KDP,$KDP
+ODFL,$ODFL
+ARGX,$ARGX
+VRSK,$VRSK
+CTSH,$CTSH
+GEHC,$GEHC
+EXC,$EXC
+XEL,$XEL
+EA,$EA
+ACGL,$ACGL
+CCEP,$CCEP
+KHC,$KHC
+IDXX,$IDXX
+UAL,$UAL
+ALNY,$ALNY
+TTWO,$TTWO
+WTW,$WTW
+DXCM,$DXCM
+EBAY,$EBAY
+MCHP,$MCHP
+TW,$TW
+FCNCA,$FCNCA
+CSGP,$CSGP
+ANSS,$ANSS
+FCNCO,$FCNCO
+FITB,$FITB
+MPWR,$MPWR
+ZS,$ZS
+BIDU,$BIDU
+TSCO,$TSCO
+BNTX,$BNTX
+LPLA,$LPLA
+CDW,$CDW
+HBAN,$HBAN
+ZM,$ZM
+EXE,$EXE
+NTAP,$NTAP
+TPG,$TPG
+WBD,$WBD
+EXPE,$EXPE
+GFS,$GFS
+FWONK,$FWONK
+NTRA,$NTRA
+FWONA,$FWONA
+WDC,$WDC
+PTC,$PTC
+FOXA,$FOXA
+CINF,$CINF
+TER,$TER
+ILMN,$ILMN
+VOD,$VOD
+ONC,$ONC
+SBAC,$SBAC
+NTRS,$NTRS
+ERIE,$ERIE
+ALAB,$ALAB
+ZBRA,$ZBRA
+BIIB,$BIIB
+RYAAY,$RYAAY
+IBKR,$IBKR
+VRSN,$VRSN
+CHKP,$CHKP
+FSLR,$FSLR
+STX,$STX
+SSNC,$SSNC
+CG,$CG
+STLD,$STLD
+ULTA,$ULTA
+DKNG,$DKNG
+JBHT,$JBHT
+PODD,$PODD
+DOCU,$DOCU
+PFG,$PFG
+AFRM,$AFRM
+SMCI,$SMCI
+RPRX,$RPRX
+MDB,$MDB
+TRMB,$TRMB
+NTNX,$NTNX
+KSPI,$KSPI
+CYBR,$CYBR
+ZG,$ZG
+SOFI,$SOFI
+MANH,$MANH
+ICLR,$ICLR
+NWS,$NWS
+UTHR,$UTHR
+ALGN,$ALGN
+AZPN,$AZPN
+SYM,$SYM
+NWSA,$NWSA
+HOLX,$HOLX
+ENTG,$ENTG
+FFIV,$FFIV
+WMG,$WMG
+DLTR,$DLTR
+LNT,$LNT
+SWKS,$SWKS
+ARCC,$ARCC
+BSY,$BSY
+CASY,$CASY
+NBIX,$NBIX
+OKTA,$OKTA
+DPZ,$DPZ
+RIVN,$RIVN
+EVRG,$EVRG
+DUOL,$DUOL
+SFM,$SFM
+INCY,$INCY
+EWBC,$EWBC
+PAA,$PAA
+AKAM,$AKAM
+VTRS,$VTRS
+MBLY,$MBLY
+WIX,$WIX
+ITCI,$ITCI
+SMMT,$SMMT
+MRNA,$MRNA
+GLPI,$GLPI
+ESLT,$ESLT
+GMAB,$GMAB
+LOGI,$LOGI
+SAIA,$SAIA
+CRDO,$CRDO
+INSM,$INSM
+JKHY,$JKHY
+RKLB,$RKLB
+LAMR,$LAMR
+CHRW,$CHRW
+HST,$HST
+NDSN,$NDSN
+GGAL,$GGAL
+TXRH,$TXRH
+TECH,$TECH
+FTAI,$FTAI
+BMRN,$BMRN
+MNDY,$MNDY
+MMYT,$MMYT
+CPB,$CPB
+AUR,$AUR
+SRPT,$SRPT
+NEUP,$NEUP
+TTEK,$TTEK
+PCVX,$PCVX
+ROKU,$ROKU
+FUTU,$FUTU
+WWD,$WWD
+PCTY,$PCTY
+PPC,$PPC
+LBRDK,$LBRDK
+LECO,$LECO
+LBRDA,$LBRDA
+WBA,$WBA
+EXEL,$EXEL
+AAON,$AAON
+SEIC,$SEIC
+TLN,$TLN
+MEDP,$MEDP
+GTLB,$GTLB
+MTSI,$MTSI
+MRNO,$MRNO
+EXAS,$EXAS
+HTHT,$HTHT
+LKQ,$LKQ
+VFS,$VFS
+VNOM,$VNOM
+DSGX,$DSGX
+DOX,$DOX
+DBX,$DBX
+APA,$APA
+ALTR,$ALTR
+CHDN,$CHDN
+GLBE,$GLBE
+DRS,$DRS
+MASI,$MASI
+PNFP,$PNFP
+LCID,$LCID
+CFLT,$CFLT
+APPF,$APPF
+RGLD,$RGLD
+ENPH,$ENPH
+WTFC,$WTFC
+HSIC,$HSIC
+TTAN,$TTAN
+DJT,$DJT
+FYBR,$FYBR
+RGEN,$RGEN
+HQY,$HQY
+BRKR,$BRKR
+NBIS,$NBIS
+VERX,$VERX
+CBSH,$CBSH
+PEGA,$PEGA
+AGNC,$AGNC
+MKTX,$MKTX
+FSV,$FSV
+HLNE,$HLNE
+ASND,$ASND
+ROIV,$ROIV
+MTCH,$MTCH
+FRHC,$FRHC
+LSCC,$LSCC
+CHRD,$CHRD
+ONB,$ONB
+MKSI,$MKSI
+LNW,$LNW
+ENSG,$ENSG
+MIDD,$MIDD
+EXLS,$EXLS
+PARAA,$PARAA
+FRPT,$FRPT
+RVMD,$RVMD
+OTEX,$OTEX
+SIRI,$SIRI
+BECN,$BECN
+CCCS,$CCCS
+UFPI,$UFPI
+BOKF,$BOKF
+CWST,$CWST
+CZR,$CZR
+BPOP,$BPOP
+CVLT,$CVLT
+SPSC,$SPSC
+HCP,$HCP
+QRVO,$QRVO
+SATS,$SATS
+BILI,$BILI
+OLED,$OLED
+CIGI,$CIGI
+NVMI,$NVMI
+BPMC,$BPMC
+WSC,$WSC
+BBIO,$BBIO
+CGNX,$CGNX
+LNTH,$LNTH
+CELH,$CELH
+XP,$XP
+CSWI,$CSWI
+LLYVK,$LLYVK
+LLYVA,$LLYVA
+RMBS,$RMBS
+LSTR,$LSTR
+SMTC,$SMTC
+ASTS,$ASTS
+GNTX,$GNTX
+AMKR,$AMKR
+NXT,$NXT
+QXO,$QXO
+BZ,$BZ
+LITE,$LITE
+CROX,$CROX
+ETSY,$ETSY
+SLM,$SLM
+MDGL,$MDGL
+COLB,$COLB
+SRAD,$SRAD
+OLLI,$OLLI
+MMSI,$MMSI
+UMBF,$UMBF
+LEGN,$LEGN
+GRFS,$GRFS
+CACC,$CACC
+LFUS,$LFUS
+UPST,$UPST
+CRVL,$CRVL
+SIGI,$SIGI
+QFIN,$QFIN
+SAIC,$SAIC
+SITM,$SITM
+TSEM,$TSEM
+CORT,$CORT
+ACIW,$ACIW
+REYN,$REYN
+VIRT,$VIRT
+LYFT,$LYFT
+CYTK,$CYTK
+NUVL,$NUVL
+CHX,$CHX
+TEM,$TEM
+STRL,$STRL
+NOVT,$NOVT
+VLY,$VLY
+FFIN,$FFIN
+TLX,$TLX
+NSIT,$NSIT
+BCPC,$BCPC
+INTA,$INTA
+WFRD,$WFRD
+UBSI,$UBSI
+KTOS,$KTOS
+SOUN,$SOUN
+OZK,$OZK
+HWC,$HWC
+IESC,$IESC
+FRSH,$FRSH
+VRNS,$VRNS
+URBN,$URBN
+CLBT,$CLBT
+FCFS,$FCFS
+QLYS,$QLYS
+OPCH,$OPCH
+RRR,$RRR
+TENB,$TENB
+PECO,$PECO
+PAGP,$PAGP
+ESGR,$ESGR
+NXST,$NXST
+COLM,$COLM
+RUSHA,$RUSHA
+ITRI,$ITRI
+ALKS,$ALKS
+AVAV,$AVAV
+RUSHB,$RUSHB
+BWIN,$BWIN
+GH,$GH
+LANC,$LANC
+AVT,$AVT
+TIGO,$TIGO
+RDNT,$RDNT
+AEIS,$AEIS
+AXSM,$AXSM
+BRZE,$BRZE
+PLXS,$PLXS
+BGC,$BGC
+SANM,$SANM
+FELE,$FELE
+IDCC,$IDCC
+SKYW,$SKYW
+GLNG,$GLNG
+EEFT,$EEFT
+SNRE,$SNRE
+TGTX,$TGTX
+ALGM,$ALGM
+FTDR,$FTDR
+IPAR,$IPAR
+LBTYK,$LBTYK
+CAMT,$CAMT
+PRCT,$PRCT
+KRYS,$KRYS
+LBTYB,$LBTYB
+LBTYA,$LBTYA
+VCTR,$VCTR
+GDS,$GDS
+NWL,$NWL
+VRRM,$VRRM
+SRRK,$SRRK
+IBOC,$IBOC
+VRNA,$VRNA
+GSHD,$GSHD
+ICUI,$ICUI
+CORZ,$CORZ
+GBDC,$GBDC
+SBRA,$SBRA
+NFE,$NFE
+ACHC,$ACHC
+ALVO,$ALVO
+PYCR,$PYCR
+ADMA,$ADMA
+BANF,$BANF
+VKTX,$VKTX
+CARG,$CARG
+NCNO,$NCNO
+DOOO,$DOOO
+CVCO,$CVCO
+BLKB,$BLKB
+FULT,$FULT
+PAYO,$PAYO
+OMAB,$OMAB
+IAC,$IAC
+BL,$BL
+AGYS,$AGYS
+ACLX,$ACLX
+TCBI,$TCBI
+PTEN,$PTEN
+ASO,$ASO
+XRAY,$XRAY
+APLS,$APLS
+IMVT,$IMVT
+USLM,$USLM
+EBC,$EBC
+ACVA,$ACVA
+POWI,$POWI
+SHC,$SHC
+ARLP,$ARLP
+TFSL,$TFSL
+ALKT,$ALKT
+ATAT,$ATAT
+CCOI,$CCOI
+PTON,$PTON
+WRD,$WRD
+CRNX,$CRNX
+ZI,$ZI
+FIBK,$FIBK
+MEOH,$MEOH
+SNEX,$SNEX
+CRSP,$CRSP
+SMPL,$SMPL
+FHB,$FHB
+RNA,$RNA
+MGEE,$MGEE
+DLO,$DLO
+AVPT,$AVPT
+RYTM,$RYTM
+CLSK,$CLSK
+PTCT,$PTCT
+HEES,$HEES
+VEON,$VEON
+NWE,$NWE
+OTTR,$OTTR
+VCYT,$VCYT
+IRTC,$IRTC
+PCH,$PCH
+SYNA,$SYNA
+WSFS,$WSFS
+IPGP,$IPGP
+AMBA,$AMBA
+PTVE,$PTVE
+BTSG,$BTSG
+NMRK,$NMRK
+IRDM,$IRDM
+WDFC,$WDFC
+DNLI,$DNLI
+CNXC,$CNXC
+BTDR,$BTDR
+RGTI,$RGTI
+XENE,$XENE
+LFST,$LFST
+PATK,$PATK
+ALRM,$ALRM
+AMED,$AMED
+POWL,$POWL
+LIF,$LIF
+BHF,$BHF
+ACAD,$ACAD
+NMIH,$NMIH
+CVBF,$CVBF
+MGRC,$MGRC
+LUNR,$LUNR
+NVCR,$NVCR
+FLNC,$FLNC
+VCEL,$VCEL
+LAUR,$LAUR
+PLMR,$PLMR
+KYMR,$KYMR
+IOSP,$IOSP
+SFNC,$SFNC
+HUBG,$HUBG
+HTLF,$HTLF
+DIOD,$DIOD
+FIVN,$FIVN
+JJSF,$JJSF
+MLTX,$MLTX
+INDB,$INDB
+CPRX,$CPRX
+OSIS,$OSIS
+PDCO,$PDCO
+PRGS,$PRGS
+TWST,$TWST
+QDEL,$QDEL
+MRUS,$MRUS
+JBLU,$JBLU
+EWTX,$EWTX
+GT,$GT
+ALHC,$ALHC
+ZLAB,$ZLAB
+FFBC,$FFBC
+TBBK,$TBBK
+PSMT,$PSMT
+PLTK,$PLTK
+TTMI,$TTMI
+WAFD,$WAFD
+STNE,$STNE
+PRVA,$PRVA
+LIVN,$LIVN
+DRVN,$DRVN
+MRCY,$MRCY
+PSNY,$PSNY
+NAMS,$NAMS
+SGRY,$SGRY
+AMRX,$AMRX
+JANX,$JANX
+RPD,$RPD
+KLIC,$KLIC
+SWTX,$SWTX
+FLYW,$FLYW
+IREN,$IREN
+NEOG,$NEOG
+GCMG,$GCMG
+APPN,$APPN
+RNW,$RNW
+BANR,$BANR
+ICFI,$ICFI
+HCM,$HCM
+MRX,$MRX
+AZTA,$AZTA
+WULF,$WULF
+ARCB,$ARCB
+FRME,$FRME
+TNDM,$TNDM
+ARWR,$ARWR
+MYRG,$MYRG
+ADUS,$ADUS
+BATRA,$BATRA
+VC,$VC
+PPBI,$PPBI
+ROIC,$ROIC
+ACLS,$ACLS
+STRA,$STRA
+MLCO,$MLCO
+HWKN,$HWKN
+EXTR,$EXTR
+BATRK,$BATRK
+APGE,$APGE
+WB,$WB
+MCW,$MCW
+SBCF,$SBCF
+UPWK,$UPWK
+WERN,$WERN
+ZD,$ZD
+MGNI,$MGNI
+PTGX,$PTGX
+VIAV,$VIAV
+NBTB,$NBTB
+MIRM,$MIRM
+KC,$KC
+LMAT,$LMAT
+VICR,$VICR
+YY,$YY
+LGIH,$LGIH
+PWP,$PWP
+TRMD,$TRMD
+TRMK,$TRMK
+WSBC,$WSBC
+EFSC,$EFSC
+SYBT,$SYBT
+TFIN,$TFIN
+SUPN,$SUPN
+HRMY,$HRMY
+SLNO,$SLNO
+AVDX,$AVDX
+CRTO,$CRTO
+LGND,$LGND
+HURN,$HURN
+PINC,$PINC
+CENTA,$CENTA
+VSEC,$VSEC
+ENLT,$ENLT
+ENVX,$ENVX
+CNTA,$CNTA
+TMDX,$TMDX
+GTX,$GTX
+IDYA,$IDYA
+CGON,$CGON
+INTR,$INTR
+TRUP,$TRUP
+HLMN,$HLMN
+OMCL,$OMCL
+OSW,$OSW
+CLOV,$CLOV
+WGS,$WGS
+UFPT,$UFPT
+HSAI,$HSAI
+CERT,$CERT
+MQ,$MQ
+MESO,$MESO
+CENX,$CENX
+NEO,$NEO
+EVCM,$EVCM
+MXL,$MXL
+HPK,$HPK
+PSEC,$PSEC
+VITL,$VITL
+ULCC,$ULCC
+CNXN,$CNXN
+GOGL,$GOGL
+RXRX,$RXRX
+CIFR,$CIFR
+CMPR,$CMPR
+GERN,$GERN
+JAMF,$JAMF
+SPT,$SPT
+TXG,$TXG
+ALGT,$ALGT
+FBNC,$FBNC
+SKWD,$SKWD
+ATRC,$ATRC
+IOVA,$IOVA
+APLD,$APLD
+SBLK,$SBLK
+PRDO,$PRDO
+PGNY,$PGNY
+GDYN,$GDYN
+CHCO,$CHCO
+LKFN,$LKFN
+WVE,$WVE
+AMPH,$AMPH
+EXPI,$EXPI
+SONO,$SONO
+IART,$IART
+MBIN,$MBIN
+STGW,$STGW
+WBTN,$WBTN
+SIMO,$SIMO
+BLTE,$BLTE
+XMTR,$XMTR
+NWBI,$NWBI
+MNKD,$MNKD
+GDRX,$GDRX
+IBRX,$IBRX
+PCT,$PCT
+CLBK,$CLBK
+TWFG,$TWFG
+NN,$NN
+UCTT,$UCTT
+DVAX,$DVAX
+ARQT,$ARQT
+CLMT,$CLMT
+IAS,$IAS
+MTTR,$MTTR
+ATEC,$ATEC
+UPBD,$UPBD
+DSGR,$DSGR
+FTRE,$FTRE
+NTCT,$NTCT
+OPRA,$OPRA
+DMLP,$DMLP
+DYN,$DYN
+ARHS,$ARHS
+TVTX,$TVTX
+GLPG,$GLPG
+INFN,$INFN
+VRNT,$VRNT
+AKRO,$AKRO
+SJW,$SJW
+DXPE,$DXPE
+HDL,$HDL
+AAOI,$AAOI
+GPCR,$GPCR
+ASTH,$ASTH
+SASR,$SASR
+MCRI,$MCRI
+PLAB,$PLAB
+VECO,$VECO
+DNUT,$DNUT
+ANDE,$ANDE
+PLYA,$PLYA
+CLDX,$CLDX
+BCRX,$BCRX
+SSRM,$SSRM
+MLKN,$MLKN
+QUBT,$QUBT
+VNET,$VNET
+NAVI,$NAVI
+IMCR,$IMCR
+SEZL,$SEZL
+VBTX,$VBTX
+HLIT,$HLIT
+EVO,$EVO
+HELE,$HELE
+SPNS,$SPNS
+INDV,$INDV
+VIR,$VIR
+HIMX,$HIMX
+ATSG,$ATSG
+ACDC,$ACDC
+CSGS,$CSGS
+TCBK,$TCBK
+NRIX,$NRIX
+KRNT,$KRNT
+STBA,$STBA
+SRCE,$SRCE
+AFYA,$AFYA
+ADEA,$ADEA
+DCOM,$DCOM
+SDGR,$SDGR
+XNCR,$XNCR
+CMPO,$CMPO
+INMD,$INMD
+LZ,$LZ
+AMPL,$AMPL
+WABC,$WABC
+GIII,$GIII
+KARO,$KARO
+VRDN,$VRDN
+NVAX,$NVAX
+WINA,$WINA
+QCRH,$QCRH
+AHCO,$AHCO
+KNSA,$KNSA
+BLBD,$BLBD
+SGML,$SGML
+WLFC,$WLFC
+RBCAA,$RBCAA
+BUSE,$BUSE
+PRAX,$PRAX
+SABR,$SABR
+MDXG,$MDXG
+MRTN,$MRTN
+LILAK,$LILAK
+DCBO,$DCBO
+CBRL,$CBRL
+OCUL,$OCUL
+CCB,$CCB
+SYRE,$SYRE
+OCSL,$OCSL
+NSSC,$NSSC
+ARDX,$ARDX
+RXST,$RXST
+HROW,$HROW
+MFIC,$MFIC
+CRCT,$CRCT
+NYAX,$NYAX
+UDMY,$UDMY
+TTGT,$TTGT
+CRAI,$CRAI
+BLFS,$BLFS
+QNST,$QNST
+HTZ,$HTZ
+ARVN,$ARVN
+CDNA,$CDNA
+THRM,$THRM
+IMKTA,$IMKTA
+IMKTA,$IMKTA
+BMBL,$BMBL
+AMWD,$AMWD
+TBLA,$TBLA
+PZZA,$PZZA
+APOG,$APOG
+MYGN,$MYGN
+NMFC,$NMFC
+SCSC,$SCSC
+GABC,$GABC
+SAFT,$SAFT
+MOMO,$MOMO
+EVGO,$EVGO
+DSP,$DSP
+NVEE,$NVEE
+FOXF,$FOXF
+KALU,$KALU
+COMM,$COMM
+ULH,$ULH
+CNCK,$CNCK
+TIGR,$TIGR
+MRVI,$MRVI
+PFBC,$PFBC
+ECPG,$ECPG
+XRX,$XRX
+INVA,$INVA
+EOSE,$EOSE
+COHU,$COHU
+EMBC,$EMBC
+FWRG,$FWRG
+ACMR,$ACMR
+XPEL,$XPEL
+BBSI,$BBSI
+DGII,$DGII
+CECO,$CECO
+ELVN,$ELVN
+AMSC,$AMSC
+TLRY,$TLRY
+ANIP,$ANIP
+AUPH,$AUPH
+LQDT,$LQDT
+PEBO,$PEBO
+OCFC,$OCFC
+PLSE,$PLSE
+SNDX,$SNDX
+BELFA,$BELFA
+IGIC,$IGIC
+AMAL,$AMAL
+CCEC,$CCEC
+FSUN,$FSUN
+STAA,$STAA
+INOD,$INOD
+BRKL,$BRKL
+AOSL,$AOSL
+PENG,$PENG
+COLL,$COLL
+CSWC,$CSWC
+TH,$TH
+ADPT,$ADPT
+VMEO,$VMEO
+PDFS,$PDFS
+LMB,$LMB
+LX,$LX
+OLPX,$OLPX
+NRDS,$NRDS
+SBGI,$SBGI
+ICHR,$ICHR
+VSAT,$VSAT
+LQDA,$LQDA
+CMCO,$CMCO
+JBSS,$JBSS
+BELFB,$BELFB
+ARRY,$ARRY
+PCRX,$PCRX
+BCYC,$BCYC
+HEPS,$HEPS
+BLMN,$BLMN
+BFC,$BFC
+SDA,$SDA
+RCKT,$RCKT
+OPK,$OPK
+NTLA,$NTLA
+KRUS,$KRUS
+AMSF,$AMSF
+CTBI,$CTBI
+FWRD,$FWRD
+RDFN,$RDFN
+HSTM,$HSTM
+MATW,$MATW
+AVXL,$AVXL
+TRS,$TRS
+BZAI,$BZAI
+PNTG,$PNTG
+TRNS,$TRNS
+HSII,$HSII
+DMRC,$DMRC
+OCS,$OCS
+BHRB,$BHRB
+BGM,$BGM
+CGBD,$CGBD
+CVAC,$CVAC
+RDWR,$RDWR
+ANGI,$ANGI
+PFC,$PFC
+PHVS,$PHVS
+SLRC,$SLRC
+AVAH,$AVAH
+STKL,$STKL
+COGT,$COGT
+MSEX,$MSEX
+PTLO,$PTLO
+INDI,$INDI
+CNOB,$CNOB
+GDEN,$GDEN
+IPX,$IPX
+FMBH,$FMBH
+REAX,$REAX
+TYRA,$TYRA
+CRESY,$CRESY
+ASTL,$ASTL
+HTLD,$HTLD
+RCAT,$RCAT
+ABCL,$ABCL
+ATLC,$ATLC
+UVSP,$UVSP
+SANA,$SANA
+CRSR,$CRSR
+TRIN,$TRIN
+HCSG,$HCSG
+FUFU,$FUFU
+NESR,$NESR
+UXIN,$UXIN
+SNCY,$SNCY
+FIP,$FIP
+PAHC,$PAHC
+HFWA,$HFWA
+SEDG,$SEDG
+AVBP,$AVBP
+NNE,$NNE
+SCVL,$SCVL
+ERII,$ERII
+PSIX,$PSIX
+HCKT,$HCKT
+AIOT,$AIOT
+AXGN,$AXGN
+NBN,$NBN
+PRAA,$PRAA
+OSBC,$OSBC
+SERV,$SERV
+GCT,$GCT
+MCBS,$MCBS
+REPL,$REPL
+FBYD,$FBYD
+ADTN,$ADTN
+PPTA,$PPTA
+CEVA,$CEVA
+IIIV,$IIIV
+CDMO,$CDMO
+GLDD,$GLDD
+AVDL,$AVDL
+BITF,$BITF
+BJRI,$BJRI
+DAKT,$DAKT
+ADSE,$ADSE
+MGPI,$MGPI
+NTGR,$NTGR
+PLRX,$PLRX
+ORIC,$ORIC
+GSM,$GSM
+ADV,$ADV
+ARKO,$ARKO
+NBBK,$NBBK
+ASTE,$ASTE
+SHLS,$SHLS
+SEPN,$SEPN
+EGBN,$EGBN
+CSIQ,$CSIQ
+SCWX,$SCWX
+BFST,$BFST
+CRON,$CRON
+ODP,$ODP
+FCBC,$FCBC
+CFFN,$CFFN
+IRMD,$IRMD
+TIPT,$TIPT
+TCPC,$TCPC
+CFB,$CFB
+ETNB,$ETNB
+MLAB,$MLAB
+CTKB,$CTKB
+IBCP,$IBCP
+DJCO,$DJCO
+OSPN,$OSPN
+CRMD,$CRMD
+FNKO,$FNKO
+FDUS,$FDUS
+CBLL,$CBLL
+MBWM,$MBWM
+PRTA,$PRTA
+CCAP,$CCAP
+RBBN,$RBBN
+GSBC,$GSBC
+ABL,$ABL
+HBT,$HBT
+BCAX,$BCAX
+CSTL,$CSTL
+ORRF,$ORRF
+RPAY,$RPAY
+MBUU,$MBUU
+SIBN,$SIBN
+CGNT,$CGNT
+HBNC,$HBNC
+PUBM,$PUBM
+HAFC,$HAFC
+IMTX,$IMTX
+OFIX,$OFIX
+QURE,$QURE
+UFCS,$UFCS
+SFIX,$SFIX
+MVST,$MVST
+THRY,$THRY
+ECX,$ECX
+MNRO,$MNRO
+EZPW,$EZPW
+IMOS,$IMOS
+NEXN,$NEXN
+NVTS,$NVTS
+IMXI,$IMXI
+ITRN,$ITRN
+ESQ,$ESQ
+PGY,$PGY
+FSBC,$FSBC
+AMRK,$AMRK
+SVRA,$SVRA
+WRLD,$WRLD
+PHAR,$PHAR
+UPB,$UPB
+CAC,$CAC
+CNDT,$CNDT
+SHEN,$SHEN
+RLAY,$RLAY
+EOLS,$EOLS
+HNST,$HNST
+CLNE,$CLNE
+CRML,$CRML
+INV,$INV
+BVS,$BVS
+IMNM,$IMNM
+LPRO,$LPRO
+LENZ,$LENZ
+SMBC,$SMBC
+VINP,$VINP
+SSYS,$SSYS
+GPRE,$GPRE
+EU,$EU
+PRTH,$PRTH
+ABUS,$ABUS
+BYRN,$BYRN
+AUTL,$AUTL
+MGIC,$MGIC
+RMR,$RMR
+DH,$DH
+TRST,$TRST
+PLPC,$PLPC
+SPTN,$SPTN
+CAPR,$CAPR
+MOFG,$MOFG
+CCBG,$CCBG
+TECX,$TECX
+SLP,$SLP
+IRWD,$IRWD
+ACIC,$ACIC
+ATRO,$ATRO
+DNTH,$DNTH
+MNTK,$MNTK
+CGEM,$CGEM
+CTLP,$CTLP
+GRAL,$GRAL
+HUMA,$HUMA
+LEGH,$LEGH
+CCRN,$CCRN
+KRT,$KRT
+HTBI,$HTBI
+SCHL,$SCHL
+CLMB,$CLMB
+ALTI,$ALTI
+NCMI,$NCMI
+CRNC,$CRNC
+ZJK,$ZJK
+FRPH,$FRPH
+SPFI,$SPFI
+DOGZ,$DOGZ
+KURA,$KURA
+SKYT,$SKYT
+HTBK,$HTBK
+MPB,$MPB
+ACCD,$ACCD
+PGC,$PGC
+VREX,$VREX
+CRGX,$CRGX
+LYTS,$LYTS
+THFF,$THFF
+FLX,$FLX
+BTBT,$BTBT
+RXT,$RXT
+CLFD,$CLFD
+EYPT,$EYPT
+HNRG,$HNRG
+WLDN,$WLDN
+NYMT,$NYMT
+SBC,$SBC
+FISI,$FISI
+TMCI,$TMCI
+HIFS,$HIFS
+SRDX,$SRDX
+MSBI,$MSBI
+DDI,$DDI
+SMLR,$SMLR
+FLGT,$FLGT
+ATEX,$ATEX
+SHBI,$SHBI
+FFWM,$FFWM
+RZLV,$RZLV
+RSVR,$RSVR
+GEVO,$GEVO
+INNV,$INNV
+SENEB,$SENEB
+KELYA,$KELYA
+FMNB,$FMNB
+SENEA,$SENEA
+STOK,$STOK
+DHC,$DHC
+PFIS,$PFIS
+NFBK,$NFBK
+KELYB,$KELYB
+METC,$METC
+CCNE,$CCNE
+MNMD,$MNMD
+NNDM,$NNDM
+EBTC,$EBTC
+NNOX,$NNOX
+DGICA,$DGICA
+ALRS,$ALRS
+MXCT,$MXCT
+ANGO,$ANGO
+GLRE,$GLRE
+BCAL,$BCAL
+EVLV,$EVLV
+MLYS,$MLYS
+ORKA,$ORKA
+RAPP,$RAPP
+FLWS,$FLWS
+RNAC,$RNAC
+DGICB,$DGICB
+PRCH,$PRCH
+LINC,$LINC
+BIGC,$BIGC
+XERS,$XERS
+CCSI,$CCSI
+NWPX,$NWPX
+LASR,$LASR
+SNDL,$SNDL
+PACB,$PACB
+RDVT,$RDVT
+MTLS,$MTLS
+VLGEA,$VLGEA
+KOD,$KOD
+ANAB,$ANAB
+BBCP,$BBCP
+MREO,$MREO
+BLDP,$BLDP
+AIRJ,$AIRJ
+CBNK,$CBNK
+TRML,$TRML
+KE,$KE
+AIP,$AIP
+VERV,$VERV
+PROK,$PROK
+AROW,$AROW
+MITK,$MITK
+GCBC,$GCBC
+KRNY,$KRNY
+ARCT,$ARCT
+VALU,$VALU
+SIGA,$SIGA
+UNTY,$UNTY
+ANSC,$ANSC
+ANNX,$ANNX
+TCBX,$TCBX
+SWBI,$SWBI
+MGTX,$MGTX
+TMC,$TMC
+YORW,$YORW
+BWMN,$BWMN
+CDXC,$CDXC
+VBNK,$VBNK
+GHRS,$GHRS
+SVC,$SVC
+ATXS,$ATXS
+BIOX,$BIOX
+URGN,$URGN
+FFIC,$FFIC
+ESPR,$ESPR
+TRDA,$TRDA
+GRVY,$GRVY
+GRPN,$GRPN
+ITIC,$ITIC
+BSVN,$BSVN
+ZVRA,$ZVRA
+QTRX,$QTRX
+SHYF,$SHYF
+ACTG,$ACTG
+NRIM,$NRIM
+LMNR,$LMNR
+DCGO,$DCGO
+RWAY,$RWAY
+PRTC,$PRTC
+TBPH,$TBPH
+AKBA,$AKBA
+BSRR,$BSRR
+TKNO,$TKNO
+KROS,$KROS
+MERC,$MERC
+ALNT,$ALNT
+TCMD,$TCMD
+CELC,$CELC
+CLPT,$CLPT
+KMDA,$KMDA
+MFH,$MFH
+CWCO,$CWCO
+USAP,$USAP
+HAIN,$HAIN
+NETD,$NETD
+CVRX,$CVRX
+DHIL,$DHIL
+LESL,$LESL
+AHG,$AHG
+OLMA,$OLMA
+OFLX,$OFLX
+LVRO,$LVRO
+LE,$LE
+DCTH,$DCTH
+SOHU,$SOHU
+ORGO,$ORGO
+LSAK,$LSAK
+ABVX,$ABVX
+NRC,$NRC
+CRNT,$CRNT
+CVGW,$CVGW
+MBX,$MBX
+CDZI,$CDZI
+CDXS,$CDXS
+OTLY,$OTLY
+NVEC,$NVEC
+AMCX,$AMCX
+ALLO,$ALLO
+OABI,$OABI
+DOYU,$DOYU
+KALV,$KALV
+BRY,$BRY
+AEHR,$AEHR
+CCIX,$CCIX
+NIPG,$NIPG
+JFIN,$JFIN
+FBIZ,$FBIZ
+CRMT,$CRMT
+ENGN,$ENGN
+TBCH,$TBCH
+EWCZ,$EWCZ
+ZIMV,$ZIMV
+BMRC,$BMRC
+LGTY,$LGTY
+ASPI,$ASPI
+PAMT,$PAMT
+ILLR,$ILLR
+PANL,$PANL
+FMAO,$FMAO
+MTRX,$MTRX
+HBCP,$HBCP
+ETON,$ETON
+RGNX,$RGNX
+HRZN,$HRZN
+API,$API
+PSNL,$PSNL
+APEI,$APEI
+GPAT,$GPAT
+PNRG,$PNRG
+PRME,$PRME
+BWB,$BWB
+CYRX,$CYRX
+MBAV,$MBAV
+WTBA,$WTBA
+NYXH,$NYXH
+USCB,$USCB
+NPCE,$NPCE
+SNBR,$SNBR
+NMRA,$NMRA
+EGHT,$EGHT
+CWBC,$CWBC
+RRBI,$RRBI
+RBB,$RBB
+VALN,$VALN
+HCAT,$HCAT
+KRRO,$KRRO
+TITN,$TITN
+FRBA,$FRBA
+KLTR,$KLTR
+RVNC,$RVNC
+ASLE,$ASLE
+JOUT,$JOUT
+CERS,$CERS
+PMTS,$PMTS
+SSBK,$SSBK
+CMPX,$CMPX
+ZBIO,$ZBIO
+GDEV,$GDEV
+WEYS,$WEYS
+LWAY,$LWAY
+PKOH,$PKOH
+QSI,$QSI
+CTNM,$CTNM
+TSHA,$TSHA
+XOMA,$XOMA
+ACNB,$ACNB
+PGEN,$PGEN
+ABSI,$ABSI
+SPOK,$SPOK
+RDUS,$RDUS
+IHRT,$IHRT
+FSBW,$FSBW
+VMD,$VMD
+AUDC,$AUDC
+ASUR,$ASUR
+CIVB,$CIVB
+CCIR,$CCIR
+NATH,$NATH
+TBRG,$TBRG
+OB,$OB
+VACH,$VACH
+LNZA,$LNZA
+RIGL,$RIGL
+CRVS,$CRVS
+GOCO,$GOCO
+ARTNA,$ARTNA
+BLZE,$BLZE
+CMRX,$CMRX
+COFS,$COFS
+BLDE,$BLDE
+BEAG,$BEAG
+PBPB,$PBPB
+NODK,$NODK
+MCFT,$MCFT
+ZUMZ,$ZUMZ
+TTSH,$TTSH
+LFVN,$LFVN
+TATT,$TATT
+JAKK,$JAKK
+INBK,$INBK
+DENN,$DENN
+EXFY,$EXFY
+REFI,$REFI
+UROY,$UROY
+PDLB,$PDLB
+CZFS,$CZFS
+ALDX,$ALDX
+LSEA,$LSEA
+MLAC,$MLAC
+SFST,$SFST
+SLDP,$SLDP
+ALDF,$ALDF
+FSTR,$FSTR
+BCML,$BCML
+AQST,$AQST
+TNGX,$TNGX
+VCIC,$VCIC
+OBT,$OBT
+TRVI,$TRVI
+CZNC,$CZNC
+FNLC,$FNLC
+NECB,$NECB
+ATYR,$ATYR
+GSRT,$GSRT
+HOND,$HOND
+EHTH,$EHTH
+SMTI,$SMTI
+INVZ,$INVZ
+LPBB,$LPBB
+YMAB,$YMAB
+IMMP,$IMMP
+CCCC,$CCCC
+IMMR,$IMMR
+GWRS,$GWRS
+ITOS,$ITOS
+PBFS,$PBFS
+VYGR,$VYGR
+GMGI,$GMGI
+LPAA,$LPAA
+PCB,$PCB
+PCYO,$PCYO
+RGP,$RGP
+FORR,$FORR
+JMSB,$JMSB
+OSUR,$OSUR
+AVIR,$AVIR
+MVIS,$MVIS
+RR,$RR
+AENT,$AENT
+ARBE,$ARBE
+TSSI,$TSSI
+FRST,$FRST
+PDYN,$PDYN
+CDRO,$CDRO
+NGNE,$NGNE
+PLBC,$PLBC
+HDSN,$HDSN
+SATL,$SATL
+ISPR,$ISPR
+SNFCA,$SNFCA
+LNKB,$LNKB
+THRD,$THRD
+NAMI,$NAMI
+DRTS,$DRTS
+RZLT,$RZLT
+ZSPC,$ZSPC
+ACRS,$ACRS
+AFRI,$AFRI
+FLXS,$FLXS
+DRDB,$DRDB
+DOMO,$DOMO
+ARQ,$ARQ
+ACIU,$ACIU
+NATR,$NATR
+LXRX,$LXRX
+UHG,$UHG
+ALLT,$ALLT
+SGC,$SGC
+ATGL,$ATGL
+CADL,$CADL
+FDBC,$FDBC
+VNDA,$VNDA
+INGN,$INGN
+BYND,$BYND
+MVBF,$MVBF
+ONEW,$ONEW
+ARQQ,$ARQQ
+TDUP,$TDUP
+CEPO,$CEPO
+IRBT,$IRBT
+RMNI,$RMNI
+LWLG,$LWLG
+SAMG,$SAMG
+HITI,$HITI
+ICG,$ICG
+BACQ,$BACQ
+SLN,$SLN
+ZYXI,$ZYXI
+BNTC,$BNTC
+INSE,$INSE
+LAZR,$LAZR
+SBT,$SBT
+DSGN,$DSGN
+HLXB,$HLXB
+TZOO,$TZOO
+NVX,$NVX
+NAUT,$NAUT
+GENK,$GENK
+ESEA,$ESEA
+ELDN,$ELDN
+FHTX,$FHTX
+ATAI,$ATAI
+AVNW,$AVNW
+TLS,$TLS
+NTWO,$NTWO
+CPSS,$CPSS
+TSBK,$TSBK
+WSBF,$WSBF
+BDMD,$BDMD
+ILPT,$ILPT
+PRQR,$PRQR
+VSTM,$VSTM
+CMPS,$CMPS
+LFCR,$LFCR
+RCEL,$RCEL
+PKBK,$PKBK
+ANIK,$ANIK
+IONR,$IONR
+CGC,$CGC
+VUZI,$VUZI
+SVCO,$SVCO
+FDMT,$FDMT
+AMRN,$AMRN
+BPRN,$BPRN
+BWFG,$BWFG
+ALCO,$ALCO
+ARAY,$ARAY
+HRTX,$HRTX
+OACC,$OACC
+ABEO,$ABEO
+OPBK,$OPBK
+DMAC,$DMAC
+FBLA,$FBLA
+PWOD,$PWOD
+SGMO,$SGMO
+HTCO,$HTCO
+AMLX,$AMLX
+CFFI,$CFFI
+WHF,$WHF
+ATNI,$ATNI
+FRGT,$FRGT
+CHMG,$CHMG
+MYPS,$MYPS
+FVCB,$FVCB
+KGEI,$KGEI
+CDTX,$CDTX
+SMID,$SMID
+CTRN,$CTRN
+FULC,$FULC
+WILC,$WILC
+OVLY,$OVLY
+TVGN,$TVGN
+MACI,$MACI
+GASS,$GASS
+LRMR,$LRMR
+ACB,$ACB
+BTMD,$BTMD
+NWFL,$NWFL
+TSAT,$TSAT
+FINW,$FINW
+LCNB,$LCNB
+UTMD,$UTMD
+KVAC,$KVAC
+FUNC,$FUNC
+NWTN,$NWTN
+OCGN,$OCGN
+LFMD,$LFMD
+DYNX,$DYNX
+AVR,$AVR
+MFIN,$MFIN
+MBCN,$MBCN
+OBIO,$OBIO
+GOSS,$GOSS
+ESOA,$ESOA
+AOUT,$AOUT
+MDWD,$MDWD
+ESCA,$ESCA
+FXNC,$FXNC
+PLMK,$PLMK
+MKTW,$MKTW
+RGCO,$RGCO
+MOLN,$MOLN
+ZYBT,$ZYBT
+RDCM,$RDCM
+RITR,$RITR
+GAUZ,$GAUZ
+ZNTL,$ZNTL
+SLRN,$SLRN
+SWKH,$SWKH
+BCBP,$BCBP
+HURA,$HURA
+BCOV,$BCOV
+HPAI,$HPAI
+MGNX,$MGNX
+FCEL,$FCEL
+APPS,$APPS
+HWBK,$HWBK
+SSP,$SSP
+AEYE,$AEYE
+HMST,$HMST
+ISTR,$ISTR
+OGI,$OGI
+PROC,$PROC
+VABK,$VABK
+PHLT,$PHLT
+VSTA,$VSTA
+IVA,$IVA
+PESI,$PESI
+INBX,$INBX
+BLFY,$BLFY
+KOPN,$KOPN
+FFNW,$FFNW
+BVFL,$BVFL
+RELL,$RELL
+BWAY,$BWAY
+TTEC,$TTEC
+TDAC,$TDAC
+SEVN,$SEVN
+BSII,$BSII
+TRVG,$TRVG
+ONDS,$ONDS
+NKSH,$NKSH
+FTEL,$FTEL
+WNEB,$WNEB
+HQI,$HQI
+PVBC,$PVBC
+AFCG,$AFCG
+GRRR,$GRRR
+IKT,$IKT
+PLL,$PLL
+EGAN,$EGAN
+FCCO,$FCCO
+MRCC,$MRCC
+LXEO,$LXEO
+OXSQ,$OXSQ
+TCX,$TCX
+KRMD,$KRMD
+CGEN,$CGEN
+YIBO,$YIBO
+JUNS,$JUNS
+BRLT,$BRLT
+NUTX,$NUTX
+BTOC,$BTOC
+JRVR,$JRVR
+TROO,$TROO
+DSY,$DSY
+CRDF,$CRDF
+LOGC,$LOGC
+BIOA,$BIOA
+SPKL,$SPKL
+SCPH,$SCPH
+RCKY,$RCKY
+CLAR,$CLAR
+LYEL,$LYEL
+SKGR,$SKGR
+FLL,$FLL
+INSG,$INSG
+MYFW,$MYFW
+ARTV,$ARTV
+STFS,$STFS
+ACRV,$ACRV
+EML,$EML
+GNFT,$GNFT
+FSFG,$FSFG
+RMBL,$RMBL
+VOR,$VOR
+CLLS,$CLLS
+UBFO,$UBFO
+VXRT,$VXRT
+CHRS,$CHRS
+KEQU,$KEQU
+NKTR,$NKTR
+BZUN,$BZUN
+AZ,$AZ
+MRBK,$MRBK
+NEGG,$NEGG
+VOXX,$VOXX
+HNVR,$HNVR
+ACTU,$ACTU
+FEIM,$FEIM
+PEBK,$PEBK
+GPRO,$GPRO
+GLSI,$GLSI
+POWW,$POWW
+VIRC,$VIRC
+CRGO,$CRGO
+CKPT,$CKPT
+QMCO,$QMCO
+ADUR,$ADUR
+BDSX,$BDSX
+IBAC,$IBAC
+CZWI,$CZWI
+SSTI,$SSTI
+III,$III
+STRT,$STRT
+STRS,$STRS
+ATLO,$ATLO
+NKTX,$NKTX
+ESHA,$ESHA
+SGHT,$SGHT
+FENC,$FENC
+ISSC,$ISSC
+BAER,$BAER
+BROG,$BROG
+HCVI,$HCVI
+ADAP,$ADAP
+HFFG,$HFFG
+CSPI,$CSPI
+RFAI,$RFAI
+JYNT,$JYNT
+QRTEB,$QRTEB
+RCMT,$RCMT
+PHH,$PHH
+ORGN,$ORGN
+IPHA,$IPHA
+BFIN,$BFIN
+CRBP,$CRBP
+STRO,$STRO
+PBYI,$PBYI
+TCRX,$TCRX
+CSTE,$CSTE
+FTLF,$FTLF
+PTMN,$PTMN
+PVLA,$PVLA
+WLAC,$WLAC
+BLNK,$BLNK
+IFRX,$IFRX
+NCTY,$NCTY
+PDEX,$PDEX
+BMEA,$BMEA
+NEOV,$NEOV
+TLSI,$TLSI
+PLBY,$PLBY
+BANX,$BANX
+MMLP,$MMLP
+ZJYL,$ZJYL
+DXLG,$DXLG
+ISRL,$ISRL
+REKR,$REKR
+CXDO,$CXDO
+CDLX,$CDLX
+BETR,$BETR
+CBFV,$CBFV
+NBTX,$NBTX
+RILY,$RILY
+TELO,$TELO
+MRAM,$MRAM
+CRBU,$CRBU
+KYTX,$KYTX
+MNPR,$MNPR
+CFBK,$CFBK
+EPSN,$EPSN
+FRAF,$FRAF
+ABAT,$ABAT
+AISP,$AISP
+OPRT,$OPRT
+AMTX,$AMTX
+INMB,$INMB
+HOFT,$HOFT
+VTYX,$VTYX
+EUDA,$EUDA
+NIU,$NIU
+LAES,$LAES
+TAVI,$TAVI
+SSSS,$SSSS
+NNBR,$NNBR
+AKYA,$AKYA
+SFBC,$SFBC
+VEEA,$VEEA
+UFG,$UFG
+ZENV,$ZENV
+CLYM,$CLYM
+QUIK,$QUIK
+SGMT,$SGMT
+SBFG,$SBFG
+UNB,$UNB
+LTRX,$LTRX
+MCRB,$MCRB
+NTCL,$NTCL
+TDTH,$TDTH
+QRTEA,$QRTEA
+MPAA,$MPAA
+CEP,$CEP
+UEIC,$UEIC
+QIPT,$QIPT
+ECBK,$ECBK
+XNET,$XNET
+SKYX,$SKYX
+ULBI,$ULBI
+BRLS,$BRLS
+GGR,$GGR
+SAVA,$SAVA
+FGBI,$FGBI
+GEOS,$GEOS
+RMBI,$RMBI
+VGAS,$VGAS
+OPOF,$OPOF
+ZURA,$ZURA
+LSE,$LSE
+LCUT,$LCUT
+CSBR,$CSBR
+YAAS,$YAAS
+SLDB,$SLDB
+QRHC,$QRHC
+TSVT,$TSVT
+LPTX,$LPTX
+NA,$NA
+RENB,$RENB
+NTIC,$NTIC
+LPTH,$LPTH
+SDST,$SDST
+MNSB,$MNSB
+DTI,$DTI
+LPSN,$LPSN
+BSET,$BSET
+CHSN,$CHSN
+YXT,$YXT
+RSSS,$RSSS
+WIMI,$WIMI
+GNSS,$GNSS
+BDTX,$BDTX
+MHLD,$MHLD
+QH,$QH
+MAMO,$MAMO
+EBMT,$EBMT
+IGMS,$IGMS
+CSLR,$CSLR
+STHO,$STHO
+PLMJ,$PLMJ
+CAAS,$CAAS
+RVSB,$RVSB
+XBIT,$XBIT
+FNWD,$FNWD
+ALGS,$ALGS
+VBFC,$VBFC
+HTLM,$HTLM
+VOXR,$VOXR
+SLNG,$SLNG
+TNYA,$TNYA
+KVHI,$KVHI
+SIEB,$SIEB
+AFBI,$AFBI
+PPIH,$PPIH
+HURC,$HURC
+CGTL,$CGTL
+GIFI,$GIFI
+ELUT,$ELUT
+PCSC,$PCSC
+VCSA,$VCSA
+ACHV,$ACHV
+ACNT,$ACNT
+PHUN,$PHUN
+DLHC,$DLHC
+GECC,$GECC
+BZFD,$BZFD
+SVII,$SVII
+IPXX,$IPXX
+SRTS,$SRTS
+NOTV,$NOTV
+UPLD,$UPLD
+PPYA,$PPYA
+LGO,$LGO
+LVO,$LVO
+JYD,$JYD
+VERI,$VERI
+ATOS,$ATOS
+ZEO,$ZEO
+CABA,$CABA
+VERU,$VERU
+OFS,$OFS
+ZTEK,$ZTEK
+HLP,$HLP
+EPRX,$EPRX
+ATLX,$ATLX
+RDZN,$RDZN
+DLTH,$DLTH
+MAXN,$MAXN
+TAYD,$TAYD
+USGO,$USGO
+YSXT,$YSXT
+OVBC,$OVBC
+STKS,$STKS
+FBRX,$FBRX
+VRA,$VRA
+MGX,$MGX
+RBKB,$RBKB
+GAIA,$GAIA
+BHST,$BHST
+SILC,$SILC
+NKLA,$NKLA
+WW,$WW
+NVCT,$NVCT
+SRBK,$SRBK
+FCAP,$FCAP
+ECOR,$ECOR
+CPHC,$CPHC
+SHMD,$SHMD
+WMPN,$WMPN
+ENTA,$ENTA
+IZTC,$IZTC
+CRDL,$CRDL
+SND,$SND
+MODV,$MODV
+IMPP,$IMPP
+RECT,$RECT
+PRPL,$PRPL
+MSW,$MSW
+PROV,$PROV
+CURI,$CURI
+BSBK,$BSBK
+SIFY,$SIFY
+HUHU,$HUHU
+PFX,$PFX
+AXTI,$AXTI
+FONR,$FONR
+KLXE,$KLXE
+AFJK,$AFJK
+ADVM,$ADVM
+ACOG,$ACOG
+SPHA,$SPHA
+PBHC,$PBHC
+EVGR,$EVGR
+GLAC,$GLAC
+RRGB,$RRGB
+IVCA,$IVCA
+QETA,$QETA
+SY,$SY
+BTM,$BTM
+MGYR,$MGYR
+IVAC,$IVAC
+MDXH,$MDXH
+ORMP,$ORMP
+LNSR,$LNSR
+BRID,$BRID
+DYCQ,$DYCQ
+SNCR,$SNCR
+CLEU,$CLEU
+FNWB,$FNWB
+THCH,$THCH
+COYA,$COYA
+BKHA,$BKHA
+XCH,$XCH
+ASMB,$ASMB
+HLVX,$HLVX
+HNNA,$HNNA
+DBVT,$DBVT
+MNOV,$MNOV
+IROH,$IROH
+QSG,$QSG
+KNDI,$KNDI
+FATBB,$FATBB
+OPRX,$OPRX
+IMUX,$IMUX
+GRWG,$GRWG
+CNTY,$CNTY
+ALOT,$ALOT
+SCWO,$SCWO
+FSHP,$FSHP
+PAVS,$PAVS
+DTSQ,$DTSQ
+FOSL,$FOSL
+HSPO,$HSPO
+PWUP,$PWUP
+INVE,$INVE
+IMAB,$IMAB
+INZY,$INZY
+BYNO,$BYNO
+PYXS,$PYXS
+JSPR,$JSPR
+USAU,$USAU
+HBIO,$HBIO
+ALXO,$ALXO
+TLSA,$TLSA
+MCHX,$MCHX
+VMCA,$VMCA
+OKUR,$OKUR
+SFWL,$SFWL
+PEPG,$PEPG
+LTBR,$LTBR
+SPWH,$SPWH
+AITR,$AITR
+ORKT,$ORKT
+MGRM,$MGRM
+ENTX,$ENTX
+VIOT,$VIOT
+RGLS,$RGLS
+VTGN,$VTGN
+AIRE,$AIRE
+CTOR,$CTOR
+CBAT,$CBAT
+AZI,$AZI
+HSPT,$HSPT
+ADAG,$ADAG
+VFF,$VFF
+JVSA,$JVSA
+CBUS,$CBUS
+ASPC,$ASPC
+GALT,$GALT
+YHNA,$YHNA
+KPTI,$KPTI
+SNT,$SNT
+IPSC,$IPSC
+AIRG,$AIRG
+AADI,$AADI
+ATMV,$ATMV
+MRSN,$MRSN
+TBNK,$TBNK
+ASRT,$ASRT
+THTX,$THTX
+XFOR,$XFOR
+CAPN,$CAPN
+VIGL,$VIGL
+CHCI,$CHCI
+EPIX,$EPIX
+GNLX,$GNLX
+ATMC,$ATMC
+CMTL,$CMTL
+ALLK,$ALLK
+LSBK,$LSBK
+QNCX,$QNCX
+ICLK,$ICLK
+INCR,$INCR
+AUBN,$AUBN
+VTSI,$VTSI
+IROQ,$IROQ
+APLT,$APLT
+ACET,$ACET
+EDAP,$EDAP
+BYFC,$BYFC
+FVN,$FVN
+EURK,$EURK
+ATRA,$ATRA
+MSSA,$MSSA
+SPHL,$SPHL
+PIII,$PIII
+RDAC,$RDAC
+HGBL,$HGBL
+OPTX,$OPTX
+ASYS,$ASYS
+ANL,$ANL
+GNTA,$GNTA
+PRTS,$PRTS
+INLF,$INLF
+AGEN,$AGEN
+ELTK,$ELTK
+SGA,$SGA
+CSLM,$CSLM
+TETE,$TETE
+CNTX,$CNTX
+ANIX,$ANIX
+UBCP,$UBCP
+FUSB,$FUSB
+NOEM,$NOEM
+NCSM,$NCSM
+PMVP,$PMVP
+YTRA,$YTRA
+IKNA,$IKNA
+CVGI,$CVGI
+SNAL,$SNAL
+GSIT,$GSIT
+CLSD,$CLSD
+AVTE,$AVTE
+VANI,$VANI
+FBLG,$FBLG
+GTI,$GTI
+STIM,$STIM
+BYSI,$BYSI
+FFIE,$FFIE
+HYPR,$HYPR
+SMXT,$SMXT
+TPIC,$TPIC
+NSPR,$NSPR
+WFCF,$WFCF
+UNCY,$UNCY
+FDSB,$FDSB
+CCG,$CCG
+NB,$NB
+ICCH,$ICCH
+ELTX,$ELTX
+OAKU,$OAKU
+SDIG,$SDIG
+SLS,$SLS
+ABP,$ABP
+RMTI,$RMTI
+ICCM,$ICCM
+AIMAU,$AIMAU
+CTMX,$CTMX
+FNGR,$FNGR
+BNR,$BNR
+FTII,$FTII
+AVTX,$AVTX
+ELPW,$ELPW
+HPH,$HPH
+RIBB,$RIBB
+ISPO,$ISPO
+LRFC,$LRFC
+WPRT,$WPRT
+WAI,$WAI
+RGC,$RGC
+ONCY,$ONCY
+BMR,$BMR
+SOTK,$SOTK
+RCON,$RCON
+NIXX,$NIXX
+IPWR,$IPWR
+USIO,$USIO
+STI,$STI
+AUID,$AUID
+BOTJ,$BOTJ
+RVPH,$RVPH
+CPBI,$CPBI
+BOWN,$BOWN
+FGEN,$FGEN
+OPTN,$OPTN
+GBBK,$GBBK
+USEG,$USEG
+VRCA,$VRCA
+PODC,$PODC
+GBIO,$GBIO
+KRON,$KRON
+CTSO,$CTSO
+IMRX,$IMRX
+SCLX,$SCLX
+MDBH,$MDBH
+FLNT,$FLNT
+BAYA,$BAYA
+FKWL,$FKWL
+CNTB,$CNTB
+LATG,$LATG
+OTLK,$OTLK
+STTK,$STTK
+GANX,$GANX
+PRLD,$PRLD
+REFR,$REFR
+YYGH,$YYGH
+RTC,$RTC
+BCOW,$BCOW
+AREC,$AREC
+SELX,$SELX
+NSTS,$NSTS
+BRAC,$BRAC
+CNVS,$CNVS
+NVNO,$NVNO
+IMMX,$IMMX
+BUJA,$BUJA
+PTLE,$PTLE
+BAFN,$BAFN
+XGN,$XGN
+CGBS,$CGBS
+CLIR,$CLIR
+RPID,$RPID
+RPTX,$RPTX
+PDSB,$PDSB
+CLRC,$CLRC
+NRXP,$NRXP
+OVID,$OVID
+NVA,$NVA
+KSCP,$KSCP
+IDN,$IDN
+GEG,$GEG
+APYX,$APYX
+NHTC,$NHTC
+SUUN,$SUUN
+RFAC,$RFAC
+EMCG,$EMCG
+PTHL,$PTHL
+RGS,$RGS
+LBGJ,$LBGJ
+FTCI,$FTCI
+IOBT,$IOBT
+FBIO,$FBIO
+TYGO,$TYGO
+MDIA,$MDIA
+AIXI,$AIXI
+CLST,$CLST
+UCL,$UCL
+GODN,$GODN
+HYMC,$HYMC
+WKEY,$WKEY
+OPI,$OPI
+DGHI,$DGHI
+TBMC,$TBMC
+ARKR,$ARKR
+ALCY,$ALCY
+ICAD,$ICAD
+OMIC,$OMIC
+IVVD,$IVVD
+SSBI,$SSBI
+SHLT,$SHLT
+DHAI,$DHAI
+SYPR,$SYPR
+SPRO,$SPRO
+INO,$INO
+UG,$UG
+STBX,$STBX
+NVNI,$NVNI
+BTCS,$BTCS
+ANGH,$ANGH
+CELU,$CELU
+MODD,$MODD
+ACHL,$ACHL
+UONE,$UONE
+XLO,$XLO
+ICCC,$ICCC
+NTRB,$NTRB
+BEEM,$BEEM
+SWVL,$SWVL
+MSAI,$MSAI
+GORV,$GORV
+CRWS,$CRWS
+ZBAO,$ZBAO
+SPAI,$SPAI
+DYAI,$DYAI
+BLAC,$BLAC
+GLST,$GLST
+KZR,$KZR
+LUCD,$LUCD
+CLGN,$CLGN
+CCLD,$CCLD
+MNY,$MNY
+FORL,$FORL
+ASRV,$ASRV
+ABLV,$ABLV
+VTVT,$VTVT
+VRME,$VRME
+TCBS,$TCBS
+SCYX,$SCYX
+PPSI,$PPSI
+DUOT,$DUOT
+FSEA,$FSEA
+ITRM,$ITRM
+ICMB,$ICMB
+KTCC,$KTCC
+RNTX,$RNTX
+NCEW,$NCEW
+ALVR,$ALVR
+CFSB,$CFSB
+TNXP,$TNXP
+LSB,$LSB
+FCUV,$FCUV
+PXS,$PXS
+RFIL,$RFIL
+ELEV,$ELEV
+BCG,$BCG
+ANEB,$ANEB
+OMCC,$OMCC
+PXLW,$PXLW
+OPXS,$OPXS
+UONEK,$UONEK
+WLGS,$WLGS
+JRSH,$JRSH
+DWSN,$DWSN
+FAAS,$FAAS
+AGFY,$AGFY
+SYT,$SYT
+INTS,$INTS
+ESLA,$ESLA
+YOTA,$YOTA
+BWEN,$BWEN
+HKIT,$HKIT
+MNDO,$MNDO
+WAVS,$WAVS
+BRNS,$BRNS
+HFBL,$HFBL
+LVLU,$LVLU
+CALC,$CALC
+VYNE,$VYNE
+SGRP,$SGRP
+OCC,$OCC
+WINV,$WINV
+DECA,$DECA
+DTIL,$DTIL
+RDIB,$RDIB
+LGCL,$LGCL
+DXR,$DXR
+AGAE,$AGAE
+ARBK,$ARBK
+IZEA,$IZEA
+NEHC,$NEHC
+BRFH,$BRFH
+MDAI,$MDAI
+MOBX,$MOBX
+BIVI,$BIVI
+RADX,$RADX
+QTTB,$QTTB
+TPST,$TPST
+GDST,$GDST
+HOLO,$HOLO
+CLNN,$CLNN
+STAI,$STAI
+YI,$YI
+SRZN,$SRZN
+CPIX,$CPIX
+MKZR,$MKZR
+NXL,$NXL
+LTRN,$LTRN
+JG,$JG
+VRAR,$VRAR
+SNYR,$SNYR
+LDTC,$LDTC
+HHS,$HHS
+ANTX,$ANTX
+DSWL,$DSWL
+RLYB,$RLYB
+FEAM,$FEAM
+CMMB,$CMMB
+TLF,$TLF
+CENN,$CENN
+OCX,$OCX
+AERT,$AERT
+BGFV,$BGFV
+IRD,$IRD
+DALN,$DALN
+SCNX,$SCNX
+SOND,$SOND
+MTC,$MTC
+FPAY,$FPAY
+VIVK,$VIVK
+SLGL,$SLGL
+PASG,$PASG
+DIST,$DIST
+ZCMD,$ZCMD
+NUKK,$NUKK
+PBBK,$PBBK
+OMGA,$OMGA
+AWRE,$AWRE
+HSON,$HSON
+GRCE,$GRCE
+ONEG,$ONEG
+INKT,$INKT
+HTCR,$HTCR
+SJ,$SJ
+MTEN,$MTEN
+OKYO,$OKYO
+ORIS,$ORIS
+RNXT,$RNXT
+XBP,$XBP
+TZUP,$TZUP
+VSTE,$VSTE
+SURG,$SURG
+NDLS,$NDLS
+ECDA,$ECDA
+EDRY,$EDRY
+MTEK,$MTEK
+FGL,$FGL
+LEXX,$LEXX
+AMPG,$AMPG
+MLEC,$MLEC
+NMTC,$NMTC
+MDCX,$MDCX
+WCT,$WCT
+BNIX,$BNIX
+TRSG,$TRSG
+AACG,$AACG
+RDI,$RDI
+CLPS,$CLPS
+FTHM,$FTHM
+BANL,$BANL
+AIFF,$AIFF
+ATHE,$ATHE
+APWC,$APWC
+LSTA,$LSTA
+NTWK,$NTWK
+POCI,$POCI
+HKPD,$HKPD
+AAME,$AAME
+SCOR,$SCOR
+AKTX,$AKTX
+IXHL,$IXHL
+KPLT,$KPLT
+INTG,$INTG
+FTEK,$FTEK
+MBOT,$MBOT
+DTST,$DTST
+TOI,$TOI
+FOXX,$FOXX
+TPCS,$TPCS
+AGMH,$AGMH
+CXAI,$CXAI
+MRNS,$MRNS
+CVKD,$CVKD
+PMN,$PMN
+SWIN,$SWIN
+HUIZ,$HUIZ
+AQU,$AQU
+CGTX,$CGTX
+MOGO,$MOGO
+WKHS,$WKHS
+ONMD,$ONMD
+COCH,$COCH
+NXGL,$NXGL
+ZOOZ,$ZOOZ
+UBX,$UBX
+NSYS,$NSYS
+PGHL,$PGHL
+AXDX,$AXDX
+ESGL,$ESGL
+SOWG,$SOWG
+CMBM,$CMBM
+PMEC,$PMEC
+NXPL,$NXPL
+XCUR,$XCUR
+WKSP,$WKSP
+CTRM,$CTRM
+IRIX,$IRIX
+GLBS,$GLBS
+OESX,$OESX
+GLE,$GLE
+UCAR,$UCAR
+HYFM,$HYFM
+EMKR,$EMKR
+TURB,$TURB
+CREX,$CREX
+NISN,$NISN
+DAIO,$DAIO
+CTXR,$CTXR
+IPW,$IPW
+LGVN,$LGVN
+CVV,$CVV
+XAIR,$XAIR
+CPSH,$CPSH
+UTSI,$UTSI
+GTIM,$GTIM
+LVTX,$LVTX
+DRRX,$DRRX
+GTEC,$GTEC
+XOS,$XOS
+LRE,$LRE
+CHR,$CHR
+ENLV,$ENLV
+GDTC,$GDTC
+DRIO,$DRIO
+LITM,$LITM
+NAII,$NAII
+EHGO,$EHGO
+BTCT,$BTCT
+EQ,$EQ
+FGF,$FGF
+VVOS,$VVOS
+LPCN,$LPCN
+FRSX,$FRSX
+MRKR,$MRKR
+TNMG,$TNMG
+BNAI,$BNAI
+FEMY,$FEMY
+BLRX,$BLRX
+OCG,$OCG
+PLUR,$PLUR
+OXBR,$OXBR
+MGIH,$MGIH
+NRSN,$NRSN
+CDIO,$CDIO
+MTEX,$MTEX
+CODX,$CODX
+GP,$GP
+KFFB,$KFFB
+WETH,$WETH
+HUDI,$HUDI
+BCAB,$BCAB
+PSHG,$PSHG
+EPOW,$EPOW
+SKYQ,$SKYQ
+HUDA,$HUDA
+ELBM,$ELBM
+EZFL,$EZFL
+GRYP,$GRYP
+TOMZ,$TOMZ
+NXTC,$NXTC
+TENX,$TENX
+PYPD,$PYPD
+SHFS,$SHFS
+CNTM,$CNTM
+INAB,$INAB
+RMSG,$RMSG
+SFHG,$SFHG
+STEC,$STEC
+PULM,$PULM
+WVVI,$WVVI
+PWM,$PWM
+BOSC,$BOSC
+CYTH,$CYTH
+CETY,$CETY
+JVA,$JVA
+RVSN,$RVSN
+INTZ,$INTZ
+VSEE,$VSEE
+SPCB,$SPCB
+BSGM,$BSGM
+ZBAI,$ZBAI
+GLXG,$GLXG
+GOVX,$GOVX
+MSS,$MSS
+AIFU,$AIFU
+OCEA,$OCEA
+HUBC,$HUBC
+ZKIN,$ZKIN
+ATHA,$ATHA
+NAAS,$NAAS
+DRCT,$DRCT
+DFLI,$DFLI
+TRAW,$TRAW
+PRZO,$PRZO
+COCP,$COCP
+GDC,$GDC
+BNGO,$BNGO
+HOVR,$HOVR
+SMSI,$SMSI
+SANW,$SANW
+PMAX,$PMAX
+APRE,$APRE
+KITT,$KITT
+NWGL,$NWGL
+SDOT,$SDOT
+CCTG,$CCTG
+IINN,$IINN
+GFAI,$GFAI
+JDZG,$JDZG
+EVTV,$EVTV
+COEP,$COEP
+DPRO,$DPRO
+EDTK,$EDTK
+BFRG,$BFRG
+CARM,$CARM
+CLIK,$CLIK
+MEIP,$MEIP
+SONM,$SONM
+NKGN,$NKGN
+GIGM,$GIGM
+SOHO,$SOHO
+IPM,$IPM
+FEBO,$FEBO
+YYAI,$YYAI
+JL,$JL
+RETO,$RETO
+AFMD,$AFMD
+IZM,$IZM
+FLGC,$FLGC
+SLNH,$SLNH
+MLGO,$MLGO
+SNTI,$SNTI
+NXTT,$NXTT
+ABTS,$ABTS
+YHC,$YHC
+IPA,$IPA
+BTAI,$BTAI
+JFU,$JFU
+MCVT,$MCVT
+CRVO,$CRVO
+ATER,$ATER
+SYBX,$SYBX
+LIQT,$LIQT
+GLBZ,$GLBZ
+LFWD,$LFWD
+MTVA,$MTVA
+NEPH,$NEPH
+VCIG,$VCIG
+COSM,$COSM
+MIGI,$MIGI
+ADN,$ADN
+BCTX,$BCTX
+SKK,$SKK
+CLRO,$CLRO
+AIEV,$AIEV
+JCTC,$JCTC
+GLYC,$GLYC
+CPOP,$CPOP
+MDRR,$MDRR
+JZ,$JZ
+INHD,$INHD
+HCWB,$HCWB
+ILAG,$ILAG
+RMCF,$RMCF
+BBGI,$BBGI
+JZXN,$JZXN
+MSPR,$MSPR
+SPPL,$SPPL
+QMMM,$QMMM
+USEA,$USEA
+FLYE,$FLYE
+STRM,$STRM
+CWD,$CWD
+DTSS,$DTSS
+CAPT,$CAPT
+SPRB,$SPRB
+LSH,$LSH
+CING,$CING
+SUGP,$SUGP
+NCRA,$NCRA
+NERV,$NERV
+DMN,$DMN
+XTLB,$XTLB
+ARBB,$ARBB
+SMTK,$SMTK
+RMCO,$RMCO
+SAIH,$SAIH
+AQMS,$AQMS
+ABVE,$ABVE
+YHGJ,$YHGJ
+PRPH,$PRPH
+EKSO,$EKSO
+CDTG,$CDTG
+BOF,$BOF
+CMLS,$CMLS
+BNRG,$BNRG
+TKLF,$TKLF
+OMEX,$OMEX
+FMST,$FMST
+EEIQ,$EEIQ
+CISO,$CISO
+SVMH,$SVMH
+XTKG,$XTKG
+EDUC,$EDUC
+APCX,$APCX
+WNW,$WNW
+IMNN,$IMNN
+WISA,$WISA
+APTO,$APTO
+DATS,$DATS
+TXMD,$TXMD
+SNSE,$SNSE
+MEGL,$MEGL
+NCI,$NCI
+MNTS,$MNTS
+YQ,$YQ
+BRTX,$BRTX
+SSKN,$SSKN
+LYRA,$LYRA
+ADGM,$ADGM
+ACXP,$ACXP
+HWH,$HWH
+JBDI,$JBDI
+LCFY,$LCFY
+QTI,$QTI
+CNFR,$CNFR
+IMRN,$IMRN
+BSLK,$BSLK
+RLMD,$RLMD
+CJJD,$CJJD
+PETZ,$PETZ
+LNKS,$LNKS
+BCLI,$BCLI
+BIAF,$BIAF
+UGRO,$UGRO
+GMM,$GMM
+DLPN,$DLPN
+SCKT,$SCKT
+BHIL,$BHIL
+INTJ,$INTJ
+PSIG,$PSIG
+CTCX,$CTCX
+UBXG,$UBXG
+LIDR,$LIDR
+LEDS,$LEDS
+APLM,$APLM
+GITS,$GITS
+ASTC,$ASTC
+CSCI,$CSCI
+NITO,$NITO
+CLWT,$CLWT
+SGMA,$SGMA
+CREV,$CREV
+NTRP,$NTRP
+PEV,$PEV
+MNDR,$MNDR
+GVH,$GVH
+TSBX,$TSBX
+PMCB,$PMCB
+HOTH,$HOTH
+GSIW,$GSIW
+BTBD,$BTBD
+AMOD,$AMOD
+APDN,$APDN
+CLRB,$CLRB
+JAGX,$JAGX
+KPRX,$KPRX
+CDT,$CDT
+XELB,$XELB
+BCDA,$BCDA
+PPBT,$PPBT
+AYTU,$AYTU
+MKDW,$MKDW
+MYNZ,$MYNZ
+MFI,$MFI
+TLPH,$TLPH
+WBUY,$WBUY
+RVYL,$RVYL
+VISL,$VISL
+AEMD,$AEMD
+SIDU,$SIDU
+CARV,$CARV
+SOGP,$SOGP
+LRHC,$LRHC
+ENSC,$ENSC
+IVDA,$IVDA
+EVOK,$EVOK
+AIHS,$AIHS
+AIMD,$AIMD
+GIPR,$GIPR
+HTOO,$HTOO
+GWAV,$GWAV
+KLTO,$KLTO
+GDHG,$GDHG
+PRPO,$PRPO
+SQFT,$SQFT
+NXU,$NXU
+AMST,$AMST
+ELWS,$ELWS
+VRAX,$VRAX
+CMCT,$CMCT
+CJET,$CJET
+INDP,$INDP
+MARPS,$MARPS
+LGCB,$LGCB
+KDLY,$KDLY
+EVGN,$EVGN
+BOXL,$BOXL
+ARTW,$ARTW
+SYRA,$SYRA
+BKYI,$BKYI
+SGLY,$SGLY
+ASNS,$ASNS
+HIHO,$HIHO
+GV,$GV
+MHUA,$MHUA
+YJ,$YJ
+WTO,$WTO
+HOFV,$HOFV
+LDWY,$LDWY
+GOEV,$GOEV
+NURO,$NURO
+POLA,$POLA
+CUTR,$CUTR
+TRUG,$TRUG
+AEI,$AEI
+ICU,$ICU
+FGI,$FGI
+GRNQ,$GRNQ
+ROMA,$ROMA
+AWH,$AWH
+IBG,$IBG
+BNZI,$BNZI
+POAI,$POAI
+SLE,$SLE
+BFRI,$BFRI
+CYCN,$CYCN
+CHEK,$CHEK
+OMH,$OMH
+TRIB,$TRIB
+WAFU,$WAFU
+JCSE,$JCSE
+JNVR,$JNVR
+OTRK,$OTRK
+IPDN,$IPDN
+LMFA,$LMFA
+RDHL,$RDHL
+PAVM,$PAVM
+PSTV,$PSTV
+STRR,$STRR
+IMCC,$IMCC
+RKDA,$RKDA
+IDAI,$IDAI
+APM,$APM
+XWEL,$XWEL
+EFOI,$EFOI
+ADXN,$ADXN
+HYZN,$HYZN
+KZIA,$KZIA
+BLBX,$BLBX
+KAVL,$KAVL
+JWEL,$JWEL
+BLMZ,$BLMZ
+MRIN,$MRIN
+ABVC,$ABVC
+ELAB,$ELAB
+DOMH,$DOMH
+TWG,$TWG
+IMG,$IMG
+GRI,$GRI
+KRKR,$KRKR
+ADIL,$ADIL
+VIRX,$VIRX
+XHG,$XHG
+BON,$BON
+GURE,$GURE
+PNBK,$PNBK
+ULY,$ULY
+BMRA,$BMRA
+SYRS,$SYRS
+ONFO,$ONFO
+ALZN,$ALZN
+XBIO,$XBIO
+QNTM,$QNTM
+GLTO,$GLTO
+MGRX,$MGRX
+BGLC,$BGLC
+CNSP,$CNSP
+CMND,$CMND
+CEAD,$CEAD
+CTNT,$CTNT
+EDSA,$EDSA
+SRM,$SRM
+GNPX,$GNPX
+TGL,$TGL
+TTOO,$TTOO
+FTFT,$FTFT
+VEEE,$VEEE
+SBFM,$SBFM
+INBS,$INBS
+GSUN,$GSUN
+CHNR,$CHNR
+LXEH,$LXEH
+SNGX,$SNGX
+PHIO,$PHIO
+VS,$VS
+AEHL,$AEHL
+LICN,$LICN
+CREG,$CREG
+LIXT,$LIXT
+EJH,$EJH
+ONVO,$ONVO
+MBRX,$MBRX
+GXAI,$GXAI
+ATPC,$ATPC
+CISS,$CISS
+VVPR,$VVPR
+CETX,$CETX
+SNTG,$SNTG
+TNON,$TNON
+GTBP,$GTBP
+OST,$OST
+VINC,$VINC
+BTOG,$BTOG
+REBN,$REBN
+STAF,$STAF
+HAO,$HAO
+PBM,$PBM
+YOSH,$YOSH
+XTIA,$XTIA
+MRM,$MRM
+LKCO,$LKCO
+YGMZ,$YGMZ
+NIVF,$NIVF
+HCTI,$HCTI
+CRKN,$CRKN
+JTAI,$JTAI
+AYRO,$AYRO
+SNPX,$SNPX
+LTRY,$LTRY
+CTHR,$CTHR
+SONN,$SONN
+ONCO,$ONCO
+KXIN,$KXIN
+NVFY,$NVFY
+PLRZ,$PLRZ
+ZAPP,$ZAPP
+SINT,$SINT
+BAOS,$BAOS
+IVP,$IVP
+PRTG,$PRTG
+IMTE,$IMTE
+ALLR,$ALLR
+MSGM,$MSGM
+LFLY,$LFLY
+ZCAR,$ZCAR
+NCNA,$NCNA
+GLMD,$GLMD
+IFBD,$IFBD
+JXG,$JXG
+EDBL,$EDBL
+SGBX,$SGBX
+VSME,$VSME
+ALBT,$ALBT
+OLB,$OLB
+AGRI,$AGRI
+ATXG,$ATXG
+OBLG,$OBLG
+OCTO,$OCTO
+MULN,$MULN
+PRSO,$PRSO
+NUWE,$NUWE
+TIRX,$TIRX
+TCTM,$TCTM
+EVAX,$EVAX
+XRTX,$XRTX
+SUNE,$SUNE
+BHAT,$BHAT
+UPXI,$UPXI
+ARTL,$ARTL
+CELZ,$CELZ
+BPTH,$BPTH
+ATXI,$ATXI
+SLRX,$SLRX
+XPON,$XPON
+LIPO,$LIPO
+CNET,$CNET
+RELI,$RELI
+ASTI,$ASTI
+ENVB,$ENVB
+RSLS,$RSLS
+SNOA,$SNOA
+AMIX,$AMIX
+STSS,$STSS
+BENF,$BENF
+NCPL,$NCPL
+ZVSA,$ZVSA
+TCBP,$TCBP
+SOPA,$SOPA
+HSCS,$HSCS
+WORX,$WORX
+TNFA,$TNFA
+NLSP,$NLSP
+ATNF,$ATNF
+NDRA,$NDRA
+MYSZ,$MYSZ
+VMAR,$VMAR
+XYLO,$XYLO
+HSDT,$HSDT
+PTIX,$PTIX
+INM,$INM
+KTTA,$KTTA
+FAMI,$FAMI
+WHLR,$WHLR
+SHPH,$SHPH
+SNES,$SNES
+PTPI,$PTPI
+SGD,$SGD
+TTNP,$TTNP
+HEPA,$HEPA
+THAR,$THAR
+QNRX,$QNRX
+SNAX,$SNAX
+AQB,$AQB
+SCNI,$SCNI
+DWTX,$DWTX
+QLGN,$QLGN
+SISI,$SISI
+ICCT,$ICCT
+BCAN,$BCAN
+TCRT,$TCRT
+PCSA,$PCSA
+DRMA,$DRMA
+UOKA,$UOKA
+ASST,$ASST
+SYTA,$SYTA
+SPRC,$SPRC
+AUUD,$AUUD
+ENTO,$ENTO
+LGMK,$LGMK
+XXII,$XXII
+ISPC,$ISPC
+SVRE,$SVRE
+VERO,$VERO
+SLXN,$SLXN
+AREB,$AREB
+BDRX,$BDRX
+NVVE,$NVVE
+BBLG,$BBLG
+TRNR,$TRNR
+PALI,$PALI
+DGLY,$DGLY
+AKAN,$AKAN
+CYCC,$CYCC
+APVO,$APVO
+TIVC,$TIVC
+WINT,$WINT
+NAOV,$NAOV
+VLCN,$VLCN
+REVB,$REVB
+SXTP,$SXTP
+GNLN,$GNLN
+NAYA,$NAYA
+TAOP,$TAOP
+CNEY,$CNEY
+AVGR,$AVGR
+BJDX,$BJDX
+ADTX,$ADTX
+JFBR,$JFBR
+WLDS,$WLDS
+SBET,$SBET
+MGOL,$MGOL
+KWE,$KWE
+VRPX,$VRPX
+SMX,$SMX
+RNAZ,$RNAZ
+TC,$TC
+EZGO,$EZGO
+PRFX,$PRFX
+UK,$UK
+LUXH,$LUXH
+ALCE,$ALCE
+CYN,$CYN
+SXTC,$SXTC
+TANH,$TANH
+GCTK,$GCTK
+LYT,$LYT
+SPGC,$SPGC
+LGHL,$LGHL
+SOBR,$SOBR
+ACON,$ACON
+STKH,$STKH
+MBIO,$MBIO
+BRKA,$BRKA
+BRKB,$BRKB
+TSM,$TSM
+WMT,$WMT
+JPM,$JPM
+LLY,$LLY
+XOM,$XOM
+UNH,$UNH
+ORCL,$ORCL
+HD,$HD
+PG,$PG
+BAC,$BAC
+JNJ,$JNJ
+NVO,$NVO
+CRM,$CRM
+ABBV,$ABBV
+CVX,$CVX
+KO,$KO
+WFC,$WFC
+MRK,$MRK
+TM,$TM
+MS,$MS
+ACN,$ACN
+AXP,$AXP
+BX,$BX
+TMO,$TMO
+GS,$GS
+IBM,$IBM
+MCD,$MCD
+GE,$GE
+ABT,$ABT
+NVS,$NVS
+DIS,$DIS
+HSBC,$HSBC
+DHR,$DHR
+RY,$RY
+VZ,$VZ
+RTX,$RTX
+BLK,$BLK
+SPGI,$SPGI
+PFE,$PFE
+SYK,$SYK
+BSX,$BSX
+HDB,$HDB
+PGR,$PGR
+UNP,$UNP
+UBER,$UBER
+KKR,$KKR
+SCHW,$SCHW
+MUFG,$MUFG
+UL,$UL
+TJX,$TJX
+ETN,$ETN
+TTE,$TTE
+BHP,$BHP
+SONY,$SONY
+FI,$FI
+LMT,$LMT
+BMY,$BMY
+MDT,$MDT
+GEV,$GEV
+CB,$CB
+UBS,$UBS
+MMC,$MMC
+NKE,$NKE
+RIO,$RIO
+PLD,$PLD
+TD,$TD
+IBN,$IBN
+ENB,$ENB
+APO,$APO
+SMFG,$SMFG
+ELV,$ELV
+RELX,$RELX
+AMT,$AMT
+SHW,$SHW
+BN,$BN
+TT,$TT
+INFY,$INFY
+MCO,$MCO
+PH,$PH
+WM,$WM
+PBR,$PBR
+PBRA,$PBRA
+DUK,$DUK
+APH,$APH
+BP,$BP
+BTI,$BTI
+AON,$AON
+CI,$CI
+HCA,$HCA
+PNC,$PNC
+CMG,$CMG
+MSI,$MSI
+SCCO,$SCCO
+EOG,$EOG
+ITW,$ITW
+USB,$USB
+TDG,$TDG
+MCK,$MCK
+ZTS,$ZTS
+AJG,$AJG
+GD,$GD
+COF,$COF
+EPD,$EPD
+BMO,$BMO
+CL,$CL
+WMB,$WMB
+TRI,$TRI
+EMR,$EMR
+APD,$APD
+NOC,$NOC
+CP,$CP
+BDX,$BDX
+EQNR,$EQNR
+GSK,$GSK
+KMI,$KMI
+ECL,$ECL
+RSG,$RSG
+CNQ,$CNQ
+FDX,$FDX
+CVS,$CVS
+CRH,$CRH
+SE,$SE
+DEO,$DEO
+SPG,$SPG
+RCL,$RCL
+CNI,$CNI
+MFG,$MFG
+BNS,$BNS
+TFC,$TFC
+CARR,$CARR
+SLB,$SLB
+TGT,$TGT
+DLR,$DLR
+HLT,$HLT
+BK,$BK
+CM,$CM
+AFL,$AFL
+VST,$VST
+FCX,$FCX
+NGG,$NGG
+BBVA,$BBVA
+LNG,$LNG
+NSC,$NSC
+TRV,$TRV
+GWW,$GWW
+SRE,$SRE
+SQ,$SQ
+JCI,$JCI
+MFC,$MFC
+MPLX,$MPLX
+PSA,$PSA
+VRT,$VRT
+HWM,$HWM
+BCS,$BCS
+ING,$ING
+CMI,$CMI
+PWR,$PWR
+PSX,$PSX
+TRP,$TRP
+SU,$SU
+ITUB,$ITUB
+MPC,$MPC
+CVNA,$CVNA
+MSCI,$MSCI
+DHI,$DHI
+TRGP,$TRGP
+DFS,$DFS
+NEM,$NEM
+FLUT,$FLUT
+AIG,$AIG
+COR,$COR
+WCN,$WCN
+VLO,$VLO
+TEL,$TEL
+HMC,$HMC
+LYG,$LYG
+RBLX,$RBLX
+CTVA,$CTVA
+GLW,$GLW
+AEM,$AEM
+KMB,$KMB
+FIS,$FIS
+KR,$KR
+DAL,$DAL
+AMX,$AMX
+ALC,$ALC
+GRMN,$GRMN
+LHX,$LHX
+HLN,$HLN
+CBRE,$CBRE
+EW,$EW
+TAK,$TAK
+NWG,$NWG
+KVUE,$KVUE
+CPNG,$CPNG
+CCI,$CCI
+LENB,$LENB
+PCG,$PCG
+DB,$DB
+IR,$IR
+SYY,$SYY
+IQV,$IQV
+VMC,$VMC
+FERG,$FERG
+STLA,$STLA
+RMD,$RMD
+VEEV,$VEEV
+ETR,$ETR
+YUM,$YUM
+RJF,$RJF
+SLF,$SLF
+CCL,$CCL
+CUK,$CUK
+STZ,$STZ
+MLM,$MLM
+EXR,$EXR
+GIS,$GIS
+HEI,$HEI
+EFX,$EFX
+MTB,$MTB
+TPL,$TPL
+HIG,$HIG
+ROK,$ROK
+DD,$DD
+LVS,$LVS
+IRM,$IRM
+EQT,$EQT
+CNC,$CNC
+WEC,$WEC
+LYV,$LYV
+AVB,$AVB
+VICI,$VICI
+HSY,$HSY
+RDDT,$RDDT
+CAH,$CAH
+HPQ,$HPQ
+HPE,$HPE
+WDS,$WDS
+BRO,$BRO
+CQP,$CQP
+CHT,$CHT
+NUE,$NUE
+XYL,$XYL
+ABEV,$ABEV
+HEIA,$HEIA
+GDDY,$GDDY
+STT,$STT
+PPG,$PPG
+FMX,$FMX
+CVE,$CVE
+GPN,$GPN
+SW,$SW
+FTV,$FTV
+MTD,$MTD
+EQR,$EQR
+QSR,$QSR
+BR,$BR
+SYF,$SYF
+WPM,$WPM
+IOT,$IOT
+CHD,$CHD
+CPAY,$CPAY
+DTE,$DTE
+NTR,$NTR
+VLTO,$VLTO
+NVR,$NVR
+AEE,$AEE
+LYB,$LYB
+WSM,$WSM
+DVN,$DVN
+VTR,$VTR
+TEVA,$TEVA
+AWK,$AWK
+UI,$UI
+ADM,$ADM
+PPL,$PPL
+NOK,$NOK
+TYL,$TYL
+WST,$WST
+FNV,$FNV
+TKO,$TKO
+EIX,$EIX
+PHG,$PHG
+PHM,$PHM
+RKT,$RKT
+HUBB,$HUBB
+ROL,$ROL
+BAM,$BAM
+IX,$IX
+LII,$LII
+TEF,$TEF
+FE,$FE
+MKL,$MKL
+KB,$KB
+STM,$STM
+WRB,$WRB
+ATO,$ATO
+CCJ,$CCJ
+TECK,$TECK
+TDY,$TDY
+RF,$RF
+WY,$WY
+ASX,$ASX
+PBA,$PBA
+ZBH,$ZBH
+CTRA,$CTRA
+IFF,$IFF
+PSTG,$PSTG
+DRI,$DRI
+CNP,$CNP
+PKG,$PKG
+NRG,$NRG
+TS,$TS
+PUK,$PUK
+FTS,$FTS
+TU,$TU
+CFG,$CFG
+LDOS,$LDOS
+STE,$STE
+VIK,$VIK
+BEKE,$BEKE
+CMS,$CMS
+LH,$LH
+IHG,$IHG
+TSN,$TSN
+CLX,$CLX
+IP,$IP
+MKC,$MKC
+MKCV,$MKCV
+BBDO,$BBDO
+BBD,$BBD
+LUV,$LUV
+INVH,$INVH
+YPF,$YPF
+BLDR,$BLDR
+WSO,$WSO
+DKS,$DKS
+TRU,$TRU
+ONON,$ONON
+WSOB,$WSOB
+MT,$MT
+SNA,$SNA
+CRBG,$CRBG
+CSL,$CSL
+MAA,$MAA
+NI,$NI
+JBL,$JBL
+AER,$AER
+NMR,$NMR
+FDS,$FDS
+BBY,$BBY
+EC,$EC
+TWLO,$TWLO
+SHG,$SHG
+TME,$TME
+PNR,$PNR
+CF,$CF
+DGX,$DGX
+YUMC,$YUMC
+OMC,$OMC
+GFL,$GFL
+GPC,$GPC
+RBA,$RBA
+HRL,$HRL
+SUI,$SUI
+MOH,$MOH
+TPR,$TPR
+IEX,$IEX
+RPM,$RPM
+BFB,$BFB
+EQH,$EQH
+BFA,$BFA
+TLK,$TLK
+XPO,$XPO
+KOF,$KOF
+USFD,$USFD
+FNF,$FNF
+BAX,$BAX
+UMC,$UMC
+OC,$OC
+RS,$RS
+EG,$EG
+RCI,$RCI
+EXPD,$EXPD
+AVY,$AVY
+UDR,$UDR
+BSBR,$BSBR
+SN,$SN
+CNH,$CNH
+DT,$DT
+ZTO,$ZTO
+COHR,$COHR
+WLK,$WLK
+CHWY,$CHWY
+DG,$DG
+AVTR,$AVTR
+RL,$RL
+GWRE,$GWRE
+AMH,$AMH
+RGA,$RGA
+TXT,$TXT
+EDR,$EDR
+BAP,$BAP
+ACM,$ACM
+RVTY,$RVTY
+GGG,$GGG
+APTV,$APTV
+JHX,$JHX
+BSS,$BSS
+UHAL,$UHAL
+AMCR,$AMCR
+CW,$CW
+FTI,$FTI
+GFI,$GFI
+AU,$AU
+UNM,$UNM
+PFGC,$PFGC
+DVA,$DVA
+FMS,$FMS
+CAVA,$CAVA
+TOL,$TOL
+PKX,$PKX
+XPEV,$XPEV
+RNR,$RNR
+CLS,$CLS
+CNA,$CNA
+EBR,$EBR
+EPAM,$EPAM
+CLH,$CLH
+SWK,$SWK
+BXP,$BXP
+UHALB,$UHALB
+PR,$PR
+SUZ,$SUZ
+JNPR,$JNPR
+KGC,$KGC
+HLI,$HLI
+SOLV,$SOLV
+RDY,$RDY
+RBRK,$RBRK
+BJ,$BJ
+THC,$THC
+PRMB,$PRMB
+JLL,$JLL
+GMED,$GMED
+CAG,$CAG
+ITT,$ITT
+GME,$GME
+WPC,$WPC
+CPT,$CPT
+UHS,$UHS
+KMX,$KMX
+MTZ,$MTZ
+CIEN,$CIEN
+NCLH,$NCLH
+NVT,$NVT
+BCH,$BCH
+OVV,$OVV
+RTO,$RTO
+YMM,$YMM
+PAYC,$PAYC
+SF,$SF
+MGA,$MGA
+ALLE,$ALLE
+SNX,$SNX
+SQM,$SQM
+PCOR,$PCOR
+EVR,$EVR
+TFII,$TFII
+DTM,$DTM
+ACI,$ACI
+AFG,$AFG
+FHN,$FHN
+BWXT,$BWXT
+SCI,$SCI
+BG,$BG
+CNM,$CNM
+SNN,$SNN
+SJM,$SJM
+AIZ,$AIZ
+KVYO,$KVYO
+NLY,$NLY
+EMN,$EMN
+PAG,$PAG
+FND,$FND
+BROS,$BROS
+SKX,$SKX
+SBS,$SBS
+PSO,$PSO
+AOS,$AOS
+ESTC,$ESTC
+ULS,$ULS
+ATR,$ATR
+APG,$APG
+ARMK,$ARMK
+OHI,$OHI
+IPG,$IPG
+RRX,$RRX
+ALSN,$ALSN
+TPX,$TPX
+CRS,$CRS
+KNTK,$KNTK
+WBS,$WBS
+QGEN,$QGEN
+AEG,$AEG
+KNSL,$KNSL
+BLD,$BLD
+CACI,$CACI
+AYI,$AYI
+PSN,$PSN
+CCK,$CCK
+SSB,$SSB
+BNT,$BNT
+EDU,$EDU
+GL,$GL
+RRC,$RRC
+PNW,$PNW
+UWMC,$UWMC
+WAL,$WAL
+MGM,$MGM
+WPP,$WPP
+PRI,$PRI
+RBC,$RBC
+WMS,$WMS
+BEP,$BEP
+MUSA,$MUSA
+WTRG,$WTRG
+GNRC,$GNRC
+BIOB,$BIOB
+EHC,$EHC
+WCC,$WCC
+MLI,$MLI
+BRBR,$BRBR
+FBIN,$FBIN
+VFC,$VFC
+CFR,$CFR
+NIO,$NIO
+ORI,$ORI
+FRT,$FRT
+GTLS,$GTLS
+HESM,$HESM
+BSAC,$BSAC
+REXR,$REXR
+CR,$CR
+KD,$KD
+KNX,$KNX
+STN,$STN
+PLNT,$PLNT
+INGR,$INGR
+FN,$FN
+CMA,$CMA
+FLR,$FLR
+MOS,$MOS
+GKOS,$GKOS
+EXP,$EXP
+VNO,$VNO
+LW,$LW
+OGE,$OGE
+NYT,$NYT
+DCI,$DCI
+TTC,$TTC
+ALK,$ALK
+TFX,$TFX
+IONQ,$IONQ
+AES,$AES
+GPK,$GPK
+CRL,$CRL
+FLS,$FLS
+RH,$RH
+SARO,$SARO
+AGI,$AGI
+LTM,$LTM
+ASR,$ASR
+MHK,$MHK
+ATI,$ATI
+SKM,$SKM
+LPX,$LPX
+WH,$WH
+CIB,$CIB
+EGP,$EGP
+BBWI,$BBWI
+MTDR,$MTDR
+BRX,$BRX
+CE,$CE
+HII,$HII
+AXTA,$AXTA
+KBR,$KBR
+WF,$WF
+SMAR,$SMAR
+PAAS,$PAAS
+BERY,$BERY
+CX,$CX
+DLB,$DLB
+KT,$KT
+IVZ,$IVZ
+CAE,$CAE
+SNV,$SNV
+TREX,$TREX
+ICL,$ICL
+ALV,$ALV
+AGCO,$AGCO
+HRB,$HRB
+AXS,$AXS
+BMA,$BMA
+NNN,$NNN
+PB,$PB
+ADC,$ADC
+ESAB,$ESAB
+ENLC,$ENLC
+INFA,$INFA
+DDS,$DDS
+LOAR,$LOAR
+WEX,$WEX
+ERJ,$ERJ
+MNSO,$MNSO
+WFG,$WFG
+RHI,$RHI
+AZEK,$AZEK
+WHR,$WHR
+SSD,$SSD
+RLI,$RLI
+BWA,$BWA
+MOGA,$MOGA
+CWAN,$CWAN
+VIPS,$VIPS
+WTS,$WTS
+FR,$FR
+SPXC,$SPXC
+BFAM,$BFAM
+TMHC,$TMHC
+JXN,$JXN
+JHG,$JHG
+VMI,$VMI
+FCN,$FCN
+VOYA,$VOYA
+FMC,$FMC
+MTN,$MTN
+BYD,$BYD
+CHH,$CHH
+ANF,$ANF
+PJT,$PJT
+OMF,$OMF
+STWD,$STWD
+ADT,$ADT
+AWI,$AWI
+ZWS,$ZWS
+UGI,$UGI
+MSA,$MSA
+FAF,$FAF
+JBTM,$JBTM
+BMI,$BMI
+ZK,$ZK
+ESI,$ESI
+CRK,$CRK
+OSK,$OSK
+STVN,$STVN
+FSK,$FSK
+COTY,$COTY
+WK,$WK
+NFG,$NFG
+MTG,$MTG
+BRFS,$BRFS
+ALTM,$ALTM
+TKC,$TKC
+RHP,$RHP
+ARW,$ARW
+ESNT,$ESNT
+BLCO,$BLCO
+HMY,$HMY
+TRNO,$TRNO
+HIMS,$HIMS
+NOV,$NOV
+HOMB,$HOMB
+TAL,$TAL
+TEO,$TEO
+FSS,$FSS
+KNF,$KNF
+TIMB,$TIMB
+HR,$HR
+RITM,$RITM
+HRI,$HRI
+MTH,$MTH
+DAR,$DAR
+GPI,$GPI
+GBCI,$GBCI
+OBDC,$OBDC
+CMC,$CMC
+LUMN,$LUMN
+GGB,$GGB
+GGB,$GGB
+TX,$TX
+QTWO,$QTWO
+AMG,$AMG
+LNC,$LNC
+THG,$THG
+VNT,$VNT
+SLGN,$SLGN
+FNB,$FNB
+SMR,$SMR
+CIG,$CIG
+CIGC,$CIGC
+EPRT,$EPRT
+DY,$DY
+AMTM,$AMTM
+FG,$FG
+PFSI,$PFSI
+USM,$USM
+GATX,$GATX
+IBP,$IBP
+LB,$LB
+VIST,$VIST
+NE,$NE
+NEWSA,$NEWSA
+TKR,$TKR
+HXL,$HXL
+INSP,$INSP
+GXO,$GXO
+GTES,$GTES
+MGY,$MGY
+KRG,$KRG
+AROC,$AROC
+MSGS,$MSGS
+SNDR,$SNDR
+SWX,$SWX
+CIVI,$CIVI
+PVH,$PVH
+CUZ,$CUZ
+INGM,$INGM
+BBAR,$BBAR
+CLF,$CLF
+WHD,$WHD
+SOBO,$SOBO
+CWENA,$CWENA
+CTRE,$CTRE
+DNB,$DNB
+CBT,$CBT
+SLG,$SLG
+SM,$SM
+BCC,$BCC
+RDN,$RDN
+SHAK,$SHAK
+KBH,$KBH
+CRC,$CRC
+LRN,$LRN
+SFBS,$SFBS
+TGS,$TGS
+PIPR,$PIPR
+ABG,$ABG
+ACA,$ACA
+NEU,$NEU
+KTB,$KTB
+BDC,$BDC
+ITGR,$ITGR
+MMS,$MMS
+NJR,$NJR
+BIPC,$BIPC
+NSA,$NSA
+MUR,$MUR
+WTM,$WTM
+BBU,$BBU
+VVV,$VVV
+KRC,$KRC
+LAZ,$LAZ
+MATX,$MATX
+MSM,$MSM
+CNX,$CNX
+TNET,$TNET
+ACHR,$ACHR
+ABCB,$ABCB
+CNS,$CNS
+ASAN,$ASAN
+POR,$POR
+IRT,$IRT
+TXNM,$TXNM
+AHR,$AHR
+AB,$AB
+ELP,$ELP
+ELPC,$ELPC
+TAC,$TAC
+BKH,$BKH
+GBTG,$GBTG
+CBZ,$CBZ
+KMPR,$KMPR
+CRGY,$CRGY
+KGS,$KGS
+UNF,$UNF
+OGS,$OGS
+AX,$AX
+TDS,$TDS
+ASB,$ASB
+OGN,$OGN
+RXO,$RXO
+BCO,$BCO
+GVA,$GVA
+SMG,$SMG
+SR,$SR
+CNO,$CNO
+RYN,$RYN
+ENIC,$ENIC
+HGV,$HGV
+SPR,$SPR
+JWN,$JWN
+TGLS,$TGLS
+NNI,$NNI
+OLN,$OLN
+OSCR,$OSCR
+GHC,$GHC
+NXE,$NXE
+FLG,$FLG
+ASGN,$ASGN
+UCB,$UCB
+PBH,$PBH
+AVNT,$AVNT
+SG,$SG
+SKT,$SKT
+HHH,$HHH
+BHVN,$BHVN
+MDU,$MDU
+CPA,$CPA
+DXC,$DXC
+LBRT,$LBRT
+ATGE,$ATGE
+BEPC,$BEPC
+GFF,$GFF
+KFY,$KFY
+CXT,$CXT
+NPO,$NPO
+CLVT,$CLVT
+APLE,$APLE
+PBF,$PBF
+HP,$HP
+MWA,$MWA
+TNL,$TNL
+ECG,$ECG
+EPR,$EPR
+UAA,$UAA
+WU,$WU
+BRC,$BRC
+ATMU,$ATMU
+TPH,$TPH
+SSL,$SSL
+IGT,$IGT
+GPOR,$GPOR
+ESE,$ESE
+APAM,$APAM
+CNK,$CNK
+EE,$EE
+HTGC,$HTGC
+MP,$MP
+NVST,$NVST
+HBM,$HBM
+AQN,$AQN
+FUL,$FUL
+RSI,$RSI
+CDP,$CDP
+HL,$HL
+VRN,$VRN
+REZI,$REZI
+UA,$UA
+STR,$STR
+ATHM,$ATHM
+HASI,$HASI
+DOCN,$DOCN
+CBU,$CBU
+TBBB,$TBBB
+ABM,$ABM
+HGTY,$HGTY
+DV,$DV
+BSM,$BSM
+BVN,$BVN
+GMS,$GMS
+HIW,$HIW
+HAYW,$HAYW
+PRGO,$PRGO
+WD,$WD
+BXMT,$BXMT
+IAG,$IAG
+SLVM,$SLVM
+FBP,$FBP
+TFPM,$TFPM
+OKLO,$OKLO
+TEX,$TEX
+NHI,$NHI
+TRN,$TRN
+SXT,$SXT
+BNL,$BNL
+PII,$PII
+LPL,$LPL
+AEO,$AEO
+BFH,$BFH
+CWK,$CWK
+CWEN,$CWEN
+RNG,$RNG
+USAC,$USAC
+GRND,$GRND
+GNW,$GNW
+BKU,$BKU
+FHI,$FHI
+VAC,$VAC
+SGHC,$SGHC
+GEFB,$GEFB
+WRBY,$WRBY
+ATKR,$ATKR
+CAAP,$CAAP
+HCC,$HCC
+TDC,$TDC
+HBI,$HBI
+VSCO,$VSCO
+TDW,$TDW
+GEF,$GEF
+CC,$CC
+TGNA,$TGNA
+RLX,$RLX
+PRKS,$PRKS
+NSP,$NSP
+UGP,$UGP
+CNR,$CNR
+CPK,$CPK
+BOH,$BOH
+AWR,$AWR
+ABR,$ABR
+ENVA,$ENVA
+PK,$PK
+CPRI,$CPRI
+HAFN,$HAFN
+AKR,$AKR
+BHC,$BHC
+LCII,$LCII
+NOMD,$NOMD
+BANC,$BANC
+AAP,$AAP
+MANU,$MANU
+OII,$OII
+QS,$QS
+FCPT,$FCPT
+MCY,$MCY
+AESI,$AESI
+GRBK,$GRBK
+UE,$UE
+AKOB,$AKOB
+AKOA,$AKOA
+CWT,$CWT
+ESRT,$ESRT
+AZZ,$AZZ
+AVAL,$AVAL
+ENOV,$ENOV
+ATS,$ATS
+ENR,$ENR
+CXW,$CXW
+CSAN,$CSAN
+PFS,$PFS
+SBSW,$SBSW
+AMR,$AMR
+STNG,$STNG
+CDE,$CDE
+SEM,$SEM
+MPW,$MPW
+SDRL,$SDRL
+FBK,$FBK
+HNI,$HNI
+MTX,$MTX
+SPNT,$SPNT
+KWR,$KWR
+AGX,$AGX
+BKE,$BKE
+EPAC,$EPAC
+LXP,$LXP
+SPB,$SPB
+SWI,$SWI
+NATL,$NATL
+CCS,$CCS
+WLY,$WLY
+WLYB,$WLYB
+BB,$BB
+KLC,$KLC
+SHO,$SHO
+BTU,$BTU
+LMND,$LMND
+SAH,$SAH
+DKL,$DKL
+RNST,$RNST
+SXI,$SXI
+SEMR,$SEMR
+CWH,$CWH
+DFH,$DFH
+VSH,$VSH
+IVT,$IVT
+TR,$TR
+LSPD,$LSPD
+IBTA,$IBTA
+CEPU,$CEPU
+ALG,$ALG
+CMBT,$CMBT
+LU,$LU
+SOC,$SOC
+CXM,$CXM
+MBC,$MBC
+PHIN,$PHIN
+KAR,$KAR
+CCU,$CCU
+BTE,$BTE
+VSTS,$VSTS
+AGM,$AGM
+RVLV,$RVLV
+CVI,$CVI
+WOR,$WOR
+DBRG,$DBRG
+ZGN,$ZGN
+MTRN,$MTRN
+PAGS,$PAGS
+GBX,$GBX
+CNMD,$CNMD
+EVTC,$EVTC
+BKV,$BKV
+VTMX,$VTMX
+OFG,$OFG
+PRM,$PRM
+WNS,$WNS
+TSLX,$TSLX
+ARDT,$ARDT
+UTZ,$UTZ
+NPWR,$NPWR
+ZIM,$ZIM
+HG,$HG
+TALO,$TALO
+FL,$FL
+CTRI,$CTRI
+CRI,$CRI
+IIPR,$IIPR
+VYX,$VYX
+AAT,$AAT
+BWLP,$BWLP
+MSDL,$MSDL
+INSW,$INSW
+KMT,$KMT
+HTH,$HTH
+DAVA,$DAVA
+LC,$LC
+CABO,$CABO
+DRH,$DRH
+LZB,$LZB
+FIHL,$FIHL
+MNR,$MNR
+WWW,$WWW
+FINV,$FINV
+GENI,$GENI
+LGFA,$LGFA
+STC,$STC
+GLP,$GLP
+SVV,$SVV
+KN,$KN
+REVG,$REVG
+THS,$THS
+DFIN,$DFIN
+PRG,$PRG
+WMK,$WMK
+GB,$GB
+CDLR,$CDLR
+MSGE,$MSGE
+XPRO,$XPRO
+DHT,$DHT
+ARIS,$ARIS
+BHE,$BHE
+NABL,$NABL
+NGVT,$NGVT
+UNFI,$UNFI
+BBUC,$BBUC
+GTY,$GTY
+LGFB,$LGFB
+SUPV,$SUPV
+FCF,$FCF
+WTTR,$WTTR
+NBHC,$NBHC
+AMBP,$AMBP
+BAK,$BAK
+DBD,$DBD
+VVX,$VVX
+GNL,$GNL
+PEB,$PEB
+PD,$PD
+EDN,$EDN
+EPC,$EPC
+QBTS,$QBTS
+NTB,$NTB
+WKC,$WKC
+VRE,$VRE
+NWN,$NWN
+NIC,$NIC
+OI,$OI
+TNC,$TNC
+DESP,$DESP
+NEP,$NEP
+PHR,$PHR
+LTC,$LTC
+TROX,$TROX
+CSTM,$CSTM
+CUBI,$CUBI
+TDOC,$TDOC
+HMN,$HMN
+CTS,$CTS
+CDRE,$CDRE
+WS,$WS
+ZUO,$ZUO
+BV,$BV
+KRP,$KRP
+FDP,$FDP
+JBGS,$JBGS
+XHR,$XHR
+RLJ,$RLJ
+AMC,$AMC
+STEL,$STEL
+TNK,$TNK
+DAC,$DAC
+PX,$PX
+MLNK,$MLNK
+MODG,$MODG
+SPHR,$SPHR
+VRTS,$VRTS
+TGI,$TGI
+CMRE,$CMRE
+ERO,$ERO
+DX,$DX
+SHCO,$SHCO
+HLIO,$HLIO
+ADNT,$ADNT
+DNOW,$DNOW
+SFL,$SFL
+KSS,$KSS
+LNN,$LNN
+UTI,$UTI
+UMH,$UMH
+GSBD,$GSBD
+SCL,$SCL
+ENFN,$ENFN
+BLX,$BLX
+LADR,$LADR
+MMI,$MMI
+ATEN,$ATEN
+NRP,$NRP
+HLX,$HLX
+AIV,$AIV
+EVEX,$EVEX
+KLG,$KLG
+WT,$WT
+WGO,$WGO
+FLNG,$FLNG
+COUR,$COUR
+FSM,$FSM
+OXM,$OXM
+USPH,$USPH
+SILA,$SILA
+TPC,$TPC
+SCS,$SCS
+BHLB,$BHLB
+PBI,$PBI
+GRDN,$GRDN
+VTLE,$VTLE
+ELME,$ELME
+FSLY,$FSLY
+EFXT,$EFXT
+FUBO,$FUBO
+NMM,$NMM
+AORT,$AORT
+SDHC,$SDHC
+RCUS,$RCUS
+HCI,$HCI
+SMWB,$SMWB
+ATUS,$ATUS
+AGL,$AGL
+SPH,$SPH
+OLO,$OLO
+KW,$KW
+BFS,$BFS
+UVV,$UVV
+DQ,$DQ
+LOMA,$LOMA
+DK,$DK
+CGAU,$CGAU
+EIG,$EIG
+MRC,$MRC
+IMAX,$IMAX
+IDT,$IDT
+AMRC,$AMRC
+IRS,$IRS
+FVRR,$FVRR
+INVX,$INVX
+CNNE,$CNNE
+NTST,$NTST
+RC,$RC
+KBDC,$KBDC
+EVRI,$EVRI
+MD,$MD
+NVGS,$NVGS
+CIM,$CIM
+SBH,$SBH
+EVH,$EVH
+EFC,$EFC
+WEAV,$WEAV
+NX,$NX
+PL,$PL
+GETY,$GETY
+JKS,$JKS
+OMI,$OMI
+BCSF,$BCSF
+PRSU,$PRSU
+VTEX,$VTEX
+FBMS,$FBMS
+CTOS,$CTOS
+PMT,$PMT
+KRO,$KRO
+PSFE,$PSFE
+OBK,$OBK
+PDM,$PDM
+SA,$SA
+PGRE,$PGRE
+LPG,$LPG
+SSTK,$SSTK
+JBI,$JBI
+SII,$SII
+IHS,$IHS
+CSR,$CSR
+TUYA,$TUYA
+VTOL,$VTOL
+ASPN,$ASPN
+ARR,$ARR
+FBRT,$FBRT
+MFA,$MFA
+KFRC,$KFRC
+BBDC,$BBDC
+TPB,$TPB
+SKE,$SKE
+DCO,$DCO
+NXRT,$NXRT
+DLX,$DLX
+AHH,$AHH
+THR,$THR
+BKDT,$BKDT
+BKD,$BKD
+GRC,$GRC
+BBAI,$BBAI
+AMN,$AMN
+RDW,$RDW
+ALX,$ALX
+TIXT,$TIXT
+AGRO,$AGRO
+ML,$ML
+SBSI,$SBSI
+SBR,$SBR
+GIC,$GIC
+BRDG,$BRDG
+OPFI,$OPFI
+EEX,$EEX
+PRLB,$PRLB
+VLRS,$VLRS
+AMTB,$AMTB
+AAMI,$AAMI
+PFLT,$PFLT
+EXK,$EXK
+BDN,$BDN
+NGVC,$NGVC
+NCDL,$NCDL
+CLB,$CLB
+BLND,$BLND
+ECVT,$ECVT
+MTAL,$MTAL
+FNA,$FNA
+PDS,$PDS
+BXC,$BXC
+GRNT,$GRNT
+UTL,$UTL
+UAN,$UAN
+ACEL,$ACEL
+SXC,$SXC
+ETWO,$ETWO
+MSC,$MSC
+CBL,$CBL
+BORR,$BORR
+RWT,$RWT
+BZH,$BZH
+CAPL,$CAPL
+NEXA,$NEXA
+CINT,$CINT
+DAO,$DAO
+NUVB,$NUVB
+ASIX,$ASIX
+HOV,$HOV
+DEC,$DEC
+WLKP,$WLKP
+OEC,$OEC
+RSKD,$RSKD
+LVWR,$LVWR
+TYG,$TYG
+VTS,$VTS
+YEXT,$YEXT
+SITC,$SITC
+JELD,$JELD
+DRD,$DRD
+MYTE,$MYTE
+TXO,$TXO
+SPLP,$SPLP
+GHLD,$GHLD
+BFLY,$BFLY
+PRA,$PRA
+MLR,$MLR
+CPF,$CPF
+PLYM,$PLYM
+ECO,$ECO
+GSL,$GSL
+XPOF,$XPOF
+HUYA,$HUYA
+BRSP,$BRSP
+EQBK,$EQBK
+KREF,$KREF
+BALY,$BALY
+DDL,$DDL
+ETD,$ETD
+CCO,$CCO
+CVLG,$CVLG
+SLQT,$SLQT
+OPY,$OPY
+WNC,$WNC
+NGL,$NGL
+AXL,$AXL
+NPK,$NPK
+GCI,$GCI
+NVRI,$NVRI
+TRTX,$TRTX
+WSR,$WSR
+AVNS,$AVNS
+AACT,$AACT
+MCB,$MCB
+VHI,$VHI
+SMP,$SMP
+BH,$BH
+NPKI,$NPKI
+HIPO,$HIPO
+HLF,$HLF
+RYI,$RYI
+CURV,$CURV
+BHA,$BHA
+TK,$TK
+LXU,$LXU
+TTI,$TTI
+USNA,$USNA
+GES,$GES
+EVTL,$EVTL
+MAGN,$MAGN
+MTUS,$MTUS
+NBR,$NBR
+HZO,$HZO
+BRCC,$BRCC
+YALA,$YALA
+VEL,$VEL
+MCS,$MCS
+AUNA,$AUNA
+ODC,$ODC
+GNK,$GNK
+FPH,$FPH
+RGR,$RGR
+CTO,$CTO
+CRDA,$CRDA
+CMP,$CMP
+ZKH,$ZKH
+KODK,$KODK
+CRDB,$CRDB
+LDI,$LDI
+RERE,$RERE
+DNA,$DNA
+FPI,$FPI
+CHCT,$CHCT
+NOA,$NOA
+OLP,$OLP
+GMRE,$GMRE
+UVE,$UVE
+PBT,$PBT
+AMBC,$AMBC
+QD,$QD
+EBF,$EBF
+CMTG,$CMTG
+EBS,$EBS
+GPRK,$GPRK
+SMBK,$SMBK
+GOTU,$GOTU
+LZM,$LZM
+IIIN,$IIIN
+HKD,$HKD
+MATV,$MATV
+PSBD,$PSBD
+UHT,$UHT
+BBW,$BBW
+ASC,$ASC
+BGS,$BGS
+CLW,$CLW
+RYAM,$RYAM
+IVR,$IVR
+LAAC,$LAAC
+GHM,$GHM
+CPAC,$CPAC
+AGS,$AGS
+ACCO,$ACCO
+GFR,$GFR
+CHPT,$CHPT
+GDOT,$GDOT
+GBLI,$GBLI
+TWI,$TWI
+CLCO,$CLCO
+FVR,$FVR
+CANG,$CANG
+EGY,$EGY
+UIS,$UIS
+NLOP,$NLOP
+EAF,$EAF
+BOC,$BOC
+SD,$SD
+CTV,$CTV
+HPP,$HPP
+JMIA,$JMIA
+GCO,$GCO
+EQV,$EQV
+AAM,$AAM
+MUX,$MUX
+WDH,$WDH
+PNNT,$PNNT
+SMC,$SMC
+CLDT,$CLDT
+FC,$FC
+SPIR,$SPIR
+MYE,$MYE
+TRC,$TRC
+YRD,$YRD
+MOV,$MOV
+DDD,$DDD
+ASA,$ASA
+SPMC,$SPMC
+SNDA,$SNDA
+PKST,$PKST
+SGU,$SGU
+CYH,$CYH
+BWMX,$BWMX
+XPER,$XPER
+GNTY,$GNTY
+GNE,$GNE
+EHAB,$EHAB
+BKKT,$BKKT
+TRAK,$TRAK
+RNGR,$RNGR
+CYD,$CYD
+FREY,$FREY
+MLP,$MLP
+SCM,$SCM
+MSB,$MSB
+OOMA,$OOMA
+HOUS,$HOUS
+AMPX,$AMPX
+HLLY,$HLLY
+LND,$LND
+PSTL,$PSTL
+LXFR,$LXFR
+XYF,$XYF
+HVT,$HVT
+HVTA,$HVTA
+SB,$SB
+RM,$RM
+OIS,$OIS
+NL,$NL
+BKSY,$BKSY
+SAR,$SAR
+VLN,$VLN
+NREF,$NREF
+ZVIA,$ZVIA
+NGS,$NGS
+BRT,$BRT
+GTNA,$GTNA
+EB,$EB
+BNED,$BNED
+SES,$SES
+YSG,$YSG
+CVEO,$CVEO
+IPI,$IPI
+MTW,$MTW
+MEC,$MEC
+HRTG,$HRTG
+HYAC,$HYAC
+MPX,$MPX
+GTN,$GTN
+RMAX,$RMAX
+ORN,$ORN
+NRGV,$NRGV
+MBI,$MBI
+TBN,$TBN
+TPVG,$TPVG
+SMRT,$SMRT
+VPG,$VPG
+NRDY,$NRDY
+MG,$MG
+PKE,$PKE
+JACS,$JACS
+ZH,$ZH
+CBAN,$CBAN
+FOA,$FOA
+DBI,$DBI
+WTI,$WTI
+CPS,$CPS
+BYON,$BYON
+ONTF,$ONTF
+ONIT,$ONIT
+TG,$TG
+PERF,$PERF
+FTK,$FTK
+SKIL,$SKIL
+MPLN,$MPLN
+SBXD,$SBXD
+AZUL,$AZUL
+ARL,$ARL
+NMG,$NMG
+GHG,$GHG
+TCI,$TCI
+ALTG,$ALTG
+AEVA,$AEVA
+HBB,$HBB
+AOMR,$AOMR
+CLBR,$CLBR
+FF,$FF
+AMPY,$AMPY
+LANV,$LANV
+TBI,$TBI
+CIA,$CIA
+NC,$NC
+KFS,$KFS
+SRG,$SRG
+DSX,$DSX
+ONL,$ONL
+HSHP,$HSHP
+ODV,$ODV
+EVC,$EVC
+SJT,$SJT
+CIO,$CIO
+PSQH,$PSQH
+SMHI,$SMHI
+BHR,$BHR
+DLNG,$DLNG
+EQC,$EQC
+CCRD,$CCRD
+ADCT,$ADCT
+AXR,$AXR
+NVRO,$NVRO
+CLPR,$CLPR
+MED,$MED
+CBNA,$CBNA
+MDV,$MDV
+MX,$MX
+CHGG,$CHGG
+TSE,$TSE
+BW,$BW
+PHX,$PHX
+SPCE,$SPCE
+GPMT,$GPMT
+AMWL,$AMWL
+AVD,$AVD
+TSQ,$TSQ
+WBX,$WBX
+FRGE,$FRGE
+CMCM,$CMCM
+CRNG,$CRNG
+LFT,$LFT
+RPT,$RPT
+ACR,$ACR
+WHG,$WHG
+ANRO,$ANRO
+TLYS,$TLYS
+GCTS,$GCTS
+SRL,$SRL
+UFI,$UFI
+OCFT,$OCFT
+SKLZ,$SKLZ
+DHX,$DHX
+CHMI,$CHMI
+DTC,$DTC
+RBOT,$RBOT
+IH,$IH
+VOC,$VOC
+CNF,$CNF
+STG,$STG
+SQNS,$SQNS
+OPAD,$OPAD
+DM,$DM
+CATO,$CATO
+TISI,$TISI
+MKFG,$MKFG
+ANVS,$ANVS
+CULP,$CULP
+OWLT,$OWLT
+VATE,$VATE
+GWH,$GWH
+AMTD,$AMTD
+CRT,$CRT
+NEUE,$NEUE
+SRFM,$SRFM
+BGSF,$BGSF
+SST,$SST
+NTZ,$NTZ
+GEC,$GEC
+SPRU,$SPRU
+AP,$AP
+GROV,$GROV
+PVL,$PVL
+AHT,$AHT
+BEDU,$BEDU
+PRT,$PRT
+RFL,$RFL
+NRT,$NRT
+ZEPP,$ZEPP
+BODI,$BODI
+VNCE,$VNCE
+VHC,$VHC
+ENZ,$ENZ
+BTCM,$BTCM
+LICY,$LICY
+FENG,$FENG
+KUKE,$KUKE
+LITB,$LITB
+FEDU,$FEDU
+MOGU,$MOGU
+CCM,$CCM
+LOCL,$LOCL
+PNST,$PNST
+EQS,$EQS
+XIN,$XIN
+MTR,$MTR
+ENFY,$ENFY
+BPT,$BPT
+ALUR,$ALUR
