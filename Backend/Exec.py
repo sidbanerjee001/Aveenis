@@ -125,7 +125,7 @@ def run():
     map1 = run_reddit_scrape()
     map1 = { key.replace('$', ''): value for key, value in map1.items() }
     
-    # run_stocktwits_scrape()
+    run_stocktwits_scrape()
     map2 = load_joblib("supervised_results.joblib")
 
     # Debug: check data types
