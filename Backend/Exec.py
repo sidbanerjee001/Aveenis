@@ -136,12 +136,8 @@ def run():
     
     map1 = run_reddit_scrape()
     map1 = { key.replace('$', ''): value for key, value in map1.items() }
-<<<<<<< HEAD
-    # run_stocktwits_scrape()
-=======
     
     run_stocktwits_scrape()
->>>>>>> d7d8fc0fa33d8da7a6717d925e84cf93b97a2759
     map2 = load_joblib("supervised_results.joblib")
 
     # Combine results
