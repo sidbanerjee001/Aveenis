@@ -18,7 +18,8 @@ const supabase = createClient(
 export type DataPoint = {
     ticker: string;
     dataToday: Array<any>;
-    dataHistory: Array<any>;
+    stock_price: number;
+    market_cap: number;
     score: number;
 }
 
@@ -33,24 +34,25 @@ const columns = [
         sortingFn: 'text',
     }),
     columnHelper.accessor('score', {
-        header: () => 'Score',
+        header: () => 'Popularity Score',
+        cell: (info) => info.getValue(),
+        sortingFn: 'alphanumeric',
+        invertSorting: true
+    }),
+    columnHelper.accessor('stock_price', {
+        header: () => 'Stock Price',
+        cell: (info) => info.getValue(),
+        sortingFn: 'alphanumeric',
+        // sortingFn: (rowA, rowB, columnId) => {
+        //     return parseFloat(rowB.getValue(columnId)) - parseFloat(rowA.getValue(columnId));
+        // },
+    }),columnHelper.accessor('market_cap', {
+        header: () => 'Market Cap',
         cell: (info) => info.getValue(),
         sortingFn: 'alphanumeric',
         invertSorting: true
     })
-    // columnHelper.accessor('iv', {
-    //     header: () => 'IV',
-    //     cell: (info) => info.getValue(),
-    //     sortingFn: 'alphanumeric',
-    //     // sortingFn: (rowA, rowB, columnId) => {
-    //     //     return parseFloat(rowB.getValue(columnId)) - parseFloat(rowA.getValue(columnId));
-    //     // },
-    // }),columnHelper.accessor('pop_change', {
-    //     header: () => 'Popularity Change (1D)',
-    //     cell: (info) => info.getValue(),
-    //     sortingFn: 'alphanumeric',
-    //     invertSorting: true
-    // }),columnHelper.accessor('accel', {
+    // ,columnHelper.accessor('accel', {
     //     header: () => 'Acceleration (1D)',
     //     cell: (info) => info.getValue(),
     //     sortingFn: 'alphanumeric',
@@ -74,15 +76,6 @@ const columns = [
 ]
 
 export default function DataTable() {
-
-    // {tickerName: 'av1', stat1: '4,569', stat2: '-3.42', stat3: '90.53%'},
-    // {tickerName: 'av2', stat1: '2,167', stat2: '+1.24', stat3: '14.29%'},
-    // {tickerName: 'av3', stat1: '8,513', stat2: '+2.34', stat3: '13.53%'},
-    // {tickerName: 'av4', stat1: '5,564', stat2: '+5.23', stat3: '21.31%'},
-    // {tickerName: 'av5', stat1: '4,262', stat2: '-5.34', stat3: '67.53%'},
-    // {tickerName: 'av6', stat1: '2,540', stat2: '+8.79', stat3: '42.61%'},
-    // {tickerName: 'av7', stat1: '1,265', stat2: '-9.65', stat3: '21.72%'},
-    
 
     const [data, setData] = useState<DataPoint[]>([]);
     const [columnFilters, setColumnFilters] = useState('');
@@ -128,8 +121,8 @@ export default function DataTable() {
             //     return;
             // }
             const { data, error } = await supabase
-                .from('final_db')
-                .select('stock_ticker, data');
+                .from('full_data_with_accel')
+                .select('ticker, stock_price, market_cap, daily_score');
     
             if(error) {
                 console.log(error.message)
@@ -138,13 +131,15 @@ export default function DataTable() {
             }
     
             const dataFormatted: DataPoint[] = data.map(row => {
-                const parsedData = JSON.parse(row.data);
-                const dataTodayArray = parsedData.data_today;
+                const daily_score = JSON.parse(row.daily_score);
+                const market_cap_formatted = JSON.parse(row.market_cap).map((num: number) => +(num / 1e9).toFixed(2));
                 return {
-                    ticker: row.stock_ticker,
-                    dataToday: dataTodayArray,
-                    dataHistory: parsedData.data_history,
-                    score: dataTodayArray[dataTodayArray.length - 1]
+                    ticker: row.ticker,
+                    dataToday: daily_score,
+                    score: daily_score,
+                    stock_price: Number(JSON.parse(row.stock_price).at(-1).toFixed(2)),
+                    market_cap: market_cap_formatted.at(-1)
+                    // Additional table data appended here
                 }
             });
             
@@ -206,11 +201,12 @@ export default function DataTable() {
             return (
                 <th key={cell.id} className={"table-entry text-left"}>
                     <div className={"flex flex-row items-center gap-x-1"}>
-                        {((cell.id as string).includes("stock_price") ? "$" : "")}
+                        {(((cell.id as string).includes("stock_price") || (cell.id as string).includes("market_cap"))? "$" : "")}
                         {flexRender(
                             cell.column.columnDef.cell,
                             cell.getContext())
                         }
+                        {((cell.id as string).includes("market_cap") ? "B" : "")}
                     </div>
                 </th>
             )

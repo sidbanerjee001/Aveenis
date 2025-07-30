@@ -47,7 +47,7 @@ const Chart: React.FC<ChartParams> = ({ ticker = "INVALID" }) => {
         const { data: supabaseData, error } = await supabase
           .from("final_db")
           .select("stock_ticker, data")
-          .eq("stock_ticker", ticker);
+          .eq("stock_ticker", ticker.toUpperCase());
 
         if (error) throw error;
 
