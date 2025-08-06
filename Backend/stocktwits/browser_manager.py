@@ -52,12 +52,12 @@ class BrowserManager:
         options.use_chromium = True
         if self.headless:
             options.add_argument("--headless")
-        # options.add_argument("--disable-gpu")
-        # options.add_argument("--no-sandbox")
-        # options.add_argument("--disable-dev-shm-usage")
-        # options.add_argument("--disable-setuid-sandbox")
-        # options.add_argument("--disable-extensions")
-        # options.add_argument("--disable-plugins")
+        options.add_argument("--disable-gpu")
+        options.add_argument("--no-sandbox")
+        options.add_argument("--disable-dev-shm-usage")
+        options.add_argument("--disable-setuid-sandbox")
+        options.add_argument("--disable-extensions")
+        options.add_argument("--disable-plugins")
         options.page_load_strategy = self.page_load_strategy
         options.binary_location = "/usr/bin/microsoft-edge"
         
