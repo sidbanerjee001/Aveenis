@@ -180,22 +180,12 @@ def estimation_for_empty_hours(ticker_data):
 ### (also look into stocktwits feed settings once completed)
 def run():
     # Perform scraping
-    # Load results
-    
-    # Debug:
-    # with open("ex_reddit.txt", 'r') as file:
-    #     text = file.read()
-    # map1 = eval(text)
     
     map1 = {} # run_reddit_scrape()
-    # map1 = { key.replace('$', ''): value for key, value in map1.items() }
-    
+    map1 = { key.replace('$', ''): value for key, value in map1.items() }   
     run_stocktwits_scrape()
     map2 = load_joblib("supervised_results.joblib")
 
-    print(map2)
-    
-    exit()
     # Combine results
     flattened = [(ticker, (int(values[0]), int(values[1]))) for ticker, values in map1.items()]
     flattened.extend([(ticker, (int(values['total_likes']), int(values["total_mentions"]))) for ticker, values in map2.items() if isinstance(values, dict)])
