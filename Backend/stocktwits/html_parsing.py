@@ -24,6 +24,7 @@ class PostMetrics:
     total_mentions: int
     total_likes: int
     ticker: str
+    reached_target_date: bool = False  # True if scraping reached the target date
 
 
 class StockTwitsHTMLParser:
@@ -102,7 +103,7 @@ class StockTwitsHTMLParser:
             self.logger.error(f"Error checking earliest post date: {e}")
             return False
     
-    def parse_posts_to_metrics(self, html: str, ticker: str, target_datetime: datetime) -> PostMetrics:
+    def parse_posts_to_metrics(self, html: str, ticker: str, target_datetime: datetime, reached_target_date: bool = False) -> PostMetrics:
         soup = BeautifulSoup(html, 'html.parser')
         
         # Find all post containers
@@ -115,7 +116,8 @@ class StockTwitsHTMLParser:
                 likes=[0] * 24,
                 total_mentions=0,
                 total_likes=0,
-                ticker=ticker
+                ticker=ticker,
+                reached_target_date=reached_target_date
             )
         
         # Initialize hourly arrays
@@ -149,7 +151,8 @@ class StockTwitsHTMLParser:
             likes=hourly_likes,
             total_mentions=total_mentions,
             total_likes=total_likes,
-            ticker=ticker
+            ticker=ticker,
+            reached_target_date=reached_target_date
         )
     
     def parse_posts_to_list(self, html: str, ticker: str, target_datetime: datetime) -> List[PostData]:

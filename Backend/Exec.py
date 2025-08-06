@@ -43,7 +43,7 @@ def update_ticker(ticker, datas, supabase_client, database_name="full_data_with_
         iv_total_full[0] = datas["wiv"]
         scores = [0] * 30
         scores[0] = datas['daily_score']
-
+        
         # Prepare the data to insert, including the ticker
         data_with_ticker = {
             "ticker": ticker,
@@ -55,6 +55,7 @@ def update_ticker(ticker, datas, supabase_client, database_name="full_data_with_
             "market_cap": json.dumps(datas["market_cap"]),
             "wiv": json.dumps(iv_total_full),
             "daily_score": json.dumps(datas['daily_score']),
+            "daily_scores": json.dumps(scores),
             "daily_scores_acceleration": json.dumps([0] * 30)
         }
         supabase_client.table(database_name).insert(data_with_ticker).execute()
@@ -93,6 +94,7 @@ def update_ticker(ticker, datas, supabase_client, database_name="full_data_with_
             "market_cap": json.dumps(datas["market_cap"]),
             "wiv": json.dumps(old_wiv),
             "daily_score": json.dumps(datas['daily_score']),
+            "daily_scores": json.dumps(old_daily_scores),
             "daily_scores_acceleration": json.dumps(old_daily_scores_accel)
         }).eq("ticker", ticker).execute()
 
@@ -125,6 +127,57 @@ def run_stocktwits_scrape():
     
     return 0
 
+def estimation_for_empty_hours(ticker_data):
+    ## should probably have done with numpy
+    
+    map_stocktwits = load_joblib("supervised_results.joblib")
+    
+    stocktwits_total_hourly_traffic = [0] * 24
+    stocktwits_total_hourly_likes = [0] * 24
+    for ticker, data in map_stocktwits.items():
+        hours = data["hours"]
+        stocktwits_total_hourly_traffic = [x + y for x, y in zip(stocktwits_total_hourly_traffic, hours)]
+        likes = data["likes"]
+        stocktwits_total_hourly_likes = [x + y for x, y in zip(stocktwits_total_hourly_likes, likes)]
+
+
+    for ticker, data in map_stocktwits.items():
+        if data["reached_target_date"]:
+            continue
+        else:
+            latest_hour = data["latest_post_date"].datetime_object.hour
+            earliest_hour = data["earliest_post_date"].datetime_object.hour
+            # Find all hour indices outside the [earliest_hour, latest_hour] range
+            hours = data["hours"]
+            likes = data["likes"]
+            outside_indices = [i for i in range(len(hours)) if i < earliest_hour or i > latest_hour]
+
+            # Get value of stocktwits_total_hourly_traffic for those indices
+            avg_traffic_total = sum([stocktwits_total_hourly_traffic[i] for i in range(len(hours)) if i >= earliest_hour and i <= latest_hour])/ (latest_hour - earliest_hour + 1)
+            avg_traffic_stock = sum([hours[i] for i in range(len(hours)) if i >= earliest_hour and i <= latest_hour]) / (latest_hour - earliest_hour + 1)
+            
+            # Estimate likes
+            avg_likes_total = sum([stocktwits_total_hourly_likes[i] for i in range(len(likes)) if i >= earliest_hour and i <= latest_hour]) / (latest_hour - earliest_hour + 1)
+            avg_likes_stock = sum([likes[i] for i in range(len(likes)) if i >= earliest_hour and i <= latest_hour]) / (latest_hour - earliest_hour + 1)
+            
+            for i in outside_indices:
+                if hours[i] == 0:
+                    # Estimate the value based on the average traffic
+                    hours[i] = int(stocktwits_total_hourly_traffic[i] * (avg_traffic_stock / avg_traffic_total))
+            
+                if likes[i] == 0:
+                    # Estimate the value based on the average traffic
+                    likes[i] = int(stocktwits_total_hourly_likes[i] * (avg_likes_stock / avg_likes_total))
+
+        map_stocktwits[ticker]["hours"] = hours
+        map_stocktwits[ticker]["likes"] = likes
+    # Save the updated map_stocktwits back to the file
+    with open("supervised_results.joblib", 'wb') as f:
+        joblib.dump(map_stocktwits, f)
+
+
+### For future, modify browser w/ extensions to get rid of loading ads/videos
+### (also look into stocktwits feed settings once completed)
 def run():
     # Perform scraping
     # Load results
@@ -134,12 +187,15 @@ def run():
     #     text = file.read()
     # map1 = eval(text)
     
-    map1 = run_reddit_scrape()
-    map1 = { key.replace('$', ''): value for key, value in map1.items() }
+    map1 = {} # run_reddit_scrape()
+    # map1 = { key.replace('$', ''): value for key, value in map1.items() }
     
     run_stocktwits_scrape()
     map2 = load_joblib("supervised_results.joblib")
 
+    print(map2)
+    
+    exit()
     # Combine results
     flattened = [(ticker, (int(values[0]), int(values[1]))) for ticker, values in map1.items()]
     flattened.extend([(ticker, (int(values['total_likes']), int(values["total_mentions"]))) for ticker, values in map2.items() if isinstance(values, dict)])

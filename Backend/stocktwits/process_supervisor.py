@@ -8,8 +8,8 @@ from dataclasses import dataclass
 from enum import Enum
 from datetime import datetime, timedelta
 
-from stocktwits.stocktwits_scraper import StockTwitsScraper, ScrapingConfig
-from stocktwits.browser_manager import BrowserManager
+from stocktwits_scraper import StockTwitsScraper, ScrapingConfig
+from browser_manager import BrowserManager
 
 
 class ProcessState(Enum):
@@ -155,22 +155,22 @@ class ProcessSupervisor:
     def _monitoring_loop(self) -> None:
         while self.monitor_running and not self.shutdown_requested:
             try:
-                # Start process if not running
+                # Check process health first
+                health = self._check_process_health()
+                
+                # Check if all tickers are completed BEFORE trying to restart
+                if self._all_tickers_completed():
+                    self.logger.info(f"All {len(self.target_tickers)} tickers completed successfully. Stopping monitoring.")
+                    self.shutdown_requested = True
+                    break
+                
+                # Start process if not running (only if not completed)
                 if not self.process or not self.process.is_alive():
                     if self.restart_count >= self.config.max_restarts:
                         self.logger.error(f"Maximum restarts ({self.config.max_restarts}) reached. Stopping monitoring.")
                         break
                     
                     self._start_process()
-                
-                # Check process health
-                health = self._check_process_health()
-                
-                # Check if all tickers are completed
-                if self._all_tickers_completed():
-                    self.logger.info(f"All {len(self.target_tickers)} tickers completed successfully. Stopping monitoring.")
-                    self.shutdown_requested = True
-                    break
                 
                 # Decide if restart is needed
                 if self._should_restart(health):
@@ -410,9 +410,17 @@ class ProcessSupervisor:
     def _all_tickers_completed(self) -> bool:
         """Check if all target tickers have been completed"""
         if not self.target_tickers:
+            self.logger.debug("No target tickers defined, returning False")
             return False
         
-        return self.target_tickers.issubset(self.completed_tickers)
+        completed = self.target_tickers.issubset(self.completed_tickers)
+        if completed:
+            self.logger.info(f"All tickers completed! Target: {sorted(list(self.target_tickers))}, Completed: {sorted(list(self.completed_tickers))}")
+        else:
+            remaining = self.target_tickers - self.completed_tickers
+            self.logger.debug(f"Tickers remaining: {sorted(list(remaining))} (Completed: {len(self.completed_tickers)}/{len(self.target_tickers)})")
+        
+        return completed
     
     def get_remaining_tickers(self) -> set:
         """Get the set of tickers that still need to be processed"""
@@ -449,8 +457,13 @@ def run_supervised_scraping(username: str,
         try:
             with StockTwitsScraper(config=scraping_config, logger=logger) as scraper:
                 if scraper.initialize(username, password):
-                    results = scraper.scrape_tickers(tickers)
-                    scraper.save_results_to_file(results, output_file)
+                    # Check for stop event before starting scraping
+                    if stop_event.is_set():
+                        logger.info("Stop event detected before starting scraping")
+                        return
+                    
+                    # Use immediate saving by passing output_file parameter
+                    results = scraper.scrape_tickers(tickers, output_file=output_file)
                     logger.info("Scraping completed successfully")
                     supervisor.shutdown_requested = True
                 else:
@@ -477,7 +490,7 @@ def run_supervised_scraping(username: str,
                     logger.info(f"All {len(tickers)} tickers completed successfully!")
                     break
                 
-                # Check if maximum restarts reached
+                # Check if maximum restarts reached100
                 if status["restart_count"] >= supervisor.config.max_restarts:
                     logger.error("Maximum restarts reached. Stopping.")
                     break
@@ -505,7 +518,7 @@ if __name__ == "__main__":
     monitoring_config = MonitoringConfig(
         max_file_age=120,
         min_runtime=60,
-        max_restarts=5
+        max_restarts=100
     )
     
     scraping_config = ScrapingConfig(
@@ -513,14 +526,14 @@ if __name__ == "__main__":
         max_retries=2
     )
     
-    with open('tickers.txt', 'r') as f:
-        tickers = [line.strip().lower() for line in f if line.strip()]
+    # with open('tickers.txt', 'r') as f:
+    #     tickers = [line.strip().lower() for line in f if line.strip()]
         
     # Run supervised scraping
     run_supervised_scraping(
         username=os.getenv("STOCK_USER"),
         password=os.getenv("STOCK_PASS"),
-        tickers=tickers,  # This will be monitored for completion
+        tickers= ["AAPL"],
         output_file="supervised_results.joblib",
         monitoring_config=monitoring_config,
         scraping_config=scraping_config

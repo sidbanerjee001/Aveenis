@@ -118,7 +118,7 @@ def create_driver(arguments, DRIVER_PATH):
     }
     options.add_experimental_option("prefs", prefs)
     options.use_chromium = True
-    options.add_argument("--headless")
+    # options.add_argument("--headless")
     options.add_argument("--disable-gpu")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
@@ -371,8 +371,8 @@ def stocktwits_login(driver):
                 return 1
             
             wait = WebDriverWait(driver, 10)
-            wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, "[data-testid='log-in-username']"))).send_keys(os.getenv("STOCK_USER"))
-            wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, "[data-testid='log-in-password']"))).send_keys(os.getenv("STOCK_PASS"))
+            wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, "[data-testid='log-in-username']"))).send_keys("jwealthyxh")
+            wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, "[data-testid='log-in-password']"))).send_keys("JohnPork56!")
             wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, "[data-testid='log-in-submit']"))).click()
             time.sleep(1)
             return 1
@@ -533,7 +533,7 @@ def execute_stocktwits_scrape():
 if __name__ == "__main__":
     config.driver_break = False
 
-    tickers = ["NKE"]
+    tickers = ["AAPL", "TSLA"]
     
     for ticker in tickers:
         print(f"Analyzing StockTwits for {ticker}...")

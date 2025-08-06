@@ -46,18 +46,18 @@ class BrowserManager:
         prefs = {
             "profile.managed_default_content_settings.images": 2  # Block images
         }
-        options.add_experimental_option("prefs", prefs)
+        # options.add_experimental_option("prefs", prefs)
         
         # Browser options
         options.use_chromium = True
         if self.headless:
             options.add_argument("--headless")
-        options.add_argument("--disable-gpu")
-        options.add_argument("--no-sandbox")
-        options.add_argument("--disable-dev-shm-usage")
-        options.add_argument("--disable-setuid-sandbox")
-        options.add_argument("--disable-extensions")
-        options.add_argument("--disable-plugins")
+        # options.add_argument("--disable-gpu")
+        # options.add_argument("--no-sandbox")
+        # options.add_argument("--disable-dev-shm-usage")
+        # options.add_argument("--disable-setuid-sandbox")
+        # options.add_argument("--disable-extensions")
+        # options.add_argument("--disable-plugins")
         options.page_load_strategy = self.page_load_strategy
         options.binary_location = "/usr/bin/microsoft-edge"
         
@@ -113,6 +113,21 @@ class BrowserManager:
                 WebDriverWait(self.driver, self.timeout).until(
                     lambda d: d.execute_script('return document.readyState') == 'complete'
                 )
+                
+                if url != "https://stocktwits.com/signin":
+                    try:
+
+                        element = self.driver.find_element(By.CSS_SELECTOR, '[data-testid="latestTabs-label-Latest"]')
+                        
+                        # Scroll into view
+                        self.driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", element)
+                        # time.sleep(0.5)
+                        element.click()
+                        
+                        self.logger.info("Switched to latest posts")
+                    except Exception as e:
+                        self.logger.error(f"Error switching to latest posts, no latest tab found, scrolling normally.")
+
                 return True
                 
             except TimeoutException:
